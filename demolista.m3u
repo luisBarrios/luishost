@@ -678,373 +678,349 @@ http://relaxplease.xyz:25461/codetv/cinema/11079
 http://relaxplease.xyz:25461/codetv/cinema/11080
 #EXTINF:-1 group-title="24/7",Dragones: Los jinetes de Mema
 http://relaxplease.xyz:25461/codetv/cinema/11081
-#EXTINF:-1,24/7 La Purga
+#EXTINF:-1  group-title="24/7",La Purga
 http://relaxplease.xyz:25461/codetv/cinema/11082
-#EXTINF:-1,24/7 Cirque Du Soleil
+#EXTINF:-1  group-title="24/7",24/7 Cirque Du Soleil
 http://relaxplease.xyz:25461/codetv/cinema/11083
-#EXTINF:-1,24/7 La Casa de Papel
+#EXTINF:-1  group-title="24/7",24/7 La Casa de Papel
 http://relaxplease.xyz:25461/codetv/cinema/11084
-#EXTINF:-1,24/7 PELICULS DE TERROR
+#EXTINF:-1  group-title="24/7",24/7 PELICULS DE TERROR
 http://relaxplease.xyz:25461/codetv/cinema/28621
-#EXTINF:-1,24/7 ALF
+#EXTINF:-1  group-title="24/7",24/7 ALF
 http://relaxplease.xyz:25461/codetv/cinema/28622
-#EXTINF:-1,24/7 DON GATO
+#EXTINF:-1  group-title="24/7",24/7 DON GATO
 http://relaxplease.xyz:25461/codetv/cinema/29420
-#EXTINF:-1,24/7 Hey Arnord
+#EXTINF:-1  group-title="24/7",24/7 Hey Arnord
 http://relaxplease.xyz:25461/codetv/cinema/29771
-#EXTINF:-1,24/7 LOONEY TUNES
+#EXTINF:-1  group-title="24/7",24/7 LOONEY TUNES
 http://relaxplease.xyz:25461/codetv/cinema/30122
-#EXTINF:-1,24/7 HORMIGA ATOMICA
+#EXTINF:-1  group-title="24/7",24/7 HORMIGA ATOMICA
 http://relaxplease.xyz:25461/codetv/cinema/30123
-#EXTINF:-1,24/7 THUNDERCATS
+#EXTINF:-1  group-title="24/7",24/7 THUNDERCATS
 http://relaxplease.xyz:25461/codetv/cinema/30124
-#EXTINF:-1,24/7 DROOPY DOG
+#EXTINF:-1  group-title="24/7",24/7 DROOPY DOG
 http://relaxplease.xyz:25461/codetv/cinema/30126
-#EXTINF:-1,24/7 SUPER SONICOS
+#EXTINF:-1  group-title="24/7",24/7 SUPER SONICOS
 http://relaxplease.xyz:25461/codetv/cinema/30127
-#EXTINF:-1,LOS SIPMPSONS TEMP 1 a 5 
+#EXTINF:-1  group-title="24/7",LOS SIPMPSONS TEMP 1 a 5 
 http://relaxplease.xyz:25461/codetv/cinema/30174
-#EXTINF:-1,LOS SIMPSONS TEMP 6 a 11 
+#EXTINF:-1  group-title="24/7",LOS SIMPSONS TEMP 6 a 11 
 http://relaxplease.xyz:25461/codetv/cinema/30175
-#EXTINF:-1,LOS SIMPSONS TEM 12 a 17 
+#EXTINF:-1  group-title="24/7",LOS SIMPSONS TEM 12 a 17 
 http://relaxplease.xyz:25461/codetv/cinema/30176
-#EXTINF:-1,LOS SIMPSONS TEM 18 a 22 
+#EXTINF:-1  group-title="24/7",LOS SIMPSONS TEM 18 a 22 
 http://relaxplease.xyz:25461/codetv/cinema/30177
-#EXTINF:-1,LOS SIMPSONS TEM 23 a 30 
+#EXTINF:-1  group-title="24/7",LOS SIMPSONS TEM 23 a 30 
 http://relaxplease.xyz:25461/codetv/cinema/30178
-#EXTINF:-1,DIGIMON 24/7 
+#EXTINF:-1  group-title="24/7",DIGIMON 24/7 
 http://relaxplease.xyz:25461/codetv/cinema/30179
-#EXTINF:-1,CANTINFLAS 24/7 
+#EXTINF:-1  group-title="24/7",CANTINFLAS 24/7 
 http://relaxplease.xyz:25461/codetv/cinema/30180
-#EXTINF:-1,24/7 Phineas y Ferb
+#EXTINF:-1  group-title="24/7",24/7 Phineas y Ferb
 http://relaxplease.xyz:25461/codetv/cinema/31194
-#EXTINF:-1,24/7 PELÍCULAS  X-MEN
+#EXTINF:-1  group-title="24/7",24/7 PELÍCULAS  X-MEN
 http://relaxplease.xyz:25461/codetv/cinema/31196
-#EXTINF:-1,24/7 La Rosa de Guadalupe 
+#EXTINF:-1  group-title="24/7",24/7 La Rosa de Guadalupe 
 http://relaxplease.xyz:25461/codetv/cinema/31226
-#EXTINF:-1,24/7 PELICULAS INFANTILES
+#EXTINF:-1  group-title="24/7",24/7 PELICULAS INFANTILES
 http://relaxplease.xyz:25461/codetv/cinema/31437
-#EXTINF:-1,24/7 Los Años Maravillosos 
+#EXTINF:-1  group-title="24/7",24/7 Los Años Maravillosos 
 http://relaxplease.xyz:25461/codetv/cinema/31439
-#EXTINF:-1,24/7 VOLTRON LEONES
+#EXTINF:-1  group-title="24/7",24/7 VOLTRON LEONES
 http://relaxplease.xyz:25461/codetv/cinema/31440
-#EXTINF:-1,24/7 Samurai X
+#EXTINF:-1  group-title="24/7",24/7 Samurai X
 http://relaxplease.xyz:25461/codetv/cinema/31441
-#EXTINF:-1,24/7 PUCCA
+#EXTINF:-1  group-title="24/7",24/7 PUCCA
 http://relaxplease.xyz:25461/codetv/cinema/31442
-#EXTINF:-1,CINE-Universal SD```
+#EXTINF:-1  group-title="Cine",CINE-Universal SD```
 http://relaxplease.xyz:25461/codetv/cinema/28469
-#EXTINF:-1,CINE-TNT HD 1080
+#EXTINF:-1 group-title="Cine",CINE-TNT HD 1080
 http://relaxplease.xyz:25461/codetv/cinema/28485
-#EXTINF:-1,CINE*SyFy SD
+#EXTINF:-1 group-title="Cine",CINE*SyFy SD
 http://relaxplease.xyz:25461/codetv/cinema/28491
-#EXTINF:-1,CINE-SPACE SD
+#EXTINF:-1 group-title="Cine",CINE-SPACE SD
 http://relaxplease.xyz:25461/codetv/cinema/28497
-#EXTINF:-1,CINE-SONY
+#EXTINF:-1 group-title="Cine",CINE-SONY
 http://relaxplease.xyz:25461/codetv/cinema/28499
-#EXTINF:-1,CINE-Paramount SD
+#EXTINF:-1 group-title="Cine",CINE-Paramount SD
 http://relaxplease.xyz:25461/codetv/cinema/28507
-#EXTINF:-1,CINE-HBO XTREAME HD 1080
+#EXTINF:-1 group-title="Premium",CINE-HBO XTREAME HD 1080
 http://relaxplease.xyz:25461/codetv/cinema/28522
-#EXTINF:-1,CINE-HBO XTREAM SD
+#EXTINF:-1 group-title="Premium",CINE-HBO XTREAM SD
 http://relaxplease.xyz:25461/codetv/cinema/28523
-#EXTINF:-1,CINE-HBO Plus SD
+#EXTINF:-1 group-title="Premium",CINE-HBO Plus SD
 http://relaxplease.xyz:25461/codetv/cinema/28539
-#EXTINF:-1,CINE-HBO 2````
+#EXTINF:-1 group-title="Premium",CINE-HBO 2````
 http://relaxplease.xyz:25461/codetv/cinema/28540
-#EXTINF:-1,CINE-HBO 1
+#EXTINF:-1 group-title="Premium",CINE-HBO 1
 http://relaxplease.xyz:25461/codetv/cinema/28543
-#EXTINF:-1,CINE-Golden plus 2
+#EXTINF:-1 group-title="Cine",CINE-Golden plus 2
 http://relaxplease.xyz:25461/codetv/cinema/28547
-#EXTINF:-1,CINE-AXN SD
+#EXTINF:-1 group-title="Cine",CINE-AXN SD
 http://relaxplease.xyz:25461/codetv/cinema/28558
-#EXTINF:-1,CINE-CINECANAL HD 1080
+#EXTINF:-1 group-title="Cine",CINE-CINECANAL HD 1080
 http://relaxplease.xyz:25461/codetv/cinema/28574
-#EXTINF:-1,CINE-AZ CINEMA```
+#EXTINF:-1 group-title="Cine",CINE-AZ CINEMA```
 http://relaxplease.xyz:25461/codetv/cinema/56
-#EXTINF:-1,CINE-CINECANAL HD
+#EXTINF:-1 group-title="Cine",CINE-CINECANAL HD
 http://relaxplease.xyz:25461/codetv/cinema/60
-#EXTINF:-1,CINE-DE PELICULA```
+#EXTINF:-1 group-title="Cine",CINE-DE PELICULA```
 http://relaxplease.xyz:25461/codetv/cinema/63
-#EXTINF:-1,CINE-FOX ACTION HD```
+#EXTINF:-1 group-title="Premium",CINE-FOX ACTION HD```
 http://relaxplease.xyz:25461/codetv/cinema/67
-#EXTINF:-1,CINE-FOX CINEMA````
+#EXTINF:-1 group-title="Premium",CINE-FOX CINEMA````
 http://relaxplease.xyz:25461/codetv/cinema/68
-#EXTINF:-1,CINE-FOX CLASSICS```
+#EXTINF:-1 group-title="Premium",CINE-FOX CLASSICS```
 http://relaxplease.xyz:25461/codetv/cinema/69
-#EXTINF:-1,CINE-UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="Cine",CINE-UNIVERSAL CHANNEL
 http://relaxplease.xyz:25461/codetv/cinema/99
-#EXTINF:-1,CINE-TNT
+#EXTINF:-1 group-title="Cine",CINE-TNT
 http://relaxplease.xyz:25461/codetv/cinema/97
-#EXTINF:-1,TCM```
+#EXTINF:-1 group-title="Cine",TCM```
 http://relaxplease.xyz:25461/codetv/cinema/96
-#EXTINF:-1,CINE-FXM
+#EXTINF:-1 group-title="Cine",CINE-FXM
 http://relaxplease.xyz:25461/codetv/cinema/73
-#EXTINF:-1,GOLDEN
+#EXTINF:-1 group-title="Cine",GOLDEN
 http://relaxplease.xyz:25461/codetv/cinema/75
-#EXTINF:-1,CINE-GOLDEN EDGE
+#EXTINF:-1 group-title="Cine",CINE-GOLDEN EDGE
 http://relaxplease.xyz:25461/codetv/cinema/77
-#EXTINF:-1,CINE-GOLDEN PLUS HD
+#EXTINF:-1 group-title="Cine",CINE-GOLDEN PLUS HD
 http://relaxplease.xyz:25461/codetv/cinema/78
-#EXTINF:-1,CINE-I.SAT```
+#EXTINF:-1 group-title="Cine",CINE-I.SAT```
 http://relaxplease.xyz:25461/codetv/cinema/83
-#EXTINF:-1,CINE-SPACE```
+#EXTINF:-1 group-title="Cine",CINE-SPACE```
 http://relaxplease.xyz:25461/codetv/cinema/88
-#EXTINF:-1,CINE-STUDIO UNIVERSAL
+#EXTINF:-1 group-title="Cine",CINE-STUDIO UNIVERSAL
 http://relaxplease.xyz:25461/codetv/cinema/90
-#EXTINF:-1,SUNDANCE CHANNEL
+#EXTINF:-1 group-title="Cine",SUNDANCE CHANNEL
 http://relaxplease.xyz:25461/codetv/cinema/92
-#EXTINF:-1,CINE-A3 SERIES INTERNATIONAL
+#EXTINF:-1 group-title="Cine",CINE-A3 SERIES INTERNATIONAL
 http://relaxplease.xyz:25461/codetv/cinema/401
-#EXTINF:-1,LAT-HD | A&E
+#EXTINF:-1 group-title="Latino",LAT-HD | A&E
 http://relaxplease.xyz:25461/codetv/cinema/601
-#EXTINF:-1,CINE-HD | AMC
+#EXTINF:-1 group-title="Cine",CINE-HD | AMC
 http://relaxplease.xyz:25461/codetv/cinema/602
-#EXTINF:-1,CINE-HD | Fox Premium Action```
+#EXTINF:-1 group-title="Cine",CINE-HD | Fox Premium Action```
 http://relaxplease.xyz:25461/codetv/cinema/623
-#EXTINF:-1,LAT-HD | Fox Premium Classics
+#EXTINF:-1 group-title="Premium",LAT-HD | Fox Premium Classics
 http://relaxplease.xyz:25461/codetv/cinema/626
-#EXTINF:-1,CINE-HD | HBO Plus
+#EXTINF:-1 group-title="Cine",CINE-HD | HBO Plus
 http://relaxplease.xyz:25461/codetv/cinema/634
-#EXTINF:-1,CINE-HBO Signature
+#EXTINF:-1 group-title="Premium",CINE-HBO Signature
 http://relaxplease.xyz:25461/codetv/cinema/635
-#EXTINF:-1,CINE- FOX FAMILY
+#EXTINF:-1 group-title="Premium",CINE- FOX FAMILY
 http://relaxplease.xyz:25461/codetv/cinema/29412
-#EXTINF:-1,CINE-FOX COMEDY 1080P
+#EXTINF:-1 group-title="Premium",CINE-FOX COMEDY 1080P
 http://relaxplease.xyz:25461/codetv/cinema/29413
-#EXTINF:-1,LA_FHD:Cinema 19 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 19 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31198
-#EXTINF:-1,LA_FHD:Cinema 18 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 18 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31199
-#EXTINF:-1,LA_FHD:Cinema 35 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 35 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31200
-#EXTINF:-1,LA_FHD:Cinema 33 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 33 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31201
-#EXTINF:-1,LA_FHD:Cinema 32 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 32 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31202
-#EXTINF:-1,LA_FHD:Cinema 31 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 31 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31203
-#EXTINF:-1,LA_FHD:Cinema 30 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 30 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31204
-#EXTINF:-1,LA_FHD:Cinema 29 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 29 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31205
-#EXTINF:-1,LA_FHD:Cinema 28 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 28 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31206
-#EXTINF:-1,LA_FHD:Cinema 27 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 27 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31207
-#EXTINF:-1,LA_FHD:Cinema 26 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 26 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31208
-#EXTINF:-1,LA_FHD:Cinema 25 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 25 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31209
-#EXTINF:-1,LA_FHD:Cinema 24 PPV
+#EXTINF:-1 group-title="Latino",LA_FHD:Cinema 24 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31210
 #EXTINF:-1,LA_FHD:Cinema 23 PPV
 http://relaxplease.xyz:25461/codetv/cinema/31211
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 17 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31212
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 16 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31213
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 15 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31214
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 14 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31215
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 13 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31216
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 12 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31217
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 09 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31218
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 08 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31219
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 07 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31220
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 06 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31221
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 05 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31222
-#EXTINF:-1,CINE PREMIUM FHD: Cinema 04 PPV
-http://relaxplease.xyz:25461/codetv/cinema/31223
-#EXTINF:-1,CINE-SERIES```
+#EXTINF:-1 group-title="Cine",CINE-SERIES```
 http://relaxplease.xyz:25461/codetv/cinema/31490
-#EXTINF:-1,CINE-CINEMAX````
+#EXTINF:-1 group-title="Cine",CINE-CINEMAX````
 http://relaxplease.xyz:25461/codetv/cinema/32014
-#EXTINF:-1,CINE: HBO MUNDI
+#EXTINF:-1 group-title="Cine",CINE: HBO MUNDI
 http://relaxplease.xyz:25461/codetv/cinema/33916
-#EXTINF:-1,Cultura-ID SD
+#EXTINF:-1 group-title="Cultura",Cultura-ID SD
 http://relaxplease.xyz:25461/codetv/cinema/28532
-#EXTINF:-1,Cultura-History HD```
+#EXTINF:-1 group-title="Cultura",Cultura-History HD```
 http://relaxplease.xyz:25461/codetv/cinema/28535
-#EXTINF:-1,Cultura-Animal Planet SD
+#EXTINF:-1 group-title="Cultura",Cultura-Animal Planet SD
 http://relaxplease.xyz:25461/codetv/cinema/28560
-#EXTINF:-1,Cultura-DISCOVERY TLC
+#EXTINF:-1 group-title="Cultura",Cultura-DISCOVERY TLC
 http://relaxplease.xyz:25461/codetv/cinema/539
-#EXTINF:-1,H2
+#EXTINF:-1 group-title="Cultura",H2
 http://relaxplease.xyz:25461/codetv/cinema/543
-#EXTINF:-1,Cultura-NATGEO
+#EXTINF:-1 group-title="Cultura",Cultura-NATGEO
 http://relaxplease.xyz:25461/codetv/cinema/546
-#EXTINF:-1,NATGEO WILD
+#EXTINF:-1 group-title="Cultura",NATGEO WILD
 http://relaxplease.xyz:25461/codetv/cinema/547
-#EXTINF:-1,Cultura-CULTURA: DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Cultura",Cultura-CULTURA: DISCOVERY SCIENCE
 http://relaxplease.xyz:25461/codetv/cinema/551
-#EXTINF:-1,NATGEO
+#EXTINF:-1 group-title="Cultura",NATGEO
 http://relaxplease.xyz:25461/codetv/cinema/557
-#EXTINF:-1,H2
+#EXTINF:-1 group-title="Cultura",H2
 http://relaxplease.xyz:25461/codetv/cinema/560
-#EXTINF:-1,CULTURA*H2 SD
+#EXTINF:-1 group-title="Cultura",CULTURA*H2 SD
 http://relaxplease.xyz:25461/codetv/cinema/28544
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Cultura",DISCOVERY SCIENCE
 http://relaxplease.xyz:25461/codetv/cinema/536
-#EXTINF:-1,Cultura-DISCOVERY TURBO S
+#EXTINF:-1 group-title="Cultura",Cultura-DISCOVERY TURBO S
 http://relaxplease.xyz:25461/codetv/cinema/540
-#EXTINF:-1,Cultura-DISCOVERY WORLD S
+#EXTINF:-1 group-title="Cultura",Cultura-DISCOVERY WORLD S
 http://relaxplease.xyz:25461/codetv/cinema/541
-#EXTINF:-1,Cultura-CULTURA: DISCOVERY THEATER
+#EXTINF:-1 group-title="Cultura",Cultura-CULTURA: DISCOVERY THEATER
 http://relaxplease.xyz:25461/codetv/cinema/552
-#EXTINF:-1,Cultura-NATGEO WILD
+#EXTINF:-1 group-title="Cultura",Cultura-NATGEO WILD
 http://relaxplease.xyz:25461/codetv/cinema/558
-#EXTINF:-1,Cultura-FOOD NETWORK
+#EXTINF:-1 group-title="Cultura",Cultura-FOOD NETWORK
 http://relaxplease.xyz:25461/codetv/cinema/554
-#EXTINF:-1,Cultura-CULTURA: DISCOVERY CHANNEL S
+#EXTINF:-1 group-title="Cultura",Cultura-CULTURA: DISCOVERY CHANNEL S
 http://relaxplease.xyz:25461/codetv/cinema/533
-#EXTINF:-1,Cultura-DISCOVERY H&H HD
+#EXTINF:-1 group-title="Cultura",Cultura-DISCOVERY H&H HD
 http://relaxplease.xyz:25461/codetv/cinema/535
-#EXTINF:-1,Cultura-HISTORY HD
+#EXTINF:-1 group-title="Cultura",Cultura-HISTORY HD
 http://relaxplease.xyz:25461/codetv/cinema/544
-#EXTINF:-1,Cultura-INVESTIGATION DISCOVER````
+#EXTINF:-1 group-title="Cultura",Cultura-INVESTIGATION DISCOVER````
 http://relaxplease.xyz:25461/codetv/cinema/545
-#EXTINF:-1,CULTURA: DISCOVERY CIVILIZATION S
+#EXTINF:-1, group-title="Cultura"CULTURA: DISCOVERY CIVILIZATION S
 http://relaxplease.xyz:25461/codetv/cinema/550
-#EXTINF:-1,CULTURA* EL GOURMET SD
+#EXTINF:-1 group-title="Entretenimiento",CULTURA* EL GOURMET SD
 http://relaxplease.xyz:25461/codetv/cinema/29415
-#EXTINF:-1,Deportes-BEIN Sports N````
+#EXTINF:-1 group-title="Deportes",Deportes-BEIN Sports N````
 http://relaxplease.xyz:25461/codetv/cinema/128
-#EXTINF:-1,DEPORTES* TyC Sports Inter
+#EXTINF:-1 group-title="Deportes",DEPORTES* TyC Sports Inter
 http://relaxplease.xyz:25461/codetv/cinema/130
-#EXTINF:-1,Deportes- DIRECTV SPORTS 1
+#EXTINF:-1 group-title="Deportes",Deportes- DIRECTV SPORTS 1
 http://relaxplease.xyz:25461/codetv/cinema/132
-#EXTINF:-1,DEPORTES* FOX Deportes opc 2
+#EXTINF:-1 group-title="Deportes",DEPORTES* FOX Deportes opc 2
 http://relaxplease.xyz:25461/codetv/cinema/133
-#EXTINF:-1,Deportes-Univision Deportes OPC 2
+#EXTINF:-1 group-title="Deportes",Deportes-Univision Deportes OPC 2
 http://relaxplease.xyz:25461/codetv/cinema/134
-#EXTINF:-1,DEPORTES*PX Sports
+#EXTINF:-1 group-title="Deportes",DEPORTES*PX Sports
 http://relaxplease.xyz:25461/codetv/cinema/135
-#EXTINF:-1,DEPORTES* TNT SPORTS HD opc 2
+#EXTINF:-1 group-title="Deportes",DEPORTES* TNT SPORTS HD opc 2
 http://relaxplease.xyz:25461/codetv/cinema/136
-#EXTINF:-1,DEPORTES*TYC SPORTS````
+#EXTINF:-1 group-title="Deportes",DEPORTES*TYC SPORTS````
 http://relaxplease.xyz:25461/codetv/cinema/137
-#EXTINF:-1,Deportes-FOX SPORTS PREMIUM 
+#EXTINF:-1 group-title="Deportes",Deportes-FOX SPORTS PREMIUM 
 http://relaxplease.xyz:25461/codetv/cinema/138
-#EXTINF:-1,Deportes-Gol TV opc 2
+#EXTINF:-1 group-title="Deportes",Deportes-Gol TV opc 2
 http://relaxplease.xyz:25461/codetv/cinema/139
-#EXTINF:-1,DEPORTES*Espn 1 FHD
+#EXTINF:-1 group-title="Deportes",DEPORTES*Espn 1 FHD
 http://relaxplease.xyz:25461/codetv/cinema/140
-#EXTINF:-1,Deportes-Espn 3MX opc 2
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 3MX opc 2
 http://relaxplease.xyz:25461/codetv/cinema/141
-#EXTINF:-1,DEPORTES* Espn 2 MX opc 2
+#EXTINF:-1 group-title="Deportes",DEPORTES* Espn 2 MX opc 2
 http://relaxplease.xyz:25461/codetv/cinema/142
-#EXTINF:-1,DEPORTES*Espn opc 2
+#EXTINF:-1 group-title="Deportes",DEPORTES*Espn opc 2
 http://relaxplease.xyz:25461/codetv/cinema/143
-#EXTINF:-1,Deportes- Espn U MX
+#EXTINF:-1group-title="Deportes",Deportes- Espn U MX
 http://relaxplease.xyz:25461/codetv/cinema/144
 #EXTINF:-1,DEPORTES* Espn Sec Network
 http://relaxplease.xyz:25461/codetv/cinema/145
-#EXTINF:-1,PE | Movistar Deportes
+#EXTINF:-1 group-title="Deportes",PE | Movistar Deportes
 http://relaxplease.xyz:25461/codetv/cinema/147
-#EXTINF:-1,Deportes-Fox Sports 1 MX FHD
+#EXTINF:-1 group-title="Deportes",Deportes-Fox Sports 1 MX FHD
 http://relaxplease.xyz:25461/codetv/cinema/148
-#EXTINF:-1,Deportes-Fox Sports 2 MX HD
+#EXTINF:-1 group-title="Deportes",Deportes-Fox Sports 2 MX HD
 http://relaxplease.xyz:25461/codetv/cinema/149
-#EXTINF:-1,Deportes-Fox Sports 3 MX FHD
+#EXTINF:-1 group-title="Deportes",Deportes-Fox Sports 3 MX FHD
 http://relaxplease.xyz:25461/codetv/cinema/150
-#EXTINF:-1,DEPORTES*Fox Sports 3 Sur FHD
+#EXTINF:-1 group-title="Deportes",DEPORTES*Fox Sports 3 Sur FHD
 http://relaxplease.xyz:25461/codetv/cinema/151
-#EXTINF:-1,DEPORTES*Vamos Bar 720
+#EXTINF:-1 group-title="Deportes",DEPORTES*Vamos Bar 720
 http://relaxplease.xyz:25461/codetv/cinema/152
-#EXTINF:-1,DEPORTES* Real Madrid TV HD
+#EXTINF:-1 group-title="Deportes",DEPORTES* Real Madrid TV HD
 http://relaxplease.xyz:25461/codetv/cinema/153
-#EXTINF:-1,DEPORTES* BARcA TV HD
+#EXTINF:-1 group-title="Deportes",DEPORTES* BARcA TV HD
 http://relaxplease.xyz:25461/codetv/cinema/154
-#EXTINF:-1,DEPORTES*BARcA TV 720
+#EXTINF:-1 group-title="Deportes",DEPORTES*BARcA TV 720
 http://relaxplease.xyz:25461/codetv/cinema/155
-#EXTINF:-1,DEPORTES* Gol TV````
+#EXTINF:-1 group-title="Deportes",DEPORTES* Gol TV````
 http://relaxplease.xyz:25461/codetv/cinema/158
-#EXTINF:-1,DEPORTES* Fox Sports CHILE
+#EXTINF:-1 group-title="Deportes",DEPORTES* Fox Sports CHILE
 http://relaxplease.xyz:25461/codetv/cinema/159
-#EXTINF:-1,DEPORTES*TNT SPORTS ARGENTINA
+#EXTINF:-1 group-title="Deportes",DEPORTES*TNT SPORTS ARGENTINA
 http://relaxplease.xyz:25461/codetv/cinema/160
-#EXTINF:-1,DEPORTES* Univision Deportes
+#EXTINF:-1 group-title="Deportes",DEPORTES* Univision Deportes
 http://relaxplease.xyz:25461/codetv/cinema/162
-#EXTINF:-1,Deportes-CDF BÁSICO 2 HD
+#EXTINF:-1 group-title="Deportes",Deportes-CDF BÁSICO 2 HD
 http://relaxplease.xyz:25461/codetv/cinema/163
-#EXTINF:-1,DEPORTES*DIRECTV SPORTS 2
+#EXTINF:-1 group-title="Deportes",DEPORTES*DIRECTV SPORTS 2
 http://relaxplease.xyz:25461/codetv/cinema/165
-#EXTINF:-1,Deportes-Gol Peru HD
+#EXTINF:-1 group-title="Deportes",Deportes-Gol Peru HD
 http://relaxplease.xyz:25461/codetv/cinema/164
-#EXTINF:-1,Deportes-Fox Sports Sur 1'
+#EXTINF:-1 group-title="Deportes",Deportes-Fox Sports Sur 1'
 http://relaxplease.xyz:25461/codetv/cinema/561
-#EXTINF:-1,Deportes-Fox Sports Sur 2'
+#EXTINF:-1 group-title="Deportes",Deportes-Fox Sports Sur 2'
 http://relaxplease.xyz:25461/codetv/cinema/562
-#EXTINF:-1,Deportes-Fox Sports Sur 3'
+#EXTINF:-1 group-title="Deportes",Deportes-Fox Sports Sur 3'
 http://relaxplease.xyz:25461/codetv/cinema/563
-#EXTINF:-1,DEPORTES*Fox Sports Col'
+#EXTINF:-1 group-title="Deportes",DEPORTES*Fox Sports Col'
 http://relaxplease.xyz:25461/codetv/cinema/564
-#EXTINF:-1,DEPORTES*Fox Sport 1 MX'
+#EXTINF:-1 group-title="Deportes",DEPORTES*Fox Sport 1 MX'
 http://relaxplease.xyz:25461/codetv/cinema/566
-#EXTINF:-1,DEPORTES*Fox Sport 2 MX'
+#EXTINF:-1 group-title="Deportes",DEPORTES*Fox Sport 2 MX'
 http://relaxplease.xyz:25461/codetv/cinema/567
-#EXTINF:-1,Fox Sport 3 MX'
+#EXTINF:-1 group-title="Deportes",Fox Sport 3 MX'
 http://relaxplease.xyz:25461/codetv/cinema/568
-#EXTINF:-1,Deportes-Espn 1 Sur'
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 1 Sur'
 http://relaxplease.xyz:25461/codetv/cinema/569
-#EXTINF:-1,Deportes-Espn 2 Sur'
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 2 Sur'
 http://relaxplease.xyz:25461/codetv/cinema/570
-#EXTINF:-1,Deportes-Espn 1 Mex'
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 1 Mex'
 http://relaxplease.xyz:25461/codetv/cinema/572
-#EXTINF:-1,Deportes-Espn 2 Mex'
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 2 Mex'
 http://relaxplease.xyz:25461/codetv/cinema/573
-#EXTINF:-1,Deportes-Espn 3 Mex'
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 3 Mex'
 http://relaxplease.xyz:25461/codetv/cinema/574
-#EXTINF:-1,Deportes-WIN SPORT +
+#EXTINF:-1 group-title="Deportes",Deportes-WIN SPORT +
 http://relaxplease.xyz:25461/codetv/cinema/10932
-#EXTINF:-1,TUDN
+#EXTINF:-1 group-title="Deportes",TUDN
 http://relaxplease.xyz:25461/codetv/cinema/531
-#EXTINF:-1,Deportes-Espn Plus Sur
+#EXTINF:-1 group-title="Deportes",Deportes-Espn Plus Sur
 http://relaxplease.xyz:25461/codetv/cinema/619
-#EXTINF:-1,MLB BEISBOL
+#EXTINF:-1 group-title="Deportes",MLB BEISBOL
 http://relaxplease.xyz:25461/codetv/cinema/30502
-#EXTINF:-1,UFC FIGHT PASS 
+#EXTINF:-1 group-title="Deportes",UFC FIGHT PASS 
 http://relaxplease.xyz:25461/codetv/cinema/30529
-#EXTINF:-1,IZZI AFICIONADOS 
+#EXTINF:-1 group-title="Deportes",IZZI AFICIONADOS 
 http://relaxplease.xyz:25461/codetv/cinema/30530
-#EXTINF:-1,Deportes-TVC DEPORTES
+#EXTINF:-1 group-title="Deportes",Deportes-TVC DEPORTES
 http://relaxplease.xyz:25461/codetv/cinema/8
-#EXTINF:-1,LAT-HD | Espn 2 Sur
+#EXTINF:-1group-title="Deportes",LAT-HD | Espn 2 Sur
 http://relaxplease.xyz:25461/codetv/cinema/617
-#EXTINF:-1,Deportes-Espn 3 Sur HD
+#EXTINF:-1 group-title="Deportes",Deportes-Espn 3 Sur HD
 http://relaxplease.xyz:25461/codetv/cinema/618
-#EXTINF:-1,DEPORTES: TUDN MEX HD
+#EXTINF:-1 group-title="Deportes",DEPORTES: TUDN MEX HD
 http://relaxplease.xyz:25461/codetv/cinema/30128
-#EXTINF:-1,BEINSPORTS ñ
+#EXTINF:-1 group-title="Deportes",BEINSPORTS ñ
 http://relaxplease.xyz:25461/codetv/cinema/30576
-#EXTINF:-1,BOX NATION
+#EXTINF:-1 group-title="Deportes",BOX NATION
 http://relaxplease.xyz:25461/codetv/cinema/30577
-#EXTINF:-1,CYCLING
+#EXTINF:-1 group-title="Deportes",CYCLING
 http://relaxplease.xyz:25461/codetv/cinema/30582
-#EXTINF:-1,ELEVEN SPORTS
+#EXTINF:-1 group-title="Deportes",ELEVEN SPORTS
 http://relaxplease.xyz:25461/codetv/cinema/30583
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="Deportes",ESPN 2
 http://relaxplease.xyz:25461/codetv/cinema/30585
-#EXTINF:-1,Deportes-ESPN DEPORTES
+#EXTINF:-1 group-title="Deportes",Deportes-ESPN DEPORTES
 http://relaxplease.xyz:25461/codetv/cinema/30586
-#EXTINF:-1,FOX COLLEGE SPORTS ATLANTIC
+#EXTINF:-1 group-title="Deportes",FOX COLLEGE SPORTS ATLANTIC
 http://relaxplease.xyz:25461/codetv/cinema/30589
-#EXTINF:-1,FOX COLLEGE SPORTS CENTRAL
+#EXTINF:-1 group-title="Deportes",FOX COLLEGE SPORTS CENTRAL
 http://relaxplease.xyz:25461/codetv/cinema/30590
-#EXTINF:-1,FOX COLLEGE SPORTS PACIFIC
+#EXTINF:-1 group-title="Deportes",FOX COLLEGE SPORTS PACIFIC
 http://relaxplease.xyz:25461/codetv/cinema/30591
-#EXTINF:-1,FOX DEPORTES
+#EXTINF:-1 group-title="Deportes",FOX DEPORTES
 http://relaxplease.xyz:25461/codetv/cinema/30592
-#EXTINF:-1,FOX SOCCER PLUS
+#EXTINF:-1 group-title="Deportes",FOX SOCCER PLUS
 http://relaxplease.xyz:25461/codetv/cinema/30593
 #EXTINF:-1,FOX SPORTS ARIZONA
 http://relaxplease.xyz:25461/codetv/cinema/30594
