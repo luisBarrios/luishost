@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Guatemala: TN23"
+https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTkxMzIxMjI1LCJzZXNzaW9uIjoiMTgxLjIwOS4yMzMuMTEzIiwid2hpdGVsaXN0IjpbIjE4MS4yMDkuMjMzLjExMyJdfSwic2lnbmF0dXJlIjoiMTg3ZGY1ZWJhZDQzZmY3MGI4ZWVkNDY0ZTYxYjkwMWVlMGI5MDI2MSJ9
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA INTERNACIONAL" tvg-logo="" group-title="ECUADOR",ECUADOR: ECUAVISA INTERNACIONAL
 http://relaxplease.xyz:25461/codetv/cinema/32016
 #EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="ECUADOR",ECU: OROMAR TV
