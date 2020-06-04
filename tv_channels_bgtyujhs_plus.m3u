@@ -153,46 +153,6 @@ http://relaxplease.xyz:25461/codetv/cinema/28527
 http://relaxplease.xyz:25461/codetv/cinema/28528
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA*CLARO MUSICA" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1578499325146-claro-musica_40.png" group-title="MUSICA",MUSICA*CLARO MUSICA
 http://relaxplease.xyz:25461/codetv/cinema/29419
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE ALTERNATIVE USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE ALTERNATIVE USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30153
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE BRITS-HITS USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE BRITS-HITS USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30154
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE DANCE-EDM USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE DANCE-EDM USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30155
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE HIP-HOP-AND-RANDB" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE HIP-HOP-AND-RANDB
-http://relaxplease.xyz:25461/codetv/cinema/30156
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE HIT-LIST USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE HIT-LIST USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30157
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE INDIE USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE INDIE USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30158
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE KIDZ-ONLY USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE KIDZ-ONLY USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30159
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE MEXICANA USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE MEXICANA USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30160
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE MUSICA-URBANA USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE MUSICA-URBANA USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30161
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE POP-AND-COUNTRY USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE POP-AND-COUNTRY USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30162
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE POP-HITS USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE POP-HITS USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30163
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE POP-LATINO USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE POP-LATINO USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30164
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE RANDB-SOUL USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE RANDB-SOUL USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30165
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE RAP-2K USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE RAP-2K USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30166
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE TEEN-BEATS USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE TEEN-BEATS USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30167
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE THROWBACK-JAMZ USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE THROWBACK-JAMZ USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30168
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE TODAYS-COUNTRY USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE TODAYS-COUNTRY USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30169
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE TODDLER-TUNES USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE TODDLER-TUNES USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30170
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE TROPICALES USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE TROPICALES USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30171
-#EXTINF:-1 tvg-id="" tvg-name="MC: MUSIC CHOICE Y2K USA (HQ)" tvg-logo="" group-title="MUSICA",MC: MUSIC CHOICE Y2K USA (HQ)
-http://relaxplease.xyz:25461/codetv/cinema/30172
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA: MTV" tvg-logo="" group-title="MUSICA",MUSICA: MTV
 http://relaxplease.xyz:25461/codetv/cinema/32424
 #EXTINF:-1 tvg-id="" tvg-name="Color Vision 9" tvg-logo="" group-title="REPUBLICA DOMINICANA",Color Vision 9
@@ -1679,8 +1639,6 @@ http://relaxplease.xyz:25461/codetv/cinema/32495
 http://relaxplease.xyz:25461/codetv/cinema/32496
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/640px-Discovery_Turbo_logo.svg.png" group-title="CANALES HD ONDEMAND",Discovery Turbo
 http://relaxplease.xyz:25461/codetv/cinema/32497
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="CANALES HD ONDEMAND",TLC
-http://relaxplease.xyz:25461/codetv/cinema/32498
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/640px-2019_Discovery_logo.svg.png" group-title="CANALES HD ONDEMAND",Discovery
 http://relaxplease.xyz:25461/codetv/cinema/32499
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/640px-H%26h_Logo.svg.png" group-title="CANALES HD ONDEMAND",Discovery Home & Health
@@ -2203,8 +2161,6 @@ http://relaxplease.xyz:25461/codetv/cinema/11020
 http://relaxplease.xyz:25461/codetv/cinema/11021
 #EXTINF:-1 tvg-id="" tvg-name="MC: MTV HITS" tvg-logo="https://www.ipstream.one/picons/de/mtvhits.de.png" group-title="ENTRETENIMIENTO",MC: MTV HITS
 http://relaxplease.xyz:25461/codetv/cinema/11022
-#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: CNN USA S" tvg-logo="https://pbs.twimg.com/profile_images/698975622274494464/_WS109jD_400x400.png" group-title="ENTRETENIMIENTO",NOTICIAS: CNN USA S
-http://relaxplease.xyz:25461/codetv/cinema/11023
 #EXTINF:-1 tvg-id="" tvg-name="NOTICIAS: RT NOTICIAS" tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="ENTRETENIMIENTO",NOTICIAS: RT NOTICIAS
 http://relaxplease.xyz:25461/codetv/cinema/11024
 #EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO* UNIVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/100px-Unicable_logo.svg.png" group-title="ENTRETENIMIENTO",ENTRETENIMIENTO* UNIVISION HD
@@ -2335,8 +2291,6 @@ http://relaxplease.xyz:25461/codetv/cinema/30572
 http://relaxplease.xyz:25461/codetv/cinema/30573
 #EXTINF:-1 tvg-id="" tvg-name="NBC WASHINGTON" tvg-logo="http://158.69.24.110/posters/1513838570283.jpg" group-title="ESTADOS UNIDOS",NBC WASHINGTON
 http://relaxplease.xyz:25461/codetv/cinema/30574
-#EXTINF:-1 tvg-id="" tvg-name="USA" tvg-logo="http://158.69.24.110/posters/1498712054266.jpg" group-title="ESTADOS UNIDOS",USA
-http://relaxplease.xyz:25461/codetv/cinema/30575
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1" tvg-logo="http://158.69.24.110/posters/1509413041150.jpg" group-title="ESTADOS UNIDOS",BT SPORTS 1
 http://relaxplease.xyz:25461/codetv/cinema/30578
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 2" tvg-logo="http://158.69.24.110/posters/1509413079543.jpg" group-title="ESTADOS UNIDOS",BT SPORTS 2
