@@ -185,44 +185,6 @@ http://relaxplease.xyz:25461/codetv/cinema/28478
 http://relaxplease.xyz:25461/codetv/cinema/28562
 #EXTINF:-1 tvg-id="" tvg-name="RD DIGITAL 15" tvg-logo="" group-title="REPUBLICA DOMINICANA",RD DIGITAL 15
 http://relaxplease.xyz:25461/codetv/cinema/30119
-#EXTINF:-1 tvg-id="" tvg-name="ARG| America TV" tvg-logo="" group-title="ARGENTINA",ARG| America TV
-http://relaxplease.xyz:25461/codetv/cinema/1057
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Canal 9" tvg-logo="" group-title="ARGENTINA",ARG| Canal 9
-http://relaxplease.xyz:25461/codetv/cinema/1058
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA* Canal 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="ARGENTINA",ARGENTINA* Canal 13
-http://relaxplease.xyz:25461/codetv/cinema/1059
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Canal 13 HD" tvg-logo="" group-title="ARGENTINA",ARG| Canal 13 HD
-http://relaxplease.xyz:25461/codetv/cinema/1060
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Canal 26" tvg-logo="" group-title="ARGENTINA",ARG| Canal 26
-http://relaxplease.xyz:25461/codetv/cinema/1061
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA* C5N HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="ARGENTINA",ARGENTINA* C5N HD
-http://relaxplease.xyz:25461/codetv/cinema/1062
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Cinear" tvg-logo="" group-title="ARGENTINA",ARG| Cinear
-http://relaxplease.xyz:25461/codetv/cinema/1063
-#EXTINF:-1 tvg-id="" tvg-name="ARG| CN23" tvg-logo="" group-title="ARGENTINA",ARG| CN23
-http://relaxplease.xyz:25461/codetv/cinema/1064
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Ciudad Magazine" tvg-logo="" group-title="ARGENTINA",ARG| Ciudad Magazine
-http://relaxplease.xyz:25461/codetv/cinema/1065
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Cronica TV" tvg-logo="" group-title="ARGENTINA",ARG| Cronica TV
-http://relaxplease.xyz:25461/codetv/cinema/1066
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Encuentro" tvg-logo="" group-title="ARGENTINA",ARG| Encuentro
-http://relaxplease.xyz:25461/codetv/cinema/1068
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Garage TV" tvg-logo="" group-title="ARGENTINA",ARG| Garage TV
-http://relaxplease.xyz:25461/codetv/cinema/1070
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Rural TV" tvg-logo="" group-title="ARGENTINA",ARG| Rural TV
-http://relaxplease.xyz:25461/codetv/cinema/1071
-#EXTINF:-1 tvg-id="" tvg-name="ARG| Telefe SD" tvg-logo="" group-title="ARGENTINA",ARG| Telefe SD
-http://relaxplease.xyz:25461/codetv/cinema/1072
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TELEFE UHD" tvg-logo="" group-title="ARGENTINA",ARG| TELEFE UHD
-http://relaxplease.xyz:25461/codetv/cinema/1073
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TN" tvg-logo="" group-title="ARGENTINA",ARG| TN
-http://relaxplease.xyz:25461/codetv/cinema/1074
-#EXTINF:-1 tvg-id="" tvg-name="ARG| TV Publica" tvg-logo="" group-title="ARGENTINA",ARG| TV Publica
-http://relaxplease.xyz:25461/codetv/cinema/1075
-#EXTINF:-1 tvg-id="" tvg-name="ARGENTINA* Volver TV" tvg-logo="" group-title="ARGENTINA",ARGENTINA* Volver TV
-http://relaxplease.xyz:25461/codetv/cinema/1077
-#EXTINF:-1 tvg-id="" tvg-name="ARG: PAKAPAKA" tvg-logo="" group-title="ARGENTINA",ARG: PAKAPAKA
-http://relaxplease.xyz:25461/codetv/cinema/10935
 #EXTINF:-1 tvg-id="" tvg-name="CR | Canal 13" tvg-logo="" group-title="COSTA RICA",CR | Canal 13
 http://relaxplease.xyz:25461/codetv/cinema/10936
 #EXTINF:-1 tvg-id="" tvg-name="CR | Canal 14 Tv Sur" tvg-logo="" group-title="COSTA RICA",CR | Canal 14 Tv Sur
@@ -801,28 +763,6 @@ http://relaxplease.xyz:25461/codetv/cinema/10909
 http://relaxplease.xyz:25461/codetv/cinema/10910
 #EXTINF:-1 tvg-id="" tvg-name="UY | Canal 6 Durazno" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/canal6uruguay-324x160.png" group-title="URUGUAY",UY | Canal 6 Durazno
 http://relaxplease.xyz:25461/codetv/cinema/10911
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 7 Punta" tvg-logo="http://canal7punta.tv/images/logo.png" group-title="URUGUAY",UY | Canal 7 Punta
-http://relaxplease.xyz:25461/codetv/cinema/10912
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal-M" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/21259/240/default.jpg" group-title="URUGUAY",UY | Canal-M
-http://relaxplease.xyz:25461/codetv/cinema/10913
-#EXTINF:-1 tvg-id="" tvg-name="UY | Cardinal TV" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/37823/240/default.jpg" group-title="URUGUAY",UY | Cardinal TV
-http://relaxplease.xyz:25461/codetv/cinema/10914
-#EXTINF:-1 tvg-id="" tvg-name="UY | Charrua TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URUGUAY",UY | Charrua TV
-http://relaxplease.xyz:25461/codetv/cinema/10915
-#EXTINF:-1 tvg-id="" tvg-name="UY | Florida television color" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/ftc.png" group-title="URUGUAY",UY | Florida television color
-http://relaxplease.xyz:25461/codetv/cinema/10917
-#EXTINF:-1 tvg-id="" tvg-name="UY | Pantalla IMPO" tvg-logo="https://www.impo.com.uy/wp_impo/wp-content/uploads/2015/12/Eventos-1.jpg" group-title="URUGUAY",UY | Pantalla IMPO
-http://relaxplease.xyz:25461/codetv/cinema/10919
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 10 HD" tvg-logo="https://i.pinimg.com/originals/66/e9/06/66e906d27abd2a8378e43c95efabce3b.png" group-title="URUGUAY",UY | Canal 10 HD
-http://relaxplease.xyz:25461/codetv/cinema/10923
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 12 HD" tvg-logo="https://www.uypress.net/imgnoticias/201807/W260/76866.png" group-title="URUGUAY",UY | Canal 12 HD
-http://relaxplease.xyz:25461/codetv/cinema/10925
-#EXTINF:-1 tvg-id="" tvg-name="UY | Canal 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY",UY | Canal 4 HD
-http://relaxplease.xyz:25461/codetv/cinema/10926
-#EXTINF:-1 tvg-id="" tvg-name="UY | VTV HD" tvg-logo="https://www.vtv.com.uy/wp-content/uploads/2016/06/maxresdefault.jpg" group-title="URUGUAY",UY | VTV HD
-http://relaxplease.xyz:25461/codetv/cinema/10927
-#EXTINF:-1 tvg-id="" tvg-name="URUGUAY* VTV PLUS" tvg-logo="https://pbs.twimg.com/profile_images/610526607258705920/ywLtXVDX_400x400.png" group-title="URUGUAY",URUGUAY* VTV PLUS
-http://relaxplease.xyz:25461/codetv/cinema/29772
 #EXTINF:-1 tvg-id="" tvg-name="PANAMA*NEXT TV " tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/pa-nex-tv-canal-21-3964.jpg" group-title="PANAMA",PANAMA*NEXT TV 
 http://relaxplease.xyz:25461/codetv/cinema/10955
 #EXTINF:-1 tvg-id="" tvg-name="PAN| OYE TV PANAMA" tvg-logo="" group-title="PANAMA",PAN| OYE TV PANAMA
