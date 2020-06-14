@@ -1,40 +1,7 @@
 #EXTM3U
+//zutv
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES|BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES",DEPORTES|BEIN  ESP
 http://iptvactivador.online:25461/zutvzutv34/dia10/107
-#EXTINF:-1 tvg-id="" tvg-name="ES | beIN SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA.jpg" group-title="DEPORTES",ES | beIN SPORTS Ñ
-http://iptvactivador.online:25461/zutvzutv34/dia10/459
-#EXTINF:-1 tvg-id="" tvg-name="BEINS SPORT ING." tvg-logo="https://mms.businesswire.com/media/20180926006109/es/680910/23/beINSPORTS.jpg" group-title="DEPORTES",BEINS SPORT ING.
-http://iptvactivador.online:25461/zutvzutv34/dia10/4276
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS ñ" tvg-logo="http://158.69.24.110/posters/1502835598179.jpg" group-title="DEPORTES USA (PRUEBA)",BEINSPORTS ñ
-http://iptvactivador.online:25461/zutvzutv34/dia10/16451
-#EXTINF:-1 tvg-id="FOX SERIES PREMIUM" tvg-name="FOX SERIES PREMIUM" tvg-logo="https://image.tmdb.org/t/p/w300/drQKL4J2mjlXFdYkky4NT9jzsFO.png" group-title="CINEMA Y SERIES ",FOX SERIES PREMIUM
-http://iptvactivador.online:25461/zutvzutv34/dia10/81
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://cdn.mitvstatic.com/channels/mx_fox-movies_m.png" group-title="CINEMA Y SERIES ",FOX MOVIES
-http://iptvactivador.online:25461/zutvzutv34/dia10/82
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="CINEMA Y SERIES ",FOX COMEDY
-http://iptvactivador.online:25461/zutvzutv34/dia10/84
-#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC" tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_classics.jpg" group-title="CINEMA Y SERIES ",FOX CLASSIC
-http://iptvactivador.online:25461/zutvzutv34/dia10/85
-#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="https://i.pinimg.com/originals/f9/55/da/f955da50f5e90461617bc7b79ae39592.png" group-title="CINEMA Y SERIES ",FOX CINEMA
-http://iptvactivador.online:25461/zutvzutv34/dia10/86
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="https://3.bp.blogspot.com/-bcqf5qFKAHE/Vj_VvWcj21I/AAAAAAAAAgo/bx4X7qZrVl8/s320/foxaction.png" group-title="CINEMA Y SERIES ",FOX ACTION
-http://iptvactivador.online:25461/zutvzutv34/dia10/87
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO" tvg-logo="" group-title="LATINOS SD",LAT*HBO
-http://iptvactivador.online:25461/zutvzutv34/dia10/11986
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family" tvg-logo="" group-title="LATINOS SD",LAT*HBO Family
-http://iptvactivador.online:25461/zutvzutv34/dia10/11987
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="CANALES LATINOS  HD",LAT*HBO Family HD
-http://iptvactivador.online:25461/zutvzutv34/dia10/11988
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="CANALES LATINOS  HD",LAT*HBO HD
-http://iptvactivador.online:25461/zutvzutv34/dia10/11989
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus" tvg-logo="" group-title="LATINOS SD",LAT*HBO Plus
-http://iptvactivador.online:25461/zutvzutv34/dia10/11990
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="CANALES LATINOS  HD",LAT*HBO Plus HD
-http://iptvactivador.online:25461/zutvzutv34/dia10/11991
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2" tvg-logo="" group-title="LATINOS SD",LAT*HBO2
-http://iptvactivador.online:25461/zutvzutv34/dia10/11992
-#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="CANALES LATINOS  HD",LAT*HBO2 HD
-http://iptvactivador.online:25461/zutvzutv34/dia10/11993
 
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA INTERNACIONAL" tvg-logo="" group-title="ECUADOR",ECUADOR: ECUAVISA INTERNACIONAL
 http://relaxplease.xyz:25461/codetv/cinema/32016
