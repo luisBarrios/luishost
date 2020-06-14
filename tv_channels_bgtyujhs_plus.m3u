@@ -828,20 +828,6 @@ http://relaxplease.xyz:25461/codetv/cinema/30653
 http://relaxplease.xyz:25461/codetv/cinema/31453
 #EXTINF:-1 tvg-id="" tvg-name="Deportes-FUTV 2" tvg-logo="" group-title="(DEPORTES)",Deportes-FUTV 2
 http://relaxplease.xyz:25461/codetv/cinema/32015
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c785b6a93ac5824646c67f4/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS
-http://relaxplease.xyz:25461/codetv/cinema/32017
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS LA LIGA" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e2ea27311424822526cd/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS LA LIGA
-http://relaxplease.xyz:25461/codetv/cinema/32018
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e697a775d3246996a17d/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS 4
-http://relaxplease.xyz:25461/codetv/cinema/32019
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e67ba775d3246996a17b/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS 5
-http://relaxplease.xyz:25461/codetv/cinema/32020
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6b3a775d3246996a180/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS 6
-http://relaxplease.xyz:25461/codetv/cinema/32021
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6bd9706c6248123eec4/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS 7
-http://relaxplease.xyz:25461/codetv/cinema/32022
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 8" tvg-logo="https://nunchee-fxassets-prod.s3.amazonaws.com/out/5c86e6d5a775d3246996a182/original/square/25.png" group-title="(DEPORTES)",BEIN SPORTS 8
-http://relaxplease.xyz:25461/codetv/cinema/32023
 #EXTINF:-1 tvg-id="" tvg-name="CDF FHD" tvg-logo="https://apprecs.org/ios/images/app-icons/256/44/520848964.jpg" group-title="(DEPORTES)",CDF FHD
 http://relaxplease.xyz:25461/codetv/cinema/33912
 #EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/CDF-Turner_LOGO_2019.jpg" group-title="(DEPORTES)",CDF PREMIUM
