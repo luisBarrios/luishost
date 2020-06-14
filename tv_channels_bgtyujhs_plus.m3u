@@ -1,5 +1,4 @@
 #EXTM3U
-//zutv
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES|BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES",DEPORTES|BEIN  ESP
 http://iptvactivador.online:25461/zutvzutv34/dia10/107
 #EXTINF:-1 tvg-id="" tvg-name="ES | beIN SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA.jpg" group-title="DEPORTES",ES | beIN SPORTS Ñ
@@ -45,12 +44,6 @@ http://iptvactivador.online:25461/zutvzutv34/dia10/11992
 #EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="CANALES LATINOS  HD",LAT*HBO2 HD
 http://iptvactivador.online:25461/zutvzutv34/dia10/11993
 
-
-
-
-
-
-//code tv
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA INTERNACIONAL" tvg-logo="" group-title="ECUADOR",ECUADOR: ECUAVISA INTERNACIONAL
 http://relaxplease.xyz:25461/codetv/cinema/32016
 #EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="ECUADOR",ECU: OROMAR TV
