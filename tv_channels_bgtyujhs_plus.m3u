@@ -1,6 +1,6 @@
 #EXTM3U
 //zutv
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES|BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES",DEPORTES|BEIN  ESP
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES*|BEIN  ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="DEPORTES",DEPORTES|BEIN  ESP
 http://iptvactivador.online:25461/zutvzutv34/dia10/107
 #EXTINF:-1 tvg-id="" tvg-name="ES | beIN SPORTS Ñ" tvg-logo="https://pbs.twimg.com/profile_images/836319515679993856/o21RFHuA.jpg" group-title="DEPORTES",ES | beIN SPORTS Ñ
 http://iptvactivador.online:25461/zutvzutv34/dia10/459
@@ -690,10 +690,6 @@ http://relaxplease.xyz:25461/codetv/cinema/151
 http://relaxplease.xyz:25461/codetv/cinema/152
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES* Real Madrid TV HD" tvg-logo="https://static.iptv-epg.com/es/RealMadridTV.es.png" group-title="(DEPORTES)",DEPORTES* Real Madrid TV HD
 http://relaxplease.xyz:25461/codetv/cinema/153
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* BARcA TV HD" tvg-logo="https://pbs.twimg.com/profile_images/834319413000167424/TE7pW1bV_400x400.jpg" group-title="(DEPORTES)",DEPORTES* BARcA TV HD
-http://relaxplease.xyz:25461/codetv/cinema/154
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES*BARcA TV 720" tvg-logo="https://pbs.twimg.com/profile_images/834319413000167424/TE7pW1bV_400x400.jpg" group-title="(DEPORTES)",DEPORTES*BARcA TV 720
-http://relaxplease.xyz:25461/codetv/cinema/155
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES* Gol TV````" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="(DEPORTES)",DEPORTES* Gol TV````
 http://relaxplease.xyz:25461/codetv/cinema/158
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES* Fox Sports CHILE" tvg-logo="https://pbs.twimg.com/profile_images/732221689849888768/ySfTTqlj_400x400.jpg" group-title="(DEPORTES)",DEPORTES* Fox Sports CHILE
