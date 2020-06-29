@@ -1,4 +1,495 @@
 #EXTM3U
+//premium paquete
+#EXTINF:-1 tvg-id="" tvg-name="Magazine" tvg-logo="" group-title="PAQUETE PREMIUM",Magazine
+http://relaxplease.xyz:25461/codetv/cinema/56028
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="" group-title="PAQUETE PREMIUM",C5N
+http://relaxplease.xyz:25461/codetv/cinema/56029
+#EXTINF:-1 tvg-id="" tvg-name="AmericaTV" tvg-logo="" group-title="PAQUETE PREMIUM",AmericaTV
+http://relaxplease.xyz:25461/codetv/cinema/56030
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="PAQUETE PREMIUM",Space
+http://relaxplease.xyz:25461/codetv/cinema/56031
+#EXTINF:-1 tvg-id="" tvg-name="HBOHD" tvg-logo="" group-title="PAQUETE PREMIUM",HBOHD
+http://relaxplease.xyz:25461/codetv/cinema/56032
+#EXTINF:-1 tvg-id="" tvg-name="TelefeHD" tvg-logo="" group-title="PAQUETE PREMIUM",TelefeHD
+http://relaxplease.xyz:25461/codetv/cinema/56033
+#EXTINF:-1 tvg-id="" tvg-name="TodoNoticias" tvg-logo="" group-title="PAQUETE PREMIUM",TodoNoticias
+http://relaxplease.xyz:25461/codetv/cinema/56034
+#EXTINF:-1 tvg-id="" tvg-name="CartoonNetwork" tvg-logo="" group-title="PAQUETE PREMIUM",CartoonNetwork
+http://relaxplease.xyz:25461/codetv/cinema/56035
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3" tvg-logo="" group-title="PAQUETE PREMIUM",ESPN3
+http://relaxplease.xyz:25461/codetv/cinema/56036
+#EXTINF:-1 tvg-id="" tvg-name="FoxSports" tvg-logo="" group-title="PAQUETE PREMIUM",FoxSports
+http://relaxplease.xyz:25461/codetv/cinema/56037
+#EXTINF:-1 tvg-id="" tvg-name="TyCSport" tvg-logo="" group-title="PAQUETE PREMIUM",TyCSport
+http://relaxplease.xyz:25461/codetv/cinema/56038
+#EXTINF:-1 tvg-id="" tvg-name="ArtearHD" tvg-logo="" group-title="PAQUETE PREMIUM",ArtearHD
+http://relaxplease.xyz:25461/codetv/cinema/56039
+#EXTINF:-1 tvg-id="" tvg-name="Canal9" tvg-logo="" group-title="PAQUETE PREMIUM",Canal9
+http://relaxplease.xyz:25461/codetv/cinema/56040
+#EXTINF:-1 tvg-id="" tvg-name="Canal7" tvg-logo="" group-title="PAQUETE PREMIUM",Canal7
+http://relaxplease.xyz:25461/codetv/cinema/56041
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="PAQUETE PREMIUM",TNT
+http://relaxplease.xyz:25461/codetv/cinema/56042
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="PAQUETE PREMIUM",TruTV
+http://relaxplease.xyz:25461/codetv/cinema/56043
+#EXTINF:-1 tvg-id="" tvg-name="FOXHD" tvg-logo="" group-title="PAQUETE PREMIUM",FOXHD
+http://relaxplease.xyz:25461/codetv/cinema/56044
+#EXTINF:-1 tvg-id="" tvg-name="SonyHD" tvg-logo="" group-title="PAQUETE PREMIUM",SonyHD
+http://relaxplease.xyz:25461/codetv/cinema/56045
+#EXTINF:-1 tvg-id="" tvg-name="AEHD" tvg-logo="" group-title="PAQUETE PREMIUM",AEHD
+http://relaxplease.xyz:25461/codetv/cinema/56046
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="PAQUETE PREMIUM",AMC
+http://relaxplease.xyz:25461/codetv/cinema/56047
+#EXTINF:-1 tvg-id="" tvg-name="America24" tvg-logo="" group-title="PAQUETE PREMIUM",America24
+http://relaxplease.xyz:25461/codetv/cinema/56048
+#EXTINF:-1 tvg-id="" tvg-name="AXNHD" tvg-logo="" group-title="PAQUETE PREMIUM",AXNHD
+http://relaxplease.xyz:25461/codetv/cinema/56049
+#EXTINF:-1 tvg-id="" tvg-name="BabyTV" tvg-logo="" group-title="PAQUETE PREMIUM",BabyTV
+http://relaxplease.xyz:25461/codetv/cinema/56050
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="PAQUETE PREMIUM",Boomerang
+http://relaxplease.xyz:25461/codetv/cinema/56051
+#EXTINF:-1 tvg-id="" tvg-name="CinecanalHD" tvg-logo="" group-title="PAQUETE PREMIUM",CinecanalHD
+http://relaxplease.xyz:25461/codetv/cinema/56052
+#EXTINF:-1 tvg-id="" tvg-name="ComedyCentral" tvg-logo="" group-title="PAQUETE PREMIUM",ComedyCentral
+http://relaxplease.xyz:25461/codetv/cinema/56053
+#EXTINF:-1 tvg-id="" tvg-name="CronicaTV" tvg-logo="" group-title="PAQUETE PREMIUM",CronicaTV
+http://relaxplease.xyz:25461/codetv/cinema/56054
+#EXTINF:-1 tvg-id="" tvg-name="DeporTVHD" tvg-logo="" group-title="PAQUETE PREMIUM",DeporTVHD
+http://relaxplease.xyz:25461/codetv/cinema/56055
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryHD" tvg-logo="" group-title="PAQUETE PREMIUM",DiscoveryHD
+http://relaxplease.xyz:25461/codetv/cinema/56056
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryHomeHealthHD" tvg-logo="" group-title="PAQUETE PREMIUM",DiscoveryHomeHealthHD
+http://relaxplease.xyz:25461/codetv/cinema/56057
+#EXTINF:-1 tvg-id="" tvg-name="DisneyChannelHD" tvg-logo="" group-title="PAQUETE PREMIUM",DisneyChannelHD
+http://relaxplease.xyz:25461/codetv/cinema/56058
+#EXTINF:-1 tvg-id="" tvg-name="DisneyJr" tvg-logo="" group-title="PAQUETE PREMIUM",DisneyJr
+http://relaxplease.xyz:25461/codetv/cinema/56059
+#EXTINF:-1 tvg-id="" tvg-name="DisneyXD" tvg-logo="" group-title="PAQUETE PREMIUM",DisneyXD
+http://relaxplease.xyz:25461/codetv/cinema/56060
+#EXTINF:-1 tvg-id="" tvg-name="ESPN_HD" tvg-logo="" group-title="PAQUETE PREMIUM",ESPN_HD
+http://relaxplease.xyz:25461/codetv/cinema/56061
+#EXTINF:-1 tvg-id="" tvg-name="ESPNHD" tvg-logo="" group-title="PAQUETE PREMIUM",ESPNHD
+http://relaxplease.xyz:25461/codetv/cinema/56062
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2HD" tvg-logo="" group-title="PAQUETE PREMIUM",ESPN2HD
+http://relaxplease.xyz:25461/codetv/cinema/56063
+#EXTINF:-1 tvg-id="" tvg-name="TheFilmZoneHD" tvg-logo="" group-title="PAQUETE PREMIUM",TheFilmZoneHD
+http://relaxplease.xyz:25461/codetv/cinema/56064
+#EXTINF:-1 tvg-id="" tvg-name="FOX1HD" tvg-logo="" group-title="PAQUETE PREMIUM",FOX1HD
+http://relaxplease.xyz:25461/codetv/cinema/56065
+#EXTINF:-1 tvg-id="" tvg-name="FoxActionHD" tvg-logo="" group-title="PAQUETE PREMIUM",FoxActionHD
+http://relaxplease.xyz:25461/codetv/cinema/56066
+#EXTINF:-1 tvg-id="" tvg-name="FoxCinema" tvg-logo="" group-title="PAQUETE PREMIUM",FoxCinema
+http://relaxplease.xyz:25461/codetv/cinema/56067
+#EXTINF:-1 tvg-id="" tvg-name="FoxClassics" tvg-logo="" group-title="PAQUETE PREMIUM",FoxClassics
+http://relaxplease.xyz:25461/codetv/cinema/56068
+#EXTINF:-1 tvg-id="" tvg-name="FoxComedy" tvg-logo="" group-title="PAQUETE PREMIUM",FoxComedy
+http://relaxplease.xyz:25461/codetv/cinema/56069
+#EXTINF:-1 tvg-id="" tvg-name="FoxFamily" tvg-logo="" group-title="PAQUETE PREMIUM",FoxFamily
+http://relaxplease.xyz:25461/codetv/cinema/56070
+#EXTINF:-1 tvg-id="" tvg-name="FoxMoviesHD" tvg-logo="" group-title="PAQUETE PREMIUM",FoxMoviesHD
+http://relaxplease.xyz:25461/codetv/cinema/56071
+#EXTINF:-1 tvg-id="" tvg-name="FoxSports2HD" tvg-logo="" group-title="PAQUETE PREMIUM",FoxSports2HD
+http://relaxplease.xyz:25461/codetv/cinema/56072
+#EXTINF:-1 tvg-id="" tvg-name="FoxSports3HD" tvg-logo="" group-title="PAQUETE PREMIUM",FoxSports3HD
+http://relaxplease.xyz:25461/codetv/cinema/56073
+#EXTINF:-1 tvg-id="" tvg-name="FXHD" tvg-logo="" group-title="PAQUETE PREMIUM",FXHD
+http://relaxplease.xyz:25461/codetv/cinema/56074
+#EXTINF:-1 tvg-id="" tvg-name="Gourmet" tvg-logo="" group-title="PAQUETE PREMIUM",Gourmet
+http://relaxplease.xyz:25461/codetv/cinema/56075
+#EXTINF:-1 tvg-id="" tvg-name="WarnerHD" tvg-logo="" group-title="PAQUETE PREMIUM",WarnerHD
+http://relaxplease.xyz:25461/codetv/cinema/56076
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoWildHD" tvg-logo="" group-title="PAQUETE PREMIUM",NatGeoWildHD
+http://relaxplease.xyz:25461/codetv/cinema/56077
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoHD" tvg-logo="" group-title="PAQUETE PREMIUM",NatGeoHD
+http://relaxplease.xyz:25461/codetv/cinema/56078
+#EXTINF:-1 tvg-id="" tvg-name="HistoryHD" tvg-logo="" group-title="PAQUETE PREMIUM",HistoryHD
+http://relaxplease.xyz:25461/codetv/cinema/56079
+#EXTINF:-1 tvg-id="" tvg-name="TNTSeries" tvg-logo="" group-title="PAQUETE PREMIUM",TNTSeries
+http://relaxplease.xyz:25461/codetv/cinema/56080
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryTurbo" tvg-logo="" group-title="PAQUETE PREMIUM",DiscoveryTurbo
+http://relaxplease.xyz:25461/codetv/cinema/56081
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="PAQUETE PREMIUM",ID
+http://relaxplease.xyz:25461/codetv/cinema/56082
+#EXTINF:-1 tvg-id="" tvg-name="AnimalPlanet" tvg-logo="" group-title="PAQUETE PREMIUM",AnimalPlanet
+http://relaxplease.xyz:25461/codetv/cinema/56083
+#EXTINF:-1 tvg-id="" tvg-name="360_TV" tvg-logo="" group-title="PAQUETE PREMIUM",360_TV
+http://relaxplease.xyz:25461/codetv/cinema/56084
+#EXTINF:-1 tvg-id="" tvg-name="America_Sports" tvg-logo="" group-title="PAQUETE PREMIUM",America_Sports
+http://relaxplease.xyz:25461/codetv/cinema/56085
+#EXTINF:-1 tvg-id="" tvg-name="Argentinisima" tvg-logo="" group-title="PAQUETE PREMIUM",Argentinisima
+http://relaxplease.xyz:25461/codetv/cinema/56086
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="PAQUETE PREMIUM",Bloomberg
+http://relaxplease.xyz:25461/codetv/cinema/56087
+#EXTINF:-1 tvg-id="" tvg-name="Canal_a" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_a
+http://relaxplease.xyz:25461/codetv/cinema/56088
+#EXTINF:-1 tvg-id="" tvg-name="Canal_21" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_21
+http://relaxplease.xyz:25461/codetv/cinema/56089
+#EXTINF:-1 tvg-id="" tvg-name="Cana_de_la_ciudad" tvg-logo="" group-title="PAQUETE PREMIUM",Cana_de_la_ciudad
+http://relaxplease.xyz:25461/codetv/cinema/56090
+#EXTINF:-1 tvg-id="" tvg-name="Canal_de_las_estrellas" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_de_las_estrellas
+http://relaxplease.xyz:25461/codetv/cinema/56091
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Rural" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_Rural
+http://relaxplease.xyz:25461/codetv/cinema/56092
+#EXTINF:-1 tvg-id="" tvg-name="Canal_U" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_U
+http://relaxplease.xyz:25461/codetv/cinema/56093
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="PAQUETE PREMIUM",Cinemax
+http://relaxplease.xyz:25461/codetv/cinema/56094
+#EXTINF:-1 tvg-id="" tvg-name="CM" tvg-logo="" group-title="PAQUETE PREMIUM",CM
+http://relaxplease.xyz:25461/codetv/cinema/56095
+#EXTINF:-1 tvg-id="" tvg-name="CN_23" tvg-logo="" group-title="PAQUETE PREMIUM",CN_23
+http://relaxplease.xyz:25461/codetv/cinema/56096
+#EXTINF:-1 tvg-id="" tvg-name="CNN_en_Espanol" tvg-logo="" group-title="PAQUETE PREMIUM",CNN_en_Espanol
+http://relaxplease.xyz:25461/codetv/cinema/56097
+#EXTINF:-1 tvg-id="" tvg-name="CNN_Internacional" tvg-logo="" group-title="PAQUETE PREMIUM",CNN_Internacional
+http://relaxplease.xyz:25461/codetv/cinema/56098
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_Civilization" tvg-logo="" group-title="PAQUETE PREMIUM",Discovery_Civilization
+http://relaxplease.xyz:25461/codetv/cinema/56099
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_Kids" tvg-logo="" group-title="PAQUETE PREMIUM",Discovery_Kids
+http://relaxplease.xyz:25461/codetv/cinema/56100
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_Science" tvg-logo="" group-title="PAQUETE PREMIUM",Discovery_Science
+http://relaxplease.xyz:25461/codetv/cinema/56101
+#EXTINF:-1 tvg-id="" tvg-name="Discovery_World_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Discovery_World_HD
+http://relaxplease.xyz:25461/codetv/cinema/56102
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="PAQUETE PREMIUM",DW
+http://relaxplease.xyz:25461/codetv/cinema/56103
+#EXTINF:-1 tvg-id="" tvg-name="E_Entertainment_Television" tvg-logo="" group-title="PAQUETE PREMIUM",E_Entertainment_Television
+http://relaxplease.xyz:25461/codetv/cinema/56104
+#EXTINF:-1 tvg-id="" tvg-name="El_Garage" tvg-logo="" group-title="PAQUETE PREMIUM",El_Garage
+http://relaxplease.xyz:25461/codetv/cinema/56105
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="" group-title="PAQUETE PREMIUM",Encuentro
+http://relaxplease.xyz:25461/codetv/cinema/56106
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel" tvg-logo="" group-title="PAQUETE PREMIUM",Eurochannel
+http://relaxplease.xyz:25461/codetv/cinema/56107
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" group-title="PAQUETE PREMIUM",Euronews
+http://relaxplease.xyz:25461/codetv/cinema/56108
+#EXTINF:-1 tvg-id="" tvg-name="Europa_Europa" tvg-logo="" group-title="PAQUETE PREMIUM",Europa_Europa
+http://relaxplease.xyz:25461/codetv/cinema/56109
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="PAQUETE PREMIUM",EWTN
+http://relaxplease.xyz:25461/codetv/cinema/56110
+#EXTINF:-1 tvg-id="" tvg-name="Film_Arts" tvg-logo="" group-title="PAQUETE PREMIUM",Film_Arts
+http://relaxplease.xyz:25461/codetv/cinema/56111
+#EXTINF:-1 tvg-id="" tvg-name="Fox_News" tvg-logo="" group-title="PAQUETE PREMIUM",Fox_News
+http://relaxplease.xyz:25461/codetv/cinema/56112
+#EXTINF:-1 tvg-id="" tvg-name="France_24" tvg-logo="" group-title="PAQUETE PREMIUM",France_24
+http://relaxplease.xyz:25461/codetv/cinema/56113
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="PAQUETE PREMIUM",Glitz
+http://relaxplease.xyz:25461/codetv/cinema/56114
+#EXTINF:-1 tvg-id="" tvg-name="Golf_Channel" tvg-logo="" group-title="PAQUETE PREMIUM",Golf_Channel
+http://relaxplease.xyz:25461/codetv/cinema/56115
+#EXTINF:-1 tvg-id="" tvg-name="Gran_Hermano_24hs" tvg-logo="" group-title="PAQUETE PREMIUM",Gran_Hermano_24hs
+http://relaxplease.xyz:25461/codetv/cinema/56116
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="PAQUETE PREMIUM",HTV
+http://relaxplease.xyz:25461/codetv/cinema/56117
+#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="" group-title="PAQUETE PREMIUM",ISAT
+http://relaxplease.xyz:25461/codetv/cinema/56118
+#EXTINF:-1 tvg-id="" tvg-name="INCAA_Tv" tvg-logo="" group-title="PAQUETE PREMIUM",INCAA_Tv
+http://relaxplease.xyz:25461/codetv/cinema/56119
+#EXTINF:-1 tvg-id="" tvg-name="Mas_Chic" tvg-logo="" group-title="PAQUETE PREMIUM",Mas_Chic
+http://relaxplease.xyz:25461/codetv/cinema/56120
+#EXTINF:-1 tvg-id="" tvg-name="Max_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Max_HD
+http://relaxplease.xyz:25461/codetv/cinema/56121
+#EXTINF:-1 tvg-id="" tvg-name="Max_Prime_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Max_Prime_HD
+http://relaxplease.xyz:25461/codetv/cinema/56122
+#EXTINF:-1 tvg-id="" tvg-name="Metro" tvg-logo="" group-title="PAQUETE PREMIUM",Metro
+http://relaxplease.xyz:25461/codetv/cinema/56123
+#EXTINF:-1 tvg-id="" tvg-name="MTV_HD" tvg-logo="" group-title="PAQUETE PREMIUM",MTV_HD
+http://relaxplease.xyz:25461/codetv/cinema/56124
+#EXTINF:-1 tvg-id="" tvg-name="Much_Music" tvg-logo="" group-title="PAQUETE PREMIUM",Much_Music
+http://relaxplease.xyz:25461/codetv/cinema/56125
+#EXTINF:-1 tvg-id="" tvg-name="Nick_Jr" tvg-logo="" group-title="PAQUETE PREMIUM",Nick_Jr
+http://relaxplease.xyz:25461/codetv/cinema/56126
+#EXTINF:-1 tvg-id="" tvg-name="Nueva_Imagen" tvg-logo="" group-title="PAQUETE PREMIUM",Nueva_Imagen
+http://relaxplease.xyz:25461/codetv/cinema/56127
+#EXTINF:-1 tvg-id="" tvg-name="PAKA_PAKA" tvg-logo="" group-title="PAQUETE PREMIUM",PAKA_PAKA
+http://relaxplease.xyz:25461/codetv/cinema/56128
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="PAQUETE PREMIUM",Paramount
+http://relaxplease.xyz:25461/codetv/cinema/56129
+#EXTINF:-1 tvg-id="" tvg-name="Quiero_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Quiero_HD
+http://relaxplease.xyz:25461/codetv/cinema/56130
+#EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="PAQUETE PREMIUM",RAI
+http://relaxplease.xyz:25461/codetv/cinema/56131
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Norte" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Norte
+http://relaxplease.xyz:25461/codetv/cinema/56132
+#EXTINF:-1 tvg-id="" tvg-name="Studio_Universal" tvg-logo="" group-title="PAQUETE PREMIUM",Studio_Universal
+http://relaxplease.xyz:25461/codetv/cinema/56133
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="PAQUETE PREMIUM",SyFy
+http://relaxplease.xyz:25461/codetv/cinema/56134
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="PAQUETE PREMIUM",TBS
+http://relaxplease.xyz:25461/codetv/cinema/56135
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="PAQUETE PREMIUM",TCM
+http://relaxplease.xyz:25461/codetv/cinema/56136
+#EXTINF:-1 tvg-id="" tvg-name="Telemax" tvg-logo="" group-title="PAQUETE PREMIUM",Telemax
+http://relaxplease.xyz:25461/codetv/cinema/56137
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="" group-title="PAQUETE PREMIUM",Telesur
+http://relaxplease.xyz:25461/codetv/cinema/56138
+#EXTINF:-1 tvg-id="" tvg-name="Theater_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Theater_HD
+http://relaxplease.xyz:25461/codetv/cinema/56139
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="PAQUETE PREMIUM",Tooncast
+http://relaxplease.xyz:25461/codetv/cinema/56140
+#EXTINF:-1 tvg-id="" tvg-name="Tv_Chile" tvg-logo="" group-title="PAQUETE PREMIUM",Tv_Chile
+http://relaxplease.xyz:25461/codetv/cinema/56141
+#EXTINF:-1 tvg-id="" tvg-name="TV_Espana" tvg-logo="" group-title="PAQUETE PREMIUM",TV_Espana
+http://relaxplease.xyz:25461/codetv/cinema/56142
+#EXTINF:-1 tvg-id="" tvg-name="Tv_Galicia" tvg-logo="" group-title="PAQUETE PREMIUM",Tv_Galicia
+http://relaxplease.xyz:25461/codetv/cinema/56143
+#EXTINF:-1 tvg-id="" tvg-name="TV5_Monde" tvg-logo="" group-title="PAQUETE PREMIUM",TV5_Monde
+http://relaxplease.xyz:25461/codetv/cinema/56144
+#EXTINF:-1 tvg-id="" tvg-name="Universal_Channel_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Universal_Channel_HD
+http://relaxplease.xyz:25461/codetv/cinema/56145
+#EXTINF:-1 tvg-id="" tvg-name="Volver" tvg-logo="" group-title="PAQUETE PREMIUM",Volver
+http://relaxplease.xyz:25461/codetv/cinema/56146
+#EXTINF:-1 tvg-id="" tvg-name="WOBI" tvg-logo="" group-title="PAQUETE PREMIUM",WOBI
+http://relaxplease.xyz:25461/codetv/cinema/56147
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="" group-title="PAQUETE PREMIUM",Playboy
+http://relaxplease.xyz:25461/codetv/cinema/56148
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="" group-title="PAQUETE PREMIUM",Sextreme
+http://relaxplease.xyz:25461/codetv/cinema/56149
+#EXTINF:-1 tvg-id="" tvg-name="BBC_World_News" tvg-logo="" group-title="PAQUETE PREMIUM",BBC_World_News
+http://relaxplease.xyz:25461/codetv/cinema/56150
+#EXTINF:-1 tvg-id="" tvg-name="HBO_2" tvg-logo="" group-title="PAQUETE PREMIUM",HBO_2
+http://relaxplease.xyz:25461/codetv/cinema/56151
+#EXTINF:-1 tvg-id="" tvg-name="HBO_Family" tvg-logo="" group-title="PAQUETE PREMIUM",HBO_Family
+http://relaxplease.xyz:25461/codetv/cinema/56152
+#EXTINF:-1 tvg-id="" tvg-name="HBO_Plus" tvg-logo="" group-title="PAQUETE PREMIUM",HBO_Plus
+http://relaxplease.xyz:25461/codetv/cinema/56153
+#EXTINF:-1 tvg-id="" tvg-name="HBO_Signature" tvg-logo="" group-title="PAQUETE PREMIUM",HBO_Signature
+http://relaxplease.xyz:25461/codetv/cinema/56154
+#EXTINF:-1 tvg-id="" tvg-name="Food_Network" tvg-logo="" group-title="PAQUETE PREMIUM",Food_Network
+http://relaxplease.xyz:25461/codetv/cinema/56155
+#EXTINF:-1 tvg-id="" tvg-name="Canal_90" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_90
+http://relaxplease.xyz:25461/codetv/cinema/56156
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="PAQUETE PREMIUM",Arirang
+http://relaxplease.xyz:25461/codetv/cinema/56157
+#EXTINF:-1 tvg-id="" tvg-name="Fox_Life" tvg-logo="" group-title="PAQUETE PREMIUM",Fox_Life
+http://relaxplease.xyz:25461/codetv/cinema/56158
+#EXTINF:-1 tvg-id="" tvg-name="Antena_3" tvg-logo="" group-title="PAQUETE PREMIUM",Antena_3
+http://relaxplease.xyz:25461/codetv/cinema/56159
+#EXTINF:-1 tvg-id="" tvg-name="Senal_Maria" tvg-logo="" group-title="PAQUETE PREMIUM",Senal_Maria
+http://relaxplease.xyz:25461/codetv/cinema/56160
+#EXTINF:-1 tvg-id="" tvg-name="VH1_Megahits" tvg-logo="" group-title="PAQUETE PREMIUM",VH1_Megahits
+http://relaxplease.xyz:25461/codetv/cinema/56161
+#EXTINF:-1 tvg-id="" tvg-name="MTV_Hits" tvg-logo="" group-title="PAQUETE PREMIUM",MTV_Hits
+http://relaxplease.xyz:25461/codetv/cinema/56162
+#EXTINF:-1 tvg-id="" tvg-name="QM_Noticia" tvg-logo="" group-title="PAQUETE PREMIUM",QM_Noticia
+http://relaxplease.xyz:25461/codetv/cinema/56163
+#EXTINF:-1 tvg-id="" tvg-name="Alljazzera" tvg-logo="" group-title="PAQUETE PREMIUM",Alljazzera
+http://relaxplease.xyz:25461/codetv/cinema/56164
+#EXTINF:-1 tvg-id="" tvg-name="26_TV_HD" tvg-logo="" group-title="PAQUETE PREMIUM",26_TV_HD
+http://relaxplease.xyz:25461/codetv/cinema/56165
+#EXTINF:-1 tvg-id="" tvg-name="Sun_Channel" tvg-logo="" group-title="PAQUETE PREMIUM",Sun_Channel
+http://relaxplease.xyz:25461/codetv/cinema/56166
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="PAQUETE PREMIUM",TLC
+http://relaxplease.xyz:25461/codetv/cinema/56167
+#EXTINF:-1 tvg-id="" tvg-name="Turismo_Vision_Argentina" tvg-logo="" group-title="PAQUETE PREMIUM",Turismo_Vision_Argentina
+http://relaxplease.xyz:25461/codetv/cinema/56168
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="PAQUETE PREMIUM",VH1
+http://relaxplease.xyz:25461/codetv/cinema/56169
+#EXTINF:-1 tvg-id="" tvg-name="Somos_La_Plata" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_La_Plata
+http://relaxplease.xyz:25461/codetv/cinema/56170
+#EXTINF:-1 tvg-id="" tvg-name="IP_Platense" tvg-logo="" group-title="PAQUETE PREMIUM",IP_Platense
+http://relaxplease.xyz:25461/codetv/cinema/56171
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Universidad" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_Universidad
+http://relaxplease.xyz:25461/codetv/cinema/56172
+#EXTINF:-1 tvg-id="" tvg-name="La_Nacion" tvg-logo="" group-title="PAQUETE PREMIUM",La_Nacion
+http://relaxplease.xyz:25461/codetv/cinema/56173
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Sur" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Sur
+http://relaxplease.xyz:25461/codetv/cinema/56174
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Oeste" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Oeste
+http://relaxplease.xyz:25461/codetv/cinema/56175
+#EXTINF:-1 tvg-id="" tvg-name="A3_Series" tvg-logo="" group-title="PAQUETE PREMIUM",A3_Series
+http://relaxplease.xyz:25461/codetv/cinema/56176
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="" group-title="PAQUETE PREMIUM",Bandeirantes
+http://relaxplease.xyz:25461/codetv/cinema/56177
+#EXTINF:-1 tvg-id="" tvg-name="Hola_TV" tvg-logo="" group-title="PAQUETE PREMIUM",Hola_TV
+http://relaxplease.xyz:25461/codetv/cinema/56178
+#EXTINF:-1 tvg-id="" tvg-name="INTI" tvg-logo="" group-title="PAQUETE PREMIUM",INTI
+http://relaxplease.xyz:25461/codetv/cinema/56179
+#EXTINF:-1 tvg-id="" tvg-name="Canal_C" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_C
+http://relaxplease.xyz:25461/codetv/cinema/56180
+#EXTINF:-1 tvg-id="" tvg-name="CBA24" tvg-logo="" group-title="PAQUETE PREMIUM",CBA24
+http://relaxplease.xyz:25461/codetv/cinema/56181
+#EXTINF:-1 tvg-id="" tvg-name="Canal_8_CBA" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_8_CBA
+http://relaxplease.xyz:25461/codetv/cinema/56182
+#EXTINF:-1 tvg-id="" tvg-name="Canal_12_CBA" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_12_CBA
+http://relaxplease.xyz:25461/codetv/cinema/56183
+#EXTINF:-1 tvg-id="" tvg-name="Canal10_CBA_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Canal10_CBA_HD
+http://relaxplease.xyz:25461/codetv/cinema/56184
+#EXTINF:-1 tvg-id="" tvg-name="Canal_2_MDQ_LCC" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_2_MDQ_LCC
+http://relaxplease.xyz:25461/codetv/cinema/56185
+#EXTINF:-1 tvg-id="" tvg-name="Telefe_MDQ_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Telefe_MDQ_HD
+http://relaxplease.xyz:25461/codetv/cinema/56186
+#EXTINF:-1 tvg-id="" tvg-name="Canal_10_MDQ" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_10_MDQ
+http://relaxplease.xyz:25461/codetv/cinema/56187
+#EXTINF:-1 tvg-id="" tvg-name="Canal_5_Rosario" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_5_Rosario
+http://relaxplease.xyz:25461/codetv/cinema/56188
+#EXTINF:-1 tvg-id="" tvg-name="Canal_3_Rosario" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_3_Rosario
+http://relaxplease.xyz:25461/codetv/cinema/56189
+#EXTINF:-1 tvg-id="" tvg-name="Somos_STF" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_STF
+http://relaxplease.xyz:25461/codetv/cinema/56190
+#EXTINF:-1 tvg-id="" tvg-name="Canal_9_Parana" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_9_Parana
+http://relaxplease.xyz:25461/codetv/cinema/56191
+#EXTINF:-1 tvg-id="" tvg-name="Canal_13_SFE" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_13_SFE
+http://relaxplease.xyz:25461/codetv/cinema/56192
+#EXTINF:-1 tvg-id="" tvg-name="Show_Sports" tvg-logo="" group-title="PAQUETE PREMIUM",Show_Sports
+http://relaxplease.xyz:25461/codetv/cinema/56193
+#EXTINF:-1 tvg-id="" tvg-name="Placa_OTT" tvg-logo="" group-title="PAQUETE PREMIUM",Placa_OTT
+http://relaxplease.xyz:25461/codetv/cinema/56194
+#EXTINF:-1 tvg-id="" tvg-name="Placa_OTT" tvg-logo="" group-title="PAQUETE PREMIUM",Placa_OTT
+http://relaxplease.xyz:25461/codetv/cinema/56195
+#EXTINF:-1 tvg-id="" tvg-name="Canal_79_MDQ" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_79_MDQ
+http://relaxplease.xyz:25461/codetv/cinema/56196
+#EXTINF:-1 tvg-id="" tvg-name="Max_UP_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Max_UP_HD
+http://relaxplease.xyz:25461/codetv/cinema/56197
+#EXTINF:-1 tvg-id="" tvg-name="5RTV" tvg-logo="" group-title="PAQUETE PREMIUM",5RTV
+http://relaxplease.xyz:25461/codetv/cinema/56198
+#EXTINF:-1 tvg-id="" tvg-name="La_Tele" tvg-logo="" group-title="PAQUETE PREMIUM",La_Tele
+http://relaxplease.xyz:25461/codetv/cinema/56199
+#EXTINF:-1 tvg-id="" tvg-name="Montecarlo" tvg-logo="" group-title="PAQUETE PREMIUM",Montecarlo
+http://relaxplease.xyz:25461/codetv/cinema/56200
+#EXTINF:-1 tvg-id="" tvg-name="La_Tele" tvg-logo="" group-title="PAQUETE PREMIUM",La_Tele
+http://relaxplease.xyz:25461/codetv/cinema/56201
+#EXTINF:-1 tvg-id="" tvg-name="Fox_Sports_Uy" tvg-logo="" group-title="PAQUETE PREMIUM",Fox_Sports_Uy
+http://relaxplease.xyz:25461/codetv/cinema/56202
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Vasco" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_Vasco
+http://relaxplease.xyz:25461/codetv/cinema/56203
+#EXTINF:-1 tvg-id="" tvg-name="Rede_Record" tvg-logo="" group-title="PAQUETE PREMIUM",Rede_Record
+http://relaxplease.xyz:25461/codetv/cinema/56204
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2HD_Uy" tvg-logo="" group-title="PAQUETE PREMIUM",ESPN2HD_Uy
+http://relaxplease.xyz:25461/codetv/cinema/56205
+#EXTINF:-1 tvg-id="" tvg-name="TV_Nacional_Uy" tvg-logo="" group-title="PAQUETE PREMIUM",TV_Nacional_Uy
+http://relaxplease.xyz:25461/codetv/cinema/56206
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo_Kids" tvg-logo="" group-title="PAQUETE PREMIUM",NatGeo_Kids
+http://relaxplease.xyz:25461/codetv/cinema/56207
+#EXTINF:-1 tvg-id="" tvg-name="TNT_Sports_HD" tvg-logo="" group-title="PAQUETE PREMIUM",TNT_Sports_HD
+http://relaxplease.xyz:25461/codetv/cinema/56208
+#EXTINF:-1 tvg-id="" tvg-name="Fox_Sports_Premiun_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Fox_Sports_Premiun_HD
+http://relaxplease.xyz:25461/codetv/cinema/56209
+#EXTINF:-1 tvg-id="" tvg-name="Placa_Futbol" tvg-logo="" group-title="PAQUETE PREMIUM",Placa_Futbol
+http://relaxplease.xyz:25461/codetv/cinema/56210
+#EXTINF:-1 tvg-id="" tvg-name="Placa_Futbol" tvg-logo="" group-title="PAQUETE PREMIUM",Placa_Futbol
+http://relaxplease.xyz:25461/codetv/cinema/56211
+#EXTINF:-1 tvg-id="" tvg-name="Teve_Ciudad" tvg-logo="" group-title="PAQUETE PREMIUM",Teve_Ciudad
+http://relaxplease.xyz:25461/codetv/cinema/56212
+#EXTINF:-1 tvg-id="" tvg-name="Promo_Channel" tvg-logo="" group-title="PAQUETE PREMIUM",Promo_Channel
+http://relaxplease.xyz:25461/codetv/cinema/56213
+#EXTINF:-1 tvg-id="" tvg-name="TyC_Internacional" tvg-logo="" group-title="PAQUETE PREMIUM",TyC_Internacional
+http://relaxplease.xyz:25461/codetv/cinema/56214
+#EXTINF:-1 tvg-id="" tvg-name="France_24" tvg-logo="" group-title="PAQUETE PREMIUM",France_24
+http://relaxplease.xyz:25461/codetv/cinema/56215
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="" group-title="PAQUETE PREMIUM",Pasiones
+http://relaxplease.xyz:25461/codetv/cinema/56216
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Ciudad_MDQ" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_Ciudad_MDQ
+http://relaxplease.xyz:25461/codetv/cinema/56217
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="PAQUETE PREMIUM",Nickelodeon
+http://relaxplease.xyz:25461/codetv/cinema/56218
+#EXTINF:-1 tvg-id="" tvg-name="TNT_HD_Arg" tvg-logo="" group-title="PAQUETE PREMIUM",TNT_HD_Arg
+http://relaxplease.xyz:25461/codetv/cinema/56219
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Rosario" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Rosario
+http://relaxplease.xyz:25461/codetv/cinema/56220
+#EXTINF:-1 tvg-id="" tvg-name="Fox_Spots_2HD_Uy" tvg-logo="" group-title="PAQUETE PREMIUM",Fox_Spots_2HD_Uy
+http://relaxplease.xyz:25461/codetv/cinema/56221
+#EXTINF:-1 tvg-id="" tvg-name="Vorterix" tvg-logo="" group-title="PAQUETE PREMIUM",Vorterix
+http://relaxplease.xyz:25461/codetv/cinema/56222
+#EXTINF:-1 tvg-id="" tvg-name="SIT_HD" tvg-logo="" group-title="PAQUETE PREMIUM",SIT_HD
+http://relaxplease.xyz:25461/codetv/cinema/56223
+#EXTINF:-1 tvg-id="" tvg-name="Artear_Internacional" tvg-logo="" group-title="PAQUETE PREMIUM",Artear_Internacional
+http://relaxplease.xyz:25461/codetv/cinema/56224
+#EXTINF:-1 tvg-id="" tvg-name="Diputados_TV" tvg-logo="" group-title="PAQUETE PREMIUM",Diputados_TV
+http://relaxplease.xyz:25461/codetv/cinema/56225
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo_HD" tvg-logo="" group-title="PAQUETE PREMIUM",Telemundo_HD
+http://relaxplease.xyz:25461/codetv/cinema/56226
+#EXTINF:-1 tvg-id="" tvg-name="AllegroHD" tvg-logo="" group-title="PAQUETE PREMIUM",AllegroHD
+http://relaxplease.xyz:25461/codetv/cinema/56227
+#EXTINF:-1 tvg-id="" tvg-name="Net_TV" tvg-logo="" group-title="PAQUETE PREMIUM",Net_TV
+http://relaxplease.xyz:25461/codetv/cinema/56228
+#EXTINF:-1 tvg-id="" tvg-name="Canal7_Bahia_Blanca" tvg-logo="" group-title="PAQUETE PREMIUM",Canal7_Bahia_Blanca
+http://relaxplease.xyz:25461/codetv/cinema/56229
+#EXTINF:-1 tvg-id="" tvg-name="Canal9_Bahia_Blanca" tvg-logo="" group-title="PAQUETE PREMIUM",Canal9_Bahia_Blanca
+http://relaxplease.xyz:25461/codetv/cinema/56230
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Bahia_Blanca" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Bahia_Blanca
+http://relaxplease.xyz:25461/codetv/cinema/56231
+#EXTINF:-1 tvg-id="" tvg-name="HBOHD_c4" tvg-logo="" group-title="PAQUETE PREMIUM",HBOHD_c4
+http://relaxplease.xyz:25461/codetv/cinema/56232
+#EXTINF:-1 tvg-id="" tvg-name="ESPNHD_c4" tvg-logo="" group-title="PAQUETE PREMIUM",ESPNHD_c4
+http://relaxplease.xyz:25461/codetv/cinema/56233
+#EXTINF:-1 tvg-id="" tvg-name="FoxComedy_c4" tvg-logo="" group-title="PAQUETE PREMIUM",FoxComedy_c4
+http://relaxplease.xyz:25461/codetv/cinema/56234
+#EXTINF:-1 tvg-id="" tvg-name="test_c5" tvg-logo="" group-title="PAQUETE PREMIUM",test_c5
+http://relaxplease.xyz:25461/codetv/cinema/56235
+#EXTINF:-1 tvg-id="" tvg-name="ArtearHDc4" tvg-logo="" group-title="PAQUETE PREMIUM",ArtearHDc4
+http://relaxplease.xyz:25461/codetv/cinema/56236
+#EXTINF:-1 tvg-id="" tvg-name="AEHD_c4" tvg-logo="" group-title="PAQUETE PREMIUM",AEHD_c4
+http://relaxplease.xyz:25461/codetv/cinema/56237
+#EXTINF:-1 tvg-id="" tvg-name="CH8_Tucuman" tvg-logo="" group-title="PAQUETE PREMIUM",CH8_Tucuman
+http://relaxplease.xyz:25461/codetv/cinema/56238
+#EXTINF:-1 tvg-id="" tvg-name="Ch10_Tucuman" tvg-logo="" group-title="PAQUETE PREMIUM",Ch10_Tucuman
+http://relaxplease.xyz:25461/codetv/cinema/56239
+#EXTINF:-1 tvg-id="" tvg-name="ABC_TV_C4" tvg-logo="" group-title="PAQUETE PREMIUM",ABC_TV_C4
+http://relaxplease.xyz:25461/codetv/cinema/56240
+#EXTINF:-1 tvg-id="" tvg-name="SUR_TV_C4" tvg-logo="" group-title="PAQUETE PREMIUM",SUR_TV_C4
+http://relaxplease.xyz:25461/codetv/cinema/56241
+#EXTINF:-1 tvg-id="" tvg-name="LA_TELE_C4" tvg-logo="" group-title="PAQUETE PREMIUM",LA_TELE_C4
+http://relaxplease.xyz:25461/codetv/cinema/56242
+#EXTINF:-1 tvg-id="" tvg-name="C9N_C4" tvg-logo="" group-title="PAQUETE PREMIUM",C9N_C4
+http://relaxplease.xyz:25461/codetv/cinema/56243
+#EXTINF:-1 tvg-id="" tvg-name="RPC_C4" tvg-logo="" group-title="PAQUETE PREMIUM",RPC_C4
+http://relaxplease.xyz:25461/codetv/cinema/56244
+#EXTINF:-1 tvg-id="" tvg-name="PARAVISION_C4" tvg-logo="" group-title="PAQUETE PREMIUM",PARAVISION_C4
+http://relaxplease.xyz:25461/codetv/cinema/56245
+#EXTINF:-1 tvg-id="" tvg-name="SNT_C4" tvg-logo="" group-title="PAQUETE PREMIUM",SNT_C4
+http://relaxplease.xyz:25461/codetv/cinema/56246
+#EXTINF:-1 tvg-id="" tvg-name="NOTICIAS_PY_C4" tvg-logo="" group-title="PAQUETE PREMIUM",NOTICIAS_PY_C4
+http://relaxplease.xyz:25461/codetv/cinema/56247
+#EXTINF:-1 tvg-id="" tvg-name="UNICANAL_C4" tvg-logo="" group-title="PAQUETE PREMIUM",UNICANAL_C4
+http://relaxplease.xyz:25461/codetv/cinema/56248
+#EXTINF:-1 tvg-id="" tvg-name="TELEFUTURO_C4" tvg-logo="" group-title="PAQUETE PREMIUM",TELEFUTURO_C4
+http://relaxplease.xyz:25461/codetv/cinema/56249
+#EXTINF:-1 tvg-id="" tvg-name="Canal4_URU" tvg-logo="" group-title="PAQUETE PREMIUM",Canal4_URU
+http://relaxplease.xyz:25461/codetv/cinema/56250
+#EXTINF:-1 tvg-id="" tvg-name="Canal10_URU" tvg-logo="" group-title="PAQUETE PREMIUM",Canal10_URU
+http://relaxplease.xyz:25461/codetv/cinema/56251
+#EXTINF:-1 tvg-id="" tvg-name="Canal12URU" tvg-logo="" group-title="PAQUETE PREMIUM",Canal12URU
+http://relaxplease.xyz:25461/codetv/cinema/56252
+#EXTINF:-1 tvg-id="" tvg-name="PX_Sports" tvg-logo="" group-title="PAQUETE PREMIUM",PX_Sports
+http://relaxplease.xyz:25461/codetv/cinema/56253
+#EXTINF:-1 tvg-id="" tvg-name="CH_12_Posadas" tvg-logo="" group-title="PAQUETE PREMIUM",CH_12_Posadas
+http://relaxplease.xyz:25461/codetv/cinema/56254
+#EXTINF:-1 tvg-id="" tvg-name="CH_13_Corrientes" tvg-logo="" group-title="PAQUETE PREMIUM",CH_13_Corrientes
+http://relaxplease.xyz:25461/codetv/cinema/56255
+#EXTINF:-1 tvg-id="" tvg-name="CH_9_Resistencia" tvg-logo="" group-title="PAQUETE PREMIUM",CH_9_Resistencia
+http://relaxplease.xyz:25461/codetv/cinema/56256
+#EXTINF:-1 tvg-id="" tvg-name="GEN_TV" tvg-logo="" group-title="PAQUETE PREMIUM",GEN_TV
+http://relaxplease.xyz:25461/codetv/cinema/56257
+#EXTINF:-1 tvg-id="" tvg-name="Canal_PRO" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_PRO
+http://relaxplease.xyz:25461/codetv/cinema/56258
+#EXTINF:-1 tvg-id="" tvg-name="Paraguay_TV" tvg-logo="" group-title="PAQUETE PREMIUM",Paraguay_TV
+http://relaxplease.xyz:25461/codetv/cinema/56259
+#EXTINF:-1 tvg-id="" tvg-name="Telefe_Salta" tvg-logo="" group-title="PAQUETE PREMIUM",Telefe_Salta
+http://relaxplease.xyz:25461/codetv/cinema/56260
+#EXTINF:-1 tvg-id="" tvg-name="Canal_11_Formosa" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_11_Formosa
+http://relaxplease.xyz:25461/codetv/cinema/56261
+#EXTINF:-1 tvg-id="" tvg-name="Canal_3_Formosa" tvg-logo="" group-title="PAQUETE PREMIUM",Canal_3_Formosa
+http://relaxplease.xyz:25461/codetv/cinema/56262
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Salta" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Salta
+http://relaxplease.xyz:25461/codetv/cinema/56263
+#EXTINF:-1 tvg-id="" tvg-name="5_Dias_PY" tvg-logo="" group-title="PAQUETE PREMIUM",5_Dias_PY
+http://relaxplease.xyz:25461/codetv/cinema/56264
+#EXTINF:-1 tvg-id="" tvg-name="Flow_Music_XP" tvg-logo="" group-title="PAQUETE PREMIUM",Flow_Music_XP
+http://relaxplease.xyz:25461/codetv/cinema/56265
+#EXTINF:-1 tvg-id="" tvg-name="Flow_Music_XP_Mosaicos" tvg-logo="" group-title="PAQUETE PREMIUM",Flow_Music_XP_Mosaicos
+http://relaxplease.xyz:25461/codetv/cinema/56266
+#EXTINF:-1 tvg-id="" tvg-name="Flow_Music_XP_Escenario" tvg-logo="" group-title="PAQUETE PREMIUM",Flow_Music_XP_Escenario
+http://relaxplease.xyz:25461/codetv/cinema/56267
+#EXTINF:-1 tvg-id="" tvg-name="Flow_Music_XP_Entrevistas" tvg-logo="" group-title="PAQUETE PREMIUM",Flow_Music_XP_Entrevistas
+http://relaxplease.xyz:25461/codetv/cinema/56268
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Corrientes" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Corrientes
+http://relaxplease.xyz:25461/codetv/cinema/56269
+#EXTINF:-1 tvg-id="" tvg-name="Somos_Posadas" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_Posadas
+http://relaxplease.xyz:25461/codetv/cinema/56270
+#EXTINF:-1 tvg-id="" tvg-name="Somos_El_Valle" tvg-logo="" group-title="PAQUETE PREMIUM",Somos_El_Valle
+http://relaxplease.xyz:25461/codetv/cinema/56271
+
+//codetv
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR: ECUAVISA INTERNACIONAL" tvg-logo="" group-title="ECUADOR",ECUADOR: ECUAVISA INTERNACIONAL
 http://relaxplease.xyz:25461/codetv/cinema/32016
 #EXTINF:-1 tvg-id="" tvg-name="ECU: OROMAR TV" tvg-logo="" group-title="ECUADOR",ECU: OROMAR TV
