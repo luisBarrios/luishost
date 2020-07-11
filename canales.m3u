@@ -1,7 +1,20 @@
 #EXTM3U
 //premium paquete
+#EXTINF:-1 tvg-name="beIN Sports 1 HD" tvg-logo="" group-title="CANAL+",beIN Sports 1 HD
+http://app-powerfhd.shurty.live/live/sup.php?z=111&u=247199944229279&s=922424272749214&id=264&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 1 FR Full HD" tvg-logo="" group-title="CANAL+",beIN Sports 1 FR Full HD
+http://app-powerfhd.shurty.live/live/sup.php?z=111&u=247199944229279&s=922424272749214&id=6989&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 HD" tvg-logo="" group-title="CANAL+",beIN Sports 2 HD
+http://app-powerfhd.shurty.live/live/sup.php?z=111&u=247199944229279&s=922424272749214&id=263&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 2 FR Full HD" tvg-logo="" group-title="CANAL+",beIN Sports 2 FR Full HD
+http://app-powerfhd.shurty.live/live/sup.php?z=111&u=247199944229279&s=922424272749214&id=6988&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 HD" tvg-logo="" group-title="CANAL+",beIN Sports 3 HD
+http://app-powerfhd.shurty.live/live/sup.php?z=111&u=247199944229279&s=922424272749214&id=262&t=live&f=ts
+#EXTINF:-1 tvg-name="beIN Sports 3 FR Full HD" tvg-logo="" group-title="CANAL+",beIN Sports 3 FR Full HD
+http://app-powerfhd.shurty.live/live/sup.php?z=111&u=247199944229279&s=922424272749214&id=6987&t=live&f=ts
 #EXTINF:-1 tvg-id="" tvg-name="directvsports2" tvg-logo="" group-title="TEST",directvsports2
 http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/1
+
 #EXTINF:-1 tvg-id="" tvg-name="directv" tvg-logo="" group-title="TEST",directv
 http://zufreelist.net:8080/yATw4JHqTH/p7TdW1ufJD/2
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="TEST",ESPN2
