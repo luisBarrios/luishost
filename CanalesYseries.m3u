@@ -1,4 +1,27 @@
 //Luis Miguel
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Capitulo 1" group-title="Series",Luis Miguel
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 1
 http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/1.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 2
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/2.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 3
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/3.MP4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 5
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/5.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 6
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/6.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 7
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/7.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 8
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/8.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 9
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/9.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 10
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/10.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 11
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/11.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 12
+http://5.9.79.105/Series/Luis%20Miguel%20la%20serie/Temporada%201/12.mp4
+#EXTINF:-1 group-title="Series",Luis Miguel Capitulo 1
+
+
