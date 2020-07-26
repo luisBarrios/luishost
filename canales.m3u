@@ -1,4 +1,991 @@
 #EXTM3U
+//jalado de zutv
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="LATINOS SD ",A&E
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/54
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="LATINOS SD ",AMC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/55
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="LATINOS SD ",AXN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/56
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="LATINOS SD ",Animal Planet
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/57
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="LATINOS SD ",Antena 3
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/58
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="" group-title="LATINOS SD ",Atres Series
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/59
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="LATINOS SD ",Azcorazon
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/60
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="LATINOS SD ",Azmundo
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/61
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="LATINOS SD ",BBC World
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/62
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="LATINOS SD ",Baby TV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/63
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="LATINOS SD ",Boomerang
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/64
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="" group-title="LATINOS SD ",CLARO SPORTS
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/65
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="" group-title="LATINOS SD ",CONCERT CHANNEL
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/66
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="LATINOS SD ",Canal Claro
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/67
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="LATINOS SD ",Canal del Congreso
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/68
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="LATINOS SD ",Cartoon Network
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/69
+#EXTINF:-1 tvg-id="" tvg-name="Cincomas" tvg-logo="" group-title="LATINOS SD ",Cincomas
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/70
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="LATINOS SD ",Cine Latino
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/71
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="LATINOS SD ",CineCanal
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/72
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="LATINOS SD ",CineMax
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/73
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="LATINOS SD ",Cinema Dinamita
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/74
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="LATINOS SD ",Claro Cinema
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/75
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="" group-title="LATINOS SD ",Claro Musica
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/76
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="LATINOS SD ",Concert Channel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/77
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="LATINOS SD ",Discovery Channel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/78
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="LATINOS SD ",Discovery Civilization
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/79
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="LATINOS SD ",Discovery Home & Health
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/80
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="LATINOS SD ",Discovery Kids
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/81
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="LATINOS SD ",Discovery Science
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/82
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="LATINOS SD ",Discovery Turbo
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/83
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="LATINOS SD ",Disney
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/84
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="LATINOS SD ",Disney JR
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/85
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="LATINOS SD ",Disney XD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/86
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="LATINOS SD ",E!
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/87
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="LATINOS SD ",ESPN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/88
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  +" tvg-logo="" group-title="LATINOS SD ",ESPN  +
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/89
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="" group-title="LATINOS SD ",ESPN 3
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/90
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="" group-title="LATINOS SD ",ESPN2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/91
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="" group-title="LATINOS SD ",EURO Channel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/92
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="LATINOS SD ",EWTN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/93
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="LATINOS SD ",El Gourmet
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/94
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="LATINOS SD ",FOX
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/95
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="LATINOS SD ",FOX COMEDY
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/96
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="LATINOS SD ",FOX LIFE
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/97
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="LATINOS SD ",FOX SERIES
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/98
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="" group-title="LATINOS SD ",FOX Sports 2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/99
+#EXTINF:-1 tvg-id="" tvg-name="FOX+ACT" tvg-logo="" group-title="LATINOS SD ",FOX+ACT
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/100
+#EXTINF:-1 tvg-id="" tvg-name="FOX+CLA" tvg-logo="" group-title="LATINOS SD ",FOX+CLA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/101
+#EXTINF:-1 tvg-id="" tvg-name="FOX+FAM" tvg-logo="" group-title="LATINOS SD ",FOX+FAM
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/102
+#EXTINF:-1 tvg-id="" tvg-name="FOX+MOV" tvg-logo="" group-title="LATINOS SD ",FOX+MOV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/103
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="LATINOS SD ",FUTV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/104
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="LATINOS SD ",FX
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/105
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="" group-title="LATINOS SD ",FX Movies
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/106
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="" group-title="LATINOS SD ",Fashion One
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/107
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="LATINOS SD ",Film & Arts
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/108
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="LATINOS SD ",Fox News
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/109
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3" tvg-logo="" group-title="LATINOS SD ",Fox Sport 3
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/110
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="" group-title="LATINOS SD ",Fox Sports
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/111
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="LATINOS SD ",Golden
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/112
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="LATINOS SD ",Golf Channel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/113
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="LATINOS SD ",H2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/114
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="LATINOS SD ",HBO
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/115
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="LATINOS SD ",HBO Family
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/116
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="LATINOS SD ",HBO Plus
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/117
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="LATINOS SD ",HBO2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/118
+#EXTINF:-1 tvg-id="" tvg-name="Headline News" tvg-logo="" group-title="LATINOS SD ",Headline News
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/119
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="LATINOS SD ",History Channel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/120
+#EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="" group-title="LATINOS SD ",Hola!TV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/121
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="LATINOS SD ",ID
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/122
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="LATINOS SD ",LIFE TIME
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/123
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="LATINOS SD ",MTV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/124
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="LATINOS SD ",MTV Hits
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/125
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="LATINOS SD ",Mas Chic
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/126
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime (Oeste)" tvg-logo="" group-title="LATINOS SD ",Max Prime (Oeste)
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/127
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="LATINOS SD ",Multicinema
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/128
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="" group-title="LATINOS SD ",Multimedios
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/129
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="LATINOS SD ",Multipremier
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/130
+#EXTINF:-1 tvg-id="" tvg-name="NU MUSIC" tvg-logo="" group-title="LATINOS SD ",NU MUSIC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/131
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="LATINOS SD ",Nat Geo Kids
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/132
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="LATINOS SD ",Nat Geo Wild
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/133
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="LATINOS SD ",National Geographic
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/134
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="LATINOS SD ",Nick Jr
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/135
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="LATINOS SD ",Nickelodeon
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/136
+#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="" group-title="LATINOS SD ",PXTV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/137
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="LATINOS SD ",Paramount
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/138
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="LATINOS SD ",SONY
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/139
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="LATINOS SD ",SPACE
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/140
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="LATINOS SD ",Studio Universal
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/141
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="LATINOS SD ",Sun Channel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/142
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="LATINOS SD ",SyFy
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/143
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="LATINOS SD ",TBS
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/144
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="LATINOS SD ",TCM
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/145
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="LATINOS SD ",TLC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/146
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="LATINOS SD ",TNT
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/147
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="LATINOS SD ",TNT Series
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/148
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="LATINOS SD ",Telemundo
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/149
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="LATINOS SD ",Universal
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/150
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="LATINOS SD ",VH1
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/151
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="LATINOS SD ",VH1 Classic
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/152
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="LATINOS SD ",Warner
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/153
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="LATINOS SD ",ZooMoo
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/154
+#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*11 - Repretel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/155
+#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="PAISES SD",LAT*13-Sinart
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/156
+#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="PAISES SD",LAT*29 - VM Latino
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/157
+#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="PAISES SD",LAT*42 - Extra TV 42
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/158
+#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="PAISES SD",LAT*6 - Repretel
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/159
+#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="PAISES SD",LAT*7-Teletica
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/160
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="PAISES SD",LAT*Antena 7- RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/161
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="PAISES SD",LAT*CCN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/162
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="PAISES SD",LAT*CDN2- RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/163
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="PAISES SD",LAT*CDN37 - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/164
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="PAISES SD",LAT*CERTV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/165
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal  21 - ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/166
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 10 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 10 - NIC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/167
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 11 - GUA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/168
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/169
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 12 - NI
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/170
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 13 - PAN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/171
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 13-GUA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/172
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 14 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 14 - NIC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/173
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 19  ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/174
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/175
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - NIC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/176
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 2 - PAN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/177
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 3 - GUA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/178
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/179
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - NIC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/180
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PAISES SD",LAT*Canal 4 - PAN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/181
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/182
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="PAISES SD",LAT*Canal 6 - NI
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/183
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal 7 - GUA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/184
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 8 - NIC" tvg-logo="" group-title="PAISES SD",LAT*Canal 8 - NIC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/185
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Antigua - GUA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/186
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="PAISES SD",LAT*Canal Azteca - GUA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/187
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="PAISES SD",LAT*Digital 15 - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/188
+#EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PAISES SD",LAT*NEXT - PAN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/189
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PAISES SD",LAT*TV  Max - PAN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/190
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="PAISES SD",LAT*TVChile
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/191
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="PAISES SD",LAT*TVE
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/192
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="PAISES SD",LAT*TVM25 -  ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/193
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="PAISES SD",LAT*Tele Antillas - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/194
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="PAISES SD",LAT*TeleMicro - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/195
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="PAISES SD",LAT*Telecentro - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/196
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="PAISES SD",LAT*Telesistema RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/197
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleunion - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/198
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="PAISES SD",LAT*Teleuniverso - RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/199
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="PAISES SD",LAT*Televida RD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/200
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VTV Canal 35 ESA" tvg-logo="" group-title="PAISES SD",LAT*VTV Canal 35 ESA
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/201
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="PAISES SD",LAT*CNN Internacional
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/202
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="PAISES SD",LAT*CNNE
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/203
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/204
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/205
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/206
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/208
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/209
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/212
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/213
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/215
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/216
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/217
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/218
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/219
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: la pelÃ­cula (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYbANSoj6qGTbDkstq9J5Vy8fRF.jpg" group-title="2020",Sonic: la pelÃ­cula (2020)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqmgVUKelFlDasWsdX0SV6c0Fq.jpg" group-title="2020",Bad Boy (2020)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Onward (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHWeWBBOlkPYdlZcjSKeToQvgZg.jpg" group-title="2020",Onward (2020)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la piedra filosofal (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y la piedra filosofal (2001)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el prisionero de Azkaban - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xXJ15VEf7G9GdAuV1dO769yC73.jpg" group-title="Harry Potter",Harry Potter y el prisionero de Azkaban - 2004
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la Orden del FÃ©nix (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5bL1z1ZOAKBkvbOhVQp6GfBv4u.jpg" group-title="Harry Potter",Harry Potter y la Orden del FÃ©nix (2007)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el misterio del prÃ­ncipe (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSb3nNiL6pOEDK34T0U6RKTGzlJ.jpg" group-title="Harry Potter",Harry Potter y el misterio del prÃ­ncipe (2009)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y el cÃ¡liz de fuego (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg" group-title="Harry Potter",Harry Potter y el cÃ¡liz de fuego (2005)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y la cÃ¡mara secreta (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhCfAzeMMg7GyLDT11yVM2i1NPh.jpg" group-title="Harry Potter",Harry Potter y la cÃ¡mara secreta (2002)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 2 (2011)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYyoJ4Yadk0MCBHZPFrgvMDl50o.jpg" group-title="Harry Potter",Harry Potter y las Reliquias de la Muerte - Parte 1 (2010)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="LATINOS HD",LAT*A&E HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/457
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="LATINOS HD",LAT*AMC HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/458
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="LATINOS HD",LAT*AXN HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/459
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="LATINOS HD",LAT*AZ click HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/460
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="LATINOS HD",LAT*Animal Planet HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/461
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CARTOON NT HD" tvg-logo="" group-title="LATINOS HD",LAT*CARTOON NT HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/462
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CINECANAL HD" tvg-logo="" group-title="LATINOS HD",LAT*CINECANAL HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/463
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="LATINOS HD",LAT*Canal Claro HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/464
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Claro Sports HD" tvg-logo="" group-title="LATINOS HD",LAT*Claro Sports HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/465
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="LATINOS HD",LAT*Comedy Central HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/466
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="LATINOS HD",LAT*DHE HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/467
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINOS HD",LAT*DISCOVERY THEATHER HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/468
+#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="LATINOS HD",LAT*E! Entertairment HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/469
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="LATINOS HD",LAT*Europa HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/470
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Action HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/471
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Family HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/472
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/473
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Movies HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/474
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="LATINOS HD",LAT*FOX Series HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/475
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="LATINOS HD",LAT*FX HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/476
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="LATINOS HD",LAT*FX Movies HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/477
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="LATINOS HD",LAT*Film & arts HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/478
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="LATINOS HD",LAT*Golf Channel HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/479
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Family HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/480
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/481
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO Plus HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/482
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="LATINOS HD",LAT*HBO2 HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/483
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="LATINOS HD",LAT*HOLA! TV HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/484
+#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="LATINOS HD",LAT*History HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/485
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Home & Health HD" tvg-logo="" group-title="LATINOS HD",LAT*Home & Health HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/486
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/487
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*MTV SIM HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/488
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="LATINOS HD",LAT*Max Prime HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/489
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick 2 HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/490
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="LATINOS HD",LAT*Nick SIM HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/491
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="LATINOS HD",LAT*SONY HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/492
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="LATINOS HD",LAT*SPACE HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/493
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="LATINOS HD",LAT*Studio Universal HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/494
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SyFy HD" tvg-logo="" group-title="LATINOS HD",LAT*SyFy HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/495
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="LATINOS HD",LAT*TNT HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/496
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="LATINOS HD",LAT*Telemundo HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/497
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="LATINOS HD",LAT*VH1 HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/498
+#EXTINF:-1 tvg-id="" tvg-name="LAT*WARNER HD" tvg-logo="" group-title="LATINOS HD",LAT*WARNER HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/499
+#EXTINF:-1 tvg-id="" tvg-name="Spenser: confidencial (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7lkcv6meB7ueTz3iFFhsmcnEey.jpg" group-title="2020",Spenser: confidencial (2020)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coronavirus: El virus que paraliza la mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6sDwNdtKq0sp8mI7vlhpizJzRa.jpg" group-title="2020",Coronavirus: El virus que paraliza la mundo (2020)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="LATINOS SD ",TOONCAST
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/502
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES|BEIN  ESP" tvg-logo="" group-title="DEPORTES ",DEPORTES|BEIN  ESP
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/518
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES |AFICIONADOS" tvg-logo="" group-title="DEPORTES ",DEPORTES |AFICIONADOS
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/519
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES -Fight Time" tvg-logo="" group-title="DEPORTES ",DEPORTES -Fight Time
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/520
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 1" tvg-logo="" group-title="DEPORTES ",DEOORTES | DIRECTV SPORTS 1
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/521
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | DIRECTV SPORTS 2" tvg-logo="" group-title="DEPORTES ",DEOORTES | DIRECTV SPORTS 2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/522
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | TyC Sports Internacional" tvg-logo="" group-title="DEPORTES ",DEOORTES | TyC Sports Internacional
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/523
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | GOL TV" tvg-logo="" group-title="DEPORTES ",DEOORTES | GOL TV
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/524
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Espn 1 Sur" tvg-logo="" group-title="DEPORTES ",DEOORTES | Espn 1 Sur
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/525
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Espn 2 Sur" tvg-logo="" group-title="DEPORTES ",DEOORTES | Espn 2 Sur
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/526
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 1" tvg-logo="" group-title="DEPORTES ",DEOORTES | Fox Sports 1
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/527
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 2" tvg-logo="" group-title="DEPORTES ",DEOORTES | Fox Sports 2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/528
+#EXTINF:-1 tvg-id="" tvg-name="DEOORTES | Fox Sports 3" tvg-logo="" group-title="DEPORTES ",DEOORTES | Fox Sports 3
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/529
+#EXTINF:-1 tvg-id="" tvg-name="ES | beIN SPORTS Ã‘" tvg-logo="" group-title="DEPORTES ",ES | beIN SPORTS Ã‘
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/530
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="DEPORTES ",UFC
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/531
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 1" tvg-logo="" group-title="DEPORTES ",|Fox Sports Sur 1
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/532
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 2" tvg-logo="" group-title="DEPORTES ",|Fox Sports Sur 2
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/533
+#EXTINF:-1 tvg-id="" tvg-name="|Fox Sports Sur 3" tvg-logo="" group-title="DEPORTES ",|Fox Sports Sur 3
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/534
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 1 Mex" tvg-logo="" group-title="DEPORTES ",|Espn 1 Mex
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/535
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 2 Mex" tvg-logo="" group-title="DEPORTES ",|Espn 2 Mex
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/536
+#EXTINF:-1 tvg-id="" tvg-name="|Espn 3 Mex" tvg-logo="" group-title="DEPORTES ",|Espn 3 Mex
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/537
+#EXTINF:-1 tvg-id="" tvg-name="MX | TUDN" tvg-logo="" group-title="DEPORTES ",MX | TUDN
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/538
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF HD" tvg-logo="" group-title="DEPORTES ",CL | CDF HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/539
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Premium" tvg-logo="" group-title="DEPORTES ",CL | CDF Premium
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/540
+#EXTINF:-1 tvg-id="" tvg-name="CHILE | FOX SPORT 1 HD" tvg-logo="" group-title="DEPORTES ",CHILE | FOX SPORT 1 HD
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/541
+#EXTINF:-1 tvg-id="" tvg-name="TVC DEPORTES" tvg-logo="" group-title="DEPORTES ",TVC DEPORTES
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/542
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS +" tvg-logo="" group-title="DEPORTES ",WIN SPORTS +
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/543
+#EXTINF:-1 tvg-id="" tvg-name="BEINS SPORT ING." tvg-logo="" group-title="DEPORTES ",BEINS SPORT ING.
+http://zufreelist.net:8080/NUEVAAPLICACIONZUTV/ZUTVZUTV/544
+#EXTINF:-1 tvg-id="" tvg-name="BRAVE (INDOMABLE)" tvg-logo="" group-title="ANIMACION",BRAVE (INDOMABLE)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAS AVENTURAS DE PEABODY Y SHERMAN" tvg-logo="" group-title="ANIMACION",LAS AVENTURAS DE PEABODY Y SHERMAN
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ONWARD" tvg-logo="" group-title="ANIMACION",ONWARD
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RALPH ROMPE INTERNET" tvg-logo="" group-title="ANIMACION",RALPH ROMPE INTERNET
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SUPERMAN: HIJO ROJO" tvg-logo="" group-title="ANIMACION",SUPERMAN: HIJO ROJO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SONIC. LA PELÃ­CULA" tvg-logo="" group-title="ANIMACION",SONIC. LA PELÃ­CULA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNA PELÃ­CULA DE HUEVOS" tvg-logo="" group-title="ANIMACION",UNA PELÃ­CULA DE HUEVOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OTRA PELÃ­CULA DE HUEVOS Y UN POLLO" tvg-logo="" group-title="ANIMACION",OTRA PELÃ­CULA DE HUEVOS Y UN POLLO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESPÃ­AS CON DISFRAZ" tvg-logo="" group-title="ANIMACION",ESPÃ­AS CON DISFRAZ
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="POKÃ©MON: MEWTWO VS. MEW: LA EVOLUCIÃ³N" tvg-logo="" group-title="ANIMACION",POKÃ©MON: MEWTWO VS. MEW: LA EVOLUCIÃ³N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WHITE SNAKE" tvg-logo="" group-title="ANIMACION",WHITE SNAKE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUNIOR SQUAD NON-STOP NURSERY RHYMES" tvg-logo="" group-title="ANIMACION",JUNIOR SQUAD NON-STOP NURSERY RHYMES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FROZEN 2" tvg-logo="" group-title="ANIMACION",FROZEN 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FROZEN 2" tvg-logo="" group-title="ANIMACION",FROZEN 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MR. LINK: EL ORIGEN PERDIDO" tvg-logo="" group-title="ANIMACION",MR. LINK: EL ORIGEN PERDIDO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ELLIOT: EL RENO MÃ¡S PEQUEÃ±O" tvg-logo="" group-title="ANIMACION",ELLIOT: EL RENO MÃ¡S PEQUEÃ±O
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA FAMILIA ADDAMS" tvg-logo="" group-title="ANIMACION",LA FAMILIA ADDAMS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL LIBRO DE LA VIDA" tvg-logo="" group-title="ANIMACION",EL LIBRO DE LA VIDA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CATS AND PEACHTOPIA" tvg-logo="" group-title="ANIMACION",CATS AND PEACHTOPIA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OLIMPIA" tvg-logo="" group-title="ANIMACION",OLIMPIA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPIRIT RIDING FREE: SPIRIT OF CHRISTMAS" tvg-logo="" group-title="ANIMACION",SPIRIT RIDING FREE: SPIRIT OF CHRISTMAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL SECRETO DEL LIBRO DE KELLS" tvg-logo="" group-title="ANIMACION",EL SECRETO DEL LIBRO DE KELLS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Â¿DÃ³NDE ESTÃ¡ MI CUERPO?" tvg-logo="" group-title="ANIMACION",Â¿DÃ³NDE ESTÃ¡ MI CUERPO?
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABOMINABLE" tvg-logo="" group-title="ANIMACION",ABOMINABLE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TRUE: WINTER WISHES" tvg-logo="" group-title="ANIMACION",TRUE: WINTER WISHES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ARCTIC JUSTICE: THUNDER SQUAD" tvg-logo="" group-title="ANIMACION",ARCTIC JUSTICE: THUNDER SQUAD
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BOONIE BEARS: TO THE RESCUE" tvg-logo="" group-title="ANIMACION",BOONIE BEARS: TO THE RESCUE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PLAYMOBIL: LA PELÃ­CULA" tvg-logo="" group-title="ANIMACION",PLAYMOBIL: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ABOMINABLE" tvg-logo="" group-title="ANIMACION",ABOMINABLE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GO FISH" tvg-logo="" group-title="ANIMACION",GO FISH
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COMO ENTRENAR A TU DRAGÃ³N: REGRESO A CASA" tvg-logo="" group-title="ANIMACION",COMO ENTRENAR A TU DRAGÃ³N: REGRESO A CASA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA LEYENDA DE SLEEPY HOLLOW Y EL SEÃ±OR SAPO" tvg-logo="" group-title="ANIMACION",LA LEYENDA DE SLEEPY HOLLOW Y EL SEÃ±OR SAPO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DÃ­A DE MUERTOS" tvg-logo="" group-title="ANIMACION",DÃ­A DE MUERTOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA LEYENDA DE KLAUS" tvg-logo="" group-title="ANIMACION",LA LEYENDA DE KLAUS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LADYBUG. EN BUSCA DEL CAÃ±Ã³N DORADO" tvg-logo="" group-title="ANIMACION",LADYBUG. EN BUSCA DEL CAÃ±Ã³N DORADO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AMIGOS PARA SIEMPRE" tvg-logo="" group-title="ANIMACION",AMIGOS PARA SIEMPRE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ANGRY BIRDS 2: LA PELÃ­CULA" tvg-logo="" group-title="ANIMACION",ANGRY BIRDS 2: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BARBIE Y LOS DELFINES MÃ¡GICOS" tvg-logo="" group-title="ANIMACION",BARBIE Y LOS DELFINES MÃ¡GICOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE ANGRY BIRDS MOVIE 2" tvg-logo="" group-title="ANIMACION",THE ANGRY BIRDS MOVIE 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE SPOOKY TALE OF CAPTAIN UNDERPANTS HACK-A-WEEN" tvg-logo="" group-title="ANIMACION",THE SPOOKY TALE OF CAPTAIN UNDERPANTS HACK-A-WEEN
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE LION KING" tvg-logo="" group-title="ANIMACION",THE LION KING
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N 2019" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N 2019
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WONDER WOMAN: BLOODLINES" tvg-logo="" group-title="ANIMACION",WONDER WOMAN: BLOODLINES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TERRA WILLY: PLANETA DESCONOCIDO" tvg-logo="" group-title="ANIMACION",TERRA WILLY: PLANETA DESCONOCIDO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STEVEN UNIVERSE: THE MOVIE" tvg-logo="" group-title="ANIMACION",STEVEN UNIVERSE: THE MOVIE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOUIS AND LUCA: MISSION TO THE MOON" tvg-logo="" group-title="ANIMACION",LOUIS AND LUCA: MISSION TO THE MOON
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE ANIMATRIX" tvg-logo="" group-title="ANIMACION",THE ANIMATRIX
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOY STORY 4" tvg-logo="" group-title="ANIMACION",TOY STORY 4
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TOY STORY 4" tvg-logo="" group-title="ANIMACION",TOY STORY 4
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS TRES CABALLEROS" tvg-logo="" group-title="ANIMACION",LOS TRES CABALLEROS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TEEN TITANS GO! VS. TEEN TITANS" tvg-logo="" group-title="ANIMACION",TEEN TITANS GO! VS. TEEN TITANS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CORGI, LAS MASCOTAS DE LA REINA" tvg-logo="" group-title="ANIMACION",CORGI, LAS MASCOTAS DE LA REINA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CURIOUS GEORGE: ROYAL MONKEY" tvg-logo="" group-title="ANIMACION",CURIOUS GEORGE: ROYAL MONKEY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO! RETORNO A LA ISLA ZOMBI" tvg-logo="" group-title="ANIMACION",SCOOBY-DOO! RETORNO A LA ISLA ZOMBI
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THOMAS & FRIENDS: BIG WORLD! BIG ADVENTURES! THE MOVIE" tvg-logo="" group-title="ANIMACION",THOMAS & FRIENDS: BIG WORLD! BIG ADVENTURES! THE MOVIE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARVEL RISING: HEART OF IRON" tvg-logo="" group-title="ANIMACION",MARVEL RISING: HEART OF IRON
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SUPERMONSTRUOS: UNA AMISTAD CON MUCHA GARRA" tvg-logo="" group-title="ANIMACION",SUPERMONSTRUOS: UNA AMISTAD CON MUCHA GARRA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POCOYÃ³ EN CINES: TU PRIMERA PELÃ­CULA" tvg-logo="" group-title="ANIMACION",POCOYÃ³ EN CINES: TU PRIMERA PELÃ­CULA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVADER ZIM: ENTER THE FLORPUS" tvg-logo="" group-title="ANIMACION",INVADER ZIM: ENTER THE FLORPUS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVADER ZIM: ENTER THE FLORPUS" tvg-logo="" group-title="ANIMACION",INVADER ZIM: ENTER THE FLORPUS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGO DC: BATMAN - LA BAT-FAMILIA IMPORTA" tvg-logo="" group-title="ANIMACION",LEGO DC: BATMAN - LA BAT-FAMILIA IMPORTA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 2" tvg-logo="" group-title="ANIMACION",LA VIDA SECRETA DE TUS MASCOTAS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIDA SECRETA DE TUS MASCOTAS 2" tvg-logo="" group-title="ANIMACION",LA VIDA SECRETA DE TUS MASCOTAS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY CAT" tvg-logo="" group-title="ANIMACION",SPY CAT
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UGLYDOLLS: EXTRAORDINARIAMENTE FEOS" tvg-logo="" group-title="ANIMACION",UGLYDOLLS: EXTRAORDINARIAMENTE FEOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ROCKO'S MODERN LIFE: STATIC CLING" tvg-logo="" group-title="ANIMACION",ROCKO'S MODERN LIFE: STATIC CLING
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PINK FLOYD: THE WALL" tvg-logo="" group-title="ANIMACION",PINK FLOYD: THE WALL
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPACE JAM - EL JUEGO DEL SIGLO" tvg-logo="" group-title="ANIMACION",SPACE JAM - EL JUEGO DEL SIGLO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPACE JAM - EL JUEGO DEL SIGLO" tvg-logo="" group-title="ANIMACION",SPACE JAM - EL JUEGO DEL SIGLO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA PRINCESA CISNE: EL REINO DE LA MÃºSICA" tvg-logo="" group-title="ANIMACION",LA PRINCESA CISNE: EL REINO DE LA MÃºSICA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA ALFOMBRA MÃ¡GICA" tvg-logo="" group-title="ANIMACION",LA ALFOMBRA MÃ¡GICA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OLIVER Y SU PANDILLA" tvg-logo="" group-title="ANIMACION",OLIVER Y SU PANDILLA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: HUSH" tvg-logo="" group-title="ANIMACION",BATMAN: HUSH
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="101 DÃ¡LMATAS" tvg-logo="" group-title="ANIMACION",101 DÃ¡LMATAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL ZORRO Y EL SABUESO" tvg-logo="" group-title="ANIMACION",EL ZORRO Y EL SABUESO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA ESPADA EN LA PIEDRA" tvg-logo="" group-title="ANIMACION",LA ESPADA EN LA PIEDRA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UGLYDOLLS: EXTRAORDINARIAMENTE FEOS" tvg-logo="" group-title="ANIMACION",UGLYDOLLS: EXTRAORDINARIAMENTE FEOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPT'N SHARKY" tvg-logo="" group-title="ANIMACION",CAPT'N SHARKY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS" tvg-logo="" group-title="ANIMACION",LOS PITUFOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS" tvg-logo="" group-title="ANIMACION",LOS PITUFOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS 2" tvg-logo="" group-title="ANIMACION",LOS PITUFOS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS 2" tvg-logo="" group-title="ANIMACION",LOS PITUFOS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS: LA ALDEA ESCONDIDA" tvg-logo="" group-title="ANIMACION",LOS PITUFOS: LA ALDEA ESCONDIDA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS PITUFOS: LA ALDEA ESCONDIDA" tvg-logo="" group-title="ANIMACION",LOS PITUFOS: LA ALDEA ESCONDIDA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS CROODS" tvg-logo="" group-title="ANIMACION",LOS CROODS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HORMIGUITAZ" tvg-logo="" group-title="ANIMACION",HORMIGUITAZ
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HORMIGUITAZ" tvg-logo="" group-title="ANIMACION",HORMIGUITAZ
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPY CAT" tvg-logo="" group-title="ANIMACION",SPY CAT
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LILO & STITCH" tvg-logo="" group-title="ANIMACION",LILO & STITCH
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LILO & STITCH 2: EL EFECTO DEL DEFECTO" tvg-logo="" group-title="ANIMACION",LILO & STITCH 2: EL EFECTO DEL DEFECTO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIRUS TROPICAL" tvg-logo="" group-title="ANIMACION",VIRUS TROPICAL
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PEDRO Y EL DRAGÃ³N ELLIOT" tvg-logo="" group-title="ANIMACION",PEDRO Y EL DRAGÃ³N ELLIOT
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PAJARITOS A VOLAR" tvg-logo="" group-title="ANIMACION",PAJARITOS A VOLAR
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL PARQUE MÃ¡GICO" tvg-logo="" group-title="ANIMACION",EL PARQUE MÃ¡GICO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CÃ³MO ENTRENAR A TU DRAGÃ³N" tvg-logo="" group-title="ANIMACION",CÃ³MO ENTRENAR A TU DRAGÃ³N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CÃ³MO ENTRENAR A TU DRAGÃ³N" tvg-logo="" group-title="ANIMACION",CÃ³MO ENTRENAR A TU DRAGÃ³N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CÃ³MO ENTRENAR A TU DRAGÃ³N 2" tvg-logo="" group-title="ANIMACION",CÃ³MO ENTRENAR A TU DRAGÃ³N 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CÃ³MO ENTRENAR A TU DRAGÃ³N 2" tvg-logo="" group-title="ANIMACION",CÃ³MO ENTRENAR A TU DRAGÃ³N 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CÃ³MO ENTRENAR A TU DRAGÃ³N 3" tvg-logo="" group-title="ANIMACION",CÃ³MO ENTRENAR A TU DRAGÃ³N 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CÃ³MO ENTRENAR A TU DRAGÃ³N 3" tvg-logo="" group-title="ANIMACION",CÃ³MO ENTRENAR A TU DRAGÃ³N 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TROLLS: DÃ­AS DE FIESTA" tvg-logo="" group-title="ANIMACION",TROLLS: DÃ­AS DE FIESTA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PACHAMAMA" tvg-logo="" group-title="ANIMACION",PACHAMAMA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL PARQUE MÃ¡GICO" tvg-logo="" group-title="ANIMACION",EL PARQUE MÃ¡GICO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINÃºSCULOS: EL VALLE DE LAS HORMIGAS PERDIDAS" tvg-logo="" group-title="ANIMACION",MINÃºSCULOS: EL VALLE DE LAS HORMIGAS PERDIDAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MINUSCULE 2: MANDÃ­BULAS DEL FIN DEL MUNDO" tvg-logo="" group-title="ANIMACION",MINUSCULE 2: MANDÃ­BULAS DEL FIN DEL MUNDO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PINOCHO" tvg-logo="" group-title="ANIMACION",PINOCHO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PINOCHO" tvg-logo="" group-title="ANIMACION",PINOCHO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL SÃ©PTIMO ENANITO" tvg-logo="" group-title="ANIMACION",EL SÃ©PTIMO ENANITO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL VIAJE DE CHIHIRO" tvg-logo="" group-title="ANIMACION",EL VIAJE DE CHIHIRO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEOWULF" tvg-logo="" group-title="ANIMACION",BEOWULF
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEOWULF" tvg-logo="" group-title="ANIMACION",BEOWULF
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN GALLO CON MUCHOS HUEVOS" tvg-logo="" group-title="ANIMACION",UN GALLO CON MUCHOS HUEVOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SURF'S UP 2 - WAVE MANIA" tvg-logo="" group-title="ANIMACION",SURF'S UP 2 - WAVE MANIA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="QUACKERZ" tvg-logo="" group-title="ANIMACION",QUACKERZ
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 9" tvg-logo="" group-title="ANIMACION",NUMERO 9
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA MAGIA EXTRAÃ±A" tvg-logo="" group-title="ANIMACION",LA MAGIA EXTRAÃ±A
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA DE LA JUSTICIA: GUERRA" tvg-logo="" group-title="ANIMACION",LA LIGA DE LA JUSTICIA: GUERRA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LORAX: EN BUSCA DE LA TRÃºFULA PERDIDA" tvg-logo="" group-title="ANIMACION",LORAX: EN BUSCA DE LA TRÃºFULA PERDIDA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL RECUERDO DE MARNIE" tvg-logo="" group-title="ANIMACION",EL RECUERDO DE MARNIE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL AMERICANO" tvg-logo="" group-title="ANIMACION",EL AMERICANO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARLITOS Y SNOOPY: LA PELÃ­CULA DE PEANUTS" tvg-logo="" group-title="ANIMACION",CARLITOS Y SNOOPY: LA PELÃ­CULA DE PEANUTS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS BOXTROLLS" tvg-logo="" group-title="ANIMACION",LOS BOXTROLLS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN VS LAS TORTUGAS NINJA" tvg-logo="" group-title="ANIMACION",BATMAN VS LAS TORTUGAS NINJA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO Y EL MONSTRUO DE MÃ©XICO" tvg-logo="" group-title="ANIMACION",SCOOBY-DOO Y EL MONSTRUO DE MÃ©XICO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO Y LA ESCUELA DE FANTASMAS" tvg-logo="" group-title="ANIMACION",SCOOBY-DOO Y LA ESCUELA DE FANTASMAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO Y LA CARRERA DE LOS MONSTRUOS" tvg-logo="" group-title="ANIMACION",SCOOBY-DOO Y LA CARRERA DE LOS MONSTRUOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO Y LOS HERMANOS BOO" tvg-logo="" group-title="ANIMACION",SCOOBY-DOO Y LOS HERMANOS BOO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WOLF CHILDREN (LOS NIÃ±OS LOBO)" tvg-logo="" group-title="ANIMACION",WOLF CHILDREN (LOS NIÃ±OS LOBO)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TMNT: TORTUGAS NINJA JÃ³VENES MUTANTES" tvg-logo="" group-title="ANIMACION",TMNT: TORTUGAS NINJA JÃ³VENES MUTANTES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AGENTE 00-GATO" tvg-logo="" group-title="ANIMACION",AGENTE 00-GATO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MY HERO ACADEMIA THE MOVIE: THE TWO HEROES" tvg-logo="" group-title="ANIMACION",MY HERO ACADEMIA THE MOVIE: THE TWO HEROES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT'S A HARD TRUTH AIN'T IT" tvg-logo="" group-title="ANIMACION",IT'S A HARD TRUTH AIN'T IT
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY ESPINO" tvg-logo="" group-title="ANIMACION",EL REY ESPINO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE LEGO MOVIE 2: THE SECOND PART" tvg-logo="" group-title="ANIMACION",THE LEGO MOVIE 2: THE SECOND PART
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON NEST: WARRIORS' DAWN" tvg-logo="" group-title="ANIMACION",DRAGON NEST: WARRIORS' DAWN
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASTERIX: EL SECRETO DE LA POCIÃ³N MÃ¡GICA" tvg-logo="" group-title="ANIMACION",ASTERIX: EL SECRETO DE LA POCIÃ³N MÃ¡GICA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BOB THE BUILDER: MEGA MACHINES" tvg-logo="" group-title="ANIMACION",BOB THE BUILDER: MEGA MACHINES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RUBEN BRANDT, COLLECTOR" tvg-logo="" group-title="ANIMACION",RUBEN BRANDT, COLLECTOR
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LINO: UNA AVENTURA CON SIETE VIDAS" tvg-logo="" group-title="ANIMACION",LINO: UNA AVENTURA CON SIETE VIDAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN SIN LÃ­MITES: CAOS MONSTRUOSO" tvg-logo="" group-title="ANIMACION",BATMAN SIN LÃ­MITES: CAOS MONSTRUOSO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN UNLIMITED: INSTINTO ANIMAL" tvg-logo="" group-title="ANIMACION",BATMAN UNLIMITED: INSTINTO ANIMAL
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICE LEAGUE VS. THE FATAL FIVE" tvg-logo="" group-title="ANIMACION",JUSTICE LEAGUE VS. THE FATAL FIVE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUSTICE LEAGUE VS. THE FATAL FIVE" tvg-logo="" group-title="ANIMACION",JUSTICE LEAGUE VS. THE FATAL FIVE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HUNTER X: PHANTOM ROUGE" tvg-logo="" group-title="ANIMACION",HUNTER X: PHANTOM ROUGE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HUNTER X: THE LAST MISSION" tvg-logo="" group-title="ANIMACION",HUNTER X: THE LAST MISSION
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PLOEY: NUNCA VOLARÃ¡S SOLO" tvg-logo="" group-title="ANIMACION",PLOEY: NUNCA VOLARÃ¡S SOLO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PLOEY: NUNCA VOLARÃ¡S SOLO" tvg-logo="" group-title="ANIMACION",PLOEY: NUNCA VOLARÃ¡S SOLO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS TRAVESURAS DE PETER RABBIT" tvg-logo="" group-title="ANIMACION",LAS TRAVESURAS DE PETER RABBIT
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS TRAVESURAS DE PETER RABBIT" tvg-logo="" group-title="ANIMACION",LAS TRAVESURAS DE PETER RABBIT
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POKÃ©MON Â¡TE ELIJO A TI!" tvg-logo="" group-title="ANIMACION",POKÃ©MON Â¡TE ELIJO A TI!
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POKÃ©MON: VOLCANION Y LA MARAVILLA MECÃ¡NICA" tvg-logo="" group-title="ANIMACION",POKÃ©MON: VOLCANION Y LA MARAVILLA MECÃ¡NICA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POKÃ©MON: VOLCANION Y LA MARAVILLA MECÃ¡NICA" tvg-logo="" group-title="ANIMACION",POKÃ©MON: VOLCANION Y LA MARAVILLA MECÃ¡NICA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS 2" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS 2" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS 3" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS 3" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS" tvg-logo="" group-title="ANIMACION",ALVIN Y LAS ARDILLAS FIESTA SOBRE RUEDAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MUTAFUKAZ" tvg-logo="" group-title="ANIMACION",MUTAFUKAZ
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MODEST HEROES" tvg-logo="" group-title="ANIMACION",MODEST HEROES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS AVENTURAS DE TADEO JONES" tvg-logo="" group-title="ANIMACION",LAS AVENTURAS DE TADEO JONES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS AVENTURAS DE TADEO JONES" tvg-logo="" group-title="ANIMACION",LAS AVENTURAS DE TADEO JONES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TADEO JONES 2: EL SECRETO DEL REY MIDAS" tvg-logo="" group-title="ANIMACION",TADEO JONES 2: EL SECRETO DEL REY MIDAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TADEO JONES 2: EL SECRETO DEL REY MIDAS" tvg-logo="" group-title="ANIMACION",TADEO JONES 2: EL SECRETO DEL REY MIDAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE LEGO MOVIE 2: THE SECOND PART" tvg-logo="" group-title="ANIMACION",THE LEGO MOVIE 2: THE SECOND PART
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EASTER LAND" tvg-logo="" group-title="ANIMACION",EASTER LAND
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA INCREÃ­BLE HISTORIA DE LA PERA GIGANTE" tvg-logo="" group-title="ANIMACION",LA INCREÃ­BLE HISTORIA DE LA PERA GIGANTE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="" group-title="ANIMACION",ALADDIN
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="" group-title="ANIMACION",ALADDIN
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN 2 EL RETORNO DE JAFAR" tvg-logo="" group-title="ANIMACION",ALADDIN 2 EL RETORNO DE JAFAR
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN 2 EL RETORNO DE JAFAR" tvg-logo="" group-title="ANIMACION",ALADDIN 2 EL RETORNO DE JAFAR
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN 3" tvg-logo="" group-title="ANIMACION",ALADDIN 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN 3" tvg-logo="" group-title="ANIMACION",ALADDIN 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z LA BATALLA DE LOS DIOSES" tvg-logo="" group-title="ANIMACION",DRAGON BALL Z LA BATALLA DE LOS DIOSES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z LA BATALLA DE LOS DIOSES" tvg-logo="" group-title="ANIMACION",DRAGON BALL Z LA BATALLA DE LOS DIOSES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z LA RESURRECCIÃ³N DE FREEZER" tvg-logo="" group-title="ANIMACION",DRAGON BALL Z LA RESURRECCIÃ³N DE FREEZER
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z LA RESURRECCIÃ³N DE FREEZER" tvg-logo="" group-title="ANIMACION",DRAGON BALL Z LA RESURRECCIÃ³N DE FREEZER
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER  BROLY" tvg-logo="" group-title="ANIMACION",DRAGON BALL SUPER  BROLY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER - BROLY" tvg-logo="" group-title="ANIMACION",DRAGON BALL SUPER - BROLY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHIKI ORIORI -SABORES DE LA JUVENTUD" tvg-logo="" group-title="ANIMACION",SHIKI ORIORI -SABORES DE LA JUVENTUD
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SCOOBY-DOO! & BATMAN: THE BRAVE AND THE BOLD" tvg-logo="" group-title="ANIMACION",SCOOBY-DOO! & BATMAN: THE BRAVE AND THE BOLD
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHERLOCK GNOMES" tvg-logo="" group-title="ANIMACION",SHERLOCK GNOMES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHERLOCK GNOMES" tvg-logo="" group-title="ANIMACION",SHERLOCK GNOMES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA REINA DE LAS NIEVES 3" tvg-logo="" group-title="ANIMACION",LA REINA DE LAS NIEVES 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SUICIDE SQUAD: HELL TO PAY" tvg-logo="" group-title="ANIMACION",SUICIDE SQUAD: HELL TO PAY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 2" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 2" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 3: EL ORIGEN DE LOS DINOSAURIOS" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO 3: EL ORIGEN DE LOS DINOSAURIOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 3: EL ORIGEN DE LOS DINOSAURIOS" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO 3: EL ORIGEN DE LOS DINOSAURIOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 4 LA FORMACION DE LOS CONTINENTES" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO 4 LA FORMACION DE LOS CONTINENTES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO 4 LA FORMACION DE LOS CONTINENTES" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO 4 LA FORMACION DE LOS CONTINENTES
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO: CHOQUE DE MUNDOS" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO: CHOQUE DE MUNDOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ERA DE HIELO: CHOQUE DE MUNDOS" tvg-logo="" group-title="ANIMACION",LA ERA DE HIELO: CHOQUE DE MUNDOS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N 2 EL REINO DE SIMBA" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N 2 EL REINO DE SIMBA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N 2 EL REINO DE SIMBA" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N 2 EL REINO DE SIMBA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N 3 HAKUNA MATATA" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N 3 HAKUNA MATATA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL REY LEÃ³N 3 HAKUNA MATATA" tvg-logo="" group-title="ANIMACION",EL REY LEÃ³N 3 HAKUNA MATATA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARS" tvg-logo="" group-title="ANIMACION",CARS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARS" tvg-logo="" group-title="ANIMACION",CARS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARS 2" tvg-logo="" group-title="ANIMACION",CARS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARS 2" tvg-logo="" group-title="ANIMACION",CARS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARS 3" tvg-logo="" group-title="ANIMACION",CARS 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CARS 3" tvg-logo="" group-title="ANIMACION",CARS 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ISLA DE PERROS" tvg-logo="" group-title="ANIMACION",ISLA DE PERROS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO A NEMO" tvg-logo="" group-title="ANIMACION",BUSCANDO A NEMO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO A NEMO" tvg-logo="" group-title="ANIMACION",BUSCANDO A NEMO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO A DORY" tvg-logo="" group-title="ANIMACION",BUSCANDO A DORY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO A DORY" tvg-logo="" group-title="ANIMACION",BUSCANDO A DORY
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE ARMÃ³ EL BELÃ©N" tvg-logo="" group-title="ANIMACION",SE ARMÃ³ EL BELÃ©N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SE ARMÃ³ EL BELÃ©N" tvg-logo="" group-title="ANIMACION",SE ARMÃ³ EL BELÃ©N
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON: LA PELÃ­CULA" tvg-logo="" group-title="ANIMACION",LOS SIMPSON: LA PELÃ­CULA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOTEL TRANSILVANIA" tvg-logo="" group-title="ANIMACION",HOTEL TRANSILVANIA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOTEL TRANSILVANIA" tvg-logo="" group-title="ANIMACION",HOTEL TRANSILVANIA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOTEL TRANSILVANIA 2" tvg-logo="" group-title="ANIMACION",HOTEL TRANSILVANIA 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOTEL TRANSILVANIA 2" tvg-logo="" group-title="ANIMACION",HOTEL TRANSILVANIA 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOTEL TRANSILVANIA 3: UNAS VACACIONES MONSTRUOSAS" tvg-logo="" group-title="ANIMACION",HOTEL TRANSILVANIA 3: UNAS VACACIONES MONSTRUOSAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOTEL TRANSILVANIA 3: UNAS VACACIONES MONSTRUOSAS" tvg-logo="" group-title="ANIMACION",HOTEL TRANSILVANIA 3: UNAS VACACIONES MONSTRUOSAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EXTRATERRESTRES DE TELLUR" tvg-logo="" group-title="ANIMACION",EXTRATERRESTRES DE TELLUR
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EXTRATERRESTRES DE TELLUR" tvg-logo="" group-title="ANIMACION",EXTRATERRESTRES DE TELLUR
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOM Y JERRY: UNA AVENTURA COLOSAL" tvg-logo="" group-title="ANIMACION",TOM Y JERRY: UNA AVENTURA COLOSAL
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOM Y JERRY Y EL DRAGÃ³N PERDIDO" tvg-logo="" group-title="ANIMACION",TOM Y JERRY Y EL DRAGÃ³N PERDIDO
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CENICIENTA" tvg-logo="" group-title="ANIMACION",LA CENICIENTA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CENICIENTA" tvg-logo="" group-title="ANIMACION",LA CENICIENTA
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CENICIENTA 2: LA MAGIA NO TERMINA A MEDIANOCHE" tvg-logo="" group-title="ANIMACION",CENICIENTA 2: LA MAGIA NO TERMINA A MEDIANOCHE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CENICIENTA 2: LA MAGIA NO TERMINA A MEDIANOCHE" tvg-logo="" group-title="ANIMACION",CENICIENTA 2: LA MAGIA NO TERMINA A MEDIANOCHE
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CENICIENTA 3" tvg-logo="" group-title="ANIMACION",CENICIENTA 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CENICIENTA 3" tvg-logo="" group-title="ANIMACION",CENICIENTA 3
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LLUVIA DE HAMBURGUESAS" tvg-logo="" group-title="ANIMACION",LLUVIA DE HAMBURGUESAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LLUVIA DE HAMBURGUESAS" tvg-logo="" group-title="ANIMACION",LLUVIA DE HAMBURGUESAS
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LLUVIA DE HAMBURGUESAS 2" tvg-logo="" group-title="ANIMACION",LLUVIA DE HAMBURGUESAS 2
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lluvia de albÃ³ndigas 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" group-title="ANIMACION",Lluvia de albÃ³ndigas 2 (2013)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" group-title="ANIMACION",La bella y la bestia
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" group-title="ANIMACION",La bella y la bestia
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Bella y la Bestia 2: Una Navidad Encantada (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="ANIMACION",La Bella y la Bestia 2: Una Navidad Encantada (1997)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Bella y la Bestia 2: Una Navidad Encantada (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT0XBIycUUh1vu8nOFHUNdVFuxC.jpg" group-title="ANIMACION",La Bella y la Bestia 2: Una Navidad Encantada (1997)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBV55nhWypeFJvqUFevtpYNgPFk.jpg" group-title="ANIMACION",Kung Fu Panda (2008)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBV55nhWypeFJvqUFevtpYNgPFk.jpg" group-title="ANIMACION",Kung Fu Panda (2008)
+http://zufreelist.net:8080/movie/NUEVAAPLICACIONZUTV/ZUTVZUTV/787.mp4
 //jalado de ott
 #EXTINF:-1 tvg-id="" tvg-name="Win Sport+ HD" tvg-logo="" group-title="Deportes",Win Sport+ HD
 http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/10730
@@ -3106,109 +4093,4 @@ http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1856
 http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1857
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="" group-title="CINE Y DOCUMENTAL",DISCOVERY CIVILIZATION
 http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1858
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="" group-title="CINE Y DOCUMENTAL",DISCOVERY H&H
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1859
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SINCE" tvg-logo="" group-title="CINE Y DOCUMENTAL",DISCOVERY SINCE
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1860
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="CINE Y DOCUMENTAL",DISCOVERY TURBO
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1861
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="CINE Y DOCUMENTAL",DISCOVERY THEATER
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1862
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="" group-title="CINE Y DOCUMENTAL",HISTORY CHANNEL
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/1863
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryTurbo(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryTurbo(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9824
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryTurbo(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryTurbo(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9823
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryTurbo(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryTurbo(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9822
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryHome&Heat(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryHome&Heat(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9819
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeoWild(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-NatGeoWild(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9818
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryHome&Heat(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryHome&Heat(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9821
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryHome&Heat(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryHome&Heat(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9820
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeoWild(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-NatGeoWild(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9817
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeoWild(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-NatGeoWild(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9816
-#EXTINF:-1 tvg-id="" tvg-name="DOC-HistoryChannel(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-HistoryChannel(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9815
-#EXTINF:-1 tvg-id="" tvg-name="DOC-HistoryChannel(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-HistoryChannel(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9814
-#EXTINF:-1 tvg-id="" tvg-name="DOC-HistoryChannel(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-HistoryChannel(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9813
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBO2(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBO2(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9771
-#EXTINF:-1 tvg-id="" tvg-name="DOC-AnimalPlanet(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-AnimalPlanet(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9812
-#EXTINF:-1 tvg-id="" tvg-name="DOC-AnimalPlanet(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-AnimalPlanet(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9811
-#EXTINF:-1 tvg-id="" tvg-name="DOC-AnimalPlanet(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-AnimalPlanet(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9810
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryChannel(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryChannel(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9809
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryChannel(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryChannel(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9808
-#EXTINF:-1 tvg-id="" tvg-name="DOC-DiscoveryChannel(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-DiscoveryChannel(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9807
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-NatGeo(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9806
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-NatGeo(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9805
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-NatGeo(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9804
-#EXTINF:-1 tvg-id="" tvg-name="DOC-H2(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-H2(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9803
-#EXTINF:-1 tvg-id="" tvg-name="DOC-H2(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-H2(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9802
-#EXTINF:-1 tvg-id="" tvg-name="DOC-H2(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",DOC-H2(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9801
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBO1(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBO1(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9783
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBO1(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBO1(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9782
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBO(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBO(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9781
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBO(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBO(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9780
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBO(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBO(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9779
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBOSignature(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBOSignature(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9778
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBOSignature(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBOSignature(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9777
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBOSignature(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBOSignature(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9776
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBOFamily(SAT)(SD)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBOFamily(SAT)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9775
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBOFamily(SAT)(720)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBOFamily(SAT)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9774
-#EXTINF:-1 tvg-id="" tvg-name="CIN-HBOFamily(SAT)(1080)" tvg-logo="" group-title="CINE Y DOCUMENTAL",CIN-HBOFamily(SAT)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/9773
-#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="CIN-HBO 2 (e)(720)1" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE Y DOCUMENTAL",CIN-HBO 2 (e)(720)1
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15065
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="CIN-HBO 2 (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE Y DOCUMENTAL",CIN-HBO 2 (e)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15066
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="CIN-HBO 2 (M2)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE Y DOCUMENTAL",CIN-HBO 2 (M2)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15067
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="CIN-HBO Family (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Family (e)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15068
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="CIN-HBO Family (e)(720)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Family (e)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15069
-#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.pa" tvg-name="CIN-HBO Family (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Family (e)(SD)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15070
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.pa" tvg-name="CIN-HBO Family (M2)(1080)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Family (M2)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15071
-#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="CIN-HBO Plus (e)(720)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Plus (e)(720)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15072
-#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="CIN-HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Plus (M)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15073
-#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="CIN-HBO Plus (M)(SD) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Plus (M)(SD) [Dual Audio]
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15074
-#EXTINF:-1 tvg-id="HBOPlusPanamericano.pa" tvg-name="CIN-HBO Plus (M2)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE Y DOCUMENTAL",CIN-HBO Plus (M2)(1080)
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15075
-#EXTINF:-1 tvg-id="HBOPopPanamerica.pa" tvg-name="CIN-HBO POP (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CINE Y DOCUMENTAL",CIN-HBO POP (M)(1080) [Dual Audio]
-http://62.210.83.40:25461/Unpluggedtv/p7vgUjX6WF/15076
+#EXTINF:-1 
