@@ -1251,3 +1251,923 @@ http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/7774
 http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3211
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="COL - WIN SPORTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA",COL - WIN SPORTS FHD
 http://tv.nstvlatino.com:25462/IPTVDNS.0507828/HCvMMO5E9z7609/3271
+//emiraty
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery Full HD (CO)" tvg-logo="" group-title="",LAT: Investigation Discovery Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/65
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (MX)" tvg-logo="" group-title="",LAT: Investigation Discovery (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/66
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (ARG)" tvg-logo="" group-title="",LAT: Investigation Discovery (ARG)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/67
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery HD (ARG)" tvg-logo="" group-title="",LAT: Investigation Discovery HD (ARG)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/68
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (PY)" tvg-logo="" group-title="",LAT: Investigation Discovery (PY)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/69
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery HD (PY) (h265)" tvg-logo="" group-title="",LAT: Investigation Discovery HD (PY) (h265)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/70
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel (CO)" tvg-logo="" group-title="",LAT: Discovery Channel (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/71
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel HD (CO)" tvg-logo="" group-title="",LAT: Discovery Channel HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/72
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel Full HD (CO)" tvg-logo="" group-title="",LAT: Discovery Channel Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/73
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History (CO)" tvg-logo="" group-title="",LAT: History (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/74
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History (MX)" tvg-logo="" group-title="",LAT: History (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/75
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History Full HD (ARG)(Dual Audio)" tvg-logo="" group-title="",LAT: History Full HD (ARG)(Dual Audio)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/76
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Full HD (ARG)(Dual Audio)" tvg-logo="" group-title="",LAT: NatGeo Full HD (ARG)(Dual Audio)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/77
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Natgeo Wild Full HD (CO)" tvg-logo="" group-title="",LAT: Natgeo Wild Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/78
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Theater (MX)" tvg-logo="" group-title="",LAT: Discovery Theater (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/79
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC (CO)" tvg-logo="" group-title="",LAT: Discovery TLC (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/80
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC (MX)" tvg-logo="" group-title="",LAT: Discovery TLC (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/81
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery World" tvg-logo="" group-title="",LAT: Discovery World
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/82
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central (CO)" tvg-logo="" group-title="",LAT: Comedy Central (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/83
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central (MX)" tvg-logo="" group-title="",LAT: Comedy Central (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/84
+#EXTINF:-1 tvg-id="" tvg-name="LAT: El Gourmet (CO)" tvg-logo="" group-title="",LAT: El Gourmet (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/85
+#EXTINF:-1 tvg-id="" tvg-name="LAT: El Gourmet Full HD (CO)" tvg-logo="" group-title="",LAT: El Gourmet Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/86
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Las Estrellas" tvg-logo="" group-title="LATINOS EMIRAY",LAT: Las Estrellas
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/87
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Lifetime (CO)" tvg-logo="" group-title="",LAT: Lifetime (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/88
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Love Nature HD" tvg-logo="" group-title="",LAT: Love Nature HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/89
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Mas Chic" tvg-logo="" group-title="",LAT: Mas Chic
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/93
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Internacional Full HD" tvg-logo="" group-title="",LAT: Telemundo Internacional Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/94
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Hola TV" tvg-logo="" group-title="",LAT: Hola TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/96
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Mega TV" tvg-logo="" group-title="",LAT: Mega TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/97
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Las Estrellas Full HD" tvg-logo="" group-title="",LAT: Las Estrellas Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/98
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Mas Chic Full HD" tvg-logo="" group-title="",LAT: Mas Chic Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/130
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Chicago" tvg-logo="" group-title="",LAT: Telemundo Chicago
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/131
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Albuquerque Santa Fe HD" tvg-logo="" group-title="",LAT: Galavision Albuquerque Santa Fe HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/132
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision East HD" tvg-logo="" group-title="",LAT: Galavision East HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/133
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Philadelphia HD" tvg-logo="" group-title="",LAT: Unimas Philadelphia HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/134
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Phoenix HD" tvg-logo="" group-title="",LAT: Unimas Phoenix HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/135
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Cleveland HD" tvg-logo="" group-title="",LAT: Unimas Cleveland HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/136
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Salt Lake HD" tvg-logo="" group-title="",LAT: Unimas Salt Lake HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/137
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas San Francisco HD" tvg-logo="" group-title="",LAT: Unimas San Francisco HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/138
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Las Vegas HD" tvg-logo="" group-title="",LAT: Unimas Las Vegas HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/139
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Austin HD" tvg-logo="" group-title="",LAT: Unimas Austin HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/140
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision San Francisco HD" tvg-logo="" group-title="",LAT: Galavision San Francisco HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/141
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Atlanta HD" tvg-logo="" group-title="",LAT: Univision Atlanta HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/142
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network (CO)" tvg-logo="" group-title="",Infantil: Cartoon Network (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/143
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Philadelphia HD" tvg-logo="" group-title="",LAT: Univision Philadelphia HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/155
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Phoenix HD" tvg-logo="" group-title="",LAT: Univision Phoenix HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/156
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Raleigh HD" tvg-logo="" group-title="",LAT: Univision Raleigh HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/157
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision San Antonio HD" tvg-logo="" group-title="",LAT: Univision San Antonio HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/158
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Raleigh HD" tvg-logo="" group-title="",LAT: Unimas Raleigh HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/159
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Sacramento HD" tvg-logo="" group-title="",LAT: Unimas Sacramento HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/160
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas Miami HD" tvg-logo="" group-title="",LAT: Unimas Miami HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/161
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Paraguay --★●•" tvg-logo="" group-title="",•●★-- Deportes Paraguay --★●•
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/200
+#EXTINF:-1 tvg-id="" tvg-name="[ES] CANAL ODISEA" tvg-logo="" group-title="ESPAÑA TV",[ES] CANAL ODISEA
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/2
+#EXTINF:-1 tvg-id="" tvg-name="[ES] Energy FHD" tvg-logo="" group-title="ESPAÑA TV",[ES] Energy FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/1
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ESPAÑA DEPORTES",SP: ES: M. LaLiga
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/751
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga H265 HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ESPAÑA DEPORTES",SP: ES: M. LaLiga H265 HEVC
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/752
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/84/LaLigaTV_Bar.png" group-title="ESPAÑA DEPORTES",SP: ES: LaLiga TV Bar
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/753
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar H265 HEVC" tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/84/LaLigaTV_Bar.png" group-title="ESPAÑA DEPORTES",SP: ES: LaLiga TV Bar H265 HEVC
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/754
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/755
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones H265 HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones H265 HEVC
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/756
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: #Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="ESPAÑA DEPORTES",SP: ES: #Vamos
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/757
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: GOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="ESPAÑA DEPORTES",SP: ES: GOL
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/758
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="ESPAÑA DEPORTES",SP: ES: Movistar F1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/759
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Teledeporte" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CAD_TELEDE/i/mosca_CAD_TELEDE.png" group-title="ESPAÑA DEPORTES",SP: ES: Teledeporte
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/760
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Golf" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="ESPAÑA DEPORTES",SP: ES: Movistar Golf
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/761
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png" group-title="ESPAÑA DEPORTES",SP: ES: Eurosport 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/762
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" group-title="ESPAÑA DEPORTES",SP: ES: Eurosport 1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/763
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="ESPAÑA DEPORTES",SP: ES: Movistar Deportes
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/764
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP1.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/765
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP2.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/766
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP3.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 3
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/767
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP6.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 6
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/770
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP5.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 5
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/771
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP4.png" group-title="ESPAÑA DEPORTES",SP: ES: M. Liga de Campeones 4
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/772
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ESPAÑA DEPORTES HD",SP: ES: M. LaLiga HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/773
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar HD" tvg-logo="" group-title="ESPAÑA DEPORTES HD",SP: ES: LaLiga TV Bar HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/774
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga De Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ESPAÑA DEPORTES HD",SP: ES: M. Liga De Campeones HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/775
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="ESPAÑA DEPORTES HD",SP: ES: #Vamos HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/776
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="ESPAÑA DEPORTES HD",SP: ES: GOL HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/777
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="ESPAÑA DEPORTES HD",SP: ES: Movistar F1 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/778
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="ESPAÑA DEPORTES HD",SP: ES: Movistar Golf HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/779
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png" group-title="ESPAÑA DEPORTES HD",SP: ES: Eurosport 2 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/780
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" group-title="ESPAÑA DEPORTES HD",SP: ES: Eurosport 1 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/781
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="ESPAÑA DEPORTES HD",SP: ES: Movistar Deportes HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/782
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Real Madrid TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" group-title="ESPAÑA DEPORTES HD",SP: ES: Real Madrid TV HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/783
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: M. LaLiga FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/784
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar FHD" tvg-logo="" group-title="ESPAÑA DEPORTES FHD",SP: ES: LaLiga TV Bar FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/785
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: M. Liga de Campeones FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/786
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: #Vamos FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: #Vamos FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/787
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: GOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: GOL FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/788
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Barça TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Barça TV FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/789
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar F1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Movistar F1 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/790
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Teledeporte FHD" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CAD_TELEDE/i/mosca_CAD_TELEDE.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Teledeporte FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/791
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Eurosport 1 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/792
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Deportes FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Movistar Deportes FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/793
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Golf FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Movistar Golf FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/794
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: M. LaLiga 3 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/795
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: M. LaLiga 1 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/796
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Real Madrid TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" group-title="ESPAÑA DEPORTES FHD",SP: ES: Real Madrid TV FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/797
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Dallas HD" tvg-logo="" group-title="LATINOS EMIRAY",LAT: Univision Dallas HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/230
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="INFANTIL TV",Infantil: Cartoon Network (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/798
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Discovery Kids (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL TV",Infantil: Discovery Kids (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/799
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney XD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTIL TV",Infantil: Disney XD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/800
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL TV",Infantil: Disney Channel (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/801
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL TV",Infantil: Disney Channel (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/802
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nat Geo Kids (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="INFANTIL TV",Infantil: Nat Geo Kids (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/803
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nat Geo Kids (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="INFANTIL TV",Infantil: Nat Geo Kids (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/804
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon (CO)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo.png" group-title="INFANTIL TV",Infantil: Nickelodeon (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/805
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon (MX)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo.png" group-title="INFANTIL TV",Infantil: Nickelodeon (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/806
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick 2 (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTIL TV",Infantil: Nick 2 (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/807
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/800px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL TV",Infantil: Nick Jr
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/808
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Junior (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/CanalDisneyJuniorLA.png" group-title="INFANTIL TV",Infantil: Disney Junior (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/809
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Tooncast (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTIL TV",Infantil: Tooncast (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/810
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Tooncast (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTIL TV",Infantil: Tooncast (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/811
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network Full HD (CO)" tvg-logo="https://i.ytimg.com/vi/lLAbXjYTaOQ/maxresdefault.jpg" group-title="INFANTIL TV FHD",Infantil: Cartoon Network Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/812
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Cartoon Network Full HD (MX)" tvg-logo="https://i.ytimg.com/vi/lLAbXjYTaOQ/maxresdefault.jpg" group-title="INFANTIL TV FHD",Infantil: Cartoon Network Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/813
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Discovery Kids Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTIL TV FHD",Infantil: Discovery Kids Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/814
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney XD Full HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTIL TV FHD",Infantil: Disney XD Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/815
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL TV FHD",Infantil: Disney Channel Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/816
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Disney Channel Full HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/800px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL TV FHD",Infantil: Disney Channel Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/817
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nat Geo Kids Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="INFANTIL TV FHD",Infantil: Nat Geo Kids Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/818
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nat Geo Kids Full HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/NatGeoKidsLogo2DLA.png" group-title="INFANTIL TV FHD",Infantil: Nat Geo Kids Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/819
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon Full HD (CO)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo.png" group-title="INFANTIL TV FHD",Infantil: Nickelodeon Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/820
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nickelodeon Full HD (MX)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo.png" group-title="INFANTIL TV FHD",Infantil: Nickelodeon Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/821
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick 2 Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTIL TV FHD",Infantil: Nick 2 Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/822
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/800px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL TV FHD",Infantil: Nick Jr Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/823
+#EXTINF:-1 tvg-id="" tvg-name="CO: La Kalle HD" tvg-logo="https://lakalle.bluradio.com/assets/img/logoheader.png" group-title="COLOMBIA TV ",CO: La Kalle HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/264
+#EXTINF:-1 tvg-id="" tvg-name="CO: Señal Colombia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA TV ",CO: Señal Colombia SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/265
+#EXTINF:-1 tvg-id="" tvg-name="CO: Señal Colombia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png" group-title="COLOMBIA TV ",CO: Señal Colombia HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/266
+#EXTINF:-1 tvg-id="" tvg-name="CO: TV Agro SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="COLOMBIA TV ",CO: TV Agro SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/267
+#EXTINF:-1 tvg-id="" tvg-name="CO: TV Agro HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/TV_Agro_logo.svg/1200px-TV_Agro_logo.svg.png" group-title="COLOMBIA TV ",CO: TV Agro HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/268
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico HD" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2016/12/logo.png" group-title="COLOMBIA TV ",CO: Telepacifico HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/269
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Tro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/CanalTRO2020.png" group-title="COLOMBIA TV ",CO: Canal Tro
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/270
+#EXTINF:-1 tvg-id="" tvg-name="CO: Teleisla SD" tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/03/Teleislas.png" group-title="COLOMBIA TV ",CO: Teleisla SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/271
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Mundo +" tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg" group-title="COLOMBIA TV ",CO: Canal Mundo +
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/272
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Internacional FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="COLOMBIA TV ",CO: RCN Internacional FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/273
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA TV ",CO: Canal 1 SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/824
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA TV ",CO: Canal 1 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/825
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA TV ",CO: Caracol SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/826
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA TV ",CO: Caracol HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/827
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Logo_canal_caracol.jpg" group-title="COLOMBIA TV ",CO: Caracol Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/828
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Internacional SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CaracolInternacional2019.png" group-title="COLOMBIA TV ",CO: Caracol Internacional SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/829
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol Internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/CaracolInternacional2019.png" group-title="COLOMBIA TV ",CO: Caracol Internacional HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/830
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA TV ",CO: RCN SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/831
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA TV ",CO: RCN HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/832
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA TV ",CO: RCN Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/833
+#EXTINF:-1 tvg-id="" tvg-name="CO: RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/CanalRCNNovelas2019.png" group-title="COLOMBIA TV ",CO: RCN Novelas
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/834
+#EXTINF:-1 tvg-id="" tvg-name="CO: TeleAntioquia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA TV ",CO: TeleAntioquia HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/835
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe SD" tvg-logo="https://d1cpnymib1locd.cloudfront.net/?src=https://www.lapatria.com/sites/default/files/styles/620x/public/imagenprincipal/2014/Jul/logo_png-01.jpg&w=1200" group-title="COLOMBIA TV ",CO: Telecafe SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/836
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe HD" tvg-logo="https://d1cpnymib1locd.cloudfront.net/?src=https://www.lapatria.com/sites/default/files/styles/620x/public/imagenprincipal/2014/Jul/logo_png-01.jpg&w=1200" group-title="COLOMBIA TV ",CO: Telecafe HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/837
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telemedellin HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logotipo_de_Telemedell%C3%ADn.png" group-title="COLOMBIA TV ",CO: Telemedellin HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/838
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecaribe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA TV ",CO: Telecaribe HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/839
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Capital HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Canal_Capital_%28Bogot%C3%A1%29_2016_logo.svg/800px-Canal_Capital_%28Bogot%C3%A1%29_2016_logo.svg.png" group-title="COLOMBIA TV ",CO: Canal Capital HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/840
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cosmovision HD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/cosmovision.png" group-title="COLOMBIA TV ",CO: Cosmovision HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/841
+#EXTINF:-1 tvg-id="" tvg-name="CO: CNC Medellin HD" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-canal-cnc-pasto-9490.jpg" group-title="COLOMBIA TV ",CO: CNC Medellin HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/842
+#EXTINF:-1 tvg-id="" tvg-name="CO: CNC Pasto" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/co-canal-cnc-pasto-9490.jpg" group-title="COLOMBIA TV ",CO: CNC Pasto
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/843
+#EXTINF:-1 tvg-id="" tvg-name="CO: Suram TV HD" tvg-logo="https://suram.com.co/wp-content/uploads/2020/02/LOGO-SURAM.png" group-title="COLOMBIA TV ",CO: Suram TV HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/844
+#EXTINF:-1 tvg-id="" tvg-name="CO: NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA TV ",CO: NTN24
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/845
+#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA TV ",CO: Pasiones
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/846
+#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA TV ",CO: Pasiones HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/847
+#EXTINF:-1 tvg-id="" tvg-name="CO: Pasiones Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA TV ",CO: Pasiones Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/848
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cable Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA TV ",CO: Cable Noticias HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/849
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Institucional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Se%C3%B1al_Institucional_logo.svg/1200px-Se%C3%B1al_Institucional_logo.svg.png" group-title="COLOMBIA TV ",CO: Canal Institucional
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/850
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cantinazo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/CTV_LOGO.png" group-title="COLOMBIA TV ",CO: Cantinazo HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/851
+#EXTINF:-1 tvg-id="" tvg-name="CO: City Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="COLOMBIA TV ",CO: City Tv
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/852
+#EXTINF:-1 tvg-id="" tvg-name="CO: El Tiempo" tvg-logo="https://seeklogo.com/images/E/el-tiempo-television-logo-F00557386D-seeklogo.com.png" group-title="COLOMBIA TV ",CO: El Tiempo
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/853
+#EXTINF:-1 tvg-id="" tvg-name="13.2" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",13.2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/274
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",24 Horas
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/275
+#EXTINF:-1 tvg-id="" tvg-name="70s Hits" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",70s Hits
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/276
+#EXTINF:-1 tvg-id="" tvg-name="80s Hits" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",80s Hits
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/277
+#EXTINF:-1 tvg-id="" tvg-name="AE Mundo" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",AE Mundo
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/278
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",AXN
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/279
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Animal Planet
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/280
+#EXTINF:-1 tvg-id="" tvg-name="CDF Basico" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CDF Basico
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/281
+#EXTINF:-1 tvg-id="" tvg-name="CDF PREMIUM" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CDF PREMIUM
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/282
+#EXTINF:-1 tvg-id="" tvg-name="CHV" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CHV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/283
+#EXTINF:-1 tvg-id="" tvg-name="CHV-HD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CHV-HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/284
+#EXTINF:-1 tvg-id="" tvg-name="CHV-HD2" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CHV-HD2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/285
+#EXTINF:-1 tvg-id="" tvg-name="CHV-SD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CHV-SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/286
+#EXTINF:-1 tvg-id="" tvg-name="CNN Chile" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CNN Chile
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/287
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",CNN Espanol
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/288
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Canal 13
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/289
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13 HD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Canal 13 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/290
+#EXTINF:-1 tvg-id="" tvg-name="Canal de Las estrellas" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Canal de Las estrellas
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/291
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Cartoon Network
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/292
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Cinecanal
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/293
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Cinemax
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/294
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Discovery Channel
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/295
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Discovery ID
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/296
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Discovery Kids
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/297
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Discovery Turbo
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/298
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Disney Channel
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/299
+#EXTINF:-1 tvg-id="" tvg-name="Disney Jr" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Disney Jr
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/300
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Disney XD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/301
+#EXTINF:-1 tvg-id="" tvg-name="E Entertainment" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",E Entertainment
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/302
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",ESPN
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/303
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",ESPN 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/304
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",ESPN 3
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/305
+#EXTINF:-1 tvg-id="" tvg-name="ETC" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",ETC
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/306
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Enlace
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/307
+#EXTINF:-1 tvg-id="" tvg-name="Enlace" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Enlace
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/308
+#EXTINF:-1 tvg-id="" tvg-name="EsneTV" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",EsneTV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/309
+#EXTINF:-1 tvg-id="" tvg-name="FOX P ACTION" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",FOX P ACTION
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/310
+#EXTINF:-1 tvg-id="" tvg-name="FOX P MOVIES" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",FOX P MOVIES
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/311
+#EXTINF:-1 tvg-id="" tvg-name="FOX P SERIES E" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",FOX P SERIES E
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/312
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",FX
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/313
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",FX Movies
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/314
+#EXTINF:-1 tvg-id="" tvg-name="Fox Channel" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Fox Channel
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/315
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Fox Life
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/316
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Fox Sports
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/317
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Fox Sports 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/318
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Fox Sports 3
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/319
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Fox Sports Premium
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/320
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",GOL TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/321
+#EXTINF:-1 tvg-id="" tvg-name="GRACIA TV" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",GRACIA TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/322
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",HBO
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/323
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",HBO 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/324
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",HBO Family
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/325
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",HBO Plus
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/326
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",History Channel
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/327
+#EXTINF:-1 tvg-id="" tvg-name="Home and Health" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Home and Health
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/328
+#EXTINF:-1 tvg-id="" tvg-name="I-Sat" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",I-Sat
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/329
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",La Red
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/330
+#EXTINF:-1 tvg-id="" tvg-name="La Red HD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",La Red HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/331
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",MEGA HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/332
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",MTV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/333
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Max Prime
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/334
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Mega
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/335
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Nat Geo
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/336
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",NatGeo Kids
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/337
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Nick Jr
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/338
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Nickelodeon
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/339
+#EXTINF:-1 tvg-id="" tvg-name="Nuevos Comienzos" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Nuevos Comienzos
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/340
+#EXTINF:-1 tvg-id="" tvg-name="Reggaeton" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Reggaeton
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/341
+#EXTINF:-1 tvg-id="" tvg-name="Rock Latino" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Rock Latino
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/342
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",STUDIO UNIVERSAL
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/343
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Sony
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/344
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Space
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/345
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TBS
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/346
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TCM
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/347
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TNT
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/348
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TNT SERIES
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/349
+#EXTINF:-1 tvg-id="" tvg-name="TV+ HD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TV+ HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/350
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVE
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/351
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVN
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/352
+#EXTINF:-1 tvg-id="" tvg-name="TVN-HD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVN-HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/353
+#EXTINF:-1 tvg-id="" tvg-name="TVN-SD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVN-SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/354
+#EXTINF:-1 tvg-id="" tvg-name="TVR" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVR
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/355
+#EXTINF:-1 tvg-id="" tvg-name="TVR - 2" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVR - 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/356
+#EXTINF:-1 tvg-id="" tvg-name="TVR Movil" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TVR Movil
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/357
+#EXTINF:-1 tvg-id="" tvg-name="TaTeTi SD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TaTeTi SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/358
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Telemundo
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/359
+#EXTINF:-1 tvg-id="" tvg-name="Travel and Living" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",Travel and Living
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/360
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TyC Sports
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/361
+#EXTINF:-1 tvg-id="" tvg-name="UCV3 SD" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",UCV3 SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/362
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FUniversal_Pictures&psig=AOvVaw1mlGaz9aJnuzjLLWJ2NcXc&ust=1595738447018000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCb6IzL5-oCFQAAAAAdAAAAABAD" group-title="LATINOS EMIRAY",Universal
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/363
+#EXTINF:-1 tvg-id="" tvg-name="ViaX" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fviax&psig=AOvVaw0tg3Z2VKqX2McGweacb5Lu&ust=1595738358273000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND4mOPK5-oCFQAAAAAdAAAAABAD" group-title="LATINOS EMIRAY",ViaX
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/364
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgestion.pe%2Feconomia%2Fempresas%2Fwarner-bros-primera-vez-mujer-ceo-271793-noticia%2F&psig=AOvVaw3YJyzXsIT9UyqaYwSq-jaL&ust=1595738080704000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjnlt_J5-oCFQAAAAAdAAAAABAJ" group-title="LATINOS EMIRAY",Warner
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/365
+#EXTINF:-1 tvg-id="" tvg-name="Zona Latina" tvg-logo="https://www.observatoriofucatel.cl/wp-content/uploads/2010/12/logo-ZonaLatina.jpg" group-title="LATINOS EMIRAY",Zona Latina
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/366
+#EXTINF:-1 tvg-id="" tvg-name="TV EDUCA CHILE" tvg-logo="EMIRAYTV" group-title="LATINOS EMIRAY",TV EDUCA CHILE
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/367
+#EXTINF:-1 tvg-id="" tvg-name="caduca" tvg-logo="" group-title="LATINOS",caduca
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/733
+#EXTINF:-1 tvg-id="" tvg-name="CAIDO" tvg-logo="" group-title="LATINOS",CAIDO
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/734
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Albuquerque Santa Fe HD" tvg-logo="" group-title="CULTURA TV",LAT: Univision Albuquerque Santa Fe HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/229
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision West HD" tvg-logo="" group-title="CULTURA TV",LAT: Galavision West HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/228
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Sat Lake HD" tvg-logo="" group-title="CULTURA TV",LAT: Galavision Sat Lake HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/227
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Fresno HD" tvg-logo="" group-title="CULTURA TV",LAT: Galavision Fresno HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/226
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision Dallas HD" tvg-logo="" group-title="CULTURA TV",LAT: Galavision Dallas HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/225
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Phoenix" tvg-logo="" group-title="CULTURA TV",LAT: Telemundo Phoenix
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/224
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Miami" tvg-logo="" group-title="CULTURA TV",LAT: Telemundo Miami
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/223
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Telemundo Boston" tvg-logo="" group-title="CULTURA TV",LAT: Telemundo Boston
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/222
+#EXTINF:-1 tvg-id="" tvg-name="LAT: TBS (CO)" tvg-logo="" group-title="CULTURA TV",LAT: TBS (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/221
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Familia HD" tvg-logo="" group-title="CULTURA TV",LAT: Discovery Familia HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/220
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Food Network (MX) Full HD" tvg-logo="" group-title="CULTURA TV",LAT: Food Network (MX) Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/219
+#EXTINF:-1 tvg-id="" tvg-name="LAT: E! Entertaiment Full HD" tvg-logo="" group-title="CULTURA TV",LAT: E! Entertaiment Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/218
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Comedy Central Full HD (MX)" tvg-logo="" group-title="CULTURA TV",LAT: Comedy Central Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/217
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery TLC Full HD (MX)" tvg-logo="" group-title="CULTURA TV",LAT: Discovery TLC Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/216
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet (PY)" tvg-logo="" group-title="CULTURA TV",LAT: Animal Planet (PY)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/215
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Animal Planet Full HD (MX)" tvg-logo="" group-title="CULTURA TV",LAT: Animal Planet Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/214
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo Wild Full HD (MX)" tvg-logo="" group-title="CULTURA TV",LAT: NatGeo Wild Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/213
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Natgeo Wild (CO)" tvg-logo="" group-title="CULTURA TV",LAT: Natgeo Wild (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/212
+#EXTINF:-1 tvg-id="" tvg-name="LAT: NatGeo HD (CO)" tvg-logo="" group-title="CULTURA TV",LAT: NatGeo HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/211
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History 2" tvg-logo="" group-title="CULTURA TV",LAT: History 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/210
+#EXTINF:-1 tvg-id="" tvg-name="LAT: History HD (CO)" tvg-logo="" group-title="CULTURA TV",LAT: History HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/209
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H Full HD (MX)" tvg-logo="" group-title="CULTURA TV",LAT: Discovery H&H Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/208
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery H&H (CO)" tvg-logo="" group-title="CULTURA TV",LAT: Discovery H&H (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/207
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Discovery Channel (PY)" tvg-logo="" group-title="CULTURA TV",LAT: Discovery Channel (PY)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/206
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Investigation Discovery (CO)" tvg-logo="" group-title="CULTURA TV",LAT: Investigation Discovery (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/205
+#EXTINF:-1 tvg-id="" tvg-name="MX: 52" tvg-logo="" group-title="MEXICO TV",MX: 52
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/671
+#EXTINF:-1 tvg-id="" tvg-name="MX: A Plus" tvg-logo="" group-title="MEXICO TV",MX: A Plus
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/672
+#EXTINF:-1 tvg-id="" tvg-name="MX: ADN 40" tvg-logo="" group-title="MEXICO TV",MX: ADN 40
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/673
+#EXTINF:-1 tvg-id="" tvg-name="MX: ADN 40 Full HD" tvg-logo="" group-title="MEXICO TV",MX: ADN 40 Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/674
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Cinema" tvg-logo="" group-title="MEXICO TV",MX: Az Cinema
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/675
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Cinema Full HD" tvg-logo="" group-title="MEXICO TV",MX: Az Cinema Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/676
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Clic" tvg-logo="" group-title="MEXICO TV",MX: Az Clic
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/677
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Clic Full HD" tvg-logo="" group-title="MEXICO TV",MX: Az Clic Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/678
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Corazon" tvg-logo="" group-title="MEXICO TV",MX: Az Corazon
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/679
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Corazon Full HD" tvg-logo="" group-title="MEXICO TV",MX: Az Corazon Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/680
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Mundo" tvg-logo="" group-title="MEXICO TV",MX: Az Mundo
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/681
+#EXTINF:-1 tvg-id="" tvg-name="MX: Az Mundo Full HD" tvg-logo="" group-title="MEXICO TV",MX: Az Mundo Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/682
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca 7" tvg-logo="" group-title="MEXICO TV",MX: Azteca 7
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/683
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca 7 Full HD" tvg-logo="" group-title="MEXICO TV",MX: Azteca 7 Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/684
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca Uno" tvg-logo="" group-title="MEXICO TV",MX: Azteca Uno
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/685
+#EXTINF:-1 tvg-id="" tvg-name="MX: Azteca Uno Full HD" tvg-logo="" group-title="MEXICO TV",MX: Azteca Uno Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/686
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 2 Full HD" tvg-logo="" group-title="MEXICO TV",MX: Canal 2 Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/687
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 4 Full HD" tvg-logo="" group-title="MEXICO TV",MX: Canal 4 Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/688
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 5" tvg-logo="" group-title="MEXICO TV",MX: Canal 5
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/689
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 5 Full HD" tvg-logo="" group-title="MEXICO TV",MX: Canal 5 Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/690
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 Full HD" tvg-logo="" group-title="MEXICO TV",MX: Canal 8 Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/691
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Judicial" tvg-logo="" group-title="MEXICO TV",MX: Canal Judicial
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/692
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal Judicial Full HD" tvg-logo="" group-title="MEXICO TV",MX: Canal Judicial Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/693
+#EXTINF:-1 tvg-id="" tvg-name="MX: Congreso de la Union" tvg-logo="" group-title="MEXICO TV",MX: Congreso de la Union
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/694
+#EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia" tvg-logo="" group-title="MEXICO TV",MX: Distrito Comedia
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/695
+#EXTINF:-1 tvg-id="" tvg-name="MX: Foro TV" tvg-logo="" group-title="MEXICO TV",MX: Foro TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/696
+#EXTINF:-1 tvg-id="" tvg-name="MX: Foro TV Full HD" tvg-logo="" group-title="MEXICO TV",MX: Foro TV Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/697
+#EXTINF:-1 tvg-id="" tvg-name="MX: Galatv" tvg-logo="" group-title="MEXICO TV",MX: Galatv
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/698
+#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV" tvg-logo="" group-title="MEXICO TV",MX: Garage TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/699
+#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV Full HD" tvg-logo="" group-title="MEXICO TV",MX: Garage TV Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/700
+#EXTINF:-1 tvg-id="" tvg-name="MX: Glitz" tvg-logo="" group-title="MEXICO TV",MX: Glitz
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/701
+#EXTINF:-1 tvg-id="" tvg-name="MX: Hola TV" tvg-logo="" group-title="MEXICO TV",MX: Hola TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/702
+#EXTINF:-1 tvg-id="" tvg-name="MX: Hola TV Full HD" tvg-logo="" group-title="MEXICO TV",MX: Hola TV Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/703
+#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="" group-title="MEXICO TV",MX: Imagen TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/704
+#EXTINF:-1 tvg-id="" tvg-name="MX: Mas Chic" tvg-logo="" group-title="MEXICO TV",MX: Mas Chic
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/705
+#EXTINF:-1 tvg-id="" tvg-name="MX: Mas Chic Full HD" tvg-logo="" group-title="MEXICO TV",MX: Mas Chic Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/706
+#EXTINF:-1 tvg-id="" tvg-name="MX: Mexiquense" tvg-logo="" group-title="MEXICO TV",MX: Mexiquense
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/707
+#EXTINF:-1 tvg-id="" tvg-name="MX: Milenio TV" tvg-logo="" group-title="MEXICO TV",MX: Milenio TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/708
+#EXTINF:-1 tvg-id="" tvg-name="MX: Milenio TV Full HD" tvg-logo="" group-title="MEXICO TV",MX: Milenio TV Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/709
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios" tvg-logo="" group-title="MEXICO TV",MX: Multimedios
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/710
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Full HD" tvg-logo="" group-title="MEXICO TV",MX: Multimedios Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/711
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Plus" tvg-logo="" group-title="MEXICO TV",MX: Multimedios Plus
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/712
+#EXTINF:-1 tvg-id="" tvg-name="MX: Multimedios Plus Full HD" tvg-logo="" group-title="MEXICO TV",MX: Multimedios Plus Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/713
+#EXTINF:-1 tvg-id="" tvg-name="MX: Teleformula" tvg-logo="" group-title="MEXICO TV",MX: Teleformula
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/714
+#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa MTY" tvg-logo="" group-title="MEXICO TV",MX: Televisa MTY
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/715
+#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Puebla" tvg-logo="" group-title="MEXICO TV",MX: Televisa Puebla
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/716
+#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Puebla Full HD" tvg-logo="" group-title="MEXICO TV",MX: Televisa Puebla Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/717
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mas" tvg-logo="" group-title="MEXICO TV",MX: TV Mas
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/718
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV Mas Full HD" tvg-logo="" group-title="MEXICO TV",MX: TV Mas Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/719
+#EXTINF:-1 tvg-id="" tvg-name="MX: TV4 Leon Guanajuato" tvg-logo="" group-title="MEXICO TV",MX: TV4 Leon Guanajuato
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/720
+#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="" group-title="MEXICO TV",MX: Unicable
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/721
+#EXTINF:-1 tvg-id="" tvg-name="MX: Unicable Full HD" tvg-logo="" group-title="MEXICO TV",MX: Unicable Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/722
+#EXTINF:-1 tvg-id="" tvg-name="MX: TL Novelas" tvg-logo="" group-title="MEXICO TV",MX: TL Novelas
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/723
+#EXTINF:-1 tvg-id="" tvg-name="MX: Wobi TV Full HD" tvg-logo="" group-title="MEXICO TV",MX: Wobi TV Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/724
+#EXTINF:-1 tvg-id="" tvg-name="MX: Wobi TV" tvg-logo="" group-title="MEXICO TV",MX: Wobi TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/725
+#EXTINF:-1 tvg-id="" tvg-name="MX: Aprende TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/Aprende-TV-en-vivo-Online.png" group-title="MEXICO TV",MX: Aprende TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/726
+#EXTINF:-1 tvg-id="" tvg-name="MX: Telesecundaria TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/TeleSecundaria-en-vivo-Online-1.png" group-title="MEXICO TV",MX: Telesecundaria TV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/727
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="" group-title="DEPORTE LATINO",Directv Sports Plus
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/748
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 2 Sur" tvg-logo="" group-title="DEPORTE LATINO",SP: Espn 2 Sur
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/163
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1" tvg-logo="" group-title="DEPORTE LATINO",SP: MX: Espn 1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/171
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 3 Sur" tvg-logo="" group-title="DEPORTE LATINO",SP: Espn 3 Sur
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/165
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 1" tvg-logo="" group-title="DEPORTE LATINO",SP: MX: Fox Sports 1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/167
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 2 Sur" tvg-logo="" group-title="DEPORTE LATINO",SP: Fox Sports 2 Sur
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/92
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur" tvg-logo="" group-title="DEPORTE LATINO",SP: Fox Sports 1 Sur
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/90
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 2" tvg-logo="" group-title="DEPORTE LATINO",SP: MX: Espn 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/173
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X1" tvg-logo="" group-title="DEPORTE LATINO",SP: MX: TUDN X1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/175
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports" tvg-logo="" group-title="DEPORTE LATINO",SP: ARG: TNT Sports
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/177
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local" tvg-logo="" group-title="DEPORTE LATINO",SP: ARG: TyC Sports Local
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/178
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="" group-title="DEPORTE LATINO",SP: ARG: TyC Sports Internacional SD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/179
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Bolivia Deportes" tvg-logo="" group-title="DEPORTE LATINO",SP: BO: Bolivia Deportes
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/183
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Premium" tvg-logo="" group-title="DEPORTE LATINO",SP: CL: CDO Premium
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/187
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 2" tvg-logo="" group-title="DEPORTE LATINO",SP: CL: Fox Sports 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/190
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Claro Sports Latinoamerica" tvg-logo="" group-title="DEPORTE LATINO",SP: CO: Claro Sports Latinoamerica
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/193
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Movistar Deportes" tvg-logo="" group-title="DEPORTE LATINO",SP: PE: Movistar Deportes
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/199
+#EXTINF:-1 tvg-id="" tvg-name="SP: PY: Tigo Sports" tvg-logo="" group-title="DEPORTE LATINO",SP: PY: Tigo Sports
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/201
+#EXTINF:-1 tvg-id="" tvg-name="SP: UY: Eventos 1" tvg-logo="" group-title="DEPORTE LATINO",SP: UY: Eventos 1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/202
+#EXTINF:-1 tvg-id="" tvg-name="SP: CR: FUTV" tvg-logo="" group-title="DEPORTE LATINO",SP: CR: FUTV
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/203
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports N" tvg-logo="" group-title="DEPORTE LATINO",BEIN Sports N
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/743
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 1" tvg-logo="" group-title="DEPORTE LATINO",Directv Sports 1
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/746
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2" tvg-logo="" group-title="DEPORTE LATINO",SP: ARG: Fox Sports 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/181
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Espn 3" tvg-logo="" group-title="DEPORTE LATINO",SP: ARG: Espn 3
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/182
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X2" tvg-logo="" group-title="DEPORTE LATINO",SP: MX: TUDN X2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/176
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="" group-title="DEPORTE LATINO",Directv Sports 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/747
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Football HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: UK: Sky Sports Football HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/51
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: BT Sport 2 HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: UK: BT Sport 2 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/52
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: BT Sport ESPN HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: UK: BT Sport ESPN HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/53
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: MUTV HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: UK: MUTV HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/55
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: LFC HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: UK: LFC HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/56
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: Fox Sports 1 Sur HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/91
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 2 Sur HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: Fox Sports 2 Sur HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/162
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 2 Sur HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: Espn 2 Sur HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/164
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 3 Sur HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: Espn 3 Sur HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/166
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 1 HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: MX: Fox Sports 1 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/168
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 2 HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: MX: Fox Sports 2 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/170
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1 HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: MX: Espn 1 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/172
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 2 HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: MX: Espn 2 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/174
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 1 HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: BO: Tigo Sports 1 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/184
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: El Canal del Futbol HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: EC: El Canal del Futbol HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/194
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: EC: Gol TV HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/195
+#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports FC HD" tvg-logo="" group-title="DEPORTE LATINO HD",SP: PA: CableOnda Sports FC HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/231
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD" tvg-logo="https://www.envivofutbol.tv/wp-content/uploads/2020/03/canales-para-ver-afizzionados-tv-en-vivo.jpg" group-title="DEPORTE LATINO HD",Afizzionados HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/735
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Liga Española HD" tvg-logo="https://comparaiso.es/sites/default/files/images/portada-sky-sports.jpg" group-title="DEPORTE LATINO HD",Sky Sports Liga Española HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/736
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Latino HD" tvg-logo="https://comparaiso.es/sites/default/files/images/portada-sky-sports.jpg" group-title="DEPORTE LATINO HD",Sky Sports Latino HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/737
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports N HD" tvg-logo="" group-title="DEPORTE LATINO HD",BEIN Sports N HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/744
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Eurosport 2 FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: UK: Eurosport 2 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/54
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports Premium FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: ARG: Fox Sports Premium FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/180
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF Full HD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CL: CDF Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/185
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Estadio CDF Full HD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CL: Estadio CDF Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/186
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Premium FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CL: CDO Premium FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/188
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 2 FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CL: Fox Sports 2 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/189
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 3 FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CL: Fox Sports 3 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/191
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Win Sports Full HD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CO: Win Sports Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/192
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: EC: Gol TV FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/196
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV 2 FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: EC: Gol TV 2 FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/197
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports Plus Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="DEPORTE LATINO FHD",Win Sports Plus Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/750
+#EXTINF:-1 tvg-id="" tvg-name="BEIN Sports N Full HD" tvg-logo="" group-title="DEPORTE LATINO FHD",BEIN Sports N Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/745
+#EXTINF:-1 tvg-id="" tvg-name="SP: CR: Tigo Sports FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: CR: Tigo Sports FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/204
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Directv Ecuador FHD" tvg-logo="" group-title="DEPORTE LATINO FHD",SP: EC: Directv Ecuador FHD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/198
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E (CO)" tvg-logo="https://liberador.net/media/images/AE.max-640x640.jpg" group-title="CINE TV",Cine TV: A&E (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/854
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A&E (MX)" tvg-logo="https://liberador.net/media/images/AE.max-640x640.jpg" group-title="CINE TV",Cine TV: A&E (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/855
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AMC (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="CINE TV",Cine TV: AMC (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/856
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AMC (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png" group-title="CINE TV",Cine TV: AMC (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/857
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AXN (CO)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="CINE TV",Cine TV: AXN (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/858
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: AXN (MX)" tvg-logo="https://image.flaticon.com/icons/png/512/870/870885.png" group-title="CINE TV",Cine TV: AXN (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/859
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE TV",Cine TV: Cinecanal (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/860
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinecanal (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE TV",Cine TV: Cinecanal (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/861
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE TV",Cine TV: Cine Latino
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/862
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Dinamita" tvg-logo="https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png" group-title="CINE TV",Cine TV: Cinema Dinamita
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/863
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Channel (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="CINE TV",Cine TV: Fox Channel (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/864
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Channel (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="CINE TV",Cine TV: Fox Channel (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/865
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Life (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CINE TV",Cine TV: Fox Life (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/866
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Life (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="CINE TV",Cine TV: Fox Life (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/867
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Cinema Subtitulado" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="CINE TV",Cine TV: Fox Cinema Subtitulado
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/868
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Action (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="CINE TV",Cine TV: Fox Premium Action (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/869
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Action (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="CINE TV",Cine TV: Fox Premium Action (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/870
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Cinema" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-cinema-blanco.png.8267a80d9cea1d104e0a5269171d158b.png" group-title="CINE TV",Cine TV: Fox Premium Cinema
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/871
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Classics" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png" group-title="CINE TV",Cine TV: Fox Premium Classics
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/872
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" group-title="CINE TV",Cine TV: TNT (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/873
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Universal Channel (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="CINE TV",Cine TV: Universal Channel (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/874
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Comedy HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496412/FOX_Comedy_HD.png" group-title="CINE TV HD",Cine TV: Fox Premium Comedy HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/875
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Family HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023497132/FOX_Family_HD.png" group-title="CINE TV HD",Cine TV: Fox Premium Family HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/876
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Movies HD" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023496832/FOX_Movies_HD.png" group-title="CINE TV HD",Cine TV: Fox Premium Movies HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/877
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: De Pelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE TV HD",Cine TV: De Pelicula
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/878
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Panico HD" tvg-logo="https://forounivers.com/uploads/monthly_2018_04/small.581ff9ae225ca_CanalPanicoHD.png.8640d620c0cc229b1481d442817a9b07.png" group-title="CINE TV HD",Cine TV: Panico HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/879
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: TNT Series HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/1200px-TNT_Serie_HD.svg.png" group-title="CINE TV HD",Cine TV: TNT Series HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/880
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Film & Arts HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="CINE TV HD",Cine TV: Film & Arts HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/881
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Showtime 2 HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOTO.png" group-title="CINE TV HD",Cine TV: Showtime 2 HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/882
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Showtime Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/1280px-Showtime_Extreme.svg.png" group-title="CINE TV HD",Cine TV: Showtime Extreme HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/883
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A Estrenar Full HD" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png" group-title="CINE TV FHD",Cine TV: A Estrenar Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/884
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Disney Familia Full HD" tvg-logo="" group-title="CINE TV FHD",Cine TV: Cinema Disney Familia Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/885
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Disney Pixar Full HD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/onw_las_tt_rgb_01f_4da218f7.png" group-title="CINE TV FHD",Cine TV: Cinema Disney Pixar Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/886
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Dreamworks Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" group-title="CINE TV FHD",Cine TV: Cinema Dreamworks Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/887
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema DC Universe Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/DCUniverse.svg/1200px-DCUniverse.svg.png" group-title="CINE TV FHD",Cine TV: Cinema DC Universe Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/888
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema DC Comics Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/1200px-DC_Comics_logo.svg.png" group-title="CINE TV FHD",Cine TV: Cinema DC Comics Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/889
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Marvel Studio Full HD" tvg-logo="https://i.pinimg.com/originals/40/61/a0/4061a0f5b536c0bacae08ab14e5d3ed3.jpg" group-title="CINE TV FHD",Cine TV: Cinema Marvel Studio Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/890
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Fox Premium Series Full HD (ARG)(Dual Audio)" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023495632/FOX_Series_HD.png" group-title="CINE TV FHD",Cine TV: Fox Premium Series Full HD (ARG)(Dual Audio)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/891
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png" group-title="CINE TV FHD",Cine TV: Golden Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/892
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Premier Full HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINE TV FHD",Cine TV: Golden Premier Full HD
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/893
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Golden Plus Full HD (MX)" tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.logo-golden-plus.png.d8b04c2467807f33fffcde0c425cf0c1.png" group-title="CINE TV FHD",Cine TV: Golden Plus Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/894
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Paramount Channel Full HD (CO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/ParamountNetwork.png" group-title="CINE TV FHD",Cine TV: Paramount Channel Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/895
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sony Full HD (CO)" tvg-logo="https://logos-marcas.com/wp-content/uploads/2020/04/Sony-Logo.png" group-title="CINE TV FHD",Cine TV: Sony Full HD (CO)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/896
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Space Full HD (MX)" tvg-logo="https://2.bp.blogspot.com/-GZgmMHQIHwY/VMfsbRE0NwI/AAAAAAAAABc/QwN2othWi7A/s1600/space%2Ben%2Bvivo%2Bonline.PNG" group-title="CINE TV FHD",Cine TV: Space Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/897
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Studio Universal Full HD (MX)" tvg-logo="https://i.pinimg.com/originals/49/81/6a/49816a3abc55802c1442d81bd8498ca7.jpg" group-title="CINE TV FHD",Cine TV: Studio Universal Full HD (MX)
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/898
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO" tvg-logo="" group-title="HBO",Cine TV: HBO
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/908
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO 2" tvg-logo="" group-title="HBO",Cine TV: HBO 2
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/909
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Family" tvg-logo="" group-title="HBO",Cine TV: HBO Family
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/910
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Plus" tvg-logo="" group-title="HBO",Cine TV: HBO Plus
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/911
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Signature" tvg-logo="" group-title="HBO",Cine TV: HBO Signature
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/912
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Subtitulado" tvg-logo="" group-title="HBO",Cine TV: HBO Subtitulado
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/913
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Mundi" tvg-logo="" group-title="HBO",Cine TV: HBO Mundi
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/914
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Pop" tvg-logo="" group-title="HBO",Cine TV: HBO Pop
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/915
+#EXTINF:-1 tvg-id="" tvg-name="Cine TV: HBO Xtreme" tvg-logo="" group-title="HBO",Cine TV: HBO Xtreme
+http://emiraytv.ddns.net:8799/BuscaEmirayTV_EnFacebook./GanaListaPremium/916
