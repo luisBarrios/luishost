@@ -11,3 +11,5 @@ https://ul.cdn946.net:8443/hls/uy2bun1ra.m3u8?s=BGl9aeBC5yrJHvqF4LDD1A&e=1598156
 https://u65464.cdn884.net:8443/hls/3gs5nd5d.m3u8?s=jNtKf9QtD5qQvZfqQ-Il2A&e=1598143879
 #EXTINF:-1 group-title="Deportes",espn 2 sur
 https://u86715.cdn884.net:8443/hls/vgeso3z2.m3u8?s=Y1tlowpaLpxXeftADDZDbg&e=1598144502
+#EXTINF:-1 group-title="Cine",hbo pop
+https://u65464.cdn884.net:8443/hls/9o4a8-47929500.ts
