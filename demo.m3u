@@ -1,3 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="mexico",fox action
+#EXTINF:-1 group-title="Cine",fox action
 https://ul.cdn946.net:8443/hls/n42k42q.m3u8?s=sSSVeY2m3hN9fGjDCdi3bQ&e=1598136280
+#EXTINF:-1 group-title="Deportes",bein sport
+https://ul.cdn946.net:8443/hls/xvszxjlw5aa.m3u8?s=xGPgi5kHFbropPKgr35SVg&e=1598137274
+#EXTINF:-1 group-title="Deportes",espn 3
+https://u86715.cdn884.net:8443/hls/u3y1gg9q.m3u8?s=NSs1el9TNJn5L6yBeqEPDw&e=1598143502
+#EXTINF:-1 group-title="Mexico",azteca 7
+https://paredo11.pedromo.me/live/azteca7/index.m3u8?token=I-hDBkZg9A4RSihtQdmk1Q&expires=1598208563
+#EXTINF:-1 group-title="entretenimiento",distrito comedia 
+https://u65464.cdn884.net:8443/hls/3gs5nd5d.m3u8?s=jNtKf9QtD5qQvZfqQ-Il2A&e=1598143879
+#EXTINF:-1 group-title="Deportes",espn 2 sur
+https://u86715.cdn884.net:8443/hls/vgeso3z2.m3u8?s=Y1tlowpaLpxXeftADDZDbg&e=1598144502
