@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Cine",fox action
 https://ul.cdn946.net:8443/hls/n42k42q.m3u8?s=sSSVeY2m3hN9fGjDCdi3bQ&e=1598136280
+#EXTINF:-1 group-title="Cine",fox action opcion2
+https://ul.cdn946.net:8443/hls/7xrwf2-1487046960.ts
 #EXTINF:-1 group-title="Deportes",bein spor
 https://ul.cdn946.net:8443/hls/xvszxjlw5aa.m3u8?s=xGPgi5kHFbropPKgr35SVg&e=1598137274
 #EXTINF:-1 group-title="Deportes",espn 3
