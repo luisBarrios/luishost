@@ -1,4 +1,365 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
+http://blackaddon.com/scr/ag1.php?c=278&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
+http://blackaddon.com/scr/ag1.php?c=279&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
+http://blackaddon.com/scr/ag1.php?c=280&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
+http://blackaddon.com/scr/ag1.php?c=281&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
+http://blackaddon.com/scr/ag1.php?c=282&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
+http://blackaddon.com/scr/ag1.php?c=283&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
+http://blackaddon.com/scr/ag1.php?c=284&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
+http://blackaddon.com/scr/ag1.php?c=285&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
+http://blackaddon.com/scr/ag1.php?c=286&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
+http://blackaddon.com/scr/ag1.php?c=287&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
+http://blackaddon.com/scr/ag1.php?c=288&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
+http://blackaddon.com/scr/ag1.php?c=289&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
+http://blackaddon.com/scr/ag1.php?c=291&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
+http://blackaddon.com/scr/ag1.php?c=292&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
+http://blackaddon.com/scr/ag1.php?c=293&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
+http://blackaddon.com/scr/ag1.php?c=295&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
+http://blackaddon.com/scr/ag1.php?c=297&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
+http://blackaddon.com/scr/ag1.php?c=299&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
+http://blackaddon.com/scr/ag1.php?c=300&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
+http://blackaddon.com/scr/ag1.php?c=301&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
+http://blackaddon.com/scr/ag1.php?c=302&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
+http://blackaddon.com/scr/ag1.php?c=303&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
+http://blackaddon.com/scr/ag1.php?c=304&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
+http://blackaddon.com/scr/ag1.php?c=305&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
+http://blackaddon.com/scr/ag1.php?c=308&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
+http://blackaddon.com/scr/ag1.php?c=309&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
+http://blackaddon.com/scr/ag1.php?c=310&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
+http://blackaddon.com/scr/ag1.php?c=311&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
+http://blackaddon.com/scr/ag1.php?c=312&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
+http://blackaddon.com/scr/ag1.php?c=313&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
+http://blackaddon.com/scr/ag1.php?c=314&f=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",NBC Universo
+http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",A&E
+http://blackaddon.com/scr/ag1.php?c=1&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",AXN
+http://blackaddon.com/scr/ag1.php?c=2&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Az Corazon
+http://blackaddon.com/scr/ag1.php?c=4&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Az Mundo
+http://blackaddon.com/scr/ag1.php?c=5&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",AMC
+http://blackaddon.com/scr/ag1.php?c=7&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",BBC World
+http://blackaddon.com/scr/ag1.php?c=10&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Baby TV
+http://blackaddon.com/scr/ag1.php?c=11&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Bloomberg
+http://blackaddon.com/scr/ag1.php?c=13&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",CNN Espanol
+http://blackaddon.com/scr/ag1.php?c=14&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",CNN Internacional
+http://blackaddon.com/scr/ag1.php?c=15&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cable Noticias
+http://blackaddon.com/scr/ag1.php?c=16&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Canal Claro
+http://blackaddon.com/scr/ag1.php?c=17&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Canal de las estrellas Latino
+http://blackaddon.com/scr/ag1.php?c=18&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cartoon Network
+http://blackaddon.com/scr/ag1.php?c=21&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cine Canal
+http://blackaddon.com/scr/ag1.php?c=22&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cine Latino
+http://blackaddon.com/scr/ag1.php?c=23&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",City TV
+http://blackaddon.com/scr/ag1.php?c=26&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Cinema
+http://blackaddon.com/scr/ag1.php?c=27&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Music 1
+http://blackaddon.com/scr/ag1.php?c=28&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Music 2
+http://blackaddon.com/scr/ag1.php?c=29&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Sports
+http://blackaddon.com/scr/ag1.php?c=30&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Sports Latinoamerica
+http://blackaddon.com/scr/ag1.php?c=31&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Comedy Central
+http://blackaddon.com/scr/ag1.php?c=32&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Concert Channel
+http://blackaddon.com/scr/ag1.php?c=33&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",DHE
+http://blackaddon.com/scr/ag1.php?c=34&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",DW
+http://blackaddon.com/scr/ag1.php?c=35&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",DW America
+http://blackaddon.com/scr/ag1.php?c=36&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",De Pelicula
+http://blackaddon.com/scr/ag1.php?c=37&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Dia TV
+http://blackaddon.com/scr/ag1.php?c=38&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Channel
+http://blackaddon.com/scr/ag1.php?c=39&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Home and Health
+http://blackaddon.com/scr/ag1.php?c=40&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Kids
+http://blackaddon.com/scr/ag1.php?c=41&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Science
+http://blackaddon.com/scr/ag1.php?c=42&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Theater
+http://blackaddon.com/scr/ag1.php?c=43&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Turbo
+http://blackaddon.com/scr/ag1.php?c=44&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery World
+http://blackaddon.com/scr/ag1.php?c=45&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Disney
+http://blackaddon.com/scr/ag1.php?c=46&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Disney JR
+http://blackaddon.com/scr/ag1.php?c=47&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Disney XD
+http://blackaddon.com/scr/ag1.php?c=48&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",E !
+http://blackaddon.com/scr/ag1.php?c=49&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",El Gourmet
+http://blackaddon.com/scr/ag1.php?c=50&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 1 Sur
+http://blackaddon.com/scr/ag1.php?c=51&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 2 Sur
+http://blackaddon.com/scr/ag1.php?c=52&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 3 Sur
+http://blackaddon.com/scr/ag1.php?c=53&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn Plus Sur
+http://blackaddon.com/scr/ag1.php?c=54&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Europa Europa
+http://blackaddon.com/scr/ag1.php?c=55&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",FX
+http://blackaddon.com/scr/ag1.php?c=56&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox
+http://blackaddon.com/scr/ag1.php?c=57&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Action
+http://blackaddon.com/scr/ag1.php?c=58&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Cinema
+http://blackaddon.com/scr/ag1.php?c=60&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Cinema Subtitulado
+http://blackaddon.com/scr/ag1.php?c=61&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Classics
+http://blackaddon.com/scr/ag1.php?c=62&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Comedy
+http://blackaddon.com/scr/ag1.php?c=63&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Family
+http://blackaddon.com/scr/ag1.php?c=64&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Life
+http://blackaddon.com/scr/ag1.php?c=65&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Movies
+http://blackaddon.com/scr/ag1.php?c=67&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox News
+http://blackaddon.com/scr/ag1.php?c=68&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series
+http://blackaddon.com/scr/ag1.php?c=69&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series Subtitulado
+http://blackaddon.com/scr/ag1.php?c=70&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 1 MX
+http://blackaddon.com/scr/ag1.php?c=71&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 1 Sur
+http://blackaddon.com/scr/ag1.php?c=72&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 2 Sur
+http://blackaddon.com/scr/ag1.php?c=73&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 2 MX
+http://blackaddon.com/scr/ag1.php?c=74&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 3 MX
+http://blackaddon.com/scr/ag1.php?c=75&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 3 Sur
+http://blackaddon.com/scr/ag1.php?c=76&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",France 24
+http://blackaddon.com/scr/ag1.php?c=77&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fx Movie
+http://blackaddon.com/scr/ag1.php?c=78&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Glitz
+http://blackaddon.com/scr/ag1.php?c=80&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Golden
+http://blackaddon.com/scr/ag1.php?c=81&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Golden Premium
+http://blackaddon.com/scr/ag1.php?c=82&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Golf Channel
+http://blackaddon.com/scr/ag1.php?c=83&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO
+http://blackaddon.com/scr/ag1.php?c=84&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO 2
+http://blackaddon.com/scr/ag1.php?c=85&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Family
+http://blackaddon.com/scr/ag1.php?c=86&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Signature
+http://blackaddon.com/scr/ag1.php?c=87&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Subtitulado
+http://blackaddon.com/scr/ag1.php?c=88&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO plus
+http://blackaddon.com/scr/ag1.php?c=89&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HLN
+http://blackaddon.com/scr/ag1.php?c=90&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",HTV
+http://blackaddon.com/scr/ag1.php?c=91&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",History Channel
+http://blackaddon.com/scr/ag1.php?c=92&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",H2
+http://blackaddon.com/scr/ag1.php?c=93&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Hola TV
+http://blackaddon.com/scr/ag1.php?c=94&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",I.Sat
+http://blackaddon.com/scr/ag1.php?c=95&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Investigation Discovery
+http://blackaddon.com/scr/ag1.php?c=96&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Lifetime
+http://blackaddon.com/scr/ag1.php?c=97&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",MTV
+http://blackaddon.com/scr/ag1.php?c=98&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",MTV Hits
+http://blackaddon.com/scr/ag1.php?c=99&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Mas Chic
+http://blackaddon.com/scr/ag1.php?c=100&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Win Sports
+http://blackaddon.com/scr/ag1.php?c=101&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Warner Channel
+http://blackaddon.com/scr/ag1.php?c=102&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Vh1 Classic
+http://blackaddon.com/scr/ag1.php?c=103&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Vh1
+http://blackaddon.com/scr/ag1.php?c=104&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Univision
+http://blackaddon.com/scr/ag1.php?c=105&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Universal Channel
+http://blackaddon.com/scr/ag1.php?c=106&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Unicable
+http://blackaddon.com/scr/ag1.php?c=107&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Tru TV
+http://blackaddon.com/scr/ag1.php?c=108&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Tve
+http://blackaddon.com/scr/ag1.php?c=109&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Tooncast
+http://blackaddon.com/scr/ag1.php?c=110&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Telemundo 
+http://blackaddon.com/scr/ag1.php?c=111&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",TNT Series
+http://blackaddon.com/scr/ag1.php?c=112&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",TNT
+http://blackaddon.com/scr/ag1.php?c=113&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",TLC
+http://blackaddon.com/scr/ag1.php?c=114&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",TCM
+http://blackaddon.com/scr/ag1.php?c=115&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",TBS
+http://blackaddon.com/scr/ag1.php?c=116&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Sundance Channel
+http://blackaddon.com/scr/ag1.php?c=117&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Studio Universal
+http://blackaddon.com/scr/ag1.php?c=118&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Space
+http://blackaddon.com/scr/ag1.php?c=119&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Sony
+http://blackaddon.com/scr/ag1.php?c=120&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Pasiones
+http://blackaddon.com/scr/ag1.php?c=122&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Paramount Channel
+http://blackaddon.com/scr/ag1.php?c=123&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nickelodeon
+http://blackaddon.com/scr/ag1.php?c=124&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nick Jr
+http://blackaddon.com/scr/ag1.php?c=125&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nick 2
+http://blackaddon.com/scr/ag1.php?c=126&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Wild
+http://blackaddon.com/scr/ag1.php?c=127&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Mex
+http://blackaddon.com/scr/ag1.php?c=128&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Kids Mex
+http://blackaddon.com/scr/ag1.php?c=129&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Kids
+http://blackaddon.com/scr/ag1.php?c=130&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",National Geographic Channel
+http://blackaddon.com/scr/ag1.php?c=131&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Mtv Live
+http://blackaddon.com/scr/ag1.php?c=133&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Max Up
+http://blackaddon.com/scr/ag1.php?c=134&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Max Prime
+http://blackaddon.com/scr/ag1.php?c=135&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Max
+http://blackaddon.com/scr/ag1.php?c=136&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn U
+http://blackaddon.com/scr/ag1.php?c=138&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn Sec Network
+http://blackaddon.com/scr/ag1.php?c=139&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn
+http://blackaddon.com/scr/ag1.php?c=140&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 2
+http://blackaddon.com/scr/ag1.php?c=141&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 3
+http://blackaddon.com/scr/ag1.php?c=142&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Galatv
+http://blackaddon.com/scr/ag1.php?c=143&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Las Estrellas
+http://blackaddon.com/scr/ag1.php?c=144&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Canal 5
+http://blackaddon.com/scr/ag1.php?c=145&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Azteca Uno
+http://blackaddon.com/scr/ag1.php?c=146&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Azteca 7
+http://blackaddon.com/scr/ag1.php?c=147&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",ADN 40
+http://blackaddon.com/scr/ag1.php?c=148&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Foro TV
+http://blackaddon.com/scr/ag1.php?c=149&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Multimedios
+http://blackaddon.com/scr/ag1.php?c=150&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",TelefÃ³rmula
+http://blackaddon.com/scr/ag1.php?c=151&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Televisa MTY
+http://blackaddon.com/scr/ag1.php?c=152&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Boomerang
+http://blackaddon.com/scr/ag1.php?c=153&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Distrito Comedia
+http://blackaddon.com/scr/ag1.php?c=154&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Baby First
+http://blackaddon.com/scr/ag1.php?c=155&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Animal Planet
+http://blackaddon.com/scr/ag1.php?c=315&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cinemax
+http://blackaddon.com/scr/ag1.php?c=316&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",DirecTV Sports 1
+http://blackaddon.com/scr/ag1.php?c=317&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",DirecTV Sports 2
+http://blackaddon.com/scr/ag1.php?c=318&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",DirecTV Sports Plus
+http://blackaddon.com/scr/ag1.php?c=319&f.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canales 1",Univision Deportes
+http://blackaddon.com/scr/ag1.php?c=320&f.m3u8
+
+
 //jalado de internet vence el 16 de septiembre
 
 #EXTINF:-1 tvg-id="" tvg-name="COL | CANAL CNC HD" tvg-logo="" group-title="COLOMBIA",COL | CANAL CNC HD
