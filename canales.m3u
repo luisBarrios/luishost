@@ -1021,6 +1021,1369 @@ http://23.237.173.123:8000/live/tvplayerapp/4xcv4x5/2.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Azteca 7" tvg-logo="" group-title="MEXICO",Azteca 7
 http://23.237.173.123:8000/live/tvplayerapp/4xcv4x5/1.ts
 
+//dflow zutv
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Caillou" tvg-logo="" group-title="24/7",24/7  Caillou
+http://zufreelist.net:8880/codezaltv/codezaltv/148
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CORAJE Agallas, el perro cobarde" tvg-logo="" group-title="24/7",24/7  CORAJE Agallas, el perro cobarde
+http://zufreelist.net:8880/codezaltv/codezaltv/167
+#EXTINF:-1 tvg-id="" tvg-name="24/7  CUENTRO GREEM" tvg-logo="" group-title="24/7",24/7  CUENTRO GREEM
+http://zufreelist.net:8880/codezaltv/codezaltv/169
+#EXTINF:-1 tvg-id="" tvg-name="24/7  DINOSAURIOS 1991" tvg-logo="" group-title="24/7",24/7  DINOSAURIOS 1991
+http://zufreelist.net:8880/codezaltv/codezaltv/173
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dragon Ball 1984" tvg-logo="" group-title="24/7",24/7  Dragon Ball 1984
+http://zufreelist.net:8880/codezaltv/codezaltv/174
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Los Simpson" tvg-logo="" group-title="24/7",24/7  Los Simpson
+http://zufreelist.net:8880/codezaltv/codezaltv/137
+#EXTINF:-1 tvg-id="" tvg-name="24/7  South Park" tvg-logo="" group-title="24/7",24/7  South Park
+http://zufreelist.net:8880/codezaltv/codezaltv/139
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Walking Dead" tvg-logo="" group-title="24/7",24/7  The Walking Dead
+http://zufreelist.net:8880/codezaltv/codezaltv/145
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="" group-title="24/7",24/7 ALF
+http://zufreelist.net:8880/codezaltv/codezaltv/171
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Barney y sus amigos" tvg-logo="" group-title="24/7",24/7 Barney y sus amigos
+http://zufreelist.net:8880/codezaltv/codezaltv/146
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BOB ESPONJA" tvg-logo="" group-title="24/7",24/7 BOB ESPONJA
+http://zufreelist.net:8880/codezaltv/codezaltv/147
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="" group-title="24/7",24/7 Breaking Bad
+http://zufreelist.net:8880/codezaltv/codezaltv/161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CABALLEROS DEL ZODIACO" tvg-logo="" group-title="24/7",24/7 CABALLEROS DEL ZODIACO
+http://zufreelist.net:8880/codezaltv/codezaltv/162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CANTINFLAS" tvg-logo="" group-title="24/7",24/7 CANTINFLAS
+http://zufreelist.net:8880/codezaltv/codezaltv/195
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI: Miami" tvg-logo="" group-title="24/7",24/7 CSI: Miami
+http://zufreelist.net:8880/codezaltv/codezaltv/168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Death note" tvg-logo="" group-title="24/7",24/7 Death note
+http://zufreelist.net:8880/codezaltv/codezaltv/193
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DESAFIO SOBRE FUEGO LATIN AMERICA" tvg-logo="" group-title="24/7",24/7 DESAFIO SOBRE FUEGO LATIN AMERICA
+http://zufreelist.net:8880/codezaltv/codezaltv/150
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT 1996" tvg-logo="" group-title="24/7",24/7 Dragon Ball GT 1996
+http://zufreelist.net:8880/codezaltv/codezaltv/175
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super" tvg-logo="" group-title="24/7",24/7 Dragon Ball Super
+http://zufreelist.net:8880/codezaltv/codezaltv/170
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z 1989" tvg-logo="" group-title="24/7",24/7 Dragon Ball Z 1989
+http://zufreelist.net:8880/codezaltv/codezaltv/176
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHAPULIN COLORADO" tvg-logo="" group-title="24/7",24/7 EL CHAPULIN COLORADO
+http://zufreelist.net:8880/codezaltv/codezaltv/177
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del 8" tvg-logo="" group-title="24/7",24/7 El Chavo del 8
+http://zufreelist.net:8880/codezaltv/codezaltv/164
+#EXTINF:-1 tvg-id="" tvg-name="24/7 EL CHEMA" tvg-logo="" group-title="24/7",24/7 EL CHEMA
+http://zufreelist.net:8880/codezaltv/codezaltv/165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="" group-title="24/7",24/7 El Coyote y el Correcaminos
+http://zufreelist.net:8880/codezaltv/codezaltv/149
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El señor de los cielos" tvg-logo="" group-title="24/7",24/7 El señor de los cielos
+http://zufreelist.net:8880/codezaltv/codezaltv/166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Escobar: el patrón del mal" tvg-logo="" group-title="24/7",24/7 Escobar: el patrón del mal
+http://zufreelist.net:8880/codezaltv/codezaltv/178
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama 1999" tvg-logo="" group-title="24/7",24/7 Futurama 1999
+http://zufreelist.net:8880/codezaltv/codezaltv/180
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Happy Tree Friends" tvg-logo="" group-title="24/7",24/7 Happy Tree Friends
+http://zufreelist.net:8880/codezaltv/codezaltv/151
+#EXTINF:-1 tvg-id="" tvg-name="24/7 He-Man" tvg-logo="" group-title="24/7",24/7 He-Man
+http://zufreelist.net:8880/codezaltv/codezaltv/182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HÉROES EN PIJAMAS" tvg-logo="" group-title="24/7",24/7 HÉROES EN PIJAMAS
+http://zufreelist.net:8880/codezaltv/codezaltv/157
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="" group-title="24/7",24/7 Juego de tronos
+http://zufreelist.net:8880/codezaltv/codezaltv/181
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA CASA DE PAPEL" tvg-logo="" group-title="24/7",24/7 LA CASA DE PAPEL
+http://zufreelist.net:8880/codezaltv/codezaltv/163
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster 1964" tvg-logo="" group-title="24/7",24/7 La Familia Monster 1964
+http://zufreelist.net:8880/codezaltv/codezaltv/185
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La hora pico" tvg-logo="" group-title="24/7",24/7 La hora pico
+http://zufreelist.net:8880/codezaltv/codezaltv/156
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="" group-title="24/7",24/7 La pantera rosa
+http://zufreelist.net:8880/codezaltv/codezaltv/154
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Risa en Vacaciones" tvg-logo="" group-title="24/7",24/7 La Risa en Vacaciones
+http://zufreelist.net:8880/codezaltv/codezaltv/152
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LA ROSA DE GUADALUPE" tvg-logo="" group-title="24/7",24/7 LA ROSA DE GUADALUPE
+http://zufreelist.net:8880/codezaltv/codezaltv/183
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" tvg-logo="" group-title="24/7",24/7 LazyTown
+http://zufreelist.net:8880/codezaltv/codezaltv/153
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LE TEMES ALA OSCURIDAD" tvg-logo="" group-title="24/7",24/7 LE TEMES ALA OSCURIDAD
+http://zufreelist.net:8880/codezaltv/codezaltv/194
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los años maravillosos 1988" tvg-logo="" group-title="24/7",24/7 Los años maravillosos 1988
+http://zufreelist.net:8880/codezaltv/codezaltv/188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
+http://zufreelist.net:8880/codezaltv/codezaltv/184
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Luis Miguel, la serie 2018" tvg-logo="" group-title="24/7",24/7 Luis Miguel, la serie 2018
+http://zufreelist.net:8880/codezaltv/codezaltv/186
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Malcolm in the middle 2000" tvg-logo="" group-title="24/7",24/7 Malcolm in the middle 2000
+http://zufreelist.net:8880/codezaltv/codezaltv/187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mazinger Z" tvg-logo="" group-title="24/7",24/7 Mazinger Z
+http://zufreelist.net:8880/codezaltv/codezaltv/189
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naruto" tvg-logo="" group-title="24/7",24/7 Naruto
+http://zufreelist.net:8880/codezaltv/codezaltv/190
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peliculas de terror" tvg-logo="" group-title="24/7",24/7 Peliculas de terror
+http://zufreelist.net:8880/codezaltv/codezaltv/143
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS; ESTRENOS 2018" tvg-logo="" group-title="24/7",24/7 PELICULAS; ESTRENOS 2018
+http://zufreelist.net:8880/codezaltv/codezaltv/179
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa PIG LA CERDITA" tvg-logo="" group-title="24/7",24/7 Peppa PIG LA CERDITA
+http://zufreelist.net:8880/codezaltv/codezaltv/155
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro 1995" tvg-logo="" group-title="24/7",24/7 Pinky y Cerebro 1995
+http://zufreelist.net:8880/codezaltv/codezaltv/191
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pokémon" tvg-logo="" group-title="24/7",24/7 Pokémon
+http://zufreelist.net:8880/codezaltv/codezaltv/192
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" tvg-logo="" group-title="24/7",24/7 Power Rangers
+http://zufreelist.net:8880/codezaltv/codezaltv/134
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robotech" tvg-logo="" group-title="24/7",24/7 Robotech
+http://zufreelist.net:8880/codezaltv/codezaltv/135
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sailor Moon" tvg-logo="" group-title="24/7",24/7 Sailor Moon
+http://zufreelist.net:8880/codezaltv/codezaltv/136
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 1" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 1
+http://zufreelist.net:8880/codezaltv/codezaltv/159
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Tank México TEP 2" tvg-logo="" group-title="24/7",24/7 Shark Tank México TEP 2
+http://zufreelist.net:8880/codezaltv/codezaltv/158
+#EXTINF:-1 tvg-id="" tvg-name="24/7 shera" tvg-logo="" group-title="24/7",24/7 shera
+http://zufreelist.net:8880/codezaltv/codezaltv/172
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smallville" tvg-logo="" group-title="24/7",24/7 Smallville
+http://zufreelist.net:8880/codezaltv/codezaltv/138
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Spider-Man" tvg-logo="" group-title="24/7",24/7 Spider-Man
+http://zufreelist.net:8880/codezaltv/codezaltv/140
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" tvg-logo="" group-title="24/7",24/7 Stranger Things
+http://zufreelist.net:8880/codezaltv/codezaltv/141
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Super Campeones" tvg-logo="" group-title="24/7",24/7 Super Campeones
+http://zufreelist.net:8880/codezaltv/codezaltv/142
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="" group-title="24/7",24/7 Thundercats
+http://zufreelist.net:8880/codezaltv/codezaltv/144
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XMEN ANIME" tvg-logo="" group-title="24/7",24/7 XMEN ANIME
+http://zufreelist.net:8880/codezaltv/codezaltv/160
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="" group-title="PELICULAS Y SERIES ",A&E
+http://zufreelist.net:8880/codezaltv/codezaltv/197
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="PELICULAS Y SERIES ",AMC
+http://zufreelist.net:8880/codezaltv/codezaltv/198
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="MUNDO Y CULTURA",Animal Planet
+http://zufreelist.net:8880/codezaltv/codezaltv/200
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="ENTRETENIMIENTO",Antena 3
+http://zufreelist.net:8880/codezaltv/codezaltv/201
+#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="" group-title="ENTRETENIMIENTO",Atres Series
+http://zufreelist.net:8880/codezaltv/codezaltv/202
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="PELICULAS Y SERIES ",AXN
+http://zufreelist.net:8880/codezaltv/codezaltv/199
+#EXTINF:-1 tvg-id="" tvg-name="Azcorazon" tvg-logo="" group-title="ENTRETENIMIENTO",Azcorazon
+http://zufreelist.net:8880/codezaltv/codezaltv/203
+#EXTINF:-1 tvg-id="" tvg-name="Azmundo" tvg-logo="" group-title="ENTRETENIMIENTO",Azmundo
+http://zufreelist.net:8880/codezaltv/codezaltv/204
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="NIÑOS",Baby TV
+http://zufreelist.net:8880/codezaltv/codezaltv/206
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="ENTRETENIMIENTO",BBC World
+http://zufreelist.net:8880/codezaltv/codezaltv/205
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="ENTRETENIMIENTO",Boomerang
+http://zufreelist.net:8880/codezaltv/codezaltv/207
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="ENTRETENIMIENTO",Canal Claro
+http://zufreelist.net:8880/codezaltv/codezaltv/210
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso" tvg-logo="" group-title="ENTRETENIMIENTO",Canal del Congreso
+http://zufreelist.net:8880/codezaltv/codezaltv/211
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="NIÑOS",Cartoon Network
+http://zufreelist.net:8880/codezaltv/codezaltv/212
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="PELICULAS Y SERIES ",Cine Latino
+http://zufreelist.net:8880/codezaltv/codezaltv/214
+#EXTINF:-1 tvg-id="" tvg-name="CineCanal" tvg-logo="" group-title="PELICULAS Y SERIES ",CineCanal
+http://zufreelist.net:8880/codezaltv/codezaltv/215
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="PELICULAS Y SERIES ",Cinema Dinamita
+http://zufreelist.net:8880/codezaltv/codezaltv/217
+#EXTINF:-1 tvg-id="" tvg-name="CineMax" tvg-logo="" group-title="PELICULAS Y SERIES ",CineMax
+http://zufreelist.net:8880/codezaltv/codezaltv/216
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="PELICULAS Y SERIES ",Claro Cinema
+http://zufreelist.net:8880/codezaltv/codezaltv/218
+#EXTINF:-1 tvg-id="" tvg-name="Claro Musica" tvg-logo="" group-title="ENTRETENIMIENTO",Claro Musica
+http://zufreelist.net:8880/codezaltv/codezaltv/219
+#EXTINF:-1 tvg-id="" tvg-name="CLARO SPORTS" tvg-logo="" group-title="DEPORTES ",CLARO SPORTS
+http://zufreelist.net:8880/codezaltv/codezaltv/208
+#EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="" group-title="ENTRETENIMIENTO",CONCERT CHANNEL
+http://zufreelist.net:8880/codezaltv/codezaltv/209
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="ENTRETENIMIENTO",Concert Channel
+http://zufreelist.net:8880/codezaltv/codezaltv/220
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="MUNDO Y CULTURA",Discovery Channel
+http://zufreelist.net:8880/codezaltv/codezaltv/221
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="MUNDO Y CULTURA",Discovery Civilization
+http://zufreelist.net:8880/codezaltv/codezaltv/222
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health" tvg-logo="" group-title="MUNDO Y CULTURA",Discovery Home & Health
+http://zufreelist.net:8880/codezaltv/codezaltv/223
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="NIÑOS",Discovery Kids
+http://zufreelist.net:8880/codezaltv/codezaltv/224
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="MUNDO Y CULTURA",Discovery Science
+http://zufreelist.net:8880/codezaltv/codezaltv/225
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="MUNDO Y CULTURA",Discovery Turbo
+http://zufreelist.net:8880/codezaltv/codezaltv/226
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="NIÑOS",Disney
+http://zufreelist.net:8880/codezaltv/codezaltv/227
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="NIÑOS",Disney JR
+http://zufreelist.net:8880/codezaltv/codezaltv/228
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="NIÑOS",Disney XD
+http://zufreelist.net:8880/codezaltv/codezaltv/229
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="" group-title="ENTRETENIMIENTO",E!
+http://zufreelist.net:8880/codezaltv/codezaltv/230
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="ENTRETENIMIENTO",El Gourmet
+http://zufreelist.net:8880/codezaltv/codezaltv/237
+#EXTINF:-1 tvg-id="" tvg-name="EURO Channel" tvg-logo="" group-title="PELICULAS Y SERIES ",EURO Channel
+http://zufreelist.net:8880/codezaltv/codezaltv/235
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="" group-title="ENTRETENIMIENTO",EWTN
+http://zufreelist.net:8880/codezaltv/codezaltv/236
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One" tvg-logo="" group-title="ENTRETENIMIENTO",Fashion One
+http://zufreelist.net:8880/codezaltv/codezaltv/250
+#EXTINF:-1 tvg-id="" tvg-name="Film & Arts" tvg-logo="" group-title="PELICULAS Y SERIES ",Film & Arts
+http://zufreelist.net:8880/codezaltv/codezaltv/251
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX
+http://zufreelist.net:8880/codezaltv/codezaltv/238
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX COMEDY
+http://zufreelist.net:8880/codezaltv/codezaltv/239
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://zufreelist.net:8880/codezaltv/codezaltv/240
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="ENTRETENIMIENTO",Fox News
+http://zufreelist.net:8880/codezaltv/codezaltv/252
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX SERIES
+http://zufreelist.net:8880/codezaltv/codezaltv/241
+#EXTINF:-1 tvg-id="" tvg-name="FOX+ACT" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+ACT
+http://zufreelist.net:8880/codezaltv/codezaltv/243
+#EXTINF:-1 tvg-id="" tvg-name="FOX+CLA" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+CLA
+http://zufreelist.net:8880/codezaltv/codezaltv/244
+#EXTINF:-1 tvg-id="" tvg-name="FOX+FAM" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+FAM
+http://zufreelist.net:8880/codezaltv/codezaltv/245
+#EXTINF:-1 tvg-id="" tvg-name="FOX+MOV" tvg-logo="" group-title="PELICULAS Y SERIES ",FOX+MOV
+http://zufreelist.net:8880/codezaltv/codezaltv/246
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="ENTRETENIMIENTO",FUTV
+http://zufreelist.net:8880/codezaltv/codezaltv/247
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="PELICULAS Y SERIES ",FX
+http://zufreelist.net:8880/codezaltv/codezaltv/248
+#EXTINF:-1 tvg-id="" tvg-name="FX Movies" tvg-logo="" group-title="PELICULAS Y SERIES ",FX Movies
+http://zufreelist.net:8880/codezaltv/codezaltv/249
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="PELICULAS Y SERIES ",Golden
+http://zufreelist.net:8880/codezaltv/codezaltv/255
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="ENTRETENIMIENTO",Golf Channel
+http://zufreelist.net:8880/codezaltv/codezaltv/256
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="MUNDO Y CULTURA",H2
+http://zufreelist.net:8880/codezaltv/codezaltv/257
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO
+http://zufreelist.net:8880/codezaltv/codezaltv/258
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO Family
+http://zufreelist.net:8880/codezaltv/codezaltv/259
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO Plus
+http://zufreelist.net:8880/codezaltv/codezaltv/260
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO2
+http://zufreelist.net:8880/codezaltv/codezaltv/261
+#EXTINF:-1 tvg-id="" tvg-name="Headline News" tvg-logo="" group-title="ENTRETENIMIENTO",Headline News
+http://zufreelist.net:8880/codezaltv/codezaltv/262
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="MUNDO Y CULTURA",History Channel
+http://zufreelist.net:8880/codezaltv/codezaltv/263
+#EXTINF:-1 tvg-id="" tvg-name="Hola!TV" tvg-logo="" group-title="ENTRETENIMIENTO",Hola!TV
+http://zufreelist.net:8880/codezaltv/codezaltv/264
+#EXTINF:-1 tvg-id="" tvg-name="ID" tvg-logo="" group-title="ENTRETENIMIENTO",ID
+http://zufreelist.net:8880/codezaltv/codezaltv/265
+#EXTINF:-1 tvg-id="" tvg-name="LAT*11 - Repretel" tvg-logo="" group-title="PAISES (VARIOS)",LAT*11 - Repretel
+http://zufreelist.net:8880/codezaltv/codezaltv/85
+#EXTINF:-1 tvg-id="" tvg-name="LAT*13-Sinart" tvg-logo="" group-title="PAISES (VARIOS)",LAT*13-Sinart
+http://zufreelist.net:8880/codezaltv/codezaltv/86
+#EXTINF:-1 tvg-id="" tvg-name="LAT*29 - VM Latino" tvg-logo="" group-title="PAISES (VARIOS)",LAT*29 - VM Latino
+http://zufreelist.net:8880/codezaltv/codezaltv/87
+#EXTINF:-1 tvg-id="" tvg-name="LAT*42 - Extra TV 42" tvg-logo="" group-title="PAISES (VARIOS)",LAT*42 - Extra TV 42
+http://zufreelist.net:8880/codezaltv/codezaltv/88
+#EXTINF:-1 tvg-id="" tvg-name="LAT*6 - Repretel" tvg-logo="" group-title="PAISES (VARIOS)",LAT*6 - Repretel
+http://zufreelist.net:8880/codezaltv/codezaltv/89
+#EXTINF:-1 tvg-id="" tvg-name="LAT*7-Teletica" tvg-logo="" group-title="PAISES (VARIOS)",LAT*7-Teletica
+http://zufreelist.net:8880/codezaltv/codezaltv/90
+#EXTINF:-1 tvg-id="" tvg-name="LAT*A&E HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*A&E HD
+http://zufreelist.net:8880/codezaltv/codezaltv/30
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AMC HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*AMC HD
+http://zufreelist.net:8880/codezaltv/codezaltv/31
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Animal Planet HD" tvg-logo="" group-title="MUNDO Y CULTURA",LAT*Animal Planet HD
+http://zufreelist.net:8880/codezaltv/codezaltv/34
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Antena 7- RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Antena 7- RD
+http://zufreelist.net:8880/codezaltv/codezaltv/91
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AXN HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*AXN HD
+http://zufreelist.net:8880/codezaltv/codezaltv/32
+#EXTINF:-1 tvg-id="" tvg-name="LAT*AZ click HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*AZ click HD
+http://zufreelist.net:8880/codezaltv/codezaltv/33
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal  21 - ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal  21 - ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/96
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 10 - NIC" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 10 - NIC
+http://zufreelist.net:8880/codezaltv/codezaltv/97
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 11 - GUA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 11 - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/98
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 12 - ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/99
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 12 - NI" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 12 - NI
+http://zufreelist.net:8880/codezaltv/codezaltv/100
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CANAL 13 - NI" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*CANAL 13 - NI
+http://zufreelist.net:8880/codezaltv/codezaltv/35
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13 - PAN" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 13 - PAN
+http://zufreelist.net:8880/codezaltv/codezaltv/101
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 13-GUA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 13-GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/102
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 14 - NIC" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 14 - NIC
+http://zufreelist.net:8880/codezaltv/codezaltv/103
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 19  ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 19  ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/104
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 2 - ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/105
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - NIC" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 2 - NIC
+http://zufreelist.net:8880/codezaltv/codezaltv/106
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 2 - PAN" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 2 - PAN
+http://zufreelist.net:8880/codezaltv/codezaltv/107
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 3 - GUA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 3 - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/108
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 4 - ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/109
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - NIC" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 4 - NIC
+http://zufreelist.net:8880/codezaltv/codezaltv/110
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 4 - PAN" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 4 - PAN
+http://zufreelist.net:8880/codezaltv/codezaltv/111
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 6 - ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/112
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 6 - NI" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 6 - NI
+http://zufreelist.net:8880/codezaltv/codezaltv/113
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 7 - GUA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 7 - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/114
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal 8 - NIC" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal 8 - NIC
+http://zufreelist.net:8880/codezaltv/codezaltv/115
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Antigua - GUA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal Antigua - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/116
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Azteca - GUA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Canal Azteca - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/117
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Canal Claro HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Canal Claro HD
+http://zufreelist.net:8880/codezaltv/codezaltv/38
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CARTOON NT HD" tvg-logo="" group-title="NIÑOS",LAT*CARTOON NT HD
+http://zufreelist.net:8880/codezaltv/codezaltv/36
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CCN" tvg-logo="" group-title="PAISES (VARIOS)",LAT*CCN
+http://zufreelist.net:8880/codezaltv/codezaltv/92
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN2- RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*CDN2- RD
+http://zufreelist.net:8880/codezaltv/codezaltv/93
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CDN37 - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*CDN37 - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/94
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CERTV" tvg-logo="" group-title="PAISES (VARIOS)",LAT*CERTV
+http://zufreelist.net:8880/codezaltv/codezaltv/95
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CINECANAL HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*CINECANAL HD
+http://zufreelist.net:8880/codezaltv/codezaltv/37
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Claro Sports HD" tvg-logo="" group-title="DEPORTES ",LAT*Claro Sports HD
+http://zufreelist.net:8880/codezaltv/codezaltv/39
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNN Internacional" tvg-logo="" group-title="PAISES (VARIOS)",LAT*CNN Internacional
+http://zufreelist.net:8880/codezaltv/codezaltv/132
+#EXTINF:-1 tvg-id="" tvg-name="LAT*CNNE" tvg-logo="" group-title="PAISES (VARIOS)",LAT*CNNE
+http://zufreelist.net:8880/codezaltv/codezaltv/133
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Color Vision 9 - RD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Color Vision 9 - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/40
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Comedy Central HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Comedy Central HD
+http://zufreelist.net:8880/codezaltv/codezaltv/41
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*DHE
+http://zufreelist.net:8880/codezaltv/codezaltv/42
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DHE HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*DHE HD
+http://zufreelist.net:8880/codezaltv/codezaltv/43
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Digital 15 - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Digital 15 - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/118
+#EXTINF:-1 tvg-id="" tvg-name="LAT*DISCOVERY THEATHER HD" tvg-logo="" group-title="MUNDO Y CULTURA",LAT*DISCOVERY THEATHER HD
+http://zufreelist.net:8880/codezaltv/codezaltv/44
+#EXTINF:-1 tvg-id="" tvg-name="LAT*E! Entertairment HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*E! Entertairment HD
+http://zufreelist.net:8880/codezaltv/codezaltv/45
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Europa HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*Europa HD
+http://zufreelist.net:8880/codezaltv/codezaltv/46
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Film & arts HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*Film & arts HD
+http://zufreelist.net:8880/codezaltv/codezaltv/54
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Action HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Action HD
+http://zufreelist.net:8880/codezaltv/codezaltv/47
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Family HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Family HD
+http://zufreelist.net:8880/codezaltv/codezaltv/48
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*FOX HD
+http://zufreelist.net:8880/codezaltv/codezaltv/49
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Movies HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Movies HD
+http://zufreelist.net:8880/codezaltv/codezaltv/50
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FOX Series HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FOX Series HD
+http://zufreelist.net:8880/codezaltv/codezaltv/51
+#EXTINF:-1 tvg-id="" tvg-name="LAT*France24" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*France24
+http://zufreelist.net:8880/codezaltv/codezaltv/55
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FX HD
+http://zufreelist.net:8880/codezaltv/codezaltv/52
+#EXTINF:-1 tvg-id="" tvg-name="LAT*FX Movies HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*FX Movies HD
+http://zufreelist.net:8880/codezaltv/codezaltv/53
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Golf Channel HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Golf Channel HD
+http://zufreelist.net:8880/codezaltv/codezaltv/56
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Guatevision - GUA" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Guatevision - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/57
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Family HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO Family HD
+http://zufreelist.net:8880/codezaltv/codezaltv/58
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO HD
+http://zufreelist.net:8880/codezaltv/codezaltv/59
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO Plus HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO Plus HD
+http://zufreelist.net:8880/codezaltv/codezaltv/60
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HBO2 HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*HBO2 HD
+http://zufreelist.net:8880/codezaltv/codezaltv/61
+#EXTINF:-1 tvg-id="" tvg-name="LAT*History HD" tvg-logo="" group-title="MUNDO Y CULTURA",LAT*History HD
+http://zufreelist.net:8880/codezaltv/codezaltv/63
+#EXTINF:-1 tvg-id="" tvg-name="LAT*HOLA! TV HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*HOLA! TV HD
+http://zufreelist.net:8880/codezaltv/codezaltv/62
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Home & Health HD" tvg-logo="" group-title="MUNDO Y CULTURA",LAT*Home & Health HD
+http://zufreelist.net:8880/codezaltv/codezaltv/64
+#EXTINF:-1 tvg-id="" tvg-name="LAT*La voz de Maria" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*La voz de Maria
+http://zufreelist.net:8880/codezaltv/codezaltv/65
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MASTV - PAN" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*MASTV - PAN
+http://zufreelist.net:8880/codezaltv/codezaltv/66
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Max Prime HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*Max Prime HD
+http://zufreelist.net:8880/codezaltv/codezaltv/69
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*MTV HD
+http://zufreelist.net:8880/codezaltv/codezaltv/67
+#EXTINF:-1 tvg-id="" tvg-name="LAT*MTV SIM HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*MTV SIM HD
+http://zufreelist.net:8880/codezaltv/codezaltv/68
+#EXTINF:-1 tvg-id="" tvg-name="LAT*NEXT - PAN" tvg-logo="" group-title="PAISES (VARIOS)",LAT*NEXT - PAN
+http://zufreelist.net:8880/codezaltv/codezaltv/119
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick 2 HD" tvg-logo="" group-title="NIÑOS",LAT*Nick 2 HD
+http://zufreelist.net:8880/codezaltv/codezaltv/70
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Nick SIM HD" tvg-logo="" group-title="NIÑOS",LAT*Nick SIM HD
+http://zufreelist.net:8880/codezaltv/codezaltv/71
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Playboy" tvg-logo="" group-title="ADULTOS XXX",LAT*Playboy
+http://zufreelist.net:8880/codezaltv/codezaltv/72
+#EXTINF:-1 tvg-id="" tvg-name="LAT*RCN - GUA" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*RCN - GUA
+http://zufreelist.net:8880/codezaltv/codezaltv/73
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Sembrador" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Sembrador
+http://zufreelist.net:8880/codezaltv/codezaltv/76
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SONY HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*SONY HD
+http://zufreelist.net:8880/codezaltv/codezaltv/74
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SPACE HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*SPACE HD
+http://zufreelist.net:8880/codezaltv/codezaltv/75
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Studio Universal HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*Studio Universal HD
+http://zufreelist.net:8880/codezaltv/codezaltv/77
+#EXTINF:-1 tvg-id="" tvg-name="LAT*SyFy HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*SyFy HD
+http://zufreelist.net:8880/codezaltv/codezaltv/78
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TBN Enlace" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*TBN Enlace
+http://zufreelist.net:8880/codezaltv/codezaltv/79
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Tele Antillas - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Tele Antillas - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/124
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telecentro - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Telecentro - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/126
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TeleMicro - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*TeleMicro - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/125
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Telemundo HD
+http://zufreelist.net:8880/codezaltv/codezaltv/81
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Telesistema RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Telesistema RD
+http://zufreelist.net:8880/codezaltv/codezaltv/127
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleunion - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Teleunion - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/128
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Teleuniverso - RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Teleuniverso - RD
+http://zufreelist.net:8880/codezaltv/codezaltv/129
+#EXTINF:-1 tvg-id="" tvg-name="LAT*Televida RD" tvg-logo="" group-title="PAISES (VARIOS)",LAT*Televida RD
+http://zufreelist.net:8880/codezaltv/codezaltv/130
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TNT HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*TNT HD
+http://zufreelist.net:8880/codezaltv/codezaltv/80
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TV  Max - PAN" tvg-logo="" group-title="PAISES (VARIOS)",LAT*TV  Max - PAN
+http://zufreelist.net:8880/codezaltv/codezaltv/120
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVChile" tvg-logo="" group-title="PAISES (VARIOS)",LAT*TVChile
+http://zufreelist.net:8880/codezaltv/codezaltv/121
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVE" tvg-logo="" group-title="PAISES (VARIOS)",LAT*TVE
+http://zufreelist.net:8880/codezaltv/codezaltv/122
+#EXTINF:-1 tvg-id="" tvg-name="LAT*TVM25 -  ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*TVM25 -  ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/123
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VENUS" tvg-logo="" group-title="ADULTOS XXX",LAT*VENUS
+http://zufreelist.net:8880/codezaltv/codezaltv/82
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VH1 HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*VH1 HD
+http://zufreelist.net:8880/codezaltv/codezaltv/83
+#EXTINF:-1 tvg-id="" tvg-name="LAT*VTV Canal 35 ESA" tvg-logo="" group-title="PAISES (VARIOS)",LAT*VTV Canal 35 ESA
+http://zufreelist.net:8880/codezaltv/codezaltv/131
+#EXTINF:-1 tvg-id="" tvg-name="LAT*WARNER HD" tvg-logo="" group-title="PELICULAS Y SERIES ",LAT*WARNER HD
+http://zufreelist.net:8880/codezaltv/codezaltv/84
+#EXTINF:-1 tvg-id="" tvg-name="LATINA X2" tvg-logo="" group-title="ADULTOS XXX",LATINA X2
+http://zufreelist.net:8880/codezaltv/codezaltv/18
+#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="" group-title="ENTRETENIMIENTO",LIFE TIME
+http://zufreelist.net:8880/codezaltv/codezaltv/266
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="ENTRETENIMIENTO",Mas Chic
+http://zufreelist.net:8880/codezaltv/codezaltv/269
+#EXTINF:-1 tvg-id="" tvg-name="Max Prime (Oeste)" tvg-logo="" group-title="PELICULAS Y SERIES ",Max Prime (Oeste)
+http://zufreelist.net:8880/codezaltv/codezaltv/270
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO: ADN 40" tvg-logo="" group-title="MEXICO",MEXICO: ADN 40
+http://zufreelist.net:8880/codezaltv/codezaltv/1
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="ENTRETENIMIENTO",MTV
+http://zufreelist.net:8880/codezaltv/codezaltv/267
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="ENTRETENIMIENTO",MTV Hits
+http://zufreelist.net:8880/codezaltv/codezaltv/268
+#EXTINF:-1 tvg-id="" tvg-name="Multicinema" tvg-logo="" group-title="PELICULAS Y SERIES ",Multicinema
+http://zufreelist.net:8880/codezaltv/codezaltv/271
+#EXTINF:-1 tvg-id="" tvg-name="Multimedios" tvg-logo="" group-title="PELICULAS Y SERIES ",Multimedios
+http://zufreelist.net:8880/codezaltv/codezaltv/272
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="PELICULAS Y SERIES ",Multipremier
+http://zufreelist.net:8880/codezaltv/codezaltv/273
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="NIÑOS",Nat Geo Kids
+http://zufreelist.net:8880/codezaltv/codezaltv/275
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="MUNDO Y CULTURA",Nat Geo Wild
+http://zufreelist.net:8880/codezaltv/codezaltv/276
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" group-title="MUNDO Y CULTURA",National Geographic
+http://zufreelist.net:8880/codezaltv/codezaltv/277
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="NIÑOS",Nick Jr
+http://zufreelist.net:8880/codezaltv/codezaltv/278
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="NIÑOS",Nickelodeon
+http://zufreelist.net:8880/codezaltv/codezaltv/279
+#EXTINF:-1 tvg-id="" tvg-name="NU MUSIC" tvg-logo="" group-title="ENTRETENIMIENTO",NU MUSIC
+http://zufreelist.net:8880/codezaltv/codezaltv/274
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" group-title="ENTRETENIMIENTO",Paramount
+http://zufreelist.net:8880/codezaltv/codezaltv/281
+#EXTINF:-1 tvg-id="" tvg-name="PXTV" tvg-logo="" group-title="ENTRETENIMIENTO",PXTV
+http://zufreelist.net:8880/codezaltv/codezaltv/280
+#EXTINF:-1 tvg-id="" tvg-name="SONY" tvg-logo="" group-title="ENTRETENIMIENTO",SONY
+http://zufreelist.net:8880/codezaltv/codezaltv/282
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="ENTRETENIMIENTO",SPACE
+http://zufreelist.net:8880/codezaltv/codezaltv/283
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="ENTRETENIMIENTO",Studio Universal
+http://zufreelist.net:8880/codezaltv/codezaltv/284
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel" tvg-logo="" group-title="ENTRETENIMIENTO",Sun Channel
+http://zufreelist.net:8880/codezaltv/codezaltv/285
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" group-title="ENTRETENIMIENTO",SyFy
+http://zufreelist.net:8880/codezaltv/codezaltv/286
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="ENTRETENIMIENTO",TBS
+http://zufreelist.net:8880/codezaltv/codezaltv/287
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="ENTRETENIMIENTO",TCM
+http://zufreelist.net:8880/codezaltv/codezaltv/288
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="ENTRETENIMIENTO",Telemundo
+http://zufreelist.net:8880/codezaltv/codezaltv/292
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="ENTRETENIMIENTO",TLC
+http://zufreelist.net:8880/codezaltv/codezaltv/289
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="PELICULAS Y SERIES ",TNT
+http://zufreelist.net:8880/codezaltv/codezaltv/290
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="ENTRETENIMIENTO",TNT Series
+http://zufreelist.net:8880/codezaltv/codezaltv/291
+#EXTINF:-1 tvg-id="" tvg-name="Universal" tvg-logo="" group-title="ENTRETENIMIENTO",Universal
+http://zufreelist.net:8880/codezaltv/codezaltv/293
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="ENTRETENIMIENTO",VH1
+http://zufreelist.net:8880/codezaltv/codezaltv/294
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic" tvg-logo="" group-title="ENTRETENIMIENTO",VH1 Classic
+http://zufreelist.net:8880/codezaltv/codezaltv/295
+#EXTINF:-1 tvg-id="" tvg-name="Warner" tvg-logo="" group-title="ENTRETENIMIENTO",Warner
+http://zufreelist.net:8880/codezaltv/codezaltv/296
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Bigass 2" tvg-logo="" group-title="ADULTOS XXX",XXX: Bigass 2
+http://zufreelist.net:8880/codezaltv/codezaltv/19
+#EXTINF:-1 tvg-id="" tvg-name="XXX: bigtits" tvg-logo="" group-title="ADULTOS XXX",XXX: bigtits
+http://zufreelist.net:8880/codezaltv/codezaltv/20
+#EXTINF:-1 tvg-id="" tvg-name="XXX: BLACK RAW" tvg-logo="" group-title="ADULTOS XXX",XXX: BLACK RAW
+http://zufreelist.net:8880/codezaltv/codezaltv/21
+#EXTINF:-1 tvg-id="" tvg-name="XXX: brazzers" tvg-logo="" group-title="ADULTOS XXX",XXX: brazzers
+http://zufreelist.net:8880/codezaltv/codezaltv/22
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMINE JAE" tvg-logo="" group-title="ADULTOS XXX",XXX: JASMINE JAE
+http://zufreelist.net:8880/codezaltv/codezaltv/24
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAKHALIFA" tvg-logo="" group-title="ADULTOS XXX",XXX: MIAKHALIFA
+http://zufreelist.net:8880/codezaltv/codezaltv/25
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MOFOS" tvg-logo="" group-title="ADULTOS XXX",XXX: MOFOS
+http://zufreelist.net:8880/codezaltv/codezaltv/27
+#EXTINF:-1 tvg-id="" tvg-name="XXX: TUSHY RAW" tvg-logo="" group-title="ADULTOS XXX",XXX: TUSHY RAW
+http://zufreelist.net:8880/codezaltv/codezaltv/29
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIXEN" tvg-logo="" group-title="ADULTOS XXX",XXX: VIXEN
+http://zufreelist.net:8880/codezaltv/codezaltv/28
+#EXTINF:-1 tvg-id="" tvg-name="XXX:Fetich 2" tvg-logo="" group-title="ADULTOS XXX",XXX:Fetich 2
+http://zufreelist.net:8880/codezaltv/codezaltv/23
+#EXTINF:-1 tvg-id="" tvg-name="XXXX: MILF 2" tvg-logo="" group-title="ADULTOS XXX",XXXX: MILF 2
+http://zufreelist.net:8880/codezaltv/codezaltv/26
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="NIÑOS",ZooMoo
+http://zufreelist.net:8880/codezaltv/codezaltv/297
+#EXTINF:-1 tvg-id="" tvg-name="007: AL SERVICIO SECRETO DE SU MAJESTAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: AL SERVICIO SECRETO DE SU MAJESTAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: AL SERVICIO SECRETO DE SU MAJESTAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: AL SERVICIO SECRETO DE SU MAJESTAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: CASINO ROYALE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: CASINO ROYALE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE 1967" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: CASINO ROYALE 1967
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CASINO ROYALE 1967" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: CASINO ROYALE 1967
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CONTRA EL DR. NO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: CONTRA EL DR. NO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/551.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: CONTRA EL DR. NO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: CONTRA EL DR. NO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: DESDE RUSIA CON AMOR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: DESDE RUSIA CON AMOR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/553.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: DESDE RUSIA CON AMOR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: DESDE RUSIA CON AMOR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/554.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: DIAMANTES PARA LA ETERNIDAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: DIAMANTES PARA LA ETERNIDAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: DIAMANTES PARA LA ETERNIDAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: DIAMANTES PARA LA ETERNIDAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: EL HOMBRE DE LA PISTOLA DE ORO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: EL HOMBRE DE LA PISTOLA DE ORO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: EL HOMBRE DE LA PISTOLA DE ORO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: EL HOMBRE DE LA PISTOLA DE ORO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: EL MAñANA NUNCA MUERE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: EL MAñANA NUNCA MUERE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: EL MAñANA NUNCA MUERE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: EL MAñANA NUNCA MUERE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: EL MUNDO NUNCA ES SUFICIENTE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: EL MUNDO NUNCA ES SUFICIENTE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: EL MUNDO NUNCA ES SUFICIENTE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: EL MUNDO NUNCA ES SUFICIENTE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: GOLDENEYE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: GOLDENEYE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: GOLDENEYE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: GOLDENEYE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: JAMES BOND CONTRA GOLDFINGER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: JAMES BOND CONTRA GOLDFINGER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/555.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: JAMES BOND CONTRA GOLDFINGER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: JAMES BOND CONTRA GOLDFINGER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/556.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: LA ESPíA QUE ME AMó" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: LA ESPíA QUE ME AMó
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: LA ESPíA QUE ME AMó" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: LA ESPíA QUE ME AMó
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: LICENCIA PARA MATAR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: LICENCIA PARA MATAR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: LICENCIA PARA MATAR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: LICENCIA PARA MATAR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: MOONRAKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: MOONRAKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: MOONRAKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: MOONRAKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: NUNCA DIGAS NUNCA JAMáS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: NUNCA DIGAS NUNCA JAMáS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: NUNCA DIGAS NUNCA JAMáS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: NUNCA DIGAS NUNCA JAMáS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: OCTOPUSSY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: OCTOPUSSY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: OCTOPUSSY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: OCTOPUSSY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: OPERACIóN TRUENO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: OPERACIóN TRUENO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: OPERACIóN TRUENO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: OPERACIóN TRUENO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: OTRO DíA PARA MORIR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: OTRO DíA PARA MORIR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: OTRO DíA PARA MORIR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: OTRO DíA PARA MORIR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: PANORAMA PARA MATAR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: PANORAMA PARA MATAR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: PANORAMA PARA MATAR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: PANORAMA PARA MATAR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: QUANTUM OF SOLACE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: QUANTUM OF SOLACE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: QUANTUM OF SOLACE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: QUANTUM OF SOLACE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SKYFALL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SKYFALL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SKYFALL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SKYFALL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SPECTRE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SPECTRE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SPECTRE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SPECTRE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SU NOMBRE ES PELIGRO (ALTA TENSIóN)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SU NOMBRE ES PELIGRO (ALTA TENSIóN)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SU NOMBRE ES PELIGRO (ALTA TENSIóN)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SU NOMBRE ES PELIGRO (ALTA TENSIóN)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SóLO PARA SUS OJOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SóLO PARA SUS OJOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SóLO PARA SUS OJOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SóLO PARA SUS OJOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SóLO SE VIVE DOS VECES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SóLO SE VIVE DOS VECES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: SóLO SE VIVE DOS VECES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: SóLO SE VIVE DOS VECES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: VIVE Y DEJA MORIR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: VIVE Y DEJA MORIR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007: VIVE Y DEJA MORIR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",007: VIVE Y DEJA MORIR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="10 MINUTES GONE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",10 MINUTES GONE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="6 EN LA SOMBRA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",6 EN LA SOMBRA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 EN LA SOMBRA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",6 EN LA SOMBRA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A PERFECT PLAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",A PERFECT PLAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A SCORE TO SETTLE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",A SCORE TO SETTLE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/500.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ABOVE THE BEST" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ABOVE THE BEST
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ACCELERATION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ACCELERATION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALITA: ÁNGEL DE COMBATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ALITA: ÁNGEL DE COMBATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ALITA: ÁNGEL DE COMBATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ALITA: ÁNGEL DE COMBATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALL ABOUT THE MONEY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ALL ABOUT THE MONEY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALMA DE HéROE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ALMA DE HéROE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ALTERED CARBON: RESLEEVED" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ALTERED CARBON: RESLEEVED
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AMONG THIEVES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AMONG THIEVES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANGEL HAS FALLEN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ANGEL HAS FALLEN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANNA 2019" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ANNA 2019
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ANNA 2019" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ANNA 2019
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AQUAMAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AQUAMAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ARMED" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ARMED
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASESINOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ASESINOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASESINOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ASESINOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ATTRITION: FINAL MISSION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ATTRITION: FINAL MISSION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AULLIDOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AULLIDOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVENGEMENT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AVENGEMENT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVENGERS: ENDGAME" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AVENGERS: ENDGAME
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AVENGERS: ENDGAME" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AVENGERS: ENDGAME
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AVES DE PRESA (Y LA FANTABULOSA EMANCIPACIóN DE HARLEY QUINN)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AVES DE PRESA (Y LA FANTABULOSA EMANCIPACIóN DE HARLEY QUINN)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AVES DE PRESA (Y LA FANTABULOSA EMANCIPACIóN DE HARLEY QUINN)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AVES DE PRESA (Y LA FANTABULOSA EMANCIPACIóN DE HARLEY QUINN)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="AWAKE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",AWAKE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/502.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BACURAU: TIERRA DE NADIE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BACURAU: TIERRA DE NADIE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BAD BOYS PARA SIEMPRE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BAD BOYS PARA SIEMPRE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BAD BOYS PARA SIEMPRE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BAD BOYS PARA SIEMPRE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BAD POLICE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BAD POLICE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN: HUSH" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BATMAN: HUSH
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BEOWULF" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BEOWULF
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEOWULF" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BEOWULF
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLACK '47" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BLACK '47
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLACK AND BLUE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BLACK AND BLUE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLINDADO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BLINDADO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BLOODSHOT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BLOODSHOT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BLOODSHOT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BLOODSHOT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BRICK MANSIONS (LA FORTALEZA)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BRICK MANSIONS (LA FORTALEZA)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUSCANDO VENGANZA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BUSCANDO VENGANZA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BUYBUST" tvg-logo="" group-title="PELICULAS VOD *ACCION*",BUYBUST
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPITANA MARVEL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CAPITANA MARVEL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CAPITANA MARVEL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CAPITANA MARVEL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CHOKEHOLD: PODER ABSOLUTO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CHOKEHOLD: PODER ABSOLUTO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CITY HUNTER Y EL PERFUME DE CUPIDO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CITY HUNTER Y EL PERFUME DE CUPIDO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COBRA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",COBRA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COLD BLOOD LEGACY: LA MéMOIRE DU SANG" tvg-logo="" group-title="PELICULAS VOD *ACCION*",COLD BLOOD LEGACY: LA MéMOIRE DU SANG
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CONFIDENTIAL ASSIGNMENT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CONFIDENTIAL ASSIGNMENT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CONTAGIO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CONTAGIO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CRAWL: INFIERNO BAJO EL AGUA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CRAWL: INFIERNO BAJO EL AGUA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CRAWL: PREDADORES ASSASSINOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CRAWL: PREDADORES ASSASSINOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CROWN VIC" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CROWN VIC
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CóMO ENTRENAR A TU DRAGóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CóMO ENTRENAR A TU DRAGóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CóMO ENTRENAR A TU DRAGóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CóMO ENTRENAR A TU DRAGóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CóMO ENTRENAR A TU DRAGóN 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CóMO ENTRENAR A TU DRAGóN 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CóMO ENTRENAR A TU DRAGóN 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CóMO ENTRENAR A TU DRAGóN 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CóMO ENTRENAR A TU DRAGóN 3" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CóMO ENTRENAR A TU DRAGóN 3
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CóMO ENTRENAR A TU DRAGóN 3" tvg-logo="" group-title="PELICULAS VOD *ACCION*",CóMO ENTRENAR A TU DRAGóN 3
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DANGER CLOSE: THE BATTLE OF LONG TAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DANGER CLOSE: THE BATTLE OF LONG TAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DAUGHTER OF THE WOLF" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DAUGHTER OF THE WOLF
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DEADPOOL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DEADPOOL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DEADPOOL 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEADPOOL 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DEADPOOL 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEATHGASM" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DEATHGASM
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DELTA FORCE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DELTA FORCE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DESAPARECIDO EN COMBATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DESAPARECIDO EN COMBATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DESAPARECIDO EN COMBATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DESAPARECIDO EN COMBATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DICK TRACY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DICK TRACY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DINO KING: JOURNEY TO FIRE MOUNTAIN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DINO KING: JOURNEY TO FIRE MOUNTAIN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DISTURBING THE PEACE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DISTURBING THE PEACE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOOM: ANNIHILATION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DOOM: ANNIHILATION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DOS SUPERPOLICíAS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DOS SUPERPOLICíAS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DíAS DE TRUENO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",DíAS DE TRUENO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EJECUCIóN EXTREMA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EJECUCIóN EXTREMA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL CAMINO: A BREAKING BAD MOVIE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL CAMINO: A BREAKING BAD MOVIE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL CAMINO: UNA PELíCULA DE BREAKING BAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL CAMINO: UNA PELíCULA DE BREAKING BAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL CANTO DEL LOBO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL CANTO DEL LOBO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL DIABLO SOBRE RUEDAS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL DIABLO SOBRE RUEDAS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/479.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL DURO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL DURO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL DURO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL DURO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL DíA DE LA BESTIA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL DíA DE LA BESTIA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL HIJO DE BATMAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL HIJO DE BATMAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL HOMBRE DEL CORAZóN DE HIERRO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL HOMBRE DEL CORAZóN DE HIERRO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL IMPERIO DEL FUEGO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL IMPERIO DEL FUEGO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL JUEGO DEL ASESINO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL JUEGO DEL ASESINO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL MENSAJERO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL MENSAJERO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL MISTERIO DEL DRAGóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL MISTERIO DEL DRAGóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL PICO DE DANTE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL PICO DE DANTE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL PICO DE DANTE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL PICO DE DANTE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/499.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL PLAN PERFECTO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL PLAN PERFECTO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL RITMO DE LA VENGANZA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL RITMO DE LA VENGANZA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL TESORO DEL AMAZONAS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL TESORO DEL AMAZONAS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL TESORO DEL AMAZONAS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL TESORO DEL AMAZONAS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EL TRAFICANTE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL TRAFICANTE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL úLTIMO HéROE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EL úLTIMO HéROE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EN EL TORNADO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EN EL TORNADO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EN EL TORNADO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EN EL TORNADO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ENEMIGO MíO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ENEMIGO MíO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ENEMIGO PúBLICO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ENEMIGO PúBLICO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ENEMIGO PúBLICO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ENEMIGO PúBLICO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ERASE UNA VEZ UN DEADPOOL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ERASE UNA VEZ UN DEADPOOL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ERASE UNA VEZ UN DEADPOOL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ERASE UNA VEZ UN DEADPOOL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESCAPE DE NUEVA YORK" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ESCAPE DE NUEVA YORK
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCAPE PLAN 3: THE EXTRACTORS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ESCAPE PLAN 3: THE EXTRACTORS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESCUADRóN SUICIDA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ESCUADRóN SUICIDA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESPíAS CON DISFRAZ" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ESPíAS CON DISFRAZ
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ESTáN VIVOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ESTáN VIVOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ETERNAL CODE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ETERNAL CODE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EXTRACTION: MISIóN DE RESCATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EXTRACTION: MISIóN DE RESCATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EXTRACTION: MISIóN DE RESCATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EXTRACTION: MISIóN DE RESCATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME JOB" tvg-logo="" group-title="PELICULAS VOD *ACCION*",EXTREME JOB
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/480.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FABRICATED CITY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FABRICATED CITY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FALCON RISING" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FALCON RISING
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FALSE FLAG" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FALSE FLAG
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FANATICO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FANATICO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FAST & FURIOUS: HOBBS & SHAW" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FAST & FURIOUS: HOBBS & SHAW
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FINAL SCORE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FINAL SCORE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FORD VS FERRARI: LE MANS '66" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FORD VS FERRARI: LE MANS '66
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FORD VS FERRARI: LE MANS '66" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FORD VS FERRARI: LE MANS '66
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FOXTROT SIX" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FOXTROT SIX
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FURIE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",FURIE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GENERAL COMMANDER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GENERAL COMMANDER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GHOST IN THE GRAVEYARD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GHOST IN THE GRAVEYARD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GIGANTES DE ACERO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GIGANTES DE ACERO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GIGANTES DE ACERO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GIGANTES DE ACERO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GLADIADOR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GLADIADOR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GLADIADOR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GLADIADOR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GODZILLA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GODZILLA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA: REY DE LOS MONSTRUOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GODZILLA: REY DE LOS MONSTRUOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GODZILLA: REY DE LOS MONSTRUOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GODZILLA: REY DE LOS MONSTRUOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GRAND ISLE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GRAND ISLE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="GUNS AKIMBO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",GUNS AKIMBO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HACKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HACKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HANCOCK" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HANCOCK
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HANCOCK" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HANCOCK
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARD NIGHT FALLING" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARD NIGHT FALLING
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARDCORE: MISIóN EXTREMA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARDCORE: MISIóN EXTREMA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HARLEY DAVIDSON AND THE MARLBORO MAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARLEY DAVIDSON AND THE MARLBORO MAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HARRIET" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARRIET
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRIET" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARRIET
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY EL EJECUTOR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARRY EL EJECUTOR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HARRY EL SUCIO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HARRY EL SUCIO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HEADSHOT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HEADSHOT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HELLBOY: RISE OF THE BLOOD QUEEN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HELLBOY: RISE OF THE BLOOD QUEEN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HELLBOY: RISE OF THE BLOOD QUEEN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HELLBOY: RISE OF THE BLOOD QUEEN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOLLOW POINT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",HOLLOW POINT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IMPACTO SúBITO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IMPACTO SúBITO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IN FULL BLOOM" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IN FULL BLOOM
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN TIME: EL PRECIO DEL MAñANA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IN TIME: EL PRECIO DEL MAñANA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN TIME: EL PRECIO DEL MAñANA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IN TIME: EL PRECIO DEL MAñANA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INSANE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",INSANE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/481.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INSIDE MAN: MOST WANTED" tvg-logo="" group-title="PELICULAS VOD *ACCION*",INSIDE MAN: MOST WANTED
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVADER ZIM: ENTER THE FLORPUS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",INVADER ZIM: ENTER THE FLORPUS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVADER ZIM: ENTER THE FLORPUS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",INVADER ZIM: ENTER THE FLORPUS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="INVASIóN U.S.A." tvg-logo="" group-title="PELICULAS VOD *ACCION*",INVASIóN U.S.A.
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INVASIóN U.S.A." tvg-logo="" group-title="PELICULAS VOD *ACCION*",INVASIóN U.S.A.
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IP MAN 4" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IP MAN 4
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IRON SKY: THE COMING RACE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IRON SKY: THE COMING RACE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IT CAME FROM THE DESERT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",IT CAME FROM THE DESERT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/475.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK: CAPíTULO 3 - PARABELLUM" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JOHN WICK: CAPíTULO 3 - PARABELLUM
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK: CAPíTULO 3 - PARABELLUM" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JOHN WICK: CAPíTULO 3 - PARABELLUM
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUEGO DE ESPíAS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JUEGO DE ESPíAS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUMANJI: SIGUIENTE NIVEL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JUMANJI: SIGUIENTE NIVEL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUMANJI: SIGUIENTE NIVEL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JUMANJI: SIGUIENTE NIVEL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUNGLEE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JUNGLEE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JUNTOS SON DINAMITA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JUNTOS SON DINAMITA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC GALAXY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JURASSIC GALAXY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC THUNDER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",JURASSIC THUNDER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KICK ASS GIRLS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",KICK ASS GIRLS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KILL CHAIN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",KILL CHAIN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KILLERMAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",KILLERMAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KILLERS ANONYMOUS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",KILLERS ANONYMOUS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KONG: LA ISLA CALAVERA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",KONG: LA ISLA CALAVERA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KONG: LA ISLA CALAVERA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",KONG: LA ISLA CALAVERA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA ARMADURA DE DIOS: ZODIACO CHINO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA ARMADURA DE DIOS: ZODIACO CHINO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CAZA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA CAZA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA HERMANDAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA HERMANDAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA INTERVENCIóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA INTERVENCIóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA LEYENDA DE BILLIE JEAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA LEYENDA DE BILLIE JEAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA LISTA NEGRA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA LISTA NEGRA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA NEGOCIACIóN (THE NEGOTIATION)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA NEGOCIACIóN (THE NEGOTIATION)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA TERRE ET LE SANG" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LA TERRE ET LE SANG
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LADY BLOODFIGHT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LADY BLOODFIGHT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LAS AVENTURAS DEL DOCTOR DOLITTLE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LAS AVENTURAS DEL DOCTOR DOLITTLE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LAZARAT (THE BRAVE)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LAZARAT (THE BRAVE)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LINE OF DUTY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LINE OF DUTY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOKI 7: EL PERRO DE LA SIBERIA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOKI 7: EL PERRO DE LA SIBERIA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LONDON RAMPAGE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LONDON RAMPAGE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS MáS VALIENTES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOS MáS VALIENTES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS PERDEDORES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOS PERDEDORES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS PERDEDORES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOS PERDEDORES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOS TORTOLITOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOS TORTOLITOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOS áNGELES DE CHARLIE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOS áNGELES DE CHARLIE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LOSS PREVENTION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LOSS PREVENTION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LUCKY DAY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LUCKY DAY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LíMITE VERTICAL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",LíMITE VERTICAL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MADRAS CAFE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MADRAS CAFE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MAGNUM 44" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MAGNUM 44
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MANHATTAN SIN SALIDA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MANHATTAN SIN SALIDA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MANHATTAN SIN SALIDA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MANHATTAN SIN SALIDA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MARIA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MARIA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MASTERMINDS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MASTERMINDS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MASTERMINDS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MASTERMINDS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MCQUADE, LOBO SOLITARIO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MCQUADE, LOBO SOLITARIO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MCQUADE, LOBO SOLITARIO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MCQUADE, LOBO SOLITARIO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MEN IN BLACK: INTERNATIONAL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MEN IN BLACK: INTERNATIONAL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MEN IN BLACK: INTERNATIONAL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MEN IN BLACK: INTERNATIONAL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MI PRIMER GRAN COMBATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MI PRIMER GRAN COMBATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MIDWAY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MIDWAY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MISTERIO A BORDO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MISTERIO A BORDO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MORTAL KOMBAT LEGENDS: SCORPION?S REVENGE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MORTAL KOMBAT LEGENDS: SCORPION?S REVENGE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MUERTE EN EL BARRIO JAPONES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MUERTE EN EL BARRIO JAPONES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MUERTE EN EL BARRIO JAPONES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MUERTE EN EL BARRIO JAPONES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MY HERO ACADEMIA THE MOVIE: THE TWO HEROES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",MY HERO ACADEMIA THE MOVIE: THE TWO HEROES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NUMERO 9" tvg-logo="" group-title="PELICULAS VOD *ACCION*",NUMERO 9
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OBJETIVO: WASHINGTON D.C." tvg-logo="" group-title="PELICULAS VOD *ACCION*",OBJETIVO: WASHINGTON D.C.
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE: ESTAMPIDA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ONE PIECE: ESTAMPIDA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OPERACIóN: SOLDADOS DE JUGUETE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",OPERACIóN: SOLDADOS DE JUGUETE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OTRA PELíCULA DE HUEVOS Y UN POLLO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",OTRA PELíCULA DE HUEVOS Y UN POLLO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OUTLAWS DON'T GET FUNERALS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",OUTLAWS DON'T GET FUNERALS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PACIFIC RIM: INSURRECCIóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PACIFIC RIM: INSURRECCIóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PACIFIC RIM: INSURRECCIóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PACIFIC RIM: INSURRECCIóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PARADISE BEACH" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PARADISE BEACH
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PARMANU: THE STORY OF POKHRAN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PARMANU: THE STORY OF POKHRAN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/472.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PEQUEñOS GUERREROS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PEQUEñOS GUERREROS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PLACA DE ACERO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PLACA DE ACERO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="POINT BLANK" tvg-logo="" group-title="PELICULAS VOD *ACCION*",POINT BLANK
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="POKéMON DETECTIVE PIKACHU" tvg-logo="" group-title="PELICULAS VOD *ACCION*",POKéMON DETECTIVE PIKACHU
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="POKéMON DETECTIVE PIKACHU" tvg-logo="" group-title="PELICULAS VOD *ACCION*",POKéMON DETECTIVE PIKACHU
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="POONG-SAN-GAE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",POONG-SAN-GAE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PRIMAL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PRIMAL: TALES OF SAVAGERY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PRIMAL: TALES OF SAVAGERY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PROJECT GUTENBERG" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PROJECT GUTENBERG
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PROXIMA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PROXIMA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PROYECTO GéMINIS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PROYECTO GéMINIS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PUñOS MORTALES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",PUñOS MORTALES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RAG DOLL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RAG DOLL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO: LA úLTIMA MISIóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RAMBO: LA úLTIMA MISIóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RAMBO: LA úLTIMA MISIóN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RAMBO: LA úLTIMA MISIóN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RAMPANTE (RAMPANT)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RAMPANTE (RAMPANT)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RAPIDOS Y FURIOSOS: HOBBS & SHAW" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RAPIDOS Y FURIOSOS: HOBBS & SHAW
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="REACCIóN EN CADENA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",REACCIóN EN CADENA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RED SKY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RED SKY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RED STATE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RED STATE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RESCATE (RANSOM)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RESCATE (RANSOM)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RIOT GIRLS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",RIOT GIRLS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROGUE WARFARE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ROGUE WARFARE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ROMPIENDO LAS REGLAS 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ROMPIENDO LAS REGLAS 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SEE YOU YESTERDAY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SEE YOU YESTERDAY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SEMPER FI" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SEMPER FI
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SENTENCIA DE MUERTE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SENTENCIA DE MUERTE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEñALES DEL FUTURO: PRESAGIO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SEñALES DEL FUTURO: PRESAGIO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SEñALES DEL FUTURO: PRESAGIO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SEñALES DEL FUTURO: PRESAGIO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SHAFT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHAFT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHAFT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHAFT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHANGHAI FORTRESS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHANGHAI FORTRESS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SHAZAM!" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHAZAM!
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHAZAM!" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHAZAM!
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SHE NEVER DIED" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHE NEVER DIED
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SHOOTING HEROIN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SHOOTING HEROIN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SIN PIEDAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SIN PIEDAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SONIC. LA PELíCULA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SONIC. LA PELíCULA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SONIC. LA PELíCULA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SONIC. LA PELíCULA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPIDER-MAN: FAR FROM HOME" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SPIDER-MAN: FAR FROM HOME
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/471.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SPIDER-MAN: LEJOS DE CASA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SPIDER-MAN: LEJOS DE CASA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SPY INTERVENTION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SPY INTERVENTION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SR. Y SRA. SMITH" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SR. Y SRA. SMITH
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS: EL ASCENSO DE SKYWALKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",STAR WARS: EL ASCENSO DE SKYWALKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STAR WARS: EL ASCENSO DE SKYWALKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",STAR WARS: EL ASCENSO DE SKYWALKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STARGATE: PUERTA A LAS ESTRELLAS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",STARGATE: PUERTA A LAS ESTRELLAS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="STUBER EXPRESS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",STUBER EXPRESS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="STUBER EXPRESS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",STUBER EXPRESS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SUICIDE SQUAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SUICIDE SQUAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SUPERGRID" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SUPERGRID
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SUPERLóPEZ" tvg-logo="" group-title="PELICULAS VOD *ACCION*",SUPERLóPEZ
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAKE DOWN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TAKE DOWN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAKE HOME PAY" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TAKE HOME PAY
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TAKE POINT: PMC THE BUNKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TAKE POINT: PMC THE BUNKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TANKERS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TANKERS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TEEN TITANS GO! VS. TEEN TITANS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TEEN TITANS GO! VS. TEEN TITANS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TERMINATOR: DESTINO OSCURO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TERMINATOR: DESTINO OSCURO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TERMINATOR: DESTINO OSCURO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TERMINATOR: DESTINO OSCURO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TERREMOTO: TERREMOTO 9 GRADOS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TERREMOTO: TERREMOTO 9 GRADOS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE AERONAUTS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE AERONAUTS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE ANIMATRIX" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE ANIMATRIX
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE BALKAN LINE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE BALKAN LINE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE BIG SHOT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE BIG SHOT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE DRIVER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE DRIVER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE FURIES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE FURIES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE GENTLEMEN: LOS SEñORES DE LA MAFIA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE GENTLEMEN: LOS SEñORES DE LA MAFIA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE GETAWAY (LA HUIDA)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE GETAWAY (LA HUIDA)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE HUNTRESS: RUNE OF THE DEAD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE HUNTRESS: RUNE OF THE DEAD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE IMMORTAL WARS: RESURGENCE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE IMMORTAL WARS: RESURGENCE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE KILL TEAM" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE KILL TEAM
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE KITCHEN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE KITCHEN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE LEGION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE LEGION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE OUTLAWS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE OUTLAWS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/489.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE PARTS YOU LOSE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE PARTS YOU LOSE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE QUAKE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE QUAKE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="THE RELIANT" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE RELIANT
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE SKULLS: SOCIEDAD SECRETA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE SKULLS: SOCIEDAD SECRETA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE TOWN: CIUDAD DE LADRONES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE TOWN: CIUDAD DE LADRONES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/503.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE TRACKER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE TRACKER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE TROUGH" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE TROUGH
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE VELOCIPASTOR" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE VELOCIPASTOR
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE VILLAGERS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE VILLAGERS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE WITCH: PART 1 - THE SUBVERSION" tvg-logo="" group-title="PELICULAS VOD *ACCION*",THE WITCH: PART 1 - THE SUBVERSION
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TIME TRAP" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TIME TRAP
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TITANES DEL PACIFICO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TITANES DEL PACIFICO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TITANES DEL PACIFICO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TITANES DEL PACIFICO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TMNT: TORTUGAS NINJA JóVENES MUTANTES" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TMNT: TORTUGAS NINJA JóVENES MUTANTES
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TOP GUN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TOP GUN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TORNADO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TORNADO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TRANSIT 17" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TRANSIT 17
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TRAUMA CENTER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TRAUMA CENTER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TRAUMA CENTER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TRAUMA CENTER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TROPIC THUNDER, ¡UNA GUERRA MUY PERRA!" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TROPIC THUNDER, ¡UNA GUERRA MUY PERRA!
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TROPIC THUNDER, ¡UNA GUERRA MUY PERRA!" tvg-logo="" group-title="PELICULAS VOD *ACCION*",TROPIC THUNDER, ¡UNA GUERRA MUY PERRA!
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD 2" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 2
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD 3" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 3
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN DETECTIVE SUELTO EN HOLLYWOOD 3" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN DETECTIVE SUELTO EN HOLLYWOOD 3
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UN GOLPE A LA INGLESA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UN GOLPE A LA INGLESA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNA NOCHE LARGA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UNA NOCHE LARGA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNDERWATER" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UNDERWATER
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="UNION BOUND" tvg-logo="" group-title="PELICULAS VOD *ACCION*",UNION BOUND
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V DE VENDETTA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",V DE VENDETTA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VALENTINE" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VALENTINE
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VENGANZA BAJO CERO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VENGANZA BAJO CERO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VENGANZA BAJO CERO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VENGANZA BAJO CERO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VENGEANCE OF AN ASSASSIN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VENGEANCE OF AN ASSASSIN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIRUS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VIRUS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VOLCANO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VOLCANO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="VOLCANO" tvg-logo="" group-title="PELICULAS VOD *ACCION*",VOLCANO
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WARCRAFT: EL ORIGEN" tvg-logo="" group-title="PELICULAS VOD *ACCION*",WARCRAFT: EL ORIGEN
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARCRAFT: EL ORIGEN (2016) WARCRAFT (ORIGINAL TITLE)" tvg-logo="" group-title="PELICULAS VOD *ACCION*",WARCRAFT: EL ORIGEN (2016) WARCRAFT (ORIGINAL TITLE)
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WE ARE LEGENDS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",WE ARE LEGENDS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WWE CROWN JEWEL" tvg-logo="" group-title="PELICULAS VOD *ACCION*",WWE CROWN JEWEL
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WWE TLC: TABLES, LADDERS & CHAIRS" tvg-logo="" group-title="PELICULAS VOD *ACCION*",WWE TLC: TABLES, LADDERS & CHAIRS
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN: DARK FENIX" tvg-logo="" group-title="PELICULAS VOD *ACCION*",X-MEN: DARK FENIX
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN: DARK FENIX" tvg-logo="" group-title="PELICULAS VOD *ACCION*",X-MEN: DARK FENIX
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZOMBIELAND: MATA Y REMATA" tvg-logo="" group-title="PELICULAS VOD *ACCION*",ZOMBIELAND: MATA Y REMATA
+http://zufreelist.net:8880/movie/codezaltv/codezaltv/394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2 (CLARO TV)" tvg-logo="" group-title="DEPORTES ",FOX Sports 2 (CLARO TV)
+http://zufreelist.net:8880/codezaltv/codezaltv/699
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport 3 (CLARO TV)" tvg-logo="" group-title="DEPORTES ",Fox Sport 3 (CLARO TV)
+http://zufreelist.net:8880/codezaltv/codezaltv/700
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: FOX SPORTS 1 SD*" tvg-logo="" group-title="DEPORTES ",DEPORTES: FOX SPORTS 1 SD*
+http://zufreelist.net:8880/codezaltv/codezaltv/701
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES: FOX SPORTS 2 HD*" tvg-logo="" group-title="DEPORTES ",DEPORTES: FOX SPORTS 2 HD*
+http://zufreelist.net:8880/codezaltv/codezaltv/704
+#EXTINF:-1 tvg-id="" tvg-name="ESPN (CLARO TV)" tvg-logo="" group-title="DEPORTES ",ESPN (CLARO TV)
+http://zufreelist.net:8880/codezaltv/codezaltv/705
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  + (CLARO TV)" tvg-logo="" group-title="DEPORTES ",ESPN  + (CLARO TV)
+http://zufreelist.net:8880/codezaltv/codezaltv/706
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (CLARO TV)" tvg-logo="" group-title="DEPORTES ",ESPN 3 (CLARO TV)
+http://zufreelist.net:8880/codezaltv/codezaltv/707
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2 (CLARO TV)" tvg-logo="" group-title="DEPORTES ",ESPN2 (CLARO TV)
+http://zufreelist.net:8880/codezaltv/codezaltv/708
+
 
 //emiry
 #EXTM3U
@@ -5017,130 +6380,3 @@ http://ipvideo.online:2082/live/4900/1234/55572.m3u8
 http://ipvideo.online:2082/live/4900/1234/55574.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CINE_MX | FOX MOVIES FHD" tvg-logo="" group-title="ENTRETENIMIENTO LATINO",CINE_MX | FOX MOVIES FHD
 http://ipvideo.online:2082/live/4900/1234/55575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS |  CAMPUS TV HD" tvg-logo="data:image/jpeg;base64,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" group-title="HONDURAS",HONDURAS |  CAMPUS TV HD
-http://ipvideo.online:2082/live/4900/1234/55576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS |  DIOS TE VE KIDS " tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMTEhUTEhIWFhUXGB0ZGBgYGBcbHhgaFhYYHRkdGhgYHSoiGB8lHRoXIzEhJSkrLi4uGR8zODMtNygtLisBCgoKDg0OGxAQGy0lICUtLS0vLS8tLS0tLi8tLS0tLS01LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMIBAwMBEQACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xABGEAABAwIEAwUFBQUGAwkAAAABAAIDBBEFEiExBkFREyJhcYEHMpGhsRQjQsHwM2KC0fEVUnKSouEkg7IWFzRDRFNUY3P/xAAbAQEAAgMBAQAAAAAAAAAAAAAAAwQBAgUGB//EADQRAAICAQMCBAMGBwADAAAAAAABAgMRBBIhMUETIlFhBXGRFCMyUoGhBjNCscHR8CSS4f/aAAwDAQACEQMRAD8A7ggCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIDH7ZxuWjuj/V5dB4oDIBQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQFupPcd5H5oDxrbD6/mgPY9O78PL/b+SArLggKJZ2t94gbD4mw081hvALiyAgCApfIBqTZAUx1DToHAnzQFxAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEBbqG3afL6ID2N126H6/mgLTb+Fx9D+X8kBg47MI47kOdI42Y1ua73AEhoDeWmx0tcnS6xJ4RlLJaocLcXMmqXhzxezcoszNY2BcM1xYa6c9BdaRi+rZh47FNbxXTslELX9pKdA1utj+87Zqs+DPbufCIvFju2p5ZHJ+LKt9YaRjI4CN3Pu/TS1stgbgg7qeVFcK1ZJtp+nBBG+ydkq4pLHqVcQVOJ0Te2Mkc0YIzZWuaW3NtQSdPFZpqpue1ZT7d0a3W3U+Z4a79mRil4oiqqwvrQTFoGMcTkZbQ3G1z1KmnTOupeH759ckVd9dlr8T2x6E5wHA4mVLp6eQuic1lm5icpBdcC5vaxFvVUrLd0UmuUXK6tkm0+GSGbE4Wuc10zGuaLuBcAQNNSOQ1HxWqqm0mkyVziuGy27G6YWBqIhcAi726g7HfZbLT2vpF/Qx4sPVGcxwIBBuDqCOah6G56gCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIDHY0h9ge6dT4fr8kBeNhc7dSgI2/H6aWrjjY8vkjzWy2ygkFpuee9tOiklTJRU5dCON0XJwXLMLCIZZa+Z8speyJxYwAWaLNaXWbfqbXNzoVJa4xhFRXuyOpSc5OT9kav2lYaIJYK2JoFnZH2A/hPwzD4Kxpn4tUqn16or6leFZG5fJms4mqAKykq27SsAcR/eacv5s+CVrfpZR9HkzN7NVGXaSwdHxdzH0cpfbI6FxN+mQqnTlWRx6lu7Dg0/Q5b7PsOpqlssNQ3W/ddfK4ZgNj530Nwuhq7rKbt0Hw/oc7SVV3UbZrlfUzqTD5cPxBkEUpfHIMwHhc7gbHTcaG60vlC6nxcYaePmSURnTd4Wcxaz8i/xe5wrKnKAbwtzX5NtHcj1t8Vf0KTohl9+PnyL8qyWPQwuzBOoBtRAi/IhosfNSqTS4/OaNZ/8AU6Jwd/4KD/B+ZXE1v8+XzL9H8tG5VUlCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgLdQ4hpI/WuvJAW4Re9yf8zv9vogKz3dra7Dx63QAwA+93vP+WyA5z7QsHNLLHX0zQADaRo0FzsdNr7HxAXR08vHrdM3z1RztQvAmrorjozV8NcXT07C99O57HEuMgB1L3FxJuLc+q2t0sbJZhNemOnQ1q1Uq44sg/XK5N5i3GdHWUssLyWuc05QWn3hq23qAoq9PdTYpYJLdRRdW4qRG6HB6yrpo4WwlvZvLmyP7osRsOZ2bytop3KqmyeXlPsiFQturhhYafV/9kmVRgsroWx11ZGyEe8xhyZgOTnuNyPAAKnCxQea1z6suWVymsWPj0RhzS4HG7MKhjXgAXikk2AsB93opIrUyjjGV8jVqhS3Zw/ZleG47g0LjK2oLnu/HIJnONuV3N28BosSq1E/Ljp2ELKIttPkyZP7NqpnvFX35ow0tDg3u93Voc2/4Rqsx1VtMFHHEXkN0ybe7qZbuDKZ9iJpdGCPuvZq1o593VZh8TnjhRfOTbwIS6MkWH0bYY2xMvlYLC+p9VUssdknKXVk8YqKwjIWhsEAQBAEAQBAEAQBAEAQBAEAQBAEAQBACEBjOprG7TbnY7X18f1ZAWMMxKGW/ZyCQjQkWIuOWmy2lCUXho1jJS6M2C1NjHxCkZLE+OQXY5pDvI/S262hJwkpLqjWcFOLi+jIHwBh1ZA98Zb/AMPmNnO0Lhc2LW9DvrbfmrWrdcpb4vl9UVNJGyMdslwujM/GcUw6gLpSxrpXuN8oBJduQTsPLkoYysuexPODMrKaW2lyzR1XF9RO27QY22uQ0lpA5XPvX8iFxNZrZ12OFeOO/VHf+HfDJaitWXPan0XdkSx0xRwkyRh88h7he5z3Bt9XXc4kdAPFdD4NdrNVbunLEI+mFk5HxunS0TVdDba65eSMUdSY3B7Q0kf3mtcPg4WXqbalZHZLP6PBws4MrCsPdVTZAWtJuSbWAA3s0fRVtXqoaOne1nBmMXJ4RLGcEEXaKsnS+XIDvzsXabb6LgP4+pYl4X65DTRKsKiLImN74LRbvEZtzYkgn6rh6u7dfKcH19DKbT4NpT41Mz8WYdHa/PdbVa6yPXlFmvVTj15N3h2PRyHKe47odj5FdSnV12ezL1WojP2ZtlaLAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEBC+NeJY2yNoxJlL/2zwdWtP4QeTndeQ8bK1TTJQduOnQq23Rc1VnGS5X1UNFHCaWFj3yG2SNvec1o94W5NNhr13WsIytzufTu/U3lKNWFGP6I30OLtyRukBYZNgQRqBe1jsbX08Codr59iXcuPcy6mrZHGZHvDWNGYucbADqStUm3hGW0llnPse47ZIxxifkgBDXPIcHvJ5MbYcrG/K+y0lXa7FCK5fK9Pm3/g5t2qc+I8IhTXCd32iQ90X7GM2DWMafef6/TyUWq1EtLH7JQszl+J+7L3w7QQsT1F7xXHr7+yMOs4jDRli73MuIcAT5XufW3kt9H/AA82v/Jf6L/LL2t/iOUsR00cJcc88exj4iYHs7V9U6SVzdGNjtld0JJta99tea6+mV1U/BrqSgn1b6r1+Z5qb35lJ8mkXVIiUcBMZ2rnl/faLBp07p953jbTT1Xn/wCIJ2+CoRjmLfL9+xPp4xbbk+xKMXrTG37dA8SNDA1zBq1zc51Dhq0gnXcaLj6KlWP7HenF5yn3zj/RG8Ns2mFVQlibKCDnaCbXsD0sem3jZU9ZV4NrqS6fuYaL71UBjyR3P9B9VmPU2T7GfhHET4Tlku+P4ub5dR4LoUaqVfE+hdp1OOJE1pqhsjQ9jg5p2IXWjJSWUdAurICAIAgCAIAgCAIAgCAIAgCAIAgMTFmymF4gsJCLNLtmk6XPlut69u5OXQ0mpOL29SEUOFRTsfSVsYEzfxj3rnZ7Xfia7fXncHZWnbKqW+t+V/8AYKvhRuhssXK/7JpGwVGE1AdK0ywmzWyC50BNhr7u/u/C6mlCOoh91w11iQwlLTT+95T/AKiTSVzMSexze7TQHO5xuM0gBGn7rQT5k+GtSX3EHu6v9kWdytal/Su/uaTHal1ZMA7Skit2cZ/814/G8c2jYA+JXMt1+yG2v8T/AGXp82VrrZWPjocuxWo7SV7g4uBcbE8/G3K9tull6fSVOuqKaw8FNvkrqMSe6JkWga0WNvxW2zeX+60q0NVd8r1+J/sTT1Fkq1U35V0Rgq7kgBTIJFwvQCzp54g+C2TmTmc4C7WjexNr6Wvdcj4lqXlU1SxPr+i9WZwW8f4YlgJc0B8ZdZpbvd2wy7/C620PxOrUxw+JLqn/AHyMZOhCia+BsczRctZ2hbduYtbqNLXaSToeRXl7NZOrUSlU+MvGecZ9CTL6IyqeJjGhrGhreQaLDXwCo2Wzslum8sxsZdPRaGfDeNy6GBW4jFGe9K0FrgDqLtJBcLga302/kr1WiunHKi+mVx1CRG6iTLPJURfeiU98AkWdbUtFsp5b2I16q7ZcrKo03rY10eOH/kufZLJR8RYf6/4JDwtxKIjmabxuP3jD7zSBrpycOnNV07NJPbPp+3zRJpbW/u2s/wCP/h0ymqGyMa9hDmuFwRzBXUUlJZRcknF4ZdWTAQBAEAQBAEAQBAEAQBAEAQBAQKq9pMMdRJGWksY7KHN1vYan/NceiurQ2uKcSj9vqUmpPoYeN8YUVQA9jnMnjuY3FrrHqx1hq13yNjyW9elvjmMo8P8A7Jieqol5oy5RucAxqLEad8LgRduVwcLkX/PofJVpwnp7OeqLEJw1FfHRmBj80cY+yQNyxs963M9PG31XG1uplOe3Pz+ZXumkvDj0REX8QtEcr42Pd2dwTYZQdhqDrrbbYei2q+GSdsVOS559ytKXGEQG3Vez7EGCvIEyZKWwuOgBNugWk7YQ/E8EtWmttz4cW8eiLZFiQf6LbOVlEbi4vElyX/7TkawRB/ca7NlGgJB3Jbq71PLwUDppc3Y1y+MmdrJ/wxXie8j6gySD8FsgjuOTfxdMxXlviNUtPHZCG2L79W/17fIxg21VV2sG2u42BJ0GhOq4uM8HR0umi90rOkVn3fyLcWKNY0SOJewi5kZYtBvtYageNlcr0cp+XPm/K+GR6myufFccL6/U2VBiMUhOQhxA2BB3Ciu09tP8yLRiFflxGSNJi/CrZql0jXAx7yAbh7QLtuDoTuemvVduv4hZp9IoyXm/p+XqR107rFHsYbsFZGcsQIG51J125nRcnUaq3UtOx5wd7TSq0dbeMt9vYwX0vZOLy0d73i2+tttNr76+axO+2Vark8pGalpr3KVPll6Mlvs+x0Rv7FzrxvPdv+Bx+gd9fVWNFfh7H07DVRmpedduvqdMXVKoQBAEAQBAEAQBAEAQBAEAQAhAY39nw2t2TLDllb/Jbb5eprtXoY8uA0rvepoT/wAtv8lsrZr+p/U1dUH1S+hhV9NT0UT5IYY43u0GVoFydtumpUGq1ElDLefQ0koVRbisHIcX4pbHI5gbnNu8c27jyuNt7k9dPEQ6P4VKyCtm8c9DmsjFNUPdmjBLWO1LASWix5Ak9N916PwoblNrzLv3NcF80oG3z00/MqXLQwnwj0Qt5u/XquRP4rJNqMPqz0dX8PxcU52fRF+KADZx+C5998rpOUjvaPTQ01ahA8raIyAEEZh10uFZ0OtVL2z6f2Of8W+GvUpTrXmX7oxsMwcyS9nIcmhO176fhOx+K6Wp18a6HbX5jylultqntsWCUYRg8dO/O17s1iNbEa23AAPzXm9Z8Vnqa/DcUlksrSRffP7Gn4nxlz3mNrzlbdr7EBrzc3032FtTy2XX+FaGMK1OxLL5XqVbZc+X/ZjQYlkjjMMr2SC4e0Wy6Xs7KRlva2u6uS00bZSVscpdH3/2aKW02n9pTFwkMrGy5NXMDC1wBNs+U3zb39Duoa9JVOt1vLjnjOco2UtryjOdxJNHd7IHRude5b3mPLr97QEX2tcDbmsx0UZVeFa8pdPZGylh5iauOomD2zOe42f3j4kAOAbsB4eCPQURqcIrGUZndKTTlySV8lnEHWy8o8xeCaVaa3RNNVB8by6OHNmPcLDoDa4zA+6b89vJWqKKp4luxjqv9EstdbKpVzecHW+Ase+2UjHv0lYezlHR7N/iLH1XXnFRfHK7fImrnujkkS0NwgCAIAgCAIAgCAIAgCAIDScU4hLG2JkGUSSPy3cCQGhrnONgR0HxUtUYvLl0SIrZSWFHq2WK7iIUjYm1Ic5zxo5rHEOIGtgLnToUhU5puPb3E7VBpS7+xfxHH+yMWaM5JTla794i+Vw3bpsfA7LEa3KLa7GZWJSSfchPtd4iyNZGx1nFtwOYzbn0b83KOnT+Pes/hjz+pV1U+dpxtgXeZTM+hBDgR5fFYMklooW7nXw1/XRMmMGPXNGY2AHX+q8xqrvEueOF0Pd/D6HTp4xk8vGfqeU8aqtnRijKAUbJGVMflIcNwtU3yvUrajTwvg4TRfrcYIA7OF73E2sBoLDqN7qanQqbzKaS9zxF9ctNZKuXOP8Asmqo8CzuMtS673m+Rulr9T+Q+K6F/wAWVSVWn5xxlkNelnJZfCJFRUMbGuaImBrhlJ5m45ndc6WrvnJTcmzSShjEVyauiwCRr8xLLA3AacxI5bgX+S7y+LUPCefoRbGjY4bhID5O2Z3TYts4hut76A6H+ara34ljb4El7mMGXFCyG4jblbbbM463197Rc27W22xxKRskaTE65zJAXj7p2mcfhP73htqtatMrYeV+ZdvVexahdt4xwZdLUX53B6KpKLTwza+tOO5G49nmJdjickBPdqYw8D/7I7/Vod8F3NNJz0yfo2jGmk09rOtLcuBAEAQBAEAQBAEAQBAEAQEH45qKkVEP2aLtMjHE+BkcLc97MPxVuiNcq3vljL/sVL5WRmnCOcJkfr+LZ+2ifV0j2Nja4bHd5bqMwA2aR6qf7GnBxrkmQfbMTUrItG2fxZDXTU0UbXDK5z3XFrEMLW+erz8FDPTzprk5cZ4Jo6iu6xKLzjk5Px1iBmrp33uA4sb4NZoB8vmremjtrXvyVrnmbNIwqZkZnUkmoWMmTe0VdlsGWvsT5+HNaSfDNoRzJFNSe+6/W/zXk+WfQ16GTSxudoxpcf3QT9Fjaybckjct4YqHMLtGu/C3Qn15D4rGF3IJamPRG2wnhTKQ+cg21DBtp/ePPyUaSyQW6nPESKRMfG+SFujWSyAH90OIYOvu2HosX4lLg5WqnSvPLmWEjJLgxpcdbAn4KOENzSOVK12yUV3IhW1b5XFzzfoOQHQBdyuuNaxE61NMaliJ7SVMkfeje5trbba3tcba67rM4RnxJGbK4TXmWSWYRjRlac1g5u9ud9j8ly9RR4b46HE1em8Nrb0ZeqKtQYIYV56liWzmlpAII1B5raLcHuXVGmMPk0TZn08gYf2ZP3Z9b5T87fq1+6uOqr8WH41+Jf5Lmmmk/Dn+F/syoYt2WI00wPuPjub/AIS6zv8AS4q58Pj/AOI8+rI5w8O7b6H0osFoIAgCAIAgCAIAgCAIAgCA59iOJU0WJSvqZHAtLAwXdYDsmm9hpqSVc8OyVUVFcc9vcpqyuNsnOWHx39jff9tqAj9u31UPgW/lf0JvtFP5l9TGoKuhmqHSU4YXtZq5oAB1J3G5GUfFJqyMVGefbIg623KGP0Pnaqfd7j1JJ8yV1Y9EcxlDSsmTIikstWZReE9xa/1/osGx0J2Hsq4o5o8oJIJPW1g5pI5i3yXmLYuE3F+p7rT2xsqjNd0SqgjA2ChZm18HjKy9WYeykGWMP7TXKdQMvQ7n4HpdJLybipngu4zWdmG6O1Ltthkjc+7j07oHmQo4rhs0nLbBy9iCGS5J6m58SdSoup5ec23yYmKO+5fbp+evyU+mX3iJdI/vo5NDJhEzacVOX7om2a407xbqOQuLLqKa3be56JReMnWeEMNZHRsjcwHOzNICAcxeLnMDvbQeQCo3Tbm2mZceCL8UYdT0sg+zRkZ25nNDiRuctr7fi08lFbOU0snP1OzxIxmzSCa7RdR4KDxvaRdZKsEMoNliuLTlDwCCbG4/VvNbQslW90WW9LR40ZQ9sr5mkxylyRPde5Ml79AGusF2NFerJ7F0Uf3KtkJJpz6s+nqCTNFG7qxp+LQULhfQBAEAQBAEAQBAEAQBAEBBZcOhkxGcVFPnzOaWOc11i3sWDR2xs4O0urbsnGuLhL6P3KaqhK2W+P1XbBuncFUB/wDTM9Mw+hWn2u/8zJPslP5Ue0XDEFMZXwtyhzdrk2IDr6k87jTwWs7p2Y3vODaumFWdqxk+Z3ODmtLb3De8D15keC6kc85Oc1yW7rLYKw8fr+a1ZlG94V4ZlrnOykMjYO9I4EgHk0DTM472vsNeV452KJPVU5vgmeF8Oz0BuHds3m1oynKdTa7iLggEebhzuOdqaVdyuGdrRWyoWxvK/sSKlrhobHyIsR6H+i51lEo8NHYjKFseGZ7MUaq0os0lp31NRxBj8fZujacznDLpyvvc/ktMYOVrb64QdaeWyHGVYwcLaUPfcEHYix9VtF4eTaPlaaM/hgF8EtFUOHYmxa4aHV93NudNTr1FzvytuxSe+PU7+n1cLGoPhvpknUs0T2OZ2jmAty3abFtx+E8j4qHnOS9KuSIBxVXNkqXljszRYA+TRe3hmutX1POaue61tGlkesNEVXDyewuK0wT2yj2KcRJyhYaLHw2cVY8mv4hktTtHMm/wab/ULpfC4+dv2KmsluuePU+l8HH3EP8A+bP+gKwTmYgCAIAgCAIAgCAIAgCAICmR4AuSAPFAa7Gsdhpoe2kd3b2FtS4nYBS1VStltiRW3QqjukabAONoqp/Z9m6MkXGbmNri2hC2tolVy8P5GtWojbwsr5nz/jmHOp5nMPIkD0JCu0Xq2OV24KMliWDW3UxjBSXLVmyR07Da91Pht2vjawxE52d4iQttoDbvl1gQdjptqqkra3Lbh7i3VRdCLm2tr+vywbv2ZRTGiEk0r3mR7izOS7Kxvd0LtdXBx6bW3STW7gsafO3kucQ1rWTxRm7i8hoaBtmdq699yPgASkoeRyxyifxGpqGeHgjPtD4dbFAKynLmEPHaAPe4WdYNIzbWdYW27yo6TUO2TrsGu06gsxz9TU0tQXRsc61y0E28QubdBRslFepySvtFHgF2jaXvAGW9wbOOjgCLjTfS/oCt4KKfmJK51wzO3ok38/Yk7ZGVDZYm5Wys9y+gyna1uQ12206rOGsPsb6Wpa+vc+Jp5Xy9ERuHC5ZJZIY7OLL5iDYG2m58dNeiklU4xUm+GXpfD713T/U1k5LXFrrhwJBB5EaEKI57i08Mpa9AkVMlWrRK0mj2SoHPZaskpob6dTUY595LHE3nZot1kcAPyXZ+Hx21OfqVWm7MP1PqqGPK1regA+AWC4VoAgCAIAgCAIAgCAIAgCAh/GdCyWop2yl3Z5XkjMQ1xaWWBbsdC4+NlZqm41y29eCtbBSsin05IxxvIypraejh1jjHey7AnVw9Gho/iVmnNOnlZ3fCKt33uojX2XU3/ENfTxy0cDS0yNcbhtjlaYyLG213ZdPBVq65uqUuxanOCtjHuQ7jvCWiola5v7TvsPTO0X1/xA/Bch3Sovynwa6hZl+hyueFzCWuGoNivSQmpxUl0ZVLN0Zujb8PYO2cvfIXNjYBmLd7uvbcGw0N9FlRTIrLtjS9TrWH8SxRQRxxlto2NY0ucDYNaANBudPBax0rbyWXr4xjhLkjnENU6Bv26RtzmyxB5ymRzx3iBuGtYHW05hZtlFR2RMQU5pzlx6ET4j42kqoRHlcy5GcZ8zXAWIsC0ZTmF/TxVSuqEHlInndZNYlLJco6kFjSCNh6W029CuRfW4zbfqQ7SzX4mIwDa9z8hv8AktK6XPJZp0zsbNzgMAnY55zN0BadRuXXI67LD3VSOdqtVLSTUYpPqmnyWMRgezv5y7W17AG421GvX4LeySkkorBvRqa7PwQUX14yU4Tjr6eQyN7xd7wdeztb6nrf6lYk5SjtkdSvXXQ75Xua6pqy9znE3c4lzj4uNytNpEsSzKXc9jeVjaaTa7F3MsYNU22WO0vfzWmDpRShhmfwHhxqcYhaRdrH9o7/AAwi4/1Bo9V3INR08Uc2CzPJ9LKEshAEAQBAEAQBAEAQBAEAQGBjWGwzxFk4u0d69yC0ge8HDUG11vXOUJeUjshGaxI5HhOAS1UrzRB0UFyBI9xuRfe41N97CwXWtvrrSVi3SXbsjlVU2WNuryx9e7JTTez6SnvLBUl0o1LXNGV55gm9wT11VOephb5ZRSXt2LkNNOrmMm/n3MfjOP7RSx1LRqywd/hftfydp6rkayrv6E1jylNHNcWw1souNH20PW3I/wA1jSayVWIvoVCHyCxsd131LKygibezHHY4JAyRzGh0ozFxABa+N0drn+6SHeV0nzBpGIxxfGeMrDR3CnwuKxLY2NcL7NaL+eipOx+p1NkV2OK+2XH2yzspmDSC5cf35GtNh4BtvU+CliQXSzwc6LlvkhwewVBY7MD6KKUVJYZsZdZVdq0OtbKSCL394C30PwVSNTrRe0clFNM31HxaKeFkVg8tFu4bje+9h+goHp3OW442p0Cuvlbnhlmq4lD4eyyEg65y6xv1Atod9T1KkhpkpZbLen+E4n4u75IjglkYdHe8Oevr4FWnXGXYlnDa8M2GGyuIOY310+Cp6mKUlg1TwbFj1WMMudosNCKZbY7Xw3WNpbbxDk6r7DcFs2eucNZXZIz+6094jzNh/CV0c+VL0K9UcLJ1ZCUIAgCAIAgCAIAgCAIAgCAx8Qg7SKSMG2djm36ZmkfmtoS2yTNZx3RaI5wtikMUXZPLY3Ms1zSQMrmgAg9PzGqkthLc369zSqUdqXoWuIOP6eFpbA7tpTo0N1aDyuRv5DVTU6Oc/NLhe5BfrIQ4jzL0RrOFqyNsf2OpIMkrLubcX+8LiQejgT8wotTDfmaXlbwb04SVTfOOSC45h76eZ8L92nQ/3mn3XDzH5rhzg4vBDKO14IzjOFZ8r2WDj7w2Gh0N+tt11dPq4xSjJscdiMyNIuCD5Lo57oyuDumHcRTT0sJB7O8Tc5aSLuygGx3tcbfVSU0R6vk5mu1097rjwl+5EOKOH4Hiaoe9/aZCb6ZRkboSA25211U06Y4bMaXVWZUMcfucycqHU7GDxYMlN1hmSlYMlbJyOi1Jo2zjHailzydSVkiK6epLDobg7hRTgpDqbpk+lx5rnyjh4N4RyVdqVjBKkkZeF4fJVTRUsN88ptfkxo99x8ALqeiH9TI5tyeD6fwjDmU8McEQsyNoa30G/md/VTmxmIAgCAIAgCAIAgCAIAgCAIAgInxvh9DlE1XEenaNzA35Alu99bX0VvS2X521P9Cpqa6MbrV+pA6LDzUOP2Cn7GIbzykl1uZDjo3+H4hXbJqP86W5/lXQo11uX8mO1fmfUvUNZh1K8W7Wola65lbtfnYE6jlz33WlleptjzhL0N656aqXly369Tf4/BFitOJKb9vGDlB3cBuw9DzF+fmuPqdPJdVydDMbo7onKXvIJBBBBsQdCCNwRyXPwQbTEqomvHeA8+fxU9d1kOjM7STYPiLI6SNskrRkBGpANg51tOuWw8fVeh0t8JVJt8+hx9Rp5SvbjEhnFPEn2j7uMERA313eeRPQdB+hpbdv4XQ6Gm0vg8vqRxVy4UrUyUkrVs2wU5ljJnB4HJkYPbpkwLpkGyhNha+ypT5eSxF4jgviTbfU2AGpJPIDmVrtzwas+gfZPwUaKI1FQ0CqlGo/9qPcR+fN3jpyVlLCwapYOgLJkIAgCAIAgCAIAgCAIAgCAIAgMXEqBk8TopBdrhY/UH0NitoTcJKSNZwU47WQz2kNfHTw00AytmkyutoCANjblzt4K5onFOVsucIp61Sko1x7s3nCXDcNLC3K0F7hdzzqSfP8lWuunbLMmWKqIVR2xRHuM8dhgqGfZhnqL2lawe822gdbd4O3O177qzTRKytufC7Nle3URrsShy+6RicWcIGuhFZTNyzlt3s2Eunjs/z32K5dtOXnuWZRUuUcincWuLXAtcCQQRYgjkQdlXxgxhGpxiUkAcjufK1h+uitaaKzlmMYNWXK6CklYyMFJK1ZsUPWrNkUBYMi6xkAFZGD0lGDMgeXWABc4kAAAkknYADck8lA48m+eDvfsr9mf2ctrK1oM+8cRsRF+87rJ/0+a2jFIxk6stgEAQBAEAQBAEAQBAEAQBAEAQBAEBquI8L7eKzbCRjg+MnbM3kfAi7T5qSqe189HwyO2DkuOq5RB6/iqqmIoqSJzJPde52jmdRfl/i58ldhp66l4lrz6JdylZqLLX4dSw+7fYknCPBsdKM7+/MfeeeXW3T81Wv1MrX6L0LFGmjUuOX6kpVcskT404Dp68F37Ke2krRvbYPH4h8x1WsoKRho4BxrwrW0JLZ4vuye7My5YddLm3dPgbLNcFF5NXEiRcp8muCklYbM4KCVhszg8JWuTJSgCA9QEh4T4KrcQdaniOS/eld3Y2/xc/IXKwZPoXgD2Z02GgSH76otrK4e71Ebfwjx3PyWDJOUAQBAEAQBAEAQBAEAQBAEAQBAEAQBAEBjNoYxIZQ0B7rXPXLe1/GxssuTawzCik8mSsGQgCApljDgWuAIOhBFwR4g7oCAcR+x/Dqkl0bHUzzzi0b6xnu/CyZGDnWL+wmtZf7PPDMOjs0bvhqPms5MYIvVey3FmGxonnxY6N1/g5MjBjf93eKf/An/AMv+6ZGDIpfZdizyAKJ7fF7o2/VyZGCT4T7Ca15/4ieGEeF5HfAWHzTIwdE4c9jmHUxDpGuqXjnL7vpGNPjdYMnQYYmsaGsaGtGgAAAA8ANkBWgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCAIAgCA//2Q==" group-title="HONDURAS",HONDURAS |  DIOS TE VE KIDS 
-http://ipvideo.online:2082/live/4900/1234/55577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | DIOS TE VE HD" tvg-logo="data:image/jpeg;base64,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" group-title="HONDURAS",HONDURAS | DIOS TE VE HD
-http://ipvideo.online:2082/live/4900/1234/55578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TSI TV FHD" tvg-logo="data:image/png;base64,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" group-title="HONDURAS",HONDURAS | TSI TV FHD
-http://ipvideo.online:2082/live/4900/1234/55579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TVC" tvg-logo="" group-title="HONDURAS",HONDURAS | TVC
-http://ipvideo.online:2082/live/4900/1234/55583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS |  UNE TV" tvg-logo="" group-title="HONDURAS",HONDURAS |  UNE TV
-http://ipvideo.online:2082/live/4900/1234/55584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | VICATV" tvg-logo="" group-title="HONDURAS",HONDURAS | VICATV
-http://ipvideo.online:2082/live/4900/1234/55585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TELECIBA" tvg-logo="" group-title="HONDURAS",HONDURAS | TELECIBA
-http://ipvideo.online:2082/live/4900/1234/55586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TELEVISION" tvg-logo="" group-title="HONDURAS",HONDURAS | TELEVISION
-http://ipvideo.online:2082/live/4900/1234/55587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS |  GLOBOTV" tvg-logo="" group-title="HONDURAS",HONDURAS |  GLOBOTV
-http://ipvideo.online:2082/live/4900/1234/55588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | AZTECA HONDURA" tvg-logo="" group-title="HONDURAS",HONDURAS | AZTECA HONDURA
-http://ipvideo.online:2082/live/4900/1234/55589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 5 HD" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 5 HD
-http://ipvideo.online:2082/live/4900/1234/55590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 6" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 6
-http://ipvideo.online:2082/live/4900/1234/55591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | CANAL 11 HD" tvg-logo="" group-title="HONDURAS",HONDURAS | CANAL 11 HD
-http://ipvideo.online:2082/live/4900/1234/55592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | MEGA TV" tvg-logo="" group-title="HONDURAS",HONDURAS | MEGA TV
-http://ipvideo.online:2082/live/4900/1234/55593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS | TELECADENA HD" tvg-logo="" group-title="HONDURAS",HONDURAS | TELECADENA HD
-http://ipvideo.online:2082/live/4900/1234/55594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HONDURAS |  TELEPROGRESO" tvg-logo="" group-title="HONDURAS",HONDURAS |  TELEPROGRESO
-http://ipvideo.online:2082/live/4900/1234/55595.m3u8
-#EXTINF:-1 tvg-id="bravo.us" tvg-name="BRAVO | ENTERTAINMENT USA" tvg-logo="https://i.picasion.com/pic90/baabde200013727c6133e414dc6e52fb.gif" group-title="ENTERTAINMENT USA",BRAVO | ENTERTAINMENT USA
-http://ipvideo.online:2082/live/4900/1234/56486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPAÑA | MOVISTAR SERIESMANIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_Seriesman%C3%ADa.svg/1571px-Movistar_Seriesman%C3%ADa.svg.png" group-title="ESPAÑA",ESPAÑA | MOVISTAR SERIESMANIA FHD
-http://ipvideo.online:2082/live/4900/1234/55084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="F1 GP de Belgica" tvg-logo="http://ipvideo.online:2082/images/8d3fc2564067c1ae16dceebfcf415600.png" group-title="EVENTOS DEL DÍA ",F1 GP de Belgica
-http://ipvideo.online:2082/live/4900/1234/56585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08:00 ( VARIOS ) F1 GP de Belgica" tvg-logo="http://ipvideo.online:2082/images/8d3fc2564067c1ae16dceebfcf415600.png" group-title="EVENTOS DEL DÍA ",08:00 ( VARIOS ) F1 GP de Belgica
-http://ipvideo.online:2082/live/4900/1234/56586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ( VARIOS ) PGA BMW Championship" tvg-logo="http://ipvideo.online:2082/images/68ecf6b37069a43f20fc3c8c4d0397b7.jpg" group-title="EVENTOS DEL DÍA ",11:00 ( VARIOS ) PGA BMW Championship
-http://ipvideo.online:2082/live/4900/1234/56587.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ( VARIOS ) PGA Korn Ferry Tour" tvg-logo="http://ipvideo.online:2082/images/68ecf6b37069a43f20fc3c8c4d0397b7.jpg" group-title="EVENTOS DEL DÍA ",14:00 ( VARIOS ) PGA Korn Ferry Tour
-http://ipvideo.online:2082/live/4900/1234/56588.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="16:00 ( VARIOS ) LPGA Tour" tvg-logo="http://ipvideo.online:2082/images/68ecf6b37069a43f20fc3c8c4d0397b7.jpg" group-title="EVENTOS DEL DÍA ",16:00 ( VARIOS ) LPGA Tour
-http://ipvideo.online:2082/live/4900/1234/56589.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:00 ( VARIOS ) ATP Western Southern" tvg-logo="http://ipvideo.online:2082/images/9238df7ec390bc33db5088d5d4071734.png" group-title="EVENTOS DEL DÍA ",14:00 ( VARIOS ) ATP Western Southern
-http://ipvideo.online:2082/live/4900/1234/56590.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ( VARIOS ) ATP Western Southern" tvg-logo="http://ipvideo.online:2082/images/9238df7ec390bc33db5088d5d4071734.png" group-title="EVENTOS DEL DÍA ",18:00 ( VARIOS ) ATP Western Southern
-http://ipvideo.online:2082/live/4900/1234/56591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ( VARIOS ) NASCAR Cup Series" tvg-logo="http://ipvideo.online:2082/images/ec9f8883c10ff4f534fde33210f52dad.png" group-title="EVENTOS DEL DÍA ",18:00 ( VARIOS ) NASCAR Cup Series
-http://ipvideo.online:2082/live/4900/1234/56592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="11:00 ( NHL ) Tampa Bay at Boston" tvg-logo="http://ipvideo.online:2082/images/62b4f89b9f3d85c5c59274bea4fbb57f.jpg" group-title="EVENTOS DEL DÍA ",11:00 ( NHL ) Tampa Bay at Boston
-http://ipvideo.online:2082/live/4900/1234/56593.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:00 ( NHL ) Philadelphia at NY Islanders" tvg-logo="http://ipvideo.online:2082/images/62b4f89b9f3d85c5c59274bea4fbb57f.jpg" group-title="EVENTOS DEL DÍA ",18:00 ( NHL ) Philadelphia at NY Islanders
-http://ipvideo.online:2082/live/4900/1234/56594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:45 ( NHL ) Vegas at Vancouver" tvg-logo="http://ipvideo.online:2082/images/62b4f89b9f3d85c5c59274bea4fbb57f.jpg" group-title="EVENTOS DEL DÍA ",20:45 ( NHL ) Vegas at Vancouver
-http://ipvideo.online:2082/live/4900/1234/56595.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:30 ( NBA ) Bucks at Magic" tvg-logo="http://ipvideo.online:2082/images/2c26b8980f5881531450aa30b4f51e76.jpg" group-title="EVENTOS DEL DÍA ",14:30 ( NBA ) Bucks at Magic
-http://ipvideo.online:2082/live/4900/1234/56596.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:30 ( NBA ) Rockets at Thunder" tvg-logo="http://ipvideo.online:2082/images/2c26b8980f5881531450aa30b4f51e76.jpg" group-title="EVENTOS DEL DÍA ",17:30 ( NBA ) Rockets at Thunder
-http://ipvideo.online:2082/live/4900/1234/56597.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ( NBA ) Lakers at Trail Blazers" tvg-logo="http://ipvideo.online:2082/images/2c26b8980f5881531450aa30b4f51e76.jpg" group-title="EVENTOS DEL DÍA ",20:00 ( NBA ) Lakers at Trail Blazers
-http://ipvideo.online:2082/live/4900/1234/56598.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:05 ( MLB ) Mets at Yankees" tvg-logo="http://23.237.36.42:25461/live/TyUn03R/Ev3nt054KJp/3980.m3u8" group-title="EVENTOS DEL DÍA ",12:05 ( MLB ) Mets at Yankees
-http://ipvideo.online:2082/live/4900/1234/56599.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:10 ( MLB ) Twins at Tigers" tvg-logo="http://23.237.36.42:25461/live/TyUn03R/Ev3nt054KJp/1120.m3u8" group-title="EVENTOS DEL DÍA ",12:10 ( MLB ) Twins at Tigers
-http://ipvideo.online:2082/live/4900/1234/56600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:15 ( MLB ) Braves at Phillies" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",12:15 ( MLB ) Braves at Phillies
-http://ipvideo.online:2082/live/4900/1234/56601.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12:15 ( MLB ) Indians at Cardinals" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",12:15 ( MLB ) Indians at Cardinals
-http://ipvideo.online:2082/live/4900/1234/56602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="13:!0 ( MLB ) Royals at White Sox" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",13:!0 ( MLB ) Royals at White Sox
-http://ipvideo.online:2082/live/4900/1234/56603.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:10 ( MLB ) Cubs at Reds" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",15:10 ( MLB ) Cubs at Reds
-http://ipvideo.online:2082/live/4900/1234/56604.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="15:10 ( MLB ) Twins at Tigers" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",15:10 ( MLB ) Twins at Tigers
-http://ipvideo.online:2082/live/4900/1234/56605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:10 ( MLB ) Rays at Marlins" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",17:10 ( MLB ) Rays at Marlins
-http://ipvideo.online:2082/live/4900/1234/56606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:37 ( MLB ) Orioles at Blue Jays" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",17:37 ( MLB ) Orioles at Blue Jays
-http://ipvideo.online:2082/live/4900/1234/56607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:05 ( MLB ) Dodgers at Rangers" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",18:05 ( MLB ) Dodgers at Rangers
-http://ipvideo.online:2082/live/4900/1234/56608.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:10 ( MLB ) Athletics at Astros" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",18:10 ( MLB ) Athletics at Astros
-http://ipvideo.online:2082/live/4900/1234/56609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:10 ( MLB ) Cubs at Reds" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",18:10 ( MLB ) Cubs at Reds
-http://ipvideo.online:2082/live/4900/1234/56610.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:10 ( MLB ) Pirates at Brewers" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",18:10 ( MLB ) Pirates at Brewers
-http://ipvideo.online:2082/live/4900/1234/56611.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="18:30 ( MLB ) Nationals at Red Sox" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",18:30 ( MLB ) Nationals at Red Sox
-http://ipvideo.online:2082/live/4900/1234/56612.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:10 ( MLB ) Giants at Dbacks" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",19:10 ( MLB ) Giants at Dbacks
-http://ipvideo.online:2082/live/4900/1234/56613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:10 ( MLB ) Padres at Rockies" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",19:10 ( MLB ) Padres at Rockies
-http://ipvideo.online:2082/live/4900/1234/56614.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:40 ( MLB ) Mariners at Angels" tvg-logo="http://ipvideo.online:2082/images/04a83cdcdf1e6e2b9d75ed9d40ca8a2e.jpg" group-title="EVENTOS DEL DÍA ",19:40 ( MLB ) Mariners at Angels
-http://ipvideo.online:2082/live/4900/1234/56615.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 ( FUTBOL ) Bertha Berlin vs PSV" tvg-logo="http://ipvideo.online:2082/images/fe12ddb4d2ecd7740775a5fe25214a7a.jpg" group-title="EVENTOS DEL DÍA ",10:00 ( FUTBOL ) Bertha Berlin vs PSV
-http://ipvideo.online:2082/live/4900/1234/56616.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:30 ( FUTBOL ) Arsenal vs Liverpool" tvg-logo="http://ipvideo.online:2082/images/fe12ddb4d2ecd7740775a5fe25214a7a.jpg" group-title="EVENTOS DEL DÍA ",10:30 ( FUTBOL ) Arsenal vs Liverpool
-http://ipvideo.online:2082/live/4900/1234/56617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:30 ( FUTBOL ) Galaxy vs Earthquakes" tvg-logo="http://ipvideo.online:2082/images/6bbffa9918ca290d3c85e63521c413df.png" group-title="EVENTOS DEL DÍA ",21:30 ( FUTBOL ) Galaxy vs Earthquakes
-http://ipvideo.online:2082/live/4900/1234/56618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="14:30 ( FUTBOL ) Atlanta U vs Orlando City" tvg-logo="http://ipvideo.online:2082/images/6bbffa9918ca290d3c85e63521c413df.png" group-title="EVENTOS DEL DÍA ",14:30 ( FUTBOL ) Atlanta U vs Orlando City
-http://ipvideo.online:2082/live/4900/1234/56619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10:00 ( FUTBOL ) Atlas vs Queretaro" tvg-logo="http://ipvideo.online:2082/images/5f3387cfbbc853e2632c5fbece5bb496.jpg" group-title="EVENTOS DEL DÍA ",10:00 ( FUTBOL ) Atlas vs Queretaro
-http://ipvideo.online:2082/live/4900/1234/56620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ( FUTBOL ) Chivas vs Pachuca" tvg-logo="http://ipvideo.online:2082/images/a329c8fd829345959abd5563fcdd2cc9.jpg" group-title="EVENTOS DEL DÍA ",19:00 ( FUTBOL ) Chivas vs Pachuca
-http://ipvideo.online:2082/live/4900/1234/56621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ( FUTBOL ) New England vs NYRB" tvg-logo="http://ipvideo.online:2082/images/6bbffa9918ca290d3c85e63521c413df.png" group-title="EVENTOS DEL DÍA ",19:00 ( FUTBOL ) New England vs NYRB
-http://ipvideo.online:2082/live/4900/1234/56622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="19:00 ( FUTBOL ) San Luis vs America" tvg-logo="http://ipvideo.online:2082/images/a329c8fd829345959abd5563fcdd2cc9.jpg" group-title="EVENTOS DEL DÍA ",19:00 ( FUTBOL ) San Luis vs America
-http://ipvideo.online:2082/live/4900/1234/56623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ( FUTBOL ) Cruz Azul vs Necaxa" tvg-logo="http://ipvideo.online:2082/images/a329c8fd829345959abd5563fcdd2cc9.jpg" group-title="EVENTOS DEL DÍA ",21:00 ( FUTBOL ) Cruz Azul vs Necaxa
-http://ipvideo.online:2082/live/4900/1234/56624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="17:00 ( VARIOS ) UFC: Smith vs Rakic" tvg-logo="http://ipvideo.online:2082/images/30f3d6394e9c0d9d47864735416a9d7b.jpg" group-title="EVENTOS DEL DÍA ",17:00 ( VARIOS ) UFC: Smith vs Rakic
-http://ipvideo.online:2082/live/4900/1234/56625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20:00 ( VARIOS ) UFC: Smith vs Rakic" tvg-logo="http://ipvideo.online:2082/images/30f3d6394e9c0d9d47864735416a9d7b.jpg" group-title="EVENTOS DEL DÍA ",20:00 ( VARIOS ) UFC: Smith vs Rakic
-http://ipvideo.online:2082/live/4900/1234/56626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21:00 ( BOX ) Ramirez vs Postol" tvg-logo="http://ipvideo.online:2082/images/68e0fb2b27e17c8595b32da25e1c2c25.jpg" group-title="EVENTOS DEL DÍA ",21:00 ( BOX ) Ramirez vs Postol
-http://ipvideo.online:2082/live/4900/1234/56627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="23:00 ( BOX ) Cortes vs Ramirez" tvg-logo="http://ipvideo.online:2082/images/f35798c675aee31d7ccd2fbee5d009ab.png" group-title="EVENTOS DEL DÍA ",23:00 ( BOX ) Cortes vs Ramirez
-http://ipvideo.online:2082/live/4900/1234/56628.m3u8
-
