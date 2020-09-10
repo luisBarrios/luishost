@@ -1,8 +1,10 @@
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST
 http://blackaddon.com/TV&f=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
 http://blackaddon.com/TV&f=.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
 http://blackaddon.com/scr/ag1.php?c=278&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
@@ -68,35 +70,33 @@ http://blackaddon.com/scr/ag1.php?c=314&f=.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",NBC Universo
 http://stream.pcriot.com/5aMd/ftv.php/universoeast/N0339/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",A&E
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",A&E
 http://blackaddon.com/scr/ag1.php?c=1&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",AXN
+#EXTINF:-1 tvg-logo="" group-title="CINE",AXN
 http://blackaddon.com/scr/ag1.php?c=2&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Az Corazon
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Az Corazon
 http://blackaddon.com/scr/ag1.php?c=4&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Az Mundo
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Az Mundo
 http://blackaddon.com/scr/ag1.php?c=5&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",AMC
+#EXTINF:-1 tvg-logo="" group-title="CINE",AMC
 http://blackaddon.com/scr/ag1.php?c=7&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",BBC World
 http://blackaddon.com/scr/ag1.php?c=10&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Baby TV
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Baby TV
 http://blackaddon.com/scr/ag1.php?c=11&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Bloomberg
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Bloomberg
 http://blackaddon.com/scr/ag1.php?c=13&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",CNN Espanol
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",CNN Espanol
 http://blackaddon.com/scr/ag1.php?c=14&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",CNN Internacional
+#EXTINF:-1 tvg-logo="" group-title="NOTICAS",CNN Internacional
 http://blackaddon.com/scr/ag1.php?c=15&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cable Noticias
+#EXTINF:-1 tvg-logo="" group-title="NOTICIAS",Cable Noticias
 http://blackaddon.com/scr/ag1.php?c=16&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Canal Claro
-http://blackaddon.com/scr/ag1.php?c=17&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Canal de las estrellas Latino
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Canal de las estrellas Latino
 http://blackaddon.com/scr/ag1.php?c=18&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cartoon Network
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Cartoon Network
 http://blackaddon.com/scr/ag1.php?c=21&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cine Canal
+#EXTINF:-1 tvg-logo="" group-title="CINE",Cine Canal
 http://blackaddon.com/scr/ag1.php?c=22&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Cine Latino
 http://blackaddon.com/scr/ag1.php?c=23&f.m3u8
@@ -104,17 +104,13 @@ http://blackaddon.com/scr/ag1.php?c=23&f.m3u8
 http://blackaddon.com/scr/ag1.php?c=26&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Cinema
 http://blackaddon.com/scr/ag1.php?c=27&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Music 1
-http://blackaddon.com/scr/ag1.php?c=28&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Music 2
-http://blackaddon.com/scr/ag1.php?c=29&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Sports
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Sports
 http://blackaddon.com/scr/ag1.php?c=30&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Claro Sports Latinoamerica
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Claro Sports Latinoamerica
 http://blackaddon.com/scr/ag1.php?c=31&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Comedy Central
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Comedy Central
 http://blackaddon.com/scr/ag1.php?c=32&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Concert Channel
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Concert Channel
 http://blackaddon.com/scr/ag1.php?c=33&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",DHE
 http://blackaddon.com/scr/ag1.php?c=34&f.m3u8
@@ -126,115 +122,115 @@ http://blackaddon.com/scr/ag1.php?c=36&f.m3u8
 http://blackaddon.com/scr/ag1.php?c=37&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Dia TV
 http://blackaddon.com/scr/ag1.php?c=38&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Channel
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Channel
 http://blackaddon.com/scr/ag1.php?c=39&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Home and Health
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Home and Health
 http://blackaddon.com/scr/ag1.php?c=40&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Kids
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Discovery Kids
 http://blackaddon.com/scr/ag1.php?c=41&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Science
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Science
 http://blackaddon.com/scr/ag1.php?c=42&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Theater
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Theater
 http://blackaddon.com/scr/ag1.php?c=43&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery Turbo
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
 http://blackaddon.com/scr/ag1.php?c=44&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Discovery World
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
 http://blackaddon.com/scr/ag1.php?c=45&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Disney
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Disney
 http://blackaddon.com/scr/ag1.php?c=46&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Disney JR
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Disney JR
 http://blackaddon.com/scr/ag1.php?c=47&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Disney XD
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Disney XD
 http://blackaddon.com/scr/ag1.php?c=48&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",E !
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",E !
 http://blackaddon.com/scr/ag1.php?c=49&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",El Gourmet
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",El Gourmet
 http://blackaddon.com/scr/ag1.php?c=50&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 1 Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn 1 Sur
 http://blackaddon.com/scr/ag1.php?c=51&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 2 Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn 2 Sur
 http://blackaddon.com/scr/ag1.php?c=52&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 3 Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn 3 Sur
 http://blackaddon.com/scr/ag1.php?c=53&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn Plus Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn Plus Sur
 http://blackaddon.com/scr/ag1.php?c=54&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Europa Europa
 http://blackaddon.com/scr/ag1.php?c=55&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",FX
+#EXTINF:-1 tvg-logo="" group-title="CINE",FX
 http://blackaddon.com/scr/ag1.php?c=56&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox
 http://blackaddon.com/scr/ag1.php?c=57&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Action
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Action
 http://blackaddon.com/scr/ag1.php?c=58&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Cinema
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Cinema
 http://blackaddon.com/scr/ag1.php?c=60&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Cinema Subtitulado
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Cinema Subtitulado
 http://blackaddon.com/scr/ag1.php?c=61&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Classics
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Classics
 http://blackaddon.com/scr/ag1.php?c=62&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Comedy
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Comedy
 http://blackaddon.com/scr/ag1.php?c=63&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Family
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Family
 http://blackaddon.com/scr/ag1.php?c=64&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Life
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Life
 http://blackaddon.com/scr/ag1.php?c=65&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Movies
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Movies
 http://blackaddon.com/scr/ag1.php?c=67&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox News
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox News
 http://blackaddon.com/scr/ag1.php?c=68&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Series
 http://blackaddon.com/scr/ag1.php?c=69&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Premium Series Subtitulado
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fox Premium Series Subtitulado
 http://blackaddon.com/scr/ag1.php?c=70&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 1 MX
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 1 MX
 http://blackaddon.com/scr/ag1.php?c=71&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 1 Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 1 Sur
 http://blackaddon.com/scr/ag1.php?c=72&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 2 Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 2 Sur
 http://blackaddon.com/scr/ag1.php?c=73&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 2 MX
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 2 MX
 http://blackaddon.com/scr/ag1.php?c=74&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 3 MX
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 3 MX
 http://blackaddon.com/scr/ag1.php?c=75&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fox Sports 3 Sur
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Fox Sports 3 Sur
 http://blackaddon.com/scr/ag1.php?c=76&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",France 24
 http://blackaddon.com/scr/ag1.php?c=77&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Fx Movie
+#EXTINF:-1 tvg-logo="" group-title="CINE",Fx Movie
 http://blackaddon.com/scr/ag1.php?c=78&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Glitz
 http://blackaddon.com/scr/ag1.php?c=80&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Golden
+#EXTINF:-1 tvg-logo="" group-title="CINE",Golden
 http://blackaddon.com/scr/ag1.php?c=81&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Golden Premium
+#EXTINF:-1 tvg-logo="" group-title="CINE",Golden Premium
 http://blackaddon.com/scr/ag1.php?c=82&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Golf Channel
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Golf Channel
 http://blackaddon.com/scr/ag1.php?c=83&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO
+#EXTINF:-1 tvg-logo="" group-title="CINE",HBO
 http://blackaddon.com/scr/ag1.php?c=84&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO 2
+#EXTINF:-1 tvg-logo="" group-title="CINE",HBO 2
 http://blackaddon.com/scr/ag1.php?c=85&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Family
+#EXTINF:-1 tvg-logo="" group-title="CINE",HBO Family
 http://blackaddon.com/scr/ag1.php?c=86&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Signature
+#EXTINF:-1 tvg-logo="" group-title="CINE",HBO Signature
 http://blackaddon.com/scr/ag1.php?c=87&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO Subtitulado
+#EXTINF:-1 tvg-logo="" group-title="CINE",HBO Subtitulado
 http://blackaddon.com/scr/ag1.php?c=88&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",HBO plus
+#EXTINF:-1 tvg-logo="" group-title="CINE",HBO plus
 http://blackaddon.com/scr/ag1.php?c=89&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",HLN
 http://blackaddon.com/scr/ag1.php?c=90&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",HTV
 http://blackaddon.com/scr/ag1.php?c=91&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",History Channel
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",History Channel
 http://blackaddon.com/scr/ag1.php?c=92&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",H2
 http://blackaddon.com/scr/ag1.php?c=93&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Hola TV
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Hola TV
 http://blackaddon.com/scr/ag1.php?c=94&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",I.Sat
 http://blackaddon.com/scr/ag1.php?c=95&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Investigation Discovery
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Investigation Discovery
 http://blackaddon.com/scr/ag1.php?c=96&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Lifetime
 http://blackaddon.com/scr/ag1.php?c=97&f.m3u8
@@ -252,57 +248,57 @@ http://blackaddon.com/scr/ag1.php?c=102&f.m3u8
 http://blackaddon.com/scr/ag1.php?c=103&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Vh1
 http://blackaddon.com/scr/ag1.php?c=104&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Univision
+#EXTINF:-1 tvg-logo="" group-title="TELEMUNDO",Univision
 http://blackaddon.com/scr/ag1.php?c=105&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Universal Channel
+#EXTINF:-1 tvg-logo="" group-title="CINE",Universal Channel
 http://blackaddon.com/scr/ag1.php?c=106&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Unicable
+#EXTINF:-1 tvg-logo="" group-title="TELEMUNDO",Unicable
 http://blackaddon.com/scr/ag1.php?c=107&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Tru TV
 http://blackaddon.com/scr/ag1.php?c=108&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Tve
 http://blackaddon.com/scr/ag1.php?c=109&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Tooncast
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Tooncast
 http://blackaddon.com/scr/ag1.php?c=110&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Telemundo 
+#EXTINF:-1 tvg-logo="" group-title="TELEMUNDO",Telemundo 
 http://blackaddon.com/scr/ag1.php?c=111&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",TNT Series
+#EXTINF:-1 tvg-logo="" group-title="CINE",TNT Series
 http://blackaddon.com/scr/ag1.php?c=112&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",TNT
+#EXTINF:-1 tvg-logo="" group-title="CINE",TNT
 http://blackaddon.com/scr/ag1.php?c=113&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",TLC
+#EXTINF:-1 tvg-logo="" group-title="CINE",TLC
 http://blackaddon.com/scr/ag1.php?c=114&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",TCM
+#EXTINF:-1 tvg-logo="" group-title="CINE",TCM
 http://blackaddon.com/scr/ag1.php?c=115&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",TBS
 http://blackaddon.com/scr/ag1.php?c=116&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Sundance Channel
+#EXTINF:-1 tvg-logo="" group-title="CINE",Sundance Channel
 http://blackaddon.com/scr/ag1.php?c=117&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Studio Universal
+#EXTINF:-1 tvg-logo="" group-title="CINE",Studio Universal
 http://blackaddon.com/scr/ag1.php?c=118&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Space
+#EXTINF:-1 tvg-logo="" group-title="CINE",Space
 http://blackaddon.com/scr/ag1.php?c=119&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Sony
+#EXTINF:-1 tvg-logo="" group-title="CINE",Sony
 http://blackaddon.com/scr/ag1.php?c=120&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Pasiones
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Pasiones
 http://blackaddon.com/scr/ag1.php?c=122&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Paramount Channel
+#EXTINF:-1 tvg-logo="" group-title="CINE",Paramount Channel
 http://blackaddon.com/scr/ag1.php?c=123&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nickelodeon
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Nickelodeon
 http://blackaddon.com/scr/ag1.php?c=124&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nick Jr
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Nick Jr
 http://blackaddon.com/scr/ag1.php?c=125&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nick 2
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Nick 2
 http://blackaddon.com/scr/ag1.php?c=126&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Wild
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Nat Geo Wild
 http://blackaddon.com/scr/ag1.php?c=127&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Mex
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Nat Geo Mex
 http://blackaddon.com/scr/ag1.php?c=128&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Kids Mex
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Nat Geo Kids Mex
 http://blackaddon.com/scr/ag1.php?c=129&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Nat Geo Kids
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Nat Geo Kids
 http://blackaddon.com/scr/ag1.php?c=130&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",National Geographic Channel
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",National Geographic Channel
 http://blackaddon.com/scr/ag1.php?c=131&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Mtv Live
 http://blackaddon.com/scr/ag1.php?c=133&f.m3u8
@@ -312,153 +308,154 @@ http://blackaddon.com/scr/ag1.php?c=134&f.m3u8
 http://blackaddon.com/scr/ag1.php?c=135&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Max
 http://blackaddon.com/scr/ag1.php?c=136&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn U
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn U
 http://blackaddon.com/scr/ag1.php?c=138&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn Sec Network
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn Sec Network
 http://blackaddon.com/scr/ag1.php?c=139&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn
 http://blackaddon.com/scr/ag1.php?c=140&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn 2
 http://blackaddon.com/scr/ag1.php?c=141&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Espn 3
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Espn 3
 http://blackaddon.com/scr/ag1.php?c=142&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Galatv
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Galatv
 http://blackaddon.com/scr/ag1.php?c=143&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Las Estrellas
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Las Estrellas
 http://blackaddon.com/scr/ag1.php?c=144&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Canal 5
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Canal 5
 http://blackaddon.com/scr/ag1.php?c=145&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Azteca Uno
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Azteca Uno
 http://blackaddon.com/scr/ag1.php?c=146&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Azteca 7
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Azteca 7
 http://blackaddon.com/scr/ag1.php?c=147&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",ADN 40
+#EXTINF:-1 tvg-logo="" group-title="MEXICO,ADN 40
 http://blackaddon.com/scr/ag1.php?c=148&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Foro TV
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Foro TV
 http://blackaddon.com/scr/ag1.php?c=149&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Multimedios
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Multimedios
 http://blackaddon.com/scr/ag1.php?c=150&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",TelefÃ³rmula
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",TelefÃ³rmula
 http://blackaddon.com/scr/ag1.php?c=151&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Televisa MTY
+#EXTINF:-1 tvg-logo="" group-title="MEXICO",Televisa MTY
 http://blackaddon.com/scr/ag1.php?c=152&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Boomerang
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Boomerang
 http://blackaddon.com/scr/ag1.php?c=153&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Distrito Comedia
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Distrito Comedia
 http://blackaddon.com/scr/ag1.php?c=154&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Baby First
+#EXTINF:-1 tvg-logo="" group-title="INFANTIL",Baby First
 http://blackaddon.com/scr/ag1.php?c=155&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Animal Planet
+#EXTINF:-1 tvg-logo="" group-title="ENTRETENIMIENTO",Animal Planet
 http://blackaddon.com/scr/ag1.php?c=315&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Cinemax
+#EXTINF:-1 tvg-logo="" group-title="CINE",Cinemax
 http://blackaddon.com/scr/ag1.php?c=316&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",DirecTV Sports 1
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",DirecTV Sports 1
 http://blackaddon.com/scr/ag1.php?c=317&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",DirecTV Sports 2
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",DirecTV Sports 2
 http://blackaddon.com/scr/ag1.php?c=318&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",DirecTV Sports Plus
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",DirecTV Sports Plus
 http://blackaddon.com/scr/ag1.php?c=319&f.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canales 1",Univision Deportes
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Univision Deportes
 http://blackaddon.com/scr/ag1.php?c=320&f.m3u8
 
+
 //dflow
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports op 2" tvg-logo="" group-title="",Fox Sports op 2
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports op 2" tvg-logo="" group-title="DEPORTES",Fox Sports op 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/158.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SexTreme" tvg-logo="" group-title="",SexTreme
+#EXTINF:-1 tvg-ID="" tvg-name="SexTreme" tvg-logo="" group-title="XXX",SexTreme
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PlayBoy" tvg-logo="" group-title="",PlayBoy
+#EXTINF:-1 tvg-ID="" tvg-name="PlayBoy" tvg-logo="" group-title="XXX",PlayBoy
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/157.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NBC UNIVERSO" tvg-logo="" group-title="",NBC UNIVERSO
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PLUS OP 2" tvg-logo="" group-title="",GOLDEN PLUS OP 2
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PLUS OP 2" tvg-logo="" group-title="CINE",GOLDEN PLUS OP 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/150.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Foro TV" tvg-logo="" group-title="",Foro TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN OP 2" tvg-logo="" group-title="",ESPN OP 2
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN OP 2" tvg-logo="" group-title="DEPORTES",ESPN OP 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/149.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Panamericana" tvg-logo="" group-title="",Panamericana
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/153.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Action Español" tvg-logo="" group-title="",Fox Premium Action Español
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Action Español" tvg-logo="CINE" group-title="",Fox Premium Action Español
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Win Sports Plus" tvg-logo="" group-title="",Win Sports Plus
+#EXTINF:-1 tvg-ID="" tvg-name="Win Sports Plus" tvg-logo="" group-title="DEPORTES",Win Sports Plus
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 OP 2" tvg-logo="" group-title="",ESPN 3 OP 2
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 OP 2" tvg-logo="" group-title="DEPORTES",ESPN 3 OP 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/148.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Hustler TV" tvg-logo="" group-title="",Hustler TV
+#EXTINF:-1 tvg-ID="" tvg-name="Hustler TV" tvg-logo="" group-title="XXX",Hustler TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Vh1 classic" tvg-logo="" group-title="",Vh1 classic
+#EXTINF:-1 tvg-ID="" tvg-name="Vh1 classic" tvg-logo="" group-title="MUSICA",Vh1 classic
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/122.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="" group-title="",VH1
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="" group-title="MUSICA",VH1
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/121.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Venus" tvg-logo="" group-title="",Venus
+#EXTINF:-1 tvg-ID="" tvg-name="Venus" tvg-logo="" group-title="XXX",Venus
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/128.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gol Peru op 2" tvg-logo="" group-title="",Gol Peru op 2
+#EXTINF:-1 tvg-ID="" tvg-name="Gol Peru op 2" tvg-logo="" group-title="DEPORTES",Gol Peru op 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/141.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tru TV" tvg-logo="" group-title="",Tru TV
+#EXTINF:-1 tvg-ID="" tvg-name="Tru TV" tvg-logo="" group-title="XXX",Tru TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/145.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Top Latino" tvg-logo="" group-title="",Top Latino
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/124.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tooncast" tvg-logo="" group-title="",Tooncast
+#EXTINF:-1 tvg-ID="" tvg-name="Tooncast" tvg-logo="" group-title="INFANTIL",Tooncast
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/117.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Terror 24/7" tvg-logo="" group-title="",Terror 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="Terror 24/7" tvg-logo="" group-title="24/7",Terror 24/7
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/130.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telehit" tvg-logo="" group-title="",Telehit
+#EXTINF:-1 tvg-ID="" tvg-name="Telehit" tvg-logo="" group-title="MUSICA",Telehit
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/123.ts
-#EXTINF:-1 tvg-ID="" tvg-name="South Park 24/7" tvg-logo="" group-title="",South Park 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="South Park 24/7" tvg-logo="" group-title="24/7",South Park 24/7
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/131.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ONCE TV" tvg-logo="" group-title="",ONCE TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nicktoons" tvg-logo="" group-title="",Nicktoons
+#EXTINF:-1 tvg-ID="" tvg-name="Nicktoons" tvg-logo="" group-title="INFANTIL",Nicktoons
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/114.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nick JR" tvg-logo="" group-title="",Nick JR
+#EXTINF:-1 tvg-ID="" tvg-name="Nick JR" tvg-logo="" group-title="INFANTIL",Nick JR
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nick 2" tvg-logo="" group-title="",Nick 2
+#EXTINF:-1 tvg-ID="" tvg-name="Nick 2" tvg-logo="" group-title="INFANTIL",Nick 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nick" tvg-logo="" group-title="",Nick
+#EXTINF:-1 tvg-ID="" tvg-name="Nick" tvg-logo="" group-title="INFANTIL",Nick
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NFL NETWORK" tvg-logo="" group-title="",NFL NETWORK
+#EXTINF:-1 tvg-ID="" tvg-name="NFL NETWORK" tvg-logo="" group-title="DEPORTES",NFL NETWORK
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/127.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA" tvg-logo="" group-title="",NBA
+#EXTINF:-1 tvg-ID="" tvg-name="NBA" tvg-logo="" group-title="DEPORTES",NBA
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="",Nat Geo Kids
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="INFANTIL",Nat Geo Kids
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/119.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MLB" tvg-logo="" group-title="",MLB
+#EXTINF:-1 tvg-ID="" tvg-name="MLB" tvg-logo="" group-title="DEPORTES",MLB
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Zone" tvg-logo="" group-title="",HBO Zone
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Zone" tvg-logo="" group-title="CINE",HBO Zone
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/136.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="",HBO SIGNATURE
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="CINE",HBO SIGNATURE
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/135.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM COMEDY" tvg-logo="" group-title="",FOX PREMIUM COMEDY
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM COMEDY" tvg-logo="" group-title="CINE",FOX PREMIUM COMEDY
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/139.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Classic" tvg-logo="" group-title="",Fox Premium Classic
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Classic" tvg-logo="" group-title="CINE",Fox Premium Classic
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="El Chavo 24/7" tvg-logo="" group-title="",El Chavo 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="El Chavo 24/7" tvg-logo="" group-title="24/7",El Chavo 24/7
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/133.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dragon ball super 24/7" tvg-logo="" group-title="",Dragon ball super 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon ball super 24/7" tvg-logo="" group-title="24/7",Dragon ball super 24/7
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/134.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="",Disney XD
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="INFANTIL",Disney XD
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="",Disney Junior
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="INFANTIL",Disney Junior
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/110.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" group-title="",Disney Channel
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" group-title="INFANTIL",Disney Channel
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/108.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids" tvg-logo="" group-title="",Discovery Kids
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids" tvg-logo="" group-title="INFANTIL",Discovery Kids
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/118.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Action 1" tvg-logo="" group-title="",Fox Action 1
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Action 1" tvg-logo="" group-title="CINE",Fox Action 1
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/146.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="CINE",Cartoon Network
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/115.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Brazzer TV" tvg-logo="" group-title="",Brazzer TV
+#EXTINF:-1 tvg-ID="" tvg-name="Brazzer TV" tvg-logo="" group-title="XXX",Brazzer TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/143.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="",Boomerang
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="INFANTIL",Boomerang
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/116.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" group-title="",Boing
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/120.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Hola TV" tvg-logo="" group-title="",Hola TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/144.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium OP2" tvg-logo="" group-title="",Fox Sports Premium OP2
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium OP2" tvg-logo="" group-title="DEPORTES",Fox Sports Premium OP2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/142.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Alf 24/7" tvg-logo="" group-title="",Alf 24/7
+#EXTINF:-1 tvg-ID="" tvg-name="Alf 24/7" tvg-logo="" group-title="24/7",Alf 24/7
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/132.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ADN 40" tvg-logo="" group-title="",ADN 40
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/129.ts
@@ -466,11 +463,11 @@ http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/129.ts
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/137.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="" group-title="",TBS
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Paramount Channel" tvg-logo="" group-title="",Paramount Channel
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount Channel" tvg-logo="" group-title="CINE",Paramount Channel
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/84.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" group-title="ENTRETENIMIENTO",National Geographic
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/93.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="",NAT GEO WILD
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="ENTRETENIMIENTO",NAT GEO WILD
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/94.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MTV HITS" tvg-logo="" group-title="",MTV HITS
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/89.ts
@@ -480,191 +477,189 @@ http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/88.ts
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/105.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Isat" tvg-logo="" group-title="",Isat
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/87.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ID INVESTIGATION" tvg-logo="" group-title="",ID INVESTIGATION
+#EXTINF:-1 tvg-ID="" tvg-name="ID INVESTIGATION" tvg-logo="" group-title="ENTRETENIMIENTO",ID INVESTIGATION
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/99.ts
 #EXTINF:-1 tvg-ID="" tvg-name="HTV" tvg-logo="" group-title="",HTV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/90.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Everything" tvg-logo="" group-title="",Everything
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="El Gourmet" tvg-logo="" group-title="",El Gourmet
+#EXTINF:-1 tvg-ID="" tvg-name="El Gourmet" tvg-logo="" group-title="ENTRETENIMIENTO",El Gourmet
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/107.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dpelicula" tvg-logo="" group-title="",Dpelicula
+#EXTINF:-1 tvg-ID="" tvg-name="Dpelicula" tvg-logo="" group-title="CINE",Dpelicula
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/86.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery World" tvg-logo="" group-title="",Discovery World
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery World" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery World
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/103.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Turbo
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/97.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery TLC" tvg-logo="" group-title="",Discovery TLC
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery TLC" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery TLC
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/101.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Theater" tvg-logo="" group-title="",Discovery Theater
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Theater" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Theater
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery HYH" tvg-logo="" group-title="",Discovery HYH
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery HYH" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery HYH
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/98.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="",Discovery Channel
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery Channel
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/96.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery A&E" tvg-logo="" group-title="",Discovery A&E
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery A&E" tvg-logo="" group-title="ENTRETENIMIENTO",Discovery A&E
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/100.ts
-#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="",COMEDY CENTRAL
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/92.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cine Latino" tvg-logo="" group-title="",Cine Latino
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Latino" tvg-logo="" group-title="CINE",Cine Latino
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/85.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bandamax" tvg-logo="" group-title="",Bandamax
+#EXTINF:-1 tvg-ID="" tvg-name="Bandamax" tvg-logo="" group-title=MUSICA"",Bandamax
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/91.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="ENTRETENIMIENTO",Animal Planet
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/95.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Studio Universal" tvg-logo="" group-title="",Studio Universal
+#EXTINF:-1 tvg-ID="" tvg-name="Studio Universal" tvg-logo="" group-title="CINE",Studio Universal
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/81.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Multipremier" tvg-logo="" group-title="",Multipremier
+#EXTINF:-1 tvg-ID="" tvg-name="Multipremier" tvg-logo="" group-title="CINE",Multipremier
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/82.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/83.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony" tvg-logo="" group-title="",Canal Sony
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony" tvg-logo="" group-title="CINE",Canal Sony
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/78.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="",AXN
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="CINE",AXN
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/79.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ATV" tvg-logo="" group-title="",ATV
+#EXTINF:-1 tvg-ID="" tvg-name="ATV" tvg-logo="" group-title="CINE",ATV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/62.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION" tvg-logo="" group-title="",UNIVISION
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION" tvg-logo="" group-title="TELEMUNDO",UNIVISION
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/63.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel" tvg-logo="" group-title="",Universal Channel
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel" tvg-logo="" group-title="CINE",Universal Channel
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/80.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Unimas" tvg-logo="" group-title="",Unimas
+#EXTINF:-1 tvg-ID="" tvg-name="Unimas" tvg-logo="" group-title="ENTRETENIMIENTO",Unimas
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/65.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Unicable" tvg-logo="" group-title="",Unicable
+#EXTINF:-1 tvg-ID="" tvg-name="Unicable" tvg-logo="" group-title="ENTRETENIMIENTO",Unicable
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/64.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVC DEPORTES" tvg-logo="" group-title="",TVC DEPORTES
+#EXTINF:-1 tvg-ID="" tvg-name="TVC DEPORTES" tvg-logo="" group-title="DEPORTES",TVC DEPORTES
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/61.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Series" tvg-logo="" group-title="",TNT Series
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series" tvg-logo="" group-title="CINE",TNT Series
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/77.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="",RT NOTICIAS
+#EXTINF:-1 tvg-ID="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="NOTICIAS",RT NOTICIAS
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/68.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Imagen TV" tvg-logo="" group-title="",Imagen TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/66.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier" tvg-logo="" group-title="",Golden Premier
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier" tvg-logo="" group-title="CINE",Golden Premier
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/76.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Golden Plus" tvg-logo="" group-title="",Golden Plus
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Plus" tvg-logo="" group-title="CINE",Golden Plus
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/74.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Golden Edge" tvg-logo="" group-title="",Golden Edge
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Edge" tvg-logo="" group-title="CINE",Golden Edge
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/75.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="" group-title="",FXM
+#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="" group-title="CINE",FXM
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/72.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="" group-title="",FX
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="" group-title="CINE",FX
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/71.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Movies" tvg-logo="" group-title="",Fox Premium Movies
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Movies" tvg-logo="" group-title="CINE",Fox Premium Movies
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/69.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Family" tvg-logo="" group-title="",Fox Premium Family
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Family" tvg-logo="" group-title="CINE",Fox Premium Family
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/70.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox life" tvg-logo="" group-title="",Fox life
+#EXTINF:-1 tvg-ID="" tvg-name="Fox life" tvg-logo="" group-title="ENTRETENIMIENTO",Fox life
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/73.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPANOL" tvg-logo="" group-title="",CNN ESPANOL
+#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPANOL" tvg-logo="" group-title="NOTICIAS",CNN ESPANOL
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/67.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Caracol" tvg-logo="" group-title="",Caracol
-http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/60.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tlnovelas" tvg-logo="" group-title="",Tlnovelas
+#EXTINF:-1 tvg-ID="" tvg-name="Tlnovelas" tvg-logo="" group-title="MEXICO",Tlnovelas
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/57.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="" group-title="",SYFY
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="" group-title="CINE",SYFY
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/59.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Las Estrellas" tvg-logo="" group-title="",Las Estrellas
+#EXTINF:-1 tvg-ID="" tvg-name="Las Estrellas" tvg-logo="" group-title="MEXICO",Las Estrellas
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/58.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Galavision" tvg-logo="" group-title="",Galavision
+#EXTINF:-1 tvg-ID="" tvg-name="Galavision" tvg-logo="" group-title="MEXICO",Galavision
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/56.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Az Cinema" tvg-logo="" group-title="",Az Cinema
+#EXTINF:-1 tvg-ID="" tvg-name="Az Cinema" tvg-logo="" group-title="CINE",Az Cinema
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/55.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Warner Bros TV" tvg-logo="" group-title="",Warner Bros TV
+#EXTINF:-1 tvg-ID="" tvg-name="Warner Bros TV" tvg-logo="" group-title="CINE",Warner Bros TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/41.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="",TNT
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/42.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Telemundo" tvg-logo="" group-title="",Telemundo
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo" tvg-logo="" group-title="TELEMUNDO",Telemundo
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/49.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Telefe" tvg-logo="" group-title="",Telefe
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/46.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Space" tvg-logo="" group-title="",Space
+#EXTINF:-1 tvg-ID="" tvg-name="Space" tvg-logo="" group-title="CINE",Space
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/40.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Pasiones" tvg-logo="" group-title="",Pasiones
+#EXTINF:-1 tvg-ID="" tvg-name="Pasiones" tvg-logo="" group-title="MEXICO",Pasiones
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="History 2" tvg-logo="" group-title="",History 2
+#EXTINF:-1 tvg-ID="" tvg-name="History 2" tvg-logo="" group-title="ENTRETENIMIENTO",History 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/51.ts
-#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="" group-title="",History
+#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="" group-title="ENTRETENIMIENTO",History
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/50.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="",FOX
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="CINE",FOX
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/43.ts
 #EXTINF:-1 tvg-ID="" tvg-name="El Trece" tvg-logo="" group-title="",El Trece
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/47.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Distrito Comedia" tvg-logo="" group-title="",Distrito Comedia
+#EXTINF:-1 tvg-ID="" tvg-name="Distrito Comedia" tvg-logo="" group-title="ENTRETENIMIENTO",Distrito Comedia
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/48.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="",CINEMAX
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="CINE",CINEMAX
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/44.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL" tvg-logo="" group-title="",CINECANAL
+#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL" tvg-logo="" group-title="CINE",CINECANAL
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/45.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Azteca Uno" tvg-logo="" group-title="",Azteca Uno
+#EXTINF:-1 tvg-ID="" tvg-name="Azteca Uno" tvg-logo="" group-title="MEXICO",Azteca Uno
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Az Mundo" tvg-logo="" group-title="",Az Mundo
+#EXTINF:-1 tvg-ID="" tvg-name="Az Mundo" tvg-logo="" group-title="MEXICO",Az Mundo
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/54.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Series" tvg-logo="" group-title="",Fox Premium Series
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Series" tvg-logo="" group-title="CINE",Fox Premium Series
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/39.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO XTREME" tvg-logo="" group-title="",HBO XTREME
+#EXTINF:-1 tvg-ID="" tvg-name="HBO XTREME" tvg-logo="" group-title=CINE"",HBO XTREME
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/36.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO POP" tvg-logo="" group-title="",HBO POP
+#EXTINF:-1 tvg-ID="" tvg-name="HBO POP" tvg-logo="" group-title="CINE",HBO POP
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/37.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS" tvg-logo="" group-title="",HBO PLUS
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS" tvg-logo="" group-title="CINE",HBO PLUS
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/34.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Family" tvg-logo="" group-title="",HBO Family
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family" tvg-logo="" group-title="CINE",HBO Family
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="",HBO 2
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="CINE",HBO 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/33.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="",HBO
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="CINE",HBO
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/32.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Action" tvg-logo="" group-title="",Fox Premium Action
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Action" tvg-logo="CINE" group-title="",Fox Premium Action
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/38.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Espn Mexico" tvg-logo="" group-title="",Espn Mexico
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/28.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Espn 3 Mexico" tvg-logo="" group-title="",Espn 3 Mexico
+#EXTINF:-1 tvg-ID="" tvg-name="Espn 3 Mexico" tvg-logo="" group-title="DEPORTES",Espn 3 Mexico
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/30.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Espn 2 Mexico" tvg-logo="" group-title="",Espn 2 Mexico
+#EXTINF:-1 tvg-ID="" tvg-name="Espn 2 Mexico" tvg-logo="" group-title="DEPORTES",Espn 2 Mexico
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/29.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Afizzionados" tvg-logo="" group-title="",Afizzionados
+#EXTINF:-1 tvg-ID="" tvg-name="Afizzionados" tvg-logo="" group-title="DEPORTES",Afizzionados
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/31.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Mexico" tvg-logo="" group-title="",Fox Sports Mexico
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Mexico" tvg-logo="" group-title="DEPORTES",Fox Sports Mexico
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/25.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3 Mexico" tvg-logo="" group-title="",Fox Sports 3 Mexico
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3 Mexico" tvg-logo="" group-title="DEPORTES",Fox Sports 3 Mexico
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/27.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 Mexico" tvg-logo="" group-title="",Fox Sports 2 Mexico
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 Mexico" tvg-logo="" group-title="DEPORTES",Fox Sports 2 Mexico
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/26.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Directv sports plus" tvg-logo="" group-title="",Directv sports plus
+#EXTINF:-1 tvg-ID="" tvg-name="Directv sports plus" tvg-logo="" group-title="DEPORTES",Directv sports plus
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/23.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Directv sports 2" tvg-logo="" group-title="",Directv sports 2
+#EXTINF:-1 tvg-ID="" tvg-name="Directv sports 2" tvg-logo="" group-title="DEPORTES",Directv sports 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/22.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Directv sports" tvg-logo="" group-title="",Directv sports
+#EXTINF:-1 tvg-ID="" tvg-name="Directv sports" tvg-logo="" group-title="DEPORTES",Directv sports
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/21.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bein La Liga" tvg-logo="" group-title="",Bein La Liga
+#EXTINF:-1 tvg-ID="" tvg-name="Bein La Liga" tvg-logo="" group-title="DEPORTES",Bein La Liga
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/24.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Win Sports" tvg-logo="" group-title="",Win Sports
+#EXTINF:-1 tvg-ID="" tvg-name="Win Sports" tvg-logo="" group-title="DEPORTES",Win Sports
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/9.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Tyc Sports" tvg-logo="" group-title="",Tyc Sports
+#EXTINF:-1 tvg-ID="" tvg-name="Tyc Sports" tvg-logo="" group-title="DEPORTES",Tyc Sports
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/12.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports" tvg-logo="" group-title="",TNT Sports
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports" tvg-logo="" group-title="DEPORTES",TNT Sports
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/10.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gol TV" tvg-logo="" group-title="",Gol TV
+#EXTINF:-1 tvg-ID="" tvg-name="Gol TV" tvg-logo="" group-title="DEPORTES",Gol TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/7.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gol Peru" tvg-logo="" group-title="",Gol Peru
+#EXTINF:-1 tvg-ID="" tvg-name="Gol Peru" tvg-logo="" group-title="DEPORTES",Gol Peru
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/6.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium" tvg-logo="" group-title="",Fox Sports Premium
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium" tvg-logo="" group-title="DEPORTES",Fox Sports Premium
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/11.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="" group-title="",Fox Sports 3
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="" group-title="DEPORTES",Fox Sports 3
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/15.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="" group-title="",Fox Sports 2
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="" group-title="DEPORTES",Fox Sports 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/14.ts
-#EXTINF:-1 tvg-ID="" tvg-name="fox sports" tvg-logo="" group-title="",fox sports
+#EXTINF:-1 tvg-ID="" tvg-name="fox sports" tvg-logo="" group-title="DEPORTES",fox sports
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/13.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Espn Plus" tvg-logo="" group-title="",Espn Plus
+#EXTINF:-1 tvg-ID="" tvg-name="Espn Plus" tvg-logo="" group-title="DEPORTES",Espn Plus
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/17.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Espn Deportes" tvg-logo="" group-title="",Espn Deportes
+#EXTINF:-1 tvg-ID="" tvg-name="Espn Deportes" tvg-logo="" group-title="DEPORTES",Espn Deportes
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/16.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="" group-title="",ESPN 3
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="" group-title="DEPORTES",ESPN 3
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/20.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="",ESPN 2
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="DEPORTES",ESPN 2
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/19.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESPN" tvg-logo="" group-title="",ESPN
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN" tvg-logo="" group-title="DEPORTES",ESPN
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/18.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CDF Premium" tvg-logo="" group-title="",CDF Premium
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/8.ts
@@ -672,11 +667,11 @@ http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/8.ts
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/4.ts
 #EXTINF:-1 tvg-ID="" tvg-name="America TV" tvg-logo="" group-title="",America TV
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/5.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TUDN" tvg-logo="" group-title="",TUDN
+#EXTINF:-1 tvg-ID="" tvg-name="TUDN" tvg-logo="" group-title="DEPORTES",TUDN
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/3.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal 5" tvg-logo="" group-title="",Canal 5
+#EXTINF:-1 tvg-ID="" tvg-name="Canal 5" tvg-logo="" group-title="MEXICO",Canal 5
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/2.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Azteca 7" tvg-logo="" group-title="",Azteca 7
+#EXTINF:-1 tvg-ID="" tvg-name="Azteca 7" tvg-logo="" group-title="MEXICO",Azteca 7
 http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/1.ts
 
 //emiry
