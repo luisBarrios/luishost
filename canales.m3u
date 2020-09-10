@@ -361,6 +361,323 @@ http://blackaddon.com/scr/ag1.php?c=319&f.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canales 1",Univision Deportes
 http://blackaddon.com/scr/ag1.php?c=320&f.m3u8
 
+//dflow
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports op 2" tvg-logo="" group-title="",Fox Sports op 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/158.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SexTreme" tvg-logo="" group-title="",SexTreme
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PlayBoy" tvg-logo="" group-title="",PlayBoy
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/157.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBC UNIVERSO" tvg-logo="" group-title="",NBC UNIVERSO
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PLUS OP 2" tvg-logo="" group-title="",GOLDEN PLUS OP 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Foro TV" tvg-logo="" group-title="",Foro TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/155.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN OP 2" tvg-logo="" group-title="",ESPN OP 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/149.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Panamericana" tvg-logo="" group-title="",Panamericana
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Action Español" tvg-logo="" group-title="",Fox Premium Action Español
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Win Sports Plus" tvg-logo="" group-title="",Win Sports Plus
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/151.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 OP 2" tvg-logo="" group-title="",ESPN 3 OP 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/148.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hustler TV" tvg-logo="" group-title="",Hustler TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Vh1 classic" tvg-logo="" group-title="",Vh1 classic
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="VH1" tvg-logo="" group-title="",VH1
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Venus" tvg-logo="" group-title="",Venus
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gol Peru op 2" tvg-logo="" group-title="",Gol Peru op 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/141.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tru TV" tvg-logo="" group-title="",Tru TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/145.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Latino" tvg-logo="" group-title="",Top Latino
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tooncast" tvg-logo="" group-title="",Tooncast
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Terror 24/7" tvg-logo="" group-title="",Terror 24/7
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telehit" tvg-logo="" group-title="",Telehit
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="South Park 24/7" tvg-logo="" group-title="",South Park 24/7
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/131.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ONCE TV" tvg-logo="" group-title="",ONCE TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/138.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nicktoons" tvg-logo="" group-title="",Nicktoons
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick JR" tvg-logo="" group-title="",Nick JR
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/113.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick 2" tvg-logo="" group-title="",Nick 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nick" tvg-logo="" group-title="",Nick
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NFL NETWORK" tvg-logo="" group-title="",NFL NETWORK
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA" tvg-logo="" group-title="",NBA
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="",Nat Geo Kids
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MLB" tvg-logo="" group-title="",MLB
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Zone" tvg-logo="" group-title="",HBO Zone
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/136.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="",HBO SIGNATURE
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM COMEDY" tvg-logo="" group-title="",FOX PREMIUM COMEDY
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Classic" tvg-logo="" group-title="",Fox Premium Classic
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="El Chavo 24/7" tvg-logo="" group-title="",El Chavo 24/7
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/133.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon ball super 24/7" tvg-logo="" group-title="",Dragon ball super 24/7
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/134.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="",Disney XD
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="",Disney Junior
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Disney Channel" tvg-logo="" group-title="",Disney Channel
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Kids" tvg-logo="" group-title="",Discovery Kids
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Action 1" tvg-logo="" group-title="",Fox Action 1
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/115.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Brazzer TV" tvg-logo="" group-title="",Brazzer TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boomerang" tvg-logo="" group-title="",Boomerang
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/116.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Boing" tvg-logo="" group-title="",Boing
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Hola TV" tvg-logo="" group-title="",Hola TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium OP2" tvg-logo="" group-title="",Fox Sports Premium OP2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alf 24/7" tvg-logo="" group-title="",Alf 24/7
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ADN 40" tvg-logo="" group-title="",ADN 40
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A3SERIES (ESPAÑA)" tvg-logo="" group-title="",A3SERIES (ESPAÑA)
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="" group-title="",TBS
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Paramount Channel" tvg-logo="" group-title="",Paramount Channel
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="National Geographic" tvg-logo="" group-title="",National Geographic
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="",NAT GEO WILD
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS" tvg-logo="" group-title="",MTV HITS
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV" tvg-logo="" group-title="",MTV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Lifetime" tvg-logo="" group-title="",Lifetime
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Isat" tvg-logo="" group-title="",Isat
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/87.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ID INVESTIGATION" tvg-logo="" group-title="",ID INVESTIGATION
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HTV" tvg-logo="" group-title="",HTV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Everything" tvg-logo="" group-title="",Everything
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="El Gourmet" tvg-logo="" group-title="",El Gourmet
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dpelicula" tvg-logo="" group-title="",Dpelicula
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery World" tvg-logo="" group-title="",Discovery World
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Turbo" tvg-logo="" group-title="",Discovery Turbo
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery TLC" tvg-logo="" group-title="",Discovery TLC
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Theater" tvg-logo="" group-title="",Discovery Theater
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery HYH" tvg-logo="" group-title="",Discovery HYH
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/98.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="",Discovery Channel
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/96.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery A&E" tvg-logo="" group-title="",Discovery A&E
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="",COMEDY CENTRAL
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cine Latino" tvg-logo="" group-title="",Cine Latino
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bandamax" tvg-logo="" group-title="",Bandamax
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet" tvg-logo="" group-title="",Animal Planet
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Studio Universal" tvg-logo="" group-title="",Studio Universal
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Multipremier" tvg-logo="" group-title="",Multipremier
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="",AMC
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Sony" tvg-logo="" group-title="",Canal Sony
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="",AXN
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ATV" tvg-logo="" group-title="",ATV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION" tvg-logo="" group-title="",UNIVISION
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Universal Channel" tvg-logo="" group-title="",Universal Channel
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Unimas" tvg-logo="" group-title="",Unimas
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Unicable" tvg-logo="" group-title="",Unicable
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVC DEPORTES" tvg-logo="" group-title="",TVC DEPORTES
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Series" tvg-logo="" group-title="",TNT Series
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RT NOTICIAS" tvg-logo="" group-title="",RT NOTICIAS
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Imagen TV" tvg-logo="" group-title="",Imagen TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Premier" tvg-logo="" group-title="",Golden Premier
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Plus" tvg-logo="" group-title="",Golden Plus
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Golden Edge" tvg-logo="" group-title="",Golden Edge
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="" group-title="",FXM
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="" group-title="",FX
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Movies" tvg-logo="" group-title="",Fox Premium Movies
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Family" tvg-logo="" group-title="",Fox Premium Family
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox life" tvg-logo="" group-title="",Fox life
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPANOL" tvg-logo="" group-title="",CNN ESPANOL
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Caracol" tvg-logo="" group-title="",Caracol
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tlnovelas" tvg-logo="" group-title="",Tlnovelas
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SYFY" tvg-logo="" group-title="",SYFY
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Las Estrellas" tvg-logo="" group-title="",Las Estrellas
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Galavision" tvg-logo="" group-title="",Galavision
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Az Cinema" tvg-logo="" group-title="",Az Cinema
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Warner Bros TV" tvg-logo="" group-title="",Warner Bros TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="",TNT
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telemundo" tvg-logo="" group-title="",Telemundo
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telefe" tvg-logo="" group-title="",Telefe
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Space" tvg-logo="" group-title="",Space
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pasiones" tvg-logo="" group-title="",Pasiones
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History 2" tvg-logo="" group-title="",History 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="History" tvg-logo="" group-title="",History
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="",FOX
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="El Trece" tvg-logo="" group-title="",El Trece
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Distrito Comedia" tvg-logo="" group-title="",Distrito Comedia
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="",CINEMAX
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL" tvg-logo="" group-title="",CINECANAL
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Azteca Uno" tvg-logo="" group-title="",Azteca Uno
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Az Mundo" tvg-logo="" group-title="",Az Mundo
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Series" tvg-logo="" group-title="",Fox Premium Series
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO XTREME" tvg-logo="" group-title="",HBO XTREME
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO POP" tvg-logo="" group-title="",HBO POP
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS" tvg-logo="" group-title="",HBO PLUS
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Family" tvg-logo="" group-title="",HBO Family
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="",HBO 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="",HBO
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Premium Action" tvg-logo="" group-title="",Fox Premium Action
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Espn Mexico" tvg-logo="" group-title="",Espn Mexico
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Espn 3 Mexico" tvg-logo="" group-title="",Espn 3 Mexico
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Espn 2 Mexico" tvg-logo="" group-title="",Espn 2 Mexico
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Afizzionados" tvg-logo="" group-title="",Afizzionados
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Mexico" tvg-logo="" group-title="",Fox Sports Mexico
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3 Mexico" tvg-logo="" group-title="",Fox Sports 3 Mexico
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2 Mexico" tvg-logo="" group-title="",Fox Sports 2 Mexico
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Directv sports plus" tvg-logo="" group-title="",Directv sports plus
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Directv sports 2" tvg-logo="" group-title="",Directv sports 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Directv sports" tvg-logo="" group-title="",Directv sports
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bein La Liga" tvg-logo="" group-title="",Bein La Liga
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Win Sports" tvg-logo="" group-title="",Win Sports
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tyc Sports" tvg-logo="" group-title="",Tyc Sports
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT Sports" tvg-logo="" group-title="",TNT Sports
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gol TV" tvg-logo="" group-title="",Gol TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Gol Peru" tvg-logo="" group-title="",Gol Peru
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports Premium" tvg-logo="" group-title="",Fox Sports Premium
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="" group-title="",Fox Sports 3
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="" group-title="",Fox Sports 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="fox sports" tvg-logo="" group-title="",fox sports
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Espn Plus" tvg-logo="" group-title="",Espn Plus
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Espn Deportes" tvg-logo="" group-title="",Espn Deportes
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3" tvg-logo="" group-title="",ESPN 3
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2" tvg-logo="" group-title="",ESPN 2
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN" tvg-logo="" group-title="",ESPN
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CDF Premium" tvg-logo="" group-title="",CDF Premium
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Latina" tvg-logo="" group-title="",Latina
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="America TV" tvg-logo="" group-title="",America TV
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TUDN" tvg-logo="" group-title="",TUDN
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal 5" tvg-logo="" group-title="",Canal 5
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Azteca 7" tvg-logo="" group-title="",Azteca 7
+http://23.237.173.123:8000/live/tvplayerapp/4c4c4d/1.ts
 
 //emiry
 #EXTINF:-1 tvg-id="" tvg-name="•●★-- 24/7 Accion --★●•" tvg-logo="" group-title="24/7 Accion",•●★-- 24/7 Accion --★●•
@@ -3605,3 +3922,766 @@ http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1651
 http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1652
 #EXTINF:-1 tvg-id="" tvg-name="[TR]MOVIESMART PLATIN 2" tvg-logo="http://metropoliptv.de/newpicon/movie_smart_platin_2.png" group-title="Latinos Tv",[TR]MOVIESMART PLATIN 2
 http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1653
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Costa Rica --★●•" tvg-logo="" group-title="Deportes Costa Rica",•●★-- Deportes Costa Rica --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1654
+#EXTINF:-1 tvg-id="" tvg-name="SP: CR: FUTV" tvg-logo="" group-title="Deportes Costa Rica",SP: CR: FUTV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1655
+#EXTINF:-1 tvg-id="" tvg-name="SP: CR: Tigo Sports" tvg-logo="" group-title="Deportes Costa Rica",SP: CR: Tigo Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1656
+#EXTINF:-1 tvg-id="" tvg-name="SP: CR: Tigo Sports FHD" tvg-logo="" group-title="Deportes Costa Rica",SP: CR: Tigo Sports FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1657
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Ecuador --★●•" tvg-logo="" group-title="Deportes Ecuador",•●★-- Deportes Ecuador --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1658
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: El Canal del Futbol FHD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: El Canal del Futbol FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1659
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: El Canal del Futbol HD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: El Canal del Futbol HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1660
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: El Canal del Futbol SD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: El Canal del Futbol SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1661
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Gol TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1662
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV HD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Gol TV HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1663
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV 2 HD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Gol TV 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1664
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV FHD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Gol TV FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1665
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Gol TV 2 FHD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Gol TV 2 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1666
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Directv Ecuador" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Directv Ecuador
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1667
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Directv Ecuador HD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Directv Ecuador HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1668
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: Directv Ecuador FHD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: Directv Ecuador FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1669
+#EXTINF:-1 tvg-id="" tvg-name="SP: EC: ECDF HD" tvg-logo="" group-title="Deportes Ecuador",SP: EC: ECDF HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1670
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Mexico --★●•" tvg-logo="" group-title="Deportes Mexico",•●★-- Deportes Mexico --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1671
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Adrenalina  Sport Network Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Adrenalina  Sport Network Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1672
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Afizzionados HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Afizzionados HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1673
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 1" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1674
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 1 HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1675
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 1 Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 1 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1676
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 2" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1677
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 2 HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1678
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 2 Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 2 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1679
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 3" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1680
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 3 HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 3 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1681
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Fox Sports 3 Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Fox Sports 3 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1682
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1683
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1 HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1684
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1 Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 1 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1685
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 2" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1686
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 2 HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1687
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 2 Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 2 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1688
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 3" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1689
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 3 HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 3 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1690
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 3 Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn 3 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1691
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn+" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn+
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1692
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn+ HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn+ HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1693
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn+ Full HD" tvg-logo="" group-title="Deportes Mexico",SP: MX: Espn+ Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1694
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN (Mexico)" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN (Mexico)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1695
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN (USA)" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN (USA)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1696
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN HD (USA)" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN HD (USA)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1697
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X1" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1698
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X2" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1699
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X4" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X4
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1700
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X3" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1701
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X5" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X5
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1702
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X6" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X6
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1703
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X7" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X7
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1704
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X8" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X8
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1705
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X9" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X9
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1706
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X10" tvg-logo="" group-title="Deportes Mexico",SP: MX: TUDN X10
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1707
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Paraguay --★●•" tvg-logo="" group-title="Deportes Paraguay",•●★-- Deportes Paraguay --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1708
+#EXTINF:-1 tvg-id="" tvg-name="SP: PY: Tigo Sports" tvg-logo="" group-title="Deportes Paraguay",SP: PY: Tigo Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1709
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Peru --★●•" tvg-logo="" group-title="Deportes Peru",•●★-- Deportes Peru --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1710
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: CMD" tvg-logo="" group-title="Deportes Peru",SP: PE: CMD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1711
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Directv Sports Full HD" tvg-logo="" group-title="Deportes Peru",SP: PE: Directv Sports Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1712
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Gol Peru HD" tvg-logo="" group-title="Deportes Peru",SP: PE: Gol Peru HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1713
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Gol Peru FHD" tvg-logo="" group-title="Deportes Peru",SP: PE: Gol Peru FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1714
+#EXTINF:-1 tvg-id="" tvg-name="SP: PE: Movistar Deportes" tvg-logo="" group-title="Deportes Peru",SP: PE: Movistar Deportes
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1715
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Premium --★●•" tvg-logo="" group-title="Deportes Premium",•●★-- Deportes Premium --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1716
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN Sports N" tvg-logo="" group-title="Deportes Premium",SP: BEIN Sports N
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1717
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN Sports N HD" tvg-logo="" group-title="Deportes Premium",SP: BEIN Sports N HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1718
+#EXTINF:-1 tvg-id="" tvg-name="SP: BEIN Sports N Full HD" tvg-logo="" group-title="Deportes Premium",SP: BEIN Sports N Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1719
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 1 Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1720
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 1 Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1721
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 1 Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 1 Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1722
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 2 Sur" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 2 Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1723
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 2 Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 2 Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1724
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 2 Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 2 Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1725
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 3 Sur" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 3 Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1726
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 3 Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 3 Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1727
+#EXTINF:-1 tvg-id="" tvg-name="SP: Fox Sports 3 Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Fox Sports 3 Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1728
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 1 Sur" tvg-logo="" group-title="Deportes Premium",SP: Espn 1 Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1729
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 1 Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Espn 1 Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1730
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 1 Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Espn 1 Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1731
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 2 Sur" tvg-logo="" group-title="Deportes Premium",SP: Espn 2 Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1732
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 2 Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Espn 2 Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1733
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 2 Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Espn 2 Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1734
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 3 Sur" tvg-logo="" group-title="Deportes Premium",SP: Espn 3 Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1735
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 3 Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Espn 3 Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1736
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn 3 Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Espn 3 Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1737
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn Plus Sur" tvg-logo="" group-title="Deportes Premium",SP: Espn Plus Sur
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1738
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn Plus Sur HD" tvg-logo="" group-title="Deportes Premium",SP: Espn Plus Sur HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1739
+#EXTINF:-1 tvg-id="" tvg-name="SP: Espn Plus Sur Full HD" tvg-logo="" group-title="Deportes Premium",SP: Espn Plus Sur Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1740
+#EXTINF:-1 tvg-id="" tvg-name="SP: GOL TV" tvg-logo="" group-title="Deportes Premium",SP: GOL TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1741
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes de España --★●•" tvg-logo="" group-title="Deportes España op1",•●★-- Deportes de España --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1742
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 03 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 03 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1743
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 04 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 04 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1744
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 05 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 05 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1745
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 06 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 06 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1746
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 07 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 07 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1747
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 08 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 08 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1748
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 09 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 09 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1749
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 10 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 10 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1750
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 11 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 11 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1751
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 12 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 12 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1752
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 13 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 13 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1753
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 14 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 14 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1754
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 16 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 16 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1755
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 17 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 17 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1756
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 18 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 18 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1757
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 19 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 19 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1758
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 20 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 20 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1759
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 21 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 21 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1760
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 22 (Eventos)" tvg-logo="" group-title="Deportes España op1",SP: ES: Dazn 22 (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1761
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Deportes España op2",ES: Alquiler 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1762
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Deportes España op2",ES: Alquiler 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1763
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Deportes España op2",ES: Alquiler 3 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1764
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Deportes España op2",ES: Alquiler 4 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1765
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Deportes España op2",ES: Alquiler 5 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1766
+#EXTINF:-1 tvg-id="" tvg-name="ES: Alquiler 6 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ1.png" group-title="Deportes España op2",ES: Alquiler 6 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1767
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 1 FHD" tvg-logo="https://www.taquillaespana.es/wp-content/uploads/2020/03/cropped-logo-taquilla-espa%C3%B1a-1.jpeg" group-title="Deportes España op2",ES: Taquilla 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1768
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 2 FHD" tvg-logo="https://www.taquillaespana.es/wp-content/uploads/2020/03/cropped-logo-taquilla-espa%C3%B1a-1.jpeg" group-title="Deportes España op2",ES: Taquilla 2 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1769
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 3 FHD" tvg-logo="https://www.taquillaespana.es/wp-content/uploads/2020/03/cropped-logo-taquilla-espa%C3%B1a-1.jpeg" group-title="Deportes España op2",ES: Taquilla 3 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1770
+#EXTINF:-1 tvg-id="" tvg-name="ES: Taquilla 4 FHD" tvg-logo="https://www.taquillaespana.es/wp-content/uploads/2020/03/cropped-logo-taquilla-espa%C3%B1a-1.jpeg" group-title="Deportes España op2",ES: Taquilla 4 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1771
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="Deportes España op2",SP: ES: M. LaLiga
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1772
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="Deportes España op2",SP: ES: M. LaLiga HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1773
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="Deportes España op2",SP: ES: M. LaLiga FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1774
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga H265 HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIGA.png" group-title="Deportes España op2",SP: ES: M. LaLiga H265 HEVC
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1775
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="Deportes España op2",SP: ES: LaLiga TV Bar
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1776
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar HD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="Deportes España op2",SP: ES: LaLiga TV Bar HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1777
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar FHD" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="Deportes España op2",SP: ES: LaLiga TV Bar FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1778
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: LaLiga TV Bar H265 HEVC" tvg-logo="https://futbar.com/static/img/laliga_white_logo.png" group-title="Deportes España op2",SP: ES: LaLiga TV Bar H265 HEVC
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1779
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1780
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga De Campeones HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="Deportes España op2",SP: ES: M. Liga De Campeones HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1781
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1782
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones H265 HEVC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones H265 HEVC
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1783
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: #Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="Deportes España op2",SP: ES: #Vamos
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1784
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: #Vamos HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="Deportes España op2",SP: ES: #Vamos HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1785
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: #Vamos FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/VAMOSD.png" group-title="Deportes España op2",SP: ES: #Vamos FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1786
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: GOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="Deportes España op2",SP: ES: GOL
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1787
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: GOL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="Deportes España op2",SP: ES: GOL HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1788
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: GOL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOL.png" group-title="Deportes España op2",SP: ES: GOL FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1789
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Barça TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png" group-title="Deportes España op2",SP: ES: Barça TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1790
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Barça TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/BARNA.png" group-title="Deportes España op2",SP: ES: Barça TV FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1791
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="Deportes España op2",SP: ES: Movistar F1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1792
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar F1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="Deportes España op2",SP: ES: Movistar F1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1793
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar F1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="Deportes España op2",SP: ES: Movistar F1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1794
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Teledeporte" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CAD_TELEDE/i/mosca_CAD_TELEDE.png" group-title="Deportes España op2",SP: ES: Teledeporte
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1795
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Teledeporte FHD" tvg-logo="https://img2.rtve.es/css/rtve.commons/rtve.multisign2014/custom/CAD_TELEDE/i/mosca_CAD_TELEDE.png" group-title="Deportes España op2",SP: ES: Teledeporte FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1796
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Golf" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="Deportes España op2",SP: ES: Movistar Golf
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1797
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Golf HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="Deportes España op2",SP: ES: Movistar Golf HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1798
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" group-title="Deportes España op2",SP: ES: Real Madrid TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1799
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png" group-title="Deportes España op2",SP: ES: Eurosport 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1800
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP2.png" group-title="Deportes España op2",SP: ES: Eurosport 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1801
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" group-title="Deportes España op2",SP: ES: Eurosport 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1802
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" group-title="Deportes España op2",SP: ES: Eurosport 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1803
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Eurosport 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/ESP.png" group-title="Deportes España op2",SP: ES: Eurosport 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1804
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Deportes FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="Deportes España op2",SP: ES: Movistar Deportes FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1805
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Deportes HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="Deportes España op2",SP: ES: Movistar Deportes HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1806
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CPDEP.png" group-title="Deportes España op2",SP: ES: Movistar Deportes
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1807
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Movistar Golf FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/GOLF+.png" group-title="Deportes España op2",SP: ES: Movistar Golf FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1808
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP3.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1809
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP2.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1810
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP1.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1811
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="Deportes España op2",SP: ES: M. LaLiga 3 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1812
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG3.png" group-title="Deportes España op2",SP: ES: M. LaLiga 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1813
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG2.png" group-title="Deportes España op2",SP: ES: M. LaLiga 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1814
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="Deportes España op2",SP: ES: M. LaLiga 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1815
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MLIG1.png" group-title="Deportes España op2",SP: ES: M. LaLiga 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1816
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Real Madrid TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" group-title="Deportes España op2",SP: ES: Real Madrid TV FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1817
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Real Madrid TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/REALM.png" group-title="Deportes España op2",SP: ES: Real Madrid TV HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1818
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP8.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 8
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1819
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP7.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 7
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1820
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP6.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 6
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1821
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP5.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 5
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1822
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAP4.png" group-title="Deportes España op2",SP: ES: M. Liga de Campeones 4
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1823
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 1 HD (Eventos)" tvg-logo="" group-title="Deportes España op2",SP: ES: Dazn 1 HD (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1824
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Dazn 2 HD (Eventos)" tvg-logo="" group-title="Deportes España op2",SP: ES: Dazn 2 HD (Eventos)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1825
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes de United Kingdom --★●•" tvg-logo="" group-title="Deportes United Kingdom",•●★-- Deportes de United Kingdom --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1826
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Premier Sports 1 HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Premier Sports 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1827
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Premier Sports 2" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Premier Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1828
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: BT Sport 1 FHD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: BT Sport 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1829
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: BT Sport 2 HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: BT Sport 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1830
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: BT Sport 3 HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: BT Sport 3 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1831
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: BT Sport ESPN HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: BT Sport ESPN HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1832
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Eir Sports 1" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Eir Sports 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1833
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Eir Sports 2" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Eir Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1834
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Eurosport 1 FHD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Eurosport 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1835
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Eurosport 2 FHD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Eurosport 2 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1836
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Box Nation" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Box Nation
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1837
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Box Nation" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Box Nation
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1838
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Racing TV" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Racing TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1839
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: MUTV HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: MUTV HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1840
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Chelsea TV" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Chelsea TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1841
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: LFC HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: LFC HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1842
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Freesports" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Freesports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1843
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: WWE Network" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: WWE Network
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1844
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: WWE Channel HD" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: WWE Channel HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1845
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Horse And Country" tvg-logo="" group-title="Deportes United Kingdom",SP: UK: Horse And Country
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1846
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Honduras --★●•" tvg-logo="" group-title="Deportes Panama",•●★-- Deportes Honduras --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1847
+#EXTINF:-1 tvg-id="" tvg-name="SP: HN: Tigo Sports" tvg-logo="" group-title="Deportes Panama",SP: HN: Tigo Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1848
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Panama --★●•" tvg-logo="" group-title="Deportes Panama",•●★-- Deportes Panama --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1849
+#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports FC HD" tvg-logo="" group-title="Deportes Panama",SP: PA: CableOnda Sports FC HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1850
+#EXTINF:-1 tvg-id="" tvg-name="SP: PA: CableOnda Sports HD" tvg-logo="" group-title="Deportes Panama",SP: PA: CableOnda Sports HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1851
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN FHD (Mexico)" tvg-logo="" group-title="Deportes Panama",SP: MX: TUDN FHD (Mexico)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1852
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: M. LaLiga 2 FHD" tvg-logo="" group-title="Deportes Panama",SP: ES: M. LaLiga 2 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1853
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Liga Española HD" tvg-logo="" group-title="Deportes Panama",SP: Sky Sports Liga Española HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1854
+#EXTINF:-1 tvg-id="" tvg-name="SP: Sky Sports Latino HD" tvg-logo="" group-title="Deportes Panama",SP: Sky Sports Latino HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1855
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes de USA --★●•" tvg-logo="" group-title="Deportes USA",•●★-- Deportes de USA --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1856
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Bein Sports La Liga FHD" tvg-logo="" group-title="Deportes USA",SP: USA: Bein Sports La Liga FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1857
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: La Liga HD" tvg-logo="" group-title="Deportes USA",SP: USA: La Liga HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1858
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: La Liga FHD" tvg-logo="" group-title="Deportes USA",SP: USA: La Liga FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1859
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports" tvg-logo="https://static.iptv-epg.com/ca/beINSportsGlobal.ca.png" group-title="Deportes USA",SP: USA: BeIN Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1860
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 2" tvg-logo="https://static.iptv-epg.com/ca/beINSports2.ca.png" group-title="Deportes USA",SP: USA: BeIN Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1861
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 8" tvg-logo="https://static.iptv-epg.com/ca/beINSports8.ca.png" group-title="Deportes USA",SP: USA: BeIN Sports 8
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1862
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 7" tvg-logo="https://static.iptv-epg.com/ca/beINSports7.ca.png" group-title="Deportes USA",SP: USA: BeIN Sports 7
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1863
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 4" tvg-logo="https://static.iptv-epg.com/ca/beINSports4.ca.png" group-title="Deportes USA",SP: USA: BeIN Sports 4
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1864
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeIN Sports 6" tvg-logo="https://static.iptv-epg.com/ca/beINSports6.ca.png" group-title="Deportes USA",SP: USA: BeIN Sports 6
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1865
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: BeI Sports 5" tvg-logo="" group-title="Deportes USA",SP: USA: BeI Sports 5
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1866
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBC Sports Network HD" tvg-logo="" group-title="Deportes USA",SP: USA: NBC Sports Network HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1867
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBCSN Boston" tvg-logo="" group-title="Deportes USA",SP: USA: NBCSN Boston
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1868
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBCSN Chicago" tvg-logo="" group-title="Deportes USA",SP: USA: NBCSN Chicago
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1869
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBCSN Philadelphia" tvg-logo="" group-title="Deportes USA",SP: USA: NBCSN Philadelphia
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1870
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBCSN Washington" tvg-logo="" group-title="Deportes USA",SP: USA: NBCSN Washington
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1871
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: Tennis Channel" tvg-logo="" group-title="Deportes USA",SP: USA: Tennis Channel
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1872
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA TV" tvg-logo="" group-title="Deportes USA",SP: USA: NBA TV
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1873
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: UFC Network FHD" tvg-logo="" group-title="Deportes USA",SP: USA: UFC Network FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1874
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Network Strike Zone (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Network Strike Zone (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1875
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Los Angeles Angels (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Los Angeles Angels (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1876
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Houston Astros (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Houston Astros (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1877
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Oakland Athletics (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Oakland Athletics (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1878
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Toronto Blue Jays (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Toronto Blue Jays (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1879
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Atlanta Braves (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Atlanta Braves (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1880
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Milwaukee Brewers (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Milwaukee Brewers (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1881
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB St. Louis Cardinals (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB St. Louis Cardinals (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1882
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Chicago Cubs (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Chicago Cubs (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1883
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Arizona Diamondbacks (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Arizona Diamondbacks (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1884
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Detroit Tigers (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Detroit Tigers (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1885
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB San Francisco Giants (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB San Francisco Giants (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1886
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Cleveland Indians (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Cleveland Indians (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1887
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Seattle Mariners (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Seattle Mariners (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1888
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Miami Marlins (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Miami Marlins (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1889
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB New York Mets (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB New York Mets (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1890
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Washington Nationals (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Washington Nationals (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1891
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Baltimore Orioles (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Baltimore Orioles (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1892
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB San Diego Padres (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB San Diego Padres (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1893
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Philadelphia Phillies (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Philadelphia Phillies (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1894
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Pittsburgh Pirates (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Pittsburgh Pirates (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1895
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Texas Rangers (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Texas Rangers (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1896
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Tampa Bay Rays (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Tampa Bay Rays (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1897
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Boston Red Sox (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Boston Red Sox (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1898
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Cincinnati Reds (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Cincinnati Reds (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1899
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Colorado Rockies (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Colorado Rockies (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1900
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Kansas City Royals (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Kansas City Royals (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1901
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Detroit Tigers (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Detroit Tigers (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1902
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Minnesota Twins (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Minnesota Twins (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1903
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB Chicago White Sox (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB Chicago White Sox (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1904
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: MLB New York Yankees (Only Events)" tvg-logo="" group-title="Deportes USA",SP: USA: MLB New York Yankees (Only Events)
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1905
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Detroit Pistons" tvg-logo="https://raw.githubusercontent.com/Apollo2000/TVLogos/master/nba.3.us.png" group-title="Deportes USA",SP: USA: NBA Detroit Pistons
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1906
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Golden State Warriors" tvg-logo="http://titanlivetv.com:8080/images/fc9b68ac923f0a6ddc64086dfb1f254f.png" group-title="Deportes USA",SP: USA: NBA Golden State Warriors
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1907
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Houston Rockets" tvg-logo="http://titanlivetv.com:8080/images/087e143316915f99f1ce638a930c5db4.png" group-title="Deportes USA",SP: USA: NBA Houston Rockets
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1908
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Indiana Pacers" tvg-logo="http://titanlivetv.com:8080/images/6aa32e13bbda0ff48222f0099904afce.png" group-title="Deportes USA",SP: USA: NBA Indiana Pacers
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1909
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Los Angeles Clippers" tvg-logo="http://titanlivetv.com:8080/images/64167c2a7d57249dbbaef46050f03a10.png" group-title="Deportes USA",SP: USA: NBA Los Angeles Clippers
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1910
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Los Angeles Lakers" tvg-logo="http://titanlivetv.com:8080/images/aef4bfadb90301c9b8f5d078759bc7d5.png" group-title="Deportes USA",SP: USA: NBA Los Angeles Lakers
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1911
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Memphis Grizzlies" tvg-logo="http://titanlivetv.com:8080/images/2f23aeb003fa33b4659673703a76dcc7.png" group-title="Deportes USA",SP: USA: NBA Memphis Grizzlies
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1912
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Brooklyn Nets" tvg-logo="http://titanlivetv.com:8080/images/167ea2d8419b794dbbfe35af633e835c.png" group-title="Deportes USA",SP: USA: NBA Brooklyn Nets
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1913
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Charlotte Hornets" tvg-logo="http://titanlivetv.com:8080/images/ec08862207fe71b488372ccb4bce65fc.png" group-title="Deportes USA",SP: USA: NBA Charlotte Hornets
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1914
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Chicago Bulls" tvg-logo="http://titanlivetv.com:8080/images/10546de60dd4463fc66e57782f41eefc.png" group-title="Deportes USA",SP: USA: NBA Chicago Bulls
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1915
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Cleveland Cavaliers" tvg-logo="http://titanlivetv.com:8080/images/3371ddffa631c88d01712844d31eee1f.png" group-title="Deportes USA",SP: USA: NBA Cleveland Cavaliers
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1916
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Dallas Mavericks" tvg-logo="http://titanlivetv.com:8080/images/8904c88581379a670ca7040287a8c1c2.png" group-title="Deportes USA",SP: USA: NBA Dallas Mavericks
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1917
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Denver Nuggets" tvg-logo="http://titanlivetv.com:8080/images/bfce84d3fdfe8cc0f90ad87f40e1fd9e.png" group-title="Deportes USA",SP: USA: NBA Denver Nuggets
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1918
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Miami Heat" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Miami Heat
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1919
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Milwaukee Bucks" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Milwaukee Bucks
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1920
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Minnesota Timberwolves" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Minnesota Timberwolves
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1921
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA New Orleans Pelicans" tvg-logo="" group-title="Deportes USA",SP: USA: NBA New Orleans Pelicans
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1922
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA New York Knicks" tvg-logo="" group-title="Deportes USA",SP: USA: NBA New York Knicks
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1923
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Oklahoma City Thunder" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Oklahoma City Thunder
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1924
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Orlando Magic" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Orlando Magic
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1925
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Philadelphia 76ers" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Philadelphia 76ers
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1926
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Phoenix Suns" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Phoenix Suns
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1927
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Portland Trail Blazers" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Portland Trail Blazers
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1928
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Sacramento Kings" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Sacramento Kings
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1929
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA San Antonio Spurs" tvg-logo="" group-title="Deportes USA",SP: USA: NBA San Antonio Spurs
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1930
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Toronto Raptors" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Toronto Raptors
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1931
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA Utah Jazz" tvg-logo="" group-title="Deportes USA",SP: USA: NBA Utah Jazz
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1932
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 01" tvg-logo="http://titanlivetv.com:8080/images/0f7ffdc69dc42bc505d1e82a473a0db7.png" group-title="Deportes USA",SP: USA: NBA League Pass 01
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1933
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 02" tvg-logo="http://titanlivetv.com:8080/images/617f3de820f6ced344d7c6e45ae03361.png" group-title="Deportes USA",SP: USA: NBA League Pass 02
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1934
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 03" tvg-logo="http://titanlivetv.com:8080/images/4a5d545f5837a74ec6b46c84bc06c1dd.png" group-title="Deportes USA",SP: USA: NBA League Pass 03
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1935
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 04" tvg-logo="http://titanlivetv.com:8080/images/fc9b68ac923f0a6ddc64086dfb1f254f.png" group-title="Deportes USA",SP: USA: NBA League Pass 04
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1936
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 05" tvg-logo="http://titanlivetv.com:8080/images/087e143316915f99f1ce638a930c5db4.png" group-title="Deportes USA",SP: USA: NBA League Pass 05
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1937
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 06" tvg-logo="http://titanlivetv.com:8080/images/6aa32e13bbda0ff48222f0099904afce.png" group-title="Deportes USA",SP: USA: NBA League Pass 06
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1938
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 07" tvg-logo="http://titanlivetv.com:8080/images/64167c2a7d57249dbbaef46050f03a10.png" group-title="Deportes USA",SP: USA: NBA League Pass 07
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1939
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 08" tvg-logo="http://titanlivetv.com:8080/images/aef4bfadb90301c9b8f5d078759bc7d5.png" group-title="Deportes USA",SP: USA: NBA League Pass 08
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1940
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 09" tvg-logo="http://titanlivetv.com:8080/images/2f23aeb003fa33b4659673703a76dcc7.png" group-title="Deportes USA",SP: USA: NBA League Pass 09
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1941
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 10" tvg-logo="http://titanlivetv.com:8080/images/167ea2d8419b794dbbfe35af633e835c.png" group-title="Deportes USA",SP: USA: NBA League Pass 10
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1942
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 11" tvg-logo="http://titanlivetv.com:8080/images/ec08862207fe71b488372ccb4bce65fc.png" group-title="Deportes USA",SP: USA: NBA League Pass 11
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1943
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 12" tvg-logo="http://titanlivetv.com:8080/images/10546de60dd4463fc66e57782f41eefc.png" group-title="Deportes USA",SP: USA: NBA League Pass 12
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1944
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 13" tvg-logo="http://titanlivetv.com:8080/images/3371ddffa631c88d01712844d31eee1f.png" group-title="Deportes USA",SP: USA: NBA League Pass 13
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1945
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 14" tvg-logo="http://titanlivetv.com:8080/images/8904c88581379a670ca7040287a8c1c2.png" group-title="Deportes USA",SP: USA: NBA League Pass 14
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1946
+#EXTINF:-1 tvg-id="" tvg-name="SP: USA: NBA League Pass 15" tvg-logo="http://titanlivetv.com:8080/images/bfce84d3fdfe8cc0f90ad87f40e1fd9e.png" group-title="Deportes USA",SP: USA: NBA League Pass 15
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1947
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Premier League HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Premier League HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1948
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Football HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Football HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1949
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Main Event" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Main Event
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1950
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports News HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports News HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1951
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Arena" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Arena
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1952
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Action" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Action
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1953
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Cricket HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Cricket HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1954
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Golf" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Golf
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1955
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports F1 HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports F1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1956
+#EXTINF:-1 tvg-id="" tvg-name="SP: UK: Sky Sports Racing" tvg-logo="" group-title="Sky Sports Premier League HD",SP: UK: Sky Sports Racing
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1957
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport News HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport News HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1958
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Austria FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Austria FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1959
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport 1 HD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1960
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1961
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 1 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1962
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 2 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 2 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1963
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 3 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 3 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1964
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 4 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 4 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1965
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 5 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 5 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1966
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 6 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 6 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1967
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 7 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 7 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1968
+#EXTINF:-1 tvg-id="" tvg-name="SP: DE: Sky Sport Bundesliga 8 FHD" tvg-logo="" group-title="Sky Sports Premier League HD",SP: DE: Sky Sport Bundesliga 8 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1969
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Colombia --★●•" tvg-logo="" group-title="Deportes Colombia",•●★-- Deportes Colombia --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1970
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 1" tvg-logo="" group-title="Deportes Colombia",SP: CO: Directv Sports 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1971
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports 2" tvg-logo="" group-title="Deportes Colombia",SP: CO: Directv Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1972
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Directv Sports Plus" tvg-logo="" group-title="Deportes Colombia",SP: CO: Directv Sports Plus
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1973
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Win Sports HD" tvg-logo="" group-title="Deportes Colombia",SP: CO: Win Sports HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1974
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Win Sports Full HD" tvg-logo="" group-title="Deportes Colombia",SP: CO: Win Sports Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1975
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Win Sports Plus Full HD" tvg-logo="" group-title="Deportes Colombia",SP: CO: Win Sports Plus Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1976
+#EXTINF:-1 tvg-id="" tvg-name="SP: CO: Claro Sports Latinoamerica" tvg-logo="" group-title="Deportes Colombia",SP: CO: Claro Sports Latinoamerica
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1977
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Chile --★●•" tvg-logo="" group-title="Deportes Chile",•●★-- Deportes Chile --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1978
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF Basico" tvg-logo="" group-title="Deportes Chile",SP: CL: CDF Basico
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1979
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF SD" tvg-logo="" group-title="Deportes Chile",SP: CL: CDF SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1980
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF Full HD" tvg-logo="" group-title="Deportes Chile",SP: CL: CDF Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1981
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF Premium" tvg-logo="" group-title="Deportes Chile",SP: CL: CDF Premium
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1982
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDF HD" tvg-logo="" group-title="Deportes Chile",SP: CL: CDF HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1983
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Estadio CDF Full HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Estadio CDF Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1984
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Basico" tvg-logo="" group-title="Deportes Chile",SP: CL: CDO Basico
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1985
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Premium" tvg-logo="" group-title="Deportes Chile",SP: CL: CDO Premium
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1986
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: CDO Premium FHD" tvg-logo="" group-title="Deportes Chile",SP: CL: CDO Premium FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1987
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports FHD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1988
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1989
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1990
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 1 FHD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 1 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1991
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 1 HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1992
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 2 FHD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 2 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1993
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 2 HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1994
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 2" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1995
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 3 FHD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 3 FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1996
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 3 HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 3 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1997
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Fox Sports 3" tvg-logo="" group-title="Deportes Chile",SP: CL: Fox Sports 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1998
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Sporting HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Sporting HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/1999
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Teletrak HD" tvg-logo="" group-title="Deportes Chile",SP: CL: Teletrak HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2000
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: Directv Chile" tvg-logo="" group-title="Deportes Chile",SP: CL: Directv Chile
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2001
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: ESPN Chile" tvg-logo="" group-title="Deportes Chile",SP: CL: ESPN Chile
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2002
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Bolivia --★●•" tvg-logo="" group-title="Deportes Bolivia",•●★-- Deportes Bolivia --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2003
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Bolivia Deportes" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Bolivia Deportes
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2004
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 1 SD" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Tigo Sports 1 SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2005
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 1 HD" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Tigo Sports 1 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2006
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 2 SD" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Tigo Sports 2 SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2007
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 2 HD" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Tigo Sports 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2008
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 3 SD" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Tigo Sports 3 SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2009
+#EXTINF:-1 tvg-id="" tvg-name="SP: BO: Tigo Sports 3 HD" tvg-logo="" group-title="Deportes Bolivia",SP: BO: Tigo Sports 3 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2010
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Argentina --★●•" tvg-logo="" group-title="Deportes Argentina",•●★-- Deportes Argentina --★●•
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2011
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Directv Sports Full HD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Directv Sports Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2012
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports" tvg-logo="" group-title="Deportes Argentina",SP: ARG: TNT Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2013
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports HD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: TNT Sports HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2014
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local" tvg-logo="" group-title="Deportes Argentina",SP: ARG: TyC Sports Local
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2015
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Local Full HD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: TyC Sports Local Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2016
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: TyC Sports Internacional SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2017
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional HD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: TyC Sports Internacional HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2018
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports Premium" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Fox Sports Premium
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2019
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports Premium FHD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Fox Sports Premium FHD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2020
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports Premium FHD h265" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Fox Sports Premium FHD h265
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2021
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 1" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Fox Sports 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2022
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 2" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Fox Sports 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2023
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Fox Sports 3" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Fox Sports 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2024
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Espn 1" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Espn 1
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2025
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Espn 2" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Espn 2
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2026
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Espn 2 HD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Espn 2 HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2027
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Espn 2 Full HD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Espn 2 Full HD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2028
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Espn 3" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Espn 3
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2029
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: Am Sports" tvg-logo="" group-title="Deportes Argentina",SP: ARG: Am Sports
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2030
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: DeporTV SD" tvg-logo="" group-title="Deportes Argentina",SP: ARG: DeporTV SD
+http://emiraytv.ddns.net:25461/FWwYngqF04/t20t1ioq4G/2031
+#EXTINF:-1 tvg-id="" tvg-name="LA EXTRAñA QUE HAY EN TI" tvg-logo="" group-title="Peliculas Accion",LA EXTRAñA QUE HAY EN TI
+http://emiraytv.ddns.net:25461/movie/FWwYngqF04/t20t1ioq4G/2032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="GREYHOUND" tvg-logo="" group-title="Peliculas Accion",GREYHOUND
+http://emiraytv.ddns.net:25461/movie/FWwYngqF04/t20t1ioq4G/2033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA VIEJA GUARDIA" tvg-logo="" group-title="Peliculas Accion",LA VIEJA GUARDIA
+http://emiraytv.ddns.net:25461/movie/FWwYngqF04/t20t1ioq4G/2034.mkv
+
