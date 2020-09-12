@@ -1,3 +1,32 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="" group-title="cine",FOX ACTION
+#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="" group-title="CINE",FOX ACTION
 http://randomserver.site:2086/live/crystal/12345/92591.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="CINE",FOX SERIES
+http://randomserver.site:2086/live/crystal/12345/92585.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="CINE",FOX COMEDY
+http://randomserver.site:2086/live/crystal/12345/92588.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="" group-title="CINE",FOX CINEMA
+http://randomserver.site:2086/live/crystal/12345/66661.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC" tvg-logo="" group-title="CINE",FOX CLASSIC
+http://randomserver.site:2086/live/crystal/12345/92589.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="CINE",FOX MOVIES
+http://randomserver.site:2086/live/crystal/12345/92586.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY" tvg-logo="" group-title="CINE",FOX FAMILY
+http://randomserver.site:2086/live/crystal/12345/98785.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CINE",HBO
+http://randomserver.site:2086/live/crystal/12345/92572.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title="CINE",HBO PLUS
+http://randomserver.site:2086/live/Bria/Bria/92569.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="CINE",HBO XTREME
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5900.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="CINE",HBO FAMILY
+http://randomserver.site:2086/live/Bria/Bria/92570.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="CINE",HBO SIGNATURE
+http://randomserver.site:2086/live/Bria/Bria/66678.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="CINE",HBO POP
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/8141.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="CINE",HBO 2
+http://randomserver.site:2086/live/Bria/Bria/92571.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="" group-title="CINE",HBO MUNDI
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/6011.m3u8?checkedby:iptvcat.com
+
