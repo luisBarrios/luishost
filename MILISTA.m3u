@@ -127,13 +127,16 @@ http://randomserver.site:2086/live/crystal/12345/92548.m3u8?checkedby:iptvcat.co
 http://randomserver.site:2086/live/crystal/12345/92547.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
 http://randomserver.site:2086/live/Bria/Bria/92482.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="INFANTIL",NATGEO KIDS
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/3344.m3u8?checkedby:iptvcat.com
+
 
 //ENTRETENIMIENTO
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="INFANTIL",DISTRITO COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
 http://randomserver.site:2086/live/crystal/12345/92595.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="INFANTIL",EL GOURMET
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="ENTRETENIMIENTO",EL GOURMET
 http://randomserver.site:2086/live/crystal/12345/92594.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTER" tvg-logo="" group-title="INFANTIL",COMEDY CENTER
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTER" tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTER
 http://randomserver.site:2086/live/crystal/12345/98776.m3u8?checkedby:iptvcat.com
 
 
