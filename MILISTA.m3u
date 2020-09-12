@@ -77,3 +77,44 @@ http://pro.waldi2017.com:8789/live/99887766/9988776655/42378.m3u8?checkedby:iptv
 http://randomserver.site:2086/live/Bria/Bria/66593.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT" tvg-logo="" group-title="DEPORTES",TNT SPORT
 http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/6858.m3u8?checkedby:iptvcat.com
+
+//MEXICO
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="" group-title="AZTECA UNO",AZTECA UNO
+http://randomserver.site:2086/live/crystal/12345/92623.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="" group-title="MEXICO",AZTECA 7
+http://localdblagent.club:8080/Carlos1/Carlos1/12046?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="LAS ESTRELLAS" group-title="MEXICO",LAS ESTRELLAS
+http://randomserver.site:2086/live/crystal/12345/92617.m3u8?checkedby:iptvcat.com
+
+//MUSICA
+#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="" group-title="MUSICA",BANDAMAX
+http://randomserver.site:2086/live/crystal/12345/66552.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="" group-title="MUSICA",TELEHIT
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/3349.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="MUSICA",VH1
+http://randomserver.site:2086/live/crystal/12345/92461.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="MUSICA",MTV
+http://randomserver.site:2086/live/crystal/12345/92554.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="MUSICA",VH1 CLASSIC
+http://randomserver.site:2086/live/Bria/Bria/92460.m3u8?checkedby:iptvcat.com
+
+//INFANTIL
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
+http://randomserver.site:2086/live/crystal/12345/92622.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
+http://randomserver.site:2086/live/crystal/12345/92597.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="" tvg-logo="" group-title="INFANTIL",DISNEY JR
+http://randomserver.site:2086/live/crystal/12345/92596.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="" tvg-logo="" group-title="INFANTIL",DISNEY XD
+http://randomserver.site:2086/live/crystal/12345/98778.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
+http://randomserver.site:2086/live/crystal/12345/92602.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
+http://randomserver.site:2086/live/crystal/12345/92548.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="" group-title="INFANTIL",NICKTOONS
+http://randomserver.site:2086/live/crystal/12345/92547.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
+http://randomserver.site:2086/live/Bria/Bria/92482.m3u8?checkedby:iptvcat.com
+//ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="" group-title="INFANTIL",ENTRETENIMIENTO
+http://randomserver.site:2086/live/crystal/12345/92595.m3u8?checkedby:iptvcat.com
