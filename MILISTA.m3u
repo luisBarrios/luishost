@@ -33,6 +33,17 @@ http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/6011.m3u8?checkedby:iptv
 http://randomserver.site:2086/live/Bria/Bria/92485.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="" group-title="CINE",TNT SERIES
 http://randomserver.site:2086/live/Bria/Bria/92484.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="" group-title="CINE",CANAL SONY
+http://randomserver.site:2086/live/crystal/12345/92533.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="CINE",SPACE
+http://randomserver.site:2086/live/Bria/Bria/92532.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="" group-title="CINE",GOLDEN
+http://randomserver.site:2086/live/Bria/Bria/66670.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="CINE",GOLDEN EDGE
+http://randomserver.site:2086/live/Bria/Bria/92575.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
+http://randomserver.site:2086/live/crystal/12345/98772.m3u8?checkedby:iptvcat.com
+
 
 //deportes
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT" tvg-logo="" group-title="DEPORTES",WIN SPORT
@@ -78,6 +89,7 @@ http://randomserver.site:2086/live/Bria/Bria/66593.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TNT SPORT" tvg-logo="" group-title="DEPORTES",TNT SPORT
 http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/6858.m3u8?checkedby:iptvcat.com
 
+
 //MEXICO
 #EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="" group-title="AZTECA UNO",AZTECA UNO
 http://randomserver.site:2086/live/crystal/12345/92623.m3u8?checkedby:iptvcat.com
@@ -119,6 +131,11 @@ http://randomserver.site:2086/live/Bria/Bria/92482.m3u8?checkedby:iptvcat.com
 //ENTRETENIMIENTO
 #EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="INFANTIL",DISTRITO COMEDIA
 http://randomserver.site:2086/live/crystal/12345/92595.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="INFANTIL",EL GOURMET
+http://randomserver.site:2086/live/crystal/12345/92594.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTER" tvg-logo="" group-title="INFANTIL",COMEDY CENTER
+http://randomserver.site:2086/live/crystal/12345/98776.m3u8?checkedby:iptvcat.com
+
 
 //CANALES 24/7
 #EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="" group-title="24/7",LOS SIMPSON
