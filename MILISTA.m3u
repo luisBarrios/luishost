@@ -1,173 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FOX ACTION" tvg-logo="" group-title="CINE",FOX ACTION
-http://randomserver.site:2086/live/crystal/12345/92591.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX SERIES" tvg-logo="" group-title="CINE",FOX SERIES
-http://randomserver.site:2086/live/crystal/12345/92585.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY" tvg-logo="" group-title="CINE",FOX COMEDY
-http://randomserver.site:2086/live/crystal/12345/92588.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX CINEMA" tvg-logo="" group-title="CINE",FOX CINEMA
-http://randomserver.site:2086/live/crystal/12345/66661.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX CLASSIC" tvg-logo="" group-title="CINE",FOX CLASSIC
-http://randomserver.site:2086/live/crystal/12345/92589.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="" group-title="CINE",FOX MOVIES
-http://randomserver.site:2086/live/crystal/12345/92586.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX FAMILY" tvg-logo="" group-title="CINE",FOX FAMILY
-http://randomserver.site:2086/live/crystal/12345/98785.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="CINE",HBO
-http://randomserver.site:2086/live/crystal/12345/92572.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO PLUS" tvg-logo="" group-title="CINE",HBO PLUS
-http://randomserver.site:2086/live/Bria/Bria/92569.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME" tvg-logo="" group-title="CINE",HBO XTREME
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5900.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="CINE",HBO FAMILY
-http://randomserver.site:2086/live/Bria/Bria/92570.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="CINE",HBO SIGNATURE
-http://randomserver.site:2086/live/Bria/Bria/66678.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO POP" tvg-logo="" group-title="CINE",HBO POP
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/8141.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="CINE",HBO 2
-http://randomserver.site:2086/live/Bria/Bria/92571.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="" group-title="CINE",HBO MUNDI
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/6011.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="CINE",TNT
-http://randomserver.site:2086/live/Bria/Bria/92485.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="" group-title="CINE",TNT SERIES
-http://randomserver.site:2086/live/Bria/Bria/92484.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="" group-title="CINE",CANAL SONY
-http://randomserver.site:2086/live/crystal/12345/92533.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="" group-title="CINE",SPACE
-http://randomserver.site:2086/live/Bria/Bria/92532.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN" tvg-logo="" group-title="CINE",GOLDEN
-http://randomserver.site:2086/live/Bria/Bria/66670.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GOLDEN EDGE" tvg-logo="" group-title="CINE",GOLDEN EDGE
-http://randomserver.site:2086/live/Bria/Bria/92575.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="CINE",AMC
-http://randomserver.site:2086/live/crystal/12345/98772.m3u8?checkedby:iptvcat.com
 
+#EXTM3U
 
-//deportes
-#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT" tvg-logo="" group-title="DEPORTES",WIN SPORT
-http://randomserver.site:2086/live/crystal/12345/98797.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT" tvg-logo="" group-title="DEPORTES",FOX SPORT
-http://randomserver.site:2086/live/Bria/Bria/88743.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 2 MX" tvg-logo="" group-title="DEPORTES",FOX SPORT 2 MX
-http://randomserver.site:2086/live/crystal/12345/88744.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT 3 MX" tvg-logo="" group-title="DEPORTES",FOX SPORT 3 MX
-http://randomserver.site:2086/live/crystal/12345/88745.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ESPN MX" tvg-logo="" group-title="DEPORTES",ESPN MX
-http://randomserver.site:2086/live/crystal/12345/98780.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 MX" tvg-logo="" group-title="DEPORTES",ESPN 2 MX
-http://randomserver.site:2086/live/crystal/12345/98781.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 MX" tvg-logo="" group-title="DEPORTES",ESPN 3 MX
-http://randomserver.site:2086/live/crystal/12345/98782.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="" group-title="DEPORTES",ESPN DEPORTES
-http://localdblagent.club:8080/Carlos1/Carlos1/12174?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORT PREMIUM" tvg-logo="" group-title="DEPORTES",FOX SPORT PREMIUM
-http://randomserver.site:2086/live/crystal/12345/67126.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID" tvg-logo="" group-title="DEPORTES",REAL MADRID
-http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="" group-title="DEPORTES",BARCA TV
-http://localdblagent.club:8080/Carlos1/Carlos1/12048?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 1" tvg-logo="" group-title="DEPORTES",DIRECTV SPORT 1
-http://66.northerniptv.ca:8000/live/george/george123/64391.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="" group-title="DEPORTES",DIRECTV SPORT 2
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/41.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="UNIVISION DEPORTES" tvg-logo="" group-title="DEPORTES",UNIVISION DEPORTES
-http://66.northerniptv.ca:8000/tommy2/123456/423?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="" group-title="DEPORTES",GOL TV
-http://randomserver.site:2086/live/Bria/Bria/66576.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="LA LIGA BAR" tvg-logo="" group-title="DEPORTES",LA LIGA BAR
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/7999?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA" tvg-logo="" group-title="DEPORTES",MOVISTAR LA LIGA
-http://live.stablechannels.tv:80/E0KEkrd46/q7bFf1Y50/8063?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT" tvg-logo="" group-title="DEPORTES",BEIN SPORT
-http://randomserver.site:2086/live/Bria/Bria/66786.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT" tvg-logo="" group-title="DEPORTES",BEIN SPORT HD
-http://ingrid.ltd:25461/Melon3175/Melon7531/3624?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT Ñ" tvg-logo="" group-title="DEPORTES",LIGA DE CAMPEONES 
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2583.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="TDN" group-title="DEPORTES",TUDN
-http://randomserver.site:2086/live/Bria/Bria/66593.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORT" tvg-logo="" group-title="DEPORTES",TNT SPORT
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/6858.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" ,BLACKGHOST
+http://blackaddon.com/TV&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png", http://paypal.me/blackghost
+http://blackaddon.com/TV&f=.m3u8
 
-
-//MEXICO
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA UNO" tvg-logo="" group-title="AZTECA UNO",AZTECA UNO
-http://randomserver.site:2086/live/crystal/12345/92623.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="AZTECA 7" tvg-logo="" group-title="MEXICO",AZTECA 7
-http://localdblagent.club:8080/Carlos1/Carlos1/12046?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="LAS ESTRELLAS" group-title="MEXICO",LAS ESTRELLAS
-http://randomserver.site:2086/live/crystal/12345/92617.m3u8?checkedby:iptvcat.com
-
-//MUSICA
-#EXTINF:-1 tvg-id="" tvg-name="BANDAMAX" tvg-logo="" group-title="MUSICA",BANDAMAX
-http://randomserver.site:2086/live/crystal/12345/66552.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TELEHIT" tvg-logo="" group-title="MUSICA",TELEHIT
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/3349.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="" group-title="MUSICA",VH1
-http://randomserver.site:2086/live/crystal/12345/92461.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="MUSICA",MTV
-http://randomserver.site:2086/live/crystal/12345/92554.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="VH1 CLASSIC" tvg-logo="" group-title="MUSICA",VH1 CLASSIC
-http://randomserver.site:2086/live/Bria/Bria/92460.m3u8?checkedby:iptvcat.com
-
-//INFANTIL
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="INFANTIL",BABY TV
-http://randomserver.site:2086/live/crystal/12345/92622.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="INFANTIL",DISNEY CHANNEL
-http://randomserver.site:2086/live/crystal/12345/92597.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="" tvg-logo="" group-title="INFANTIL",DISNEY JR
-http://randomserver.site:2086/live/crystal/12345/92596.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-name="" tvg-logo="" group-title="INFANTIL",DISNEY XD
-http://randomserver.site:2086/live/crystal/12345/98778.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INFANTIL",DISCOVERY KIDS
-http://randomserver.site:2086/live/crystal/12345/92602.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="" group-title="INFANTIL",NICK JR
-http://randomserver.site:2086/live/crystal/12345/92548.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="NICKTOONS" tvg-logo="" group-title="INFANTIL",NICKTOONS
-http://randomserver.site:2086/live/crystal/12345/92547.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
-http://randomserver.site:2086/live/Bria/Bria/92482.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="INFANTIL",NATGEO KIDS
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/3344.m3u8?checkedby:iptvcat.com
-
-
-//ENTRETENIMIENTO
-#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="ENTRETENIMIENTO",DISTRITO COMEDIA
-http://randomserver.site:2086/live/crystal/12345/92595.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="" group-title="ENTRETENIMIENTO",EL GOURMET
-http://randomserver.site:2086/live/crystal/12345/92594.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTER" tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTER
-http://randomserver.site:2086/live/crystal/12345/98776.m3u8?checkedby:iptvcat.com
-
-
-//CANALES 24/7
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="" group-title="24/7",LOS SIMPSON
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/307.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 1-15" tvg-logo="" group-title="24/7",LOS SIMPSON TEMP 1-15
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/308.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 16-27" tvg-logo="" group-title="24/7",LOS SIMPSON TEMP 16-27
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/309.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8" tvg-logo="" group-title="24/7",EL CHAVO DEL 8
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/291.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="" group-title="24/7",BOB ESPONJA
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/277.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="" group-title="24/7",POKEMON
-http://66.northerniptv.ca:8000/live/george/george123/67840.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="PANTERA ROSA" tvg-logo="" group-title="24/7",PANTERA ROSA
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/304.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="" group-title="24/7",NARUTO
-http://randomserver.site:2086/live/Bria/Bria/98531.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="" group-title="24/7",FUTURAMA
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/297.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="PINKY & CEREBRO" tvg-logo="" group-title="24/7",PINKY & CEREBRO
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/313.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",CORAJE EL PERRO COBARDE
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/283.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="" group-title="24/7",DRAGON BALL SUPER
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/289.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="COYOTE & CORRECAMINOS" tvg-logo="" group-title="24/7",COYOTE & CORRECAMINOS
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/292.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="" group-title="24/7",X-MEN EVOLUTION
-http://randomserver.site:2086/live/Bria/Bria/65117.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Antena 3
+https://blackaddon.com/scr/iose2.php?c=50|User-Agent=Lavf/57.83.100
+#EXTINF:-1,EUROSPORT 2
+https://blackaddon.com/scr/iose2.php?c=49|User-Agent=Lavf/57.83.100
+#EXTINF:-1,CRIME&INVESTIGATION
+https://blackaddon.com/scr/iose2.php?c=48|User-Agent=Lavf/57.83.100
+#EXTINF:-1,COMEDY CENTRAL
+https://blackaddon.com/scr/iose2.php?c=45|User-Agent=Lavf/57.83.100
+#EXTINF:-1,AMC
+https://blackaddon.com/scr/iose2.php?c=47|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TOROS HD
+https://blackaddon.com/scr/iose2.php?c=29|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TNT
+https://blackaddon.com/scr/iose2.php?c=16|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TAQ 6
+https://blackaddon.com/scr/iose2.php?c=8|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TAQ 5
+https://blackaddon.com/scr/iose2.php?c=9|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TAQ 4
+https://blackaddon.com/scr/iose2.php?c=10|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TAQ 3
+https://blackaddon.com/scr/iose2.php?c=11|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TAQ 2
+https://blackaddon.com/scr/iose2.php?c=12|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TAQ 1
+https://blackaddon.com/scr/iose2.php?c=13|User-Agent=Lavf/57.83.100
+#EXTINF:-1,SYFY HD
+https://blackaddon.com/scr/iose2.php?c=17|User-Agent=Lavf/57.83.100
+#EXTINF:-1,SERIES HD
+https://blackaddon.com/scr/iose2.php?c=21|User-Agent=Lavf/57.83.100
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+https://blackaddon.com/scr/iose2.php?c=26|User-Agent=Lavf/57.83.100
+#EXTINF:-1,NAT GEO WILD HD
+https://blackaddon.com/scr/iose2.php?c=25|User-Agent=Lavf/57.83.100
+#EXTINF:-1,MTV
+https://blackaddon.com/scr/iose2.php?c=14|User-Agent=Lavf/57.83.100
+#EXTINF:-1,MOTOGP
+https://blackaddon.com/scr/iose2.php?c=31|User-Agent=Lavf/57.83.100
+#EXTINF:-1,LIGA CAMPEONES
+https://blackaddon.com/scr/iose2.php?c=38|User-Agent=Lavf/57.83.100
+#EXTINF:-1,LA LIGA TV HD
+https://blackaddon.com/scr/iose2.php?c=37|User-Agent=Lavf/57.83.100
+#EXTINF:-1,HISTORIA HD
+https://blackaddon.com/scr/iose2.php?c=23|User-Agent=Lavf/57.83.100
+#EXTINF:-1,GOLTV
+https://blackaddon.com/scr/iose2.php?c=35|User-Agent=Lavf/57.83.100
+#EXTINF:-1,GOLF HD
+https://blackaddon.com/scr/iose2.php?c=28|User-Agent=Lavf/57.83.100
+#EXTINF:-1,FOX HD
+https://blackaddon.com/scr/iose2.php?c=20|User-Agent=Lavf/57.83.100
+#EXTINF:-1,FORMULA 1
+https://blackaddon.com/scr/iose2.php?c=30|User-Agent=Lavf/57.83.100
+#EXTINF:-1,EUROSPORT HD
+https://blackaddon.com/scr/iose2.php?c=27|User-Agent=Lavf/57.83.100
+#EXTINF:-1,ESTRENOS HD
+https://blackaddon.com/scr/iose2.php?c=43|User-Agent=Lavf/57.83.100
+#EXTINF:-1,DRAMA
+https://blackaddon.com/scr/iose2.php?c=42|User-Agent=Lavf/57.83.100
+#EXTINF:-1,DMAX
+https://blackaddon.com/scr/iose2.php?c=24|User-Agent=Lavf/57.83.100
+#EXTINF:-1,DEPORTES HD
+https://blackaddon.com/scr/iose2.php?c=34|User-Agent=Lavf/57.83.100
+#EXTINF:-1,COMEDIA HD
+https://blackaddon.com/scr/iose2.php?c=40|User-Agent=Lavf/57.83.100
+#EXTINF:-1,COCINA
+https://blackaddon.com/scr/iose2.php?c=15|User-Agent=Lavf/57.83.100
+#EXTINF:-1,CAZA Y PESCA
+https://blackaddon.com/scr/iose2.php?c=22|User-Agent=Lavf/57.83.100
+#EXTINF:-1,CALLE 13
+https://blackaddon.com/scr/iose2.php?c=39|User-Agent=Lavf/57.83.100
+#EXTINF:-1,BEIN SPORT HD
+https://blackaddon.com/scr/iose2.php?c=32|User-Agent=Lavf/57.83.100
+#EXTINF:-1,BEIN LA LIGA HD
+https://blackaddon.com/scr/iose2.php?c=36|User-Agent=Lavf/57.83.100
+#EXTINF:-1,AXN WHITE HD
+https://blackaddon.com/scr/iose2.php?c=18|User-Agent=Lavf/57.83.100
+#EXTINF:-1,AXN HD
+https://blackaddon.com/scr/iose2.php?c=19|User-Agent=Lavf/57.83.100
+#EXTINF:-1,ACCION HD
+https://blackaddon.com/scr/iose2.php?c=41|User-Agent=Lavf/57.83.100
+#EXTINF:-1,#V
+https://blackaddon.com/scr/iose2.php?c=33|User-Agent=Lavf/57.83.100
+#EXTINF:-1,#0 HD
+https://blackaddon.com/scr/iose2.php?c=44|User-Agent=Lavf/57.83.100
+#EXTINF:-1,VIAJAR HD
+https://blackaddon.com/scr/iose2.php?c=7|User-Agent=Lavf/57.83.100
+#EXTINF:-1,TCM HD
+https://blackaddon.com/scr/iose2.php?c=6|User-Agent=Lavf/57.83.100
+#EXTINF:-1,DOC&ROLL HD
+https://blackaddon.com/scr/iose2.php?c=5|User-Agent=Lavf/57.83.100
+#EXTINF:-1,A&E
+https://blackaddon.com/scr/iose2.php?c=4|User-Agent=Lavf/57.83.100
+#EXTINF:-1,HOLLYWOOD
+https://blackaddon.com/scr/iose2.php?c=3|User-Agent=Lavf/57.83.100
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+https://blackaddon.com/scr/iose2.php?c=1|User-Agent=Lavf/57.83.100
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+https://blackaddon.com/scr/iose2.php?c=2|User-Agent=Lavf/57.83.100
