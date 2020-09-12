@@ -115,6 +115,37 @@ http://randomserver.site:2086/live/crystal/12345/92548.m3u8?checkedby:iptvcat.co
 http://randomserver.site:2086/live/crystal/12345/92547.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="" group-title="INFANTIL",TOONCAST
 http://randomserver.site:2086/live/Bria/Bria/92482.m3u8?checkedby:iptvcat.com
+
 //ENTRETENIMIENTO
-#EXTINF:-1 tvg-id="" tvg-name="ENTRETENIMIENTO" tvg-logo="" group-title="INFANTIL",ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO COMEDIA" tvg-logo="" group-title="INFANTIL",DISTRITO COMEDIA
 http://randomserver.site:2086/live/crystal/12345/92595.m3u8?checkedby:iptvcat.com
+
+//CANALES 24/7
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="" group-title="24/7",LOS SIMPSON
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/307.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 1-15" tvg-logo="" group-title="24/7",LOS SIMPSON TEMP 1-15
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/308.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON TEMP 16-27" tvg-logo="" group-title="24/7",LOS SIMPSON TEMP 16-27
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/309.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="EL CHAVO DEL 8" tvg-logo="" group-title="24/7",EL CHAVO DEL 8
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/291.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="" group-title="24/7",BOB ESPONJA
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/277.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="" group-title="24/7",POKEMON
+http://66.northerniptv.ca:8000/live/george/george123/67840.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="PANTERA ROSA" tvg-logo="" group-title="24/7",PANTERA ROSA
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/304.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="" group-title="24/7",NARUTO
+http://randomserver.site:2086/live/Bria/Bria/98531.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="FUTURAMA" tvg-logo="" group-title="24/7",FUTURAMA
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/297.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="PINKY & CEREBRO" tvg-logo="" group-title="24/7",PINKY & CEREBRO
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/313.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE" tvg-logo="" group-title="24/7",CORAJE EL PERRO COBARDE
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/283.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER" tvg-logo="" group-title="24/7",DRAGON BALL SUPER
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/289.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="COYOTE & CORRECAMINOS" tvg-logo="" group-title="24/7",COYOTE & CORRECAMINOS
+http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/292.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN EVOLUTION" tvg-logo="" group-title="24/7",X-MEN EVOLUTION
+http://randomserver.site:2086/live/Bria/Bria/65117.m3u8?checkedby:iptvcat.com
