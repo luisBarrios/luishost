@@ -1,4 +1,589 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="INFANTILES",Cartoon Network
+https://blackaddon.com/scr/se9.php?c=21&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTILES",Boomerang
+https://blackaddon.com/scr/se9.php?c=153&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney 
+https://blackaddon.com/scr/se9.php?c=46&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/db/69/6edb69326ca4e5261ee2f9542d874ae9.jpg" group-title="INFANTILES",Disney JR
+https://blackaddon.com/scr/se9.php?c=47&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES",Disney XD
+https://blackaddon.com/scr/se9.php?c=48&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",Discovery Kids
+https://blackaddon.com/scr/se9.php?c=41&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="INFANTILES",Natgeo Kids
+https://blackaddon.com/scr/se9.php?c=130&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" group-title="INFANTILES",Nick
+https://blackaddon.com/scr/se9.php?c=124&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Nick_2_logo_%282010%29.svg" group-title="INFANTILES",Nick 2
+https://blackaddon.com/scr/se9.php?c=126&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",Nick JR
+https://blackaddon.com/scr/se9.php?c=125&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTILES",Tooncast
+https://blackaddon.com/scr/se9.php?c=110&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_a-e-mundo_m.png" group-title="CINE Y SERIES",A&E
+https://blackaddon.com/scr/se9.php?c=1&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE Y SERIES",AMC
+https://blackaddon.com/scr/se9.php?c=7&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE Y SERIES",AXN
+https://blackaddon.com/scr/se9.php?c=2&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/CINE Y SERIEScanal.png" group-title="CINE Y SERIES",Cinecanal
+https://blackaddon.com/scr/se9.php?c=22&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/CINE Y SERIESmax.png" group-title="CINE Y SERIES",Cinemax
+https://blackaddon.com/scr/se9.php?c=175&f=.m3u8
+#EXTINF:-1 tvg-logo="https://aux.iconspalace.com/uploads/18786692441935094700.png" group-title="CINE Y SERIES",Comedy Central
+https://blackaddon.com/scr/se9.php?c=32&f=.m3u8
+#EXTINF:-1 tvg-logo="netio" group-title="CINE Y SERIES",Distrito Comedia
+https://blackaddon.com/scr/se9.php?c=154&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FOX.jpg" group-title="CINE Y SERIES",Fox
+https://blackaddon.com/scr/se9.php?c=57&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/fx.png" group-title="CINE Y SERIES",FX
+https://blackaddon.com/scr/se9.php?c=56&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/fxm.png" group-title="CINE Y SERIES",FXM
+https://blackaddon.com/scr/se9.php?c=78&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/paramountchannel.png" group-title="CINE Y SERIES",Paramount
+https://blackaddon.com/scr/se9.php?c=123&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xsundancetv.jpg.pagespeed.ic.wZYnU6Qrmo.jpg" group-title="CINE Y SERIES",Sundance
+https://blackaddon.com/scr/se9.php?c=117&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/sony.png" group-title="CINE Y SERIES",Sony
+https://blackaddon.com/scr/se9.php?c=120&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="CINE Y SERIES",DHE
+https://blackaddon.com/scr/se9.php?c=34&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/space.png" group-title="CINE Y SERIES",Space
+https://blackaddon.com/scr/se9.php?c=119&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/studio%20universal.png" group-title="CINE Y SERIES",Studio Universal
+https://blackaddon.com/scr/se9.php?c=118&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="CINE Y SERIES",Cinelatino
+https://blackaddon.com/scr/se9.php?c=23&f=.m3u8
+#EXTINF:-1 tvg-logo="netio" group-title="CINE Y SERIES",Claro CINE Y SERIESma
+https://blackaddon.com/scr/se9.php?c=27&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/tnt.png" group-title="CINE Y SERIES",Tnt
+https://blackaddon.com/scr/se9.php?c=113&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/TNTseries.png" group-title="CINE Y SERIES",Tnt Series
+https://blackaddon.com/scr/se9.php?c=112&f=.m3u8
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085350.jpg" group-title="CINE Y SERIES",Pasiones
+https://blackaddon.com/scr/se9.php?c=122&f=.m3u8
+#EXTINF:-1 tvg-logo="https://217.182.175.40/logo/Pzh1qyZs.png" group-title="CINE Y SERIES",RCN 
+https://blackaddon.com/scr/se9.php?c=121&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/universarchannel.png" group-title="CINE Y SERIES",Universal Channel
+https://blackaddon.com/scr/se9.php?c=106&f=.m3u8
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="CINE Y SERIES",Warner
+https://blackaddon.com/scr/se9.php?c=102&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINE Y SERIES",De Pelicula
+https://blackaddon.com/scr/se9.php?c=37&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FOXLIFE.jpg" group-title="CINE Y SERIES",Fox Life
+https://blackaddon.com/scr/se9.php?c=65&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/isa.jpg" group-title="CINE Y SERIES",I.Sat
+https://blackaddon.com/scr/se9.php?c=95&f=.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kJM3aOF0Qkc/WXcjGHarZeI/AAAAAAAAFEg/YhF-3ud7VQ0MB5jGG1bymr3Z9-dlQdAPQCLcBGAs/s1600/photo.jpg" group-title="CINE Y SERIES",Lifetime
+https://blackaddon.com/scr/se9.php?c=97&f=.m3u8
+#EXTINF:-1 tvg-logo="https://logostvArgentina.files.wordpress.com/2011/10/b1ee9-tbs-2016.png" group-title="CINE Y SERIES",TBS
+https://blackaddon.com/scr/se9.php?c=116&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.brandemia.org/sites/default/files/sites/default/files/logo_tcm.jpg" group-title="CINE Y SERIES",TCM
+https://blackaddon.com/scr/se9.php?c=115&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxaction.png" group-title="CINE Y SERIES",Fox Premium Action
+https://blackaddon.com/scr/se9.php?c=58&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxCINE Y SERIESma.png" group-title="CINE Y SERIES",Fox Premium Series
+https://blackaddon.com/scr/se9.php?c=60&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics-hd_m.png" group-title="CINE Y SERIES",Fox Premium Classics
+https://blackaddon.com/scr/se9.php?c=62&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FoxMovie.png" group-title="CINE Y SERIES",Fox Premium Movies
+https://blackaddon.com/scr/se9.php?c=67&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxseries.png" group-title="CINE Y SERIES",Fox Premium Series
+https://blackaddon.com/scr/se9.php?c=69&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE Y SERIES",Fox Premium Family
+https://blackaddon.com/scr/se9.php?c=64&f=.m3u8
+#EXTINF:-1 tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy
+https://blackaddon.com/scr/se9.php?c=63&f=.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="CINE Y SERIES",Golden 
+https://blackaddon.com/scr/se9.php?c=81&f=.m3u8
+#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="CINE Y SERIES",Golden edge
+https://blackaddon.com/scr/se9.php?c=82&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE Y SERIES",HBO
+https://blackaddon.com/scr/se9.php?c=84&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE Y SERIES",HBO Subtitulado
+https://blackaddon.com/scr/se9.php?c=88&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE Y SERIES",HBO 2
+https://blackaddon.com/scr/se9.php?c=85&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hbofamily.png" group-title="CINE Y SERIES",HBO Family
+https://blackaddon.com/scr/se9.php?c=86&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hboplus.png" group-title="CINE Y SERIES",HBO plus
+https://blackaddon.com/scr/se9.php?c=89&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hbosignature.png" group-title="CINE Y SERIES",HBO Signature
+https://blackaddon.com/scr/se9.php?c=87&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="CINE Y SERIES",Max 
+https://blackaddon.com/scr/se9.php?c=136&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a544addc-0563-4045-a7a3-45174385905d_m.jpg" group-title="CINE Y SERIES",Max Prime
+https://blackaddon.com/scr/se9.php?c=135&f=.m3u8
+#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/maxup.png" group-title="CINE Y SERIES",Max Up
+https://blackaddon.com/scr/se9.php?c=134&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="CULTURA",Animal Planet
+https://blackaddon.com/scr/se9.php?c=3&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/cnn.png" group-title="CULTURA",CNN en Espanol
+https://blackaddon.com/scr/se9.php?c=14&f=.m3u8
+#EXTINF:-1 tvg-logo="netio" group-title="CULTURA",CNN Internacional
+https://blackaddon.com/scr/se9.php?c=15&f=.m3u8
+#EXTINF:-1 tvg-logo="https://factotumediciones.com/admin/files/medios/149/BBC-Logo.jpg" group-title="CULTURA",BBC World
+https://blackaddon.com/scr/se9.php?c=10&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Discovery%20channel.png" group-title="CULTURA",Discovery Channel
+https://blackaddon.com/scr/se9.php?c=39&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/discovery%20science.png" group-title="CULTURA",Discovery Science
+https://blackaddon.com/scr/se9.php?c=42&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/h&h.png" group-title="CULTURA",Discovery HH
+https://blackaddon.com/scr/se9.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Discoveryturbo.png" group-title="CULTURA",Discovery Turbo
+https://blackaddon.com/scr/se9.php?c=44&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/discoveryworld.png" group-title="CULTURA",Discovery World
+https://blackaddon.com/scr/se9.php?c=45&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/elgroumet.png" group-title="CULTURA",El Gourmet
+https://blackaddon.com/scr/se9.php?c=50&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/glitz.jpg" group-title="CULTURA",Glitz
+https://blackaddon.com/scr/se9.php?c=80&f=.m3u8
+#EXTINF:-1 tvg-logo="https://sappi.panaceiafilmes.com/2/wp-content/uploads/2017/06/Histpry-logo-.png" group-title="CULTURA",History
+https://blackaddon.com/scr/se9.php?c=92&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_h2_m.png" group-title="CULTURA",H2
+https://blackaddon.com/scr/se9.php?c=93&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CULTURA",Hola TV
+https://blackaddon.com/scr/se9.php?c=94&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/investigationdiscovery.png" group-title="CULTURA",Investigation Discovery
+https://blackaddon.com/scr/se9.php?c=96&f=.m3u8
+#EXTINF:-1 tvg-logo="https://m.pnglot.com/pngfile/small/79-790017_national-geographic-logo-national-geographic.png" group-title="CULTURA",National Geographic Channel
+https://blackaddon.com/scr/se9.php?c=131&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/natgeowill.png" group-title="CULTURA",Natgeo Wild
+https://blackaddon.com/scr/se9.php?c=127&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/NATiGEO.png" group-title="CULTURA",Natgeo
+https://blackaddon.com/scr/se9.php?c=128&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/pic_trutv.png" group-title="CULTURA",Tru TV
+https://blackaddon.com/scr/se9.php?c=108&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/telemundo.png" group-title="CULTURA",Telemundo
+https://blackaddon.com/scr/se9.php?c=111&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Theacher%20Discovery.png" group-title="CULTURA",Discovery Theater
+https://blackaddon.com/scr/se9.php?c=43&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/TLCDiscovery.png" group-title="CULTURA",Discovery TLC
+https://blackaddon.com/scr/se9.php?c=114&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/unicable.png" group-title="CULTURA",Unicable
+https://blackaddon.com/scr/se9.php?c=107&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/unision.png" group-title="CULTURA",Univision
+https://blackaddon.com/scr/se9.php?c=105&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/BLOOMTV.jpg" group-title="CULTURA",Bloomberg
+https://blackaddon.com/scr/se9.php?c=13&f=.m3u8
+#EXTINF:-1 tvg-logo="https://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/deutschewelle.jpg" group-title="CULTURA",DW
+https://blackaddon.com/scr/se9.php?c=35&f=.m3u8
+#EXTINF:-1 tvg-logo="https://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="CULTURA",DW america
+https://blackaddon.com/scr/se9.php?c=36&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
+https://blackaddon.com/scr/se9.php?c=317&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv Sports 2
+https://blackaddon.com/scr/se9.php?c=318&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/N693Dgj/DIRECTV-SPOTRS.jpg" group-title="DEPORTES",Directv Sports Plus
+https://blackaddon.com/scr/se9.php?c=319&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 Sur
+https://blackaddon.com/scr/se9.php?c=72&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 Sur
+https://blackaddon.com/scr/se9.php?c=73&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/LJy3R8s/Fox-sports-3.jpg" group-title="DEPORTES",Fox Sports 3 Sur
+https://blackaddon.com/scr/se9.php?c=76&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 mex
+https://blackaddon.com/scr/se9.php?c=71&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 mex
+https://blackaddon.com/scr/se9.php?c=74&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 mex
+https://blackaddon.com/scr/se9.php?c=75&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/bH2TWmT/FOX-SPOTRS-PREMIUM.jpg" group-title="DEPORTES",Fox Sports Premium
+https://blackaddon.com/scr/se9.php?c=229&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus Sur
+https://blackaddon.com/scr/se9.php?c=54&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 Sur
+https://blackaddon.com/scr/se9.php?c=51&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 Sur
+https://blackaddon.com/scr/se9.php?c=52&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 Sur
+https://blackaddon.com/scr/se9.php?c=53&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn mex
+https://blackaddon.com/scr/se9.php?c=140&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 mex
+https://blackaddon.com/scr/se9.php?c=141&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 mex
+https://blackaddon.com/scr/se9.php?c=142&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/02/secnetworklogo.png" group-title="DEPORTES",Espn Sec Network 
+https://blackaddon.com/scr/se9.php?c=139&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="DEPORTES",Espn U 
+https://blackaddon.com/scr/se9.php?c=138&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/S5QNysK/TDN-UNIVI.jpg" group-title="DEPORTES",Univision DEPORTES 
+https://blackaddon.com/scr/se9.php?c=320&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/BHpR6Rp/Win-sports.jpg" group-title="DEPORTES",Win Sports
+https://blackaddon.com/scr/se9.php?c=101&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports
+https://blackaddon.com/scr/se9.php?c=30&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
+https://blackaddon.com/scr/se9.php?c=31&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tbSC5Zp/TNT-DEPORTES.jpg" group-title="DEPORTES",TNT Sports
+https://blackaddon.com/scr/se9.php?c=228&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="DEPORTES",Golf Channel
+https://blackaddon.com/scr/se9.php?c=83&f=.m3u8
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p6H8mzV/CDO-PREMIUM.jpg" group-title="DEPORTES",CDO*
+https://blackaddon.com/scr/se9.php?c=199&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p6H8mzV/CDO-PREMIUM.jpg" group-title="DEPORTES",Estadio CDF
+https://blackaddon.com/scr/se9.php?c=192&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p6H8mzV/CDO-PREMIUM.jpg" group-title="DEPORTES",CDO Premium
+https://blackaddon.com/scr/se9.php?c=198&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png" group-title="DEPORTES",CDO Basico
+https://blackaddon.com/scr/se9.php?c=195&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ZLC4wNM/cdf-premium-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF Premium
+https://blackaddon.com/scr/se9.php?c=196&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/51jNR0B/cdf-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF Basico
+https://blackaddon.com/scr/se9.php?c=193&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/51jNR0B/cdf-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF
+https://blackaddon.com/scr/se9.php?c=194&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/51jNR0B/cdf-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF HD
+https://blackaddon.com/scr/se9.php?c=197&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/YPbgg6K/VTV-URUGUAY.jpg" group-title="DEPORTES",VTV
+https://blackaddon.com/scr/se9.php?c=254&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/NZWfjt4/MOVISTAR-DEPORTES.jpg" group-title="DEPORTES",Movistar DEPORTES
+https://blackaddon.com/scr/se9.php?c=174&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/D8MhGmp/gol-peru.jpg" group-title="DEPORTES",Gol Peru
+https://blackaddon.com/scr/se9.php?c=173&f=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/mtv.png" group-title="MUSICA",MTV
+https://blackaddon.com/scr/se9.php?c=98&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/mtvlive.png" group-title="MUSICA",MTV Live
+https://blackaddon.com/scr/se9.php?c=133&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/f81yQzER_400x400.jpg" group-title="MUSICA",MTV Hits
+https://blackaddon.com/scr/se9.php?c=99&f=.m3u8
+#EXTINF:-1 tvg-logo="https://tombercupresents.com/wp-content/uploads/2016/08/vh1.jpg" group-title="MUSICA",VH1
+https://blackaddon.com/scr/se9.php?c=104&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/vh1%20c.jpg" group-title="MUSICA",Vh1 Classics
+https://blackaddon.com/scr/se9.php?c=103&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
+https://blackaddon.com/scr/se9.php?c=91&f=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg" group-title="MUSICA",Concert channel
+https://blackaddon.com/scr/se9.php?c=33&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/809/EF11C69ECFC19A8E5C44DD00B1B323AD/claro_MUSICA.png" group-title="MUSICA",Claro music
+https://blackaddon.com/scr/se9.php?c=28&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/809/EF11C69ECFC19A8E5C44DD00B1B323AD/claro_MUSICA.png" group-title="MUSICA",Claro Music 2
+https://blackaddon.com/scr/se9.php?c=29&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
+https://blackaddon.com/scr/se9.php?c=278&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
+https://blackaddon.com/scr/se9.php?c=279&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
+https://blackaddon.com/scr/se9.php?c=280&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
+https://blackaddon.com/scr/se9.php?c=281&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
+https://blackaddon.com/scr/se9.php?c=282&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
+https://blackaddon.com/scr/se9.php?c=283&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
+https://blackaddon.com/scr/se9.php?c=284&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
+https://blackaddon.com/scr/se9.php?c=285&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
+https://blackaddon.com/scr/se9.php?c=286&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
+https://blackaddon.com/scr/se9.php?c=287&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
+https://blackaddon.com/scr/se9.php?c=288&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
+https://blackaddon.com/scr/se9.php?c=289&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
+https://blackaddon.com/scr/se9.php?c=291&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
+https://blackaddon.com/scr/se9.php?c=292&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
+https://blackaddon.com/scr/se9.php?c=293&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
+https://blackaddon.com/scr/se9.php?c=295&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
+https://blackaddon.com/scr/se9.php?c=297&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
+https://blackaddon.com/scr/se9.php?c=299&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
+https://blackaddon.com/scr/se9.php?c=300&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
+https://blackaddon.com/scr/se9.php?c=301&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
+https://blackaddon.com/scr/se9.php?c=302&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
+https://blackaddon.com/scr/se9.php?c=303&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
+https://blackaddon.com/scr/se9.php?c=304&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
+https://blackaddon.com/scr/se9.php?c=305&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
+https://blackaddon.com/scr/se9.php?c=308&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
+https://blackaddon.com/scr/se9.php?c=309&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
+https://blackaddon.com/scr/se9.php?c=310&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
+https://blackaddon.com/scr/se9.php?c=311&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
+https://blackaddon.com/scr/se9.php?c=312&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
+https://blackaddon.com/scr/se9.php?c=313&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
+https://blackaddon.com/scr/se9.php?c=314&f=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Mexico",Las Estrellas 
+https://blackaddon.com/scr/se9.php?c=18&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="Mexico",Foro tv
+https://blackaddon.com/scr/se9.php?c=149&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5
+https://blackaddon.com/scr/se9.php?c=145&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.mimorelia.com/wp-content/uploads/2019/01/noticias/24/azteca.jpg" group-title="Mexico",Azteca 7
+https://blackaddon.com/scr/se9.php?c=147&f=.m3u8
+#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/nueve.png" group-title="Mexico",Nu9ve
+https://blackaddon.com/scr/se9.php?c=143&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/az%20corazon.png" group-title="Mexico",Az Corazon
+https://blackaddon.com/scr/se9.php?c=4&f=.m3u8
+#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2018/08/az-clic-2.png" group-title="Mexico",Az Clic
+https://blackaddon.com/scr/se9.php?c=142&f=.m3u8
+#EXTINF:-1 tvg-logo="https://200.77.160.48:8090/izzi/v3/img/dummy-img/channels/AZTECA_UNO_HD.png" group-title="Mexico",Az uno
+https://blackaddon.com/scr/se9.php?c=146&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/AZMUNDO.jpg" group-title="Mexico",Az Mundo
+https://blackaddon.com/scr/se9.php?c=5&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/adn40.jpg" group-title="Mexico",ADN 40
+https://blackaddon.com/scr/se9.php?c=148&f=.m3u8
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/IMAGENTELE.png" group-title="Mexico",Imagen TV
+#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/rve.png" group-title="Mexico",TVE
+https://blackaddon.com/scr/se9.php?c=109&f=.m3u8
+#EXTINF:-1 tvg-logo="https://empresasmonterrey.com/wp-content/uploads/2015/06/TELEVISA-MONTERREY.jpg" group-title="Mexico",Televisa monterrey
+https://blackaddon.com/scr/se9.php?c=152&f=.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-multimedios-tv-1152.png" group-title="Mexico",Multimedios
+https://blackaddon.com/scr/se9.php?c=150&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/240px-TeleSUR-Logo.svg.png" group-title="Venezuela",TeleSur 
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://corazonllanero.com/main/static/img/isotipocoll.png" group-title="Venezuela",Corazon Llanero
+https://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/chunklis.m3u8
+#EXTINF:-1 tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="Venezuela",Promar Tv
+https://vcp1.myplaytv.com/promar/promar/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://lateletuya.com/wp-content/uploads/2019/09/logoTLT_horizontal_2019_blanco.png" group-title="Venezuela",La tele tuya
+https://backup9.lateletuya.com/TeLeTeve/stream.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/2t2ZdXs/TELE-ARGE.jpg" group-title="Argentina",Television Publica
+https://blackaddon.com/scr/se9.php?c=210&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/5F9BykT/ar-telefe-m.png" group-title="Argentina",Telefe
+https://blackaddon.com/scr/se9.php?c=212&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/rtV1yvC/ENCUENTRO.jpg" group-title="Argentina",Todo Noticias TN
+https://blackaddon.com/scr/se9.php?c=221&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p4VztQk/ar-el-trece-m.png" group-title="Argentina",El trece
+https://blackaddon.com/scr/se9.php?c=213&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tPWH422/NUEVE.jpg" group-title="Argentina",El Nueve
+https://blackaddon.com/scr/se9.php?c=211&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/DgTK0PR/CRONICATV.jpg" group-title="Argentina",Trece Max
+https://blackaddon.com/scr/se9.php?c=222&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/R2GzXHM/Telemax.png" group-title="Argentina",Telemax
+https://blackaddon.com/scr/se9.php?c=223&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ngxxXzP/CINE.jpg" group-title="Argentina",CINE.AR
+https://blackaddon.com/scr/se9.php?c=219&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/yfJXRWy/247-Noticias.png" group-title="Argentina",24/7 Noticias
+https://blackaddon.com/scr/se9.php?c=226&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/vqJRhYN/c5n-tv.jpg" group-title="Argentina",C5N
+https://blackaddon.com/scr/se9.php?c=207&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/d7yLKNc/america.jpg" group-title="Argentina",America TV
+https://blackaddon.com/scr/se9.php?c=209&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/pXZt7rd/A24.png" group-title="Argentina",A24
+https://blackaddon.com/scr/se9.php?c=208&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/QrZq81j/El-Garage-TV.png" group-title="Argentina",El Garage TV
+https://blackaddon.com/scr/se9.php?c=225&f=.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/kx9yJtg/Argentinisima.jpg" group-title="Argentina",Argentinisima
+https://blackaddon.com/scr/se9.php?c=227&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://imgur.com/gnhELOi.png" group-title="Colombia",RedTv
+https://infored.lcdn.claro.net.co/Content/hls_clear/Live/Channel(REDTVHD)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colombia",Trece
+https://blackaddon.com/scr/se9.php?c=191&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN 2
+https://blackaddon.com/scr/se9.php?c=241&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN
+https://blackaddon.com/scr/se9.php?c=121&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://venezolanossiempre.files.wordpress.com/2018/04/f5b96-logoeltiempo.jpg" group-title="Colombia",El Tiempo
+https://blackaddon.com/scr/se9.php?c=238&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/qy7F0zN/CARACOL-INT.jpg" group-title="Colombia",Caracol 2
+https://blackaddon.com/scr/se9.php?c=235&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/JjfNJBR/caracol-tv.jpg" group-title="Colombia",Caracol
+https://blackaddon.com/scr/se9.php?c=19&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://oer2go.org:81/wikipedia_es_all_2016-02/I/m/CTV_LOGO.png" group-title="Colombia",Cantinazo
+https://blackaddon.com/scr/se9.php?c=234&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal Uno
+https://blackaddon.com/scr/se9.php?c=233&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://lh3.googleusercontent.com/-x7zN4RKXaR4/VhAVobXrg0I/AAAAAAAAByc/RNxc57Z-ZM8/s300-Ic42/canal-capital-en-vivo.png" group-title="Colombia",Canal Capital
+https://blackaddon.com/scr/se9.php?c=230&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="Colombia",City TV.
+https://blackaddon.com/scr/se9.php?c=26&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",City Tv
+https://blackaddon.com/scr/se9.php?c=236&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Cosmovision
+https://blackaddon.com/scr/se9.php?c=237&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",La Kalle
+https://blackaddon.com/scr/se9.php?c=239&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",NTN24
+https://blackaddon.com/scr/se9.php?c=240&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Senal Colombia
+https://blackaddon.com/scr/se9.php?c=242&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Tacho Pistacho
+https://blackaddon.com/scr/se9.php?c=243&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",TeleAntioquia
+https://blackaddon.com/scr/se9.php?c=244&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecafe
+https://blackaddon.com/scr/se9.php?c=245&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecaribe
+https://blackaddon.com/scr/se9.php?c=246&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telemedellin
+https://blackaddon.com/scr/se9.php?c=247&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telepacifico
+https://blackaddon.com/scr/se9.php?c=248&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Canal Trece
+https://blackaddon.com/scr/se9.php?c=249&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Tvgro
+https://blackaddon.com/scr/se9.php?c=250&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Teleamiga
+https://blackaddon.com/scr/se9.php?c=251&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Televid
+https://blackaddon.com/scr/se9.php?c=252&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvglogo="" group-title="Colombia",Canal Institucional
+https://blackaddon.com/scr/se9.php?c=231&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Canal Tro
+https://blackaddon.com/scr/se9.php?c=232&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/smvN6yQ/TVPRU.png" group-title="Peru",Tv Peru
+https://blackaddon.com/scr/se9.php?c=182&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/yWBfSvr/Peru-MAGICO.jpg" group-title="Peru",Peru Magico
+https://blackaddon.com/scr/se9.php?c=176&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/WDP6HZH/PANAMERICANO.jpg" group-title="Peru",Panamericana
+https://blackaddon.com/scr/se9.php?c=172&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Frecuencia_Latina_HD.jpg" group-title="Peru",Frecuencia Latina
+https://blackaddon.com/scr/se9.php?c=171&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/NFXTMpX/AMERICA-TV-Peru.png" group-title="Peru",America TV
+https://blackaddon.com/scr/se9.php?c=169&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ccy79wk/ATVPeru.png" group-title="Peru",ATV
+https://blackaddon.com/scr/se9.php?c=170&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Zh523G9/Movistar-Plus.png" group-title="Peru",Movistar Plus
+https://blackaddon.com/scr/se9.php?c=175&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/nC1PYnY/Ctc-Cusco.png" group-title="Peru",Ctc Cusco
+https://blackaddon.com/scr/se9.php?c=178&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/kmf9y61/Ovacion.png" group-title="Peru",Ovacion
+https://blackaddon.com/scr/se9.php?c=179&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/m8g6YHv/Antares-TV.jpg" group-title="Peru",Antares TV
+https://blackaddon.com/scr/se9.php?c=180&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tmCFDVt/TV-Peru-Noticias.jpg" group-title="Peru",TV Peru Noticias
+https://blackaddon.com/scr/se9.php?c=183&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Nyrf5sv/La-Tele.jpg" group-title="Peru",La Tele
+https://blackaddon.com/scr/se9.php?c=184&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/DLwBLcB/Canal-IPE.jpg" group-title="Peru",Canal IPE
+https://blackaddon.com/scr/se9.php?c=185&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/jHGBLqX/Canal-N.png" group-title="Peru",Canal N
+https://blackaddon.com/scr/se9.php?c=187&f=.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="https://i.ibb.co/qJTRdDB/13C.png" group-title="Chile",13C
+https://blackaddon.com/scr/se9.php?c=188&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RhM0qRd/13i.png" group-title="Chile",13i
+https://blackaddon.com/scr/se9.php?c=189&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7CGtDXf/24-Horas.png" group-title="Chile",24 Horas
+https://blackaddon.com/scr/se9.php?c=190&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jT5q53/Teletrak.jpg" group-title="Chile",Teletrak HD
+https://blackaddon.com/scr/se9.php?c=200&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VrcHBx/Chilevision.jpg" group-title="Chile",Chilevision
+https://blackaddon.com/scr/se9.php?c=201&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTgTwRM/La-Red.png" group-title="Chile",La Red
+https://blackaddon.com/scr/se9.php?c=202&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc4Vfsp/Mega.jpg" group-title="Chile",Mega
+https://blackaddon.com/scr/se9.php?c=203&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mv50381/TVN.jpg" group-title="Chile",TVN
+https://blackaddon.com/scr/se9.php?c=205&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/znzLp4p/CNN.jpg" group-title="Chile",CNN
+https://blackaddon.com/scr/se9.php?c=206&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Uno
+https://blackaddon.com/scr/se9.php?c=156&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canela Tv
+https://blackaddon.com/scr/se9.php?c=157&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV
+https://blackaddon.com/scr/se9.php?c=158&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa
+https://blackaddon.com/scr/se9.php?c=159&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gamavision
+https://blackaddon.com/scr/se9.php?c=160&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gol TV
+https://blackaddon.com/scr/se9.php?c=161&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar
+https://blackaddon.com/scr/se9.php?c=162&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Rts
+https://blackaddon.com/scr/se9.php?c=163&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Tc Television
+https://blackaddon.com/scr/se9.php?c=164&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas
+https://blackaddon.com/scr/se9.php?c=165&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",Televicentro
+https://blackaddon.com/scr/se9.php?c=166&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Ecuador",ECDF
+https://blackaddon.com/scr/se9.php?c=167&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02WHdCW/Wipr-Canal-6.png" group-title="Puerto Rico",Wipr Canal 6
+https://blackaddon.com/scr/se9.php?c=269&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k3XKjZ2/MEGATV.jpg" group-title="Puerto Rico",Mega TV
+https://blackaddon.com/scr/se9.php?c=270&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/st6nDtq/Telemundo-Puerto-Rico.png" group-title="Puerto Rico",Telemundo
+https://blackaddon.com/scr/se9.php?c=271&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JnF1nG5/UNIVISION-PUERTO-RICO.jpg" group-title="Puerto Rico",Univision
+https://blackaddon.com/scr/se9.php?c=272&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7SjG0wc/WAPA-PUERTORICO.jpg" group-title="Puerto Rico",Wapa
+https://blackaddon.com/scr/se9.php?c=273&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz8BJrk/WAPA-2-PUERTO-RICO.jpg" group-title="Puerto Rico",Wapa 2
+https://blackaddon.com/scr/se9.php?c=274&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7Z3Gts/WAPA-AMERICA.jpg" group-title="Puerto Rico",Wapa America
+https://blackaddon.com/scr/se9.php?c=275&f=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpXGh18/RPC.jpg" group-title="Paraguay",RPC
+https://blackaddon.com/scr/se9.php?c=263&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qWpsJcM/Telefuturo.jpg" group-title="Paraguay",Telefuturo
+https://blackaddon.com/scr/se9.php?c=264&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M7nxPFj/Tigo-Sports.jpg" group-title="Paraguay",Tigo Sports
+https://blackaddon.com/scr/se9.php?c=266&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3R4Sdz7/Tigo-Sports-PLUS.jpg" group-title="Paraguay",Tigo Sports Plus
+https://blackaddon.com/scr/se9.php?c=267&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RjnBz97/Unicanal.jpg" group-title="Paraguay",Unicanal
+https://blackaddon.com/scr/se9.php?c=268&f=.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Alegria TV" tvg-logo="" group-title="CHILE",Alegria TV
 http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/111
 #EXTINF:-1 tvg-id="" tvg-name="AM Canal" tvg-logo="" group-title="CHILE",AM Canal
@@ -2536,1200 +3121,4 @@ http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5449
 #EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN (M)(720)" tvg-logo="http://mdprime.live:80/images/2b612c4d3ccc911c330c3c90babe3376.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN (M)(720)
 http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5450
 #EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN (TV)(SD)" tvg-logo="http://mdprime.live:80/images/2b612c4d3ccc911c330c3c90babe3376.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5451
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN (TV)(720)" tvg-logo="http://mdprime.live:80/images/2b612c4d3ccc911c330c3c90babe3376.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5452
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN (TV)(1080)" tvg-logo="http://mdprime.live:80/images/2b612c4d3ccc911c330c3c90babe3376.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5453
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN White (TV)(SD)" tvg-logo="http://mdprime.live:80/images/9051a0a08d3c5d5390a485b47d3102d0.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN White (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5454
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN White (TV)(720)" tvg-logo="http://mdprime.live:80/images/9051a0a08d3c5d5390a485b47d3102d0.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN White (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5455
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ AXN White (TV)(1080)" tvg-logo="http://mdprime.live:80/images/9051a0a08d3c5d5390a485b47d3102d0.png" group-title="[ES]ESPAÑA TODO",ESP☆ AXN White (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5456
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Calle 13 (TV)(SD)" tvg-logo="http://mdprime.live:80/images/fa96ad727b37d8dac3f1dd504a781976.png" group-title="[ES]ESPAÑA TODO",ESP☆ Calle 13 (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5457
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Calle 13 (TV)(720)" tvg-logo="http://mdprime.live:80/images/fa96ad727b37d8dac3f1dd504a781976.png" group-title="[ES]ESPAÑA TODO",ESP☆ Calle 13 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5458
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Calle 13 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/fa96ad727b37d8dac3f1dd504a781976.png" group-title="[ES]ESPAÑA TODO",ESP☆ Calle 13 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5459
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ DARK (TV)(720)" tvg-logo="http://mdprime.live:80/images/2350435c7d30336da90420b9b2931497.png" group-title="[ES]ESPAÑA TODO",ESP☆ DARK (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5460
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ DARK (TV)(1080)" tvg-logo="http://mdprime.live:80/images/2350435c7d30336da90420b9b2931497.png" group-title="[ES]ESPAÑA TODO",ESP☆ DARK (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5461
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Fox (M)(720)" tvg-logo="http://mdprime.live:80/images/a3858b06ff523f060f481eb4ac287334.png" group-title="[ES]ESPAÑA TODO",ESP☆ Fox (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5462
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ FOX (TV)(SD)" tvg-logo="http://mdprime.live:80/images/a3858b06ff523f060f481eb4ac287334.png" group-title="[ES]ESPAÑA TODO",ESP☆ FOX (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5463
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ FOX (TV)(720)" tvg-logo="http://mdprime.live:80/images/a3858b06ff523f060f481eb4ac287334.png" group-title="[ES]ESPAÑA TODO",ESP☆ FOX (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5464
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ FOX (TV)(1080)" tvg-logo="http://mdprime.live:80/images/a3858b06ff523f060f481eb4ac287334.png" group-title="[ES]ESPAÑA TODO",ESP☆ FOX (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5465
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ FOX Life (TV)(SD)" tvg-logo="http://mdprime.live:80/images/a51902cbf30cb970907f9caa268ab315.png" group-title="[ES]ESPAÑA TODO",ESP☆ FOX Life (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5466
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ FOX Life (TV)(720)" tvg-logo="http://mdprime.live:80/images/a51902cbf30cb970907f9caa268ab315.png" group-title="[ES]ESPAÑA TODO",ESP☆ FOX Life (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5467
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ FOX Life (TV)(1080)" tvg-logo="http://mdprime.live:80/images/a51902cbf30cb970907f9caa268ab315.png" group-title="[ES]ESPAÑA TODO",ESP☆ FOX Life (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5468
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ SOMOS (TV)(SD)" tvg-logo="http://mdprime.live:80/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="[ES]ESPAÑA TODO",ESP☆ SOMOS (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5469
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ SOMOS (TV)(720)" tvg-logo="http://mdprime.live:80/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="[ES]ESPAÑA TODO",ESP☆ SOMOS (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5470
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ SOMOS (TV)(1080)" tvg-logo="http://mdprime.live:80/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="[ES]ESPAÑA TODO",ESP☆ SOMOS (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5471
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ A3Series (TV)(720)" tvg-logo="http://mdprime.live:80/images/aa72578fb81aa3510cb3ba860b8925cc.png" group-title="[ES]ESPAÑA TODO",ESP☆ A3Series (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5472
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ A3Series (TV)(1080)" tvg-logo="http://mdprime.live:80/images/aa72578fb81aa3510cb3ba860b8925cc.png" group-title="[ES]ESPAÑA TODO",ESP☆ A3Series (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5473
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ A3Series Internacional (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ A3Series Internacional (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5474
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ A3Series Internacional (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ A3Series Internacional (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5475
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Comedy Central. (M)(720)" tvg-logo="http://mdprime.live:80/images/e7e2cfc0e406ebeea28ae9a1d265422e.png" group-title="[ES]ESPAÑA TODO",ESP☆ Comedy Central. (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5476
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Hollywood (TV)(SD)" tvg-logo="http://mdprime.live:80/images/241348e449ea3e146299836446ba1c88.png" group-title="[ES]ESPAÑA TODO",ESP☆ Hollywood (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5477
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Hollywood (TV)(720)" tvg-logo="http://mdprime.live:80/images/241348e449ea3e146299836446ba1c88.png" group-title="[ES]ESPAÑA TODO",ESP☆ Hollywood (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5478
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Hollywood (TV)(1080)" tvg-logo="http://mdprime.live:80/images/241348e449ea3e146299836446ba1c88.png" group-title="[ES]ESPAÑA TODO",ESP☆ Hollywood (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5479
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Orange Series (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Orange Series (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5480
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Orange Series (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Orange Series (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5481
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Accion (TV)(SD)" tvg-logo="http://mdprime.live:80/images/5d58a602d028589e28a558f8980a08c1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Accion (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5482
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Accion (TV)(720)" tvg-logo="http://mdprime.live:80/images/5d58a602d028589e28a558f8980a08c1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Accion (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5483
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar ACCION (M)(720)" tvg-logo="http://mdprime.live:80/images/5d58a602d028589e28a558f8980a08c1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar ACCION (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5484
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Accion (M)(720)" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png" group-title="[ES]ESPAÑA TODO",ESP☆ Accion (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5485
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Accion (TV)(1080)" tvg-logo="http://mdprime.live:80/images/5d58a602d028589e28a558f8980a08c1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Accion (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5486
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Cine Ñ (TV)(SD)" tvg-logo="http://mdprime.live:80/images/bd8c0148c56ab8adf0425fb3ed9e9fb9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Cine Ñ (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5487
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Cine Ñ (M)(720)" tvg-logo="http://mdprime.live:80/images/bd8c0148c56ab8adf0425fb3ed9e9fb9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Cine Ñ (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5488
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Cine Ñ (TV)(1080)" tvg-logo="http://mdprime.live:80/images/bd8c0148c56ab8adf0425fb3ed9e9fb9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Cine Ñ (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5489
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar CineDoc&Roll (TV)(SD)" tvg-logo="http://mdprime.live:80/images/027e900dc1f4fa3496f27161b132c853.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar CineDoc&Roll (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5490
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar CineDoc&Roll (TV)(720)" tvg-logo="http://mdprime.live:80/images/027e900dc1f4fa3496f27161b132c853.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar CineDoc&Roll (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5491
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar CineDoc&Roll (TV)(1080)" tvg-logo="http://mdprime.live:80/images/027e900dc1f4fa3496f27161b132c853.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar CineDoc&Roll (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5492
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Comedia (TV)(SD)" tvg-logo="http://mdprime.live:80/images/42b52e9629284dbf30c4f378512716f6.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Comedia (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5493
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Comedia (TV)(720)" tvg-logo="http://mdprime.live:80/images/42b52e9629284dbf30c4f378512716f6.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Comedia (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5494
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Comedia (TV)(1080)" tvg-logo="http://mdprime.live:80/images/42b52e9629284dbf30c4f378512716f6.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Comedia (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5495
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar DRAMA (M)(720)" tvg-logo="http://mdprime.live:80/images/7b7f24505f4e793b05df3d6c6e25ddbe.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar DRAMA (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5496
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Drama (TV)(SD)" tvg-logo="http://mdprime.live:80/images/7b7f24505f4e793b05df3d6c6e25ddbe.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Drama (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5497
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Drama (TV)(720)" tvg-logo="http://mdprime.live:80/images/7b7f24505f4e793b05df3d6c6e25ddbe.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Drama (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5498
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Drama (TV)(1080)" tvg-logo="http://mdprime.live:80/images/7b7f24505f4e793b05df3d6c6e25ddbe.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Drama (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5499
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Estrenos (TV)(SD)" tvg-logo="http://mdprime.live:80/images/a6ebae4fe0cb6e56426ea8b79415bea3.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Estrenos (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5500
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Estrenos (TV)(720)" tvg-logo="http://mdprime.live:80/images/a6ebae4fe0cb6e56426ea8b79415bea3.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Estrenos (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5501
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Estrenos (TV)(1080)" tvg-logo="http://mdprime.live:80/images/a6ebae4fe0cb6e56426ea8b79415bea3.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Estrenos (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5502
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Series (TV)(SD)" tvg-logo="http://mdprime.live:80/images/077bd8bad93170796c768290e12ad0b7.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Series (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5503
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Series (TV)(720)" tvg-logo="http://mdprime.live:80/images/077bd8bad93170796c768290e12ad0b7.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Series (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5504
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Series (TV)(1080)" tvg-logo="http://mdprime.live:80/images/077bd8bad93170796c768290e12ad0b7.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Series (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5505
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Seriesmania (TV)(SD)" tvg-logo="http://mdprime.live:80/images/f31a9cc06ba027b7c67d872fcd3de2d5.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Seriesmania (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5506
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Seriesmania (TV)(720)" tvg-logo="http://mdprime.live:80/images/f31a9cc06ba027b7c67d872fcd3de2d5.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Seriesmania (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5507
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Seriesmania (TV)(1080)" tvg-logo="http://mdprime.live:80/images/f31a9cc06ba027b7c67d872fcd3de2d5.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Seriesmania (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5508
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Disney+ (TV)(SD)" tvg-logo="http://mdprime.live:80/images/dbcd3f835742c0059c00ac005a98043e.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Disney+ (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5509
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Disney+ (TV)(720)" tvg-logo="http://mdprime.live:80/images/dbcd3f835742c0059c00ac005a98043e.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Disney+ (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5510
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ SyFy (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ SyFy (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5511
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ SyFy (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ SyFy (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5512
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ SyFy (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ SyFy (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5513
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TCM (TV)(SD)" tvg-logo="http://mdprime.live:80/images/0b40af06d362dd88373a2c0e2b81c265.png" group-title="[ES]ESPAÑA TODO",ESP☆ TCM (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5514
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TCM (TV)(1080)" tvg-logo="http://mdprime.live:80/images/0b40af06d362dd88373a2c0e2b81c265.png" group-title="[ES]ESPAÑA TODO",ESP☆ TCM (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5515
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TCM (TV)(720)" tvg-logo="http://mdprime.live:80/images/0b40af06d362dd88373a2c0e2b81c265.png" group-title="[ES]ESPAÑA TODO",ESP☆ TCM (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5516
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TNT (TV)(SD)" tvg-logo="http://mdprime.live:80/images/bb43a2dc8c1c6fac55f310279e3d0a32.png" group-title="[ES]ESPAÑA TODO",ESP☆ TNT (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5517
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TNT (TV)(720)" tvg-logo="http://mdprime.live:80/images/bb43a2dc8c1c6fac55f310279e3d0a32.png" group-title="[ES]ESPAÑA TODO",ESP☆ TNT (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5518
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TNT (TV)(1080)" tvg-logo="http://mdprime.live:80/images/bb43a2dc8c1c6fac55f310279e3d0a32.png" group-title="[ES]ESPAÑA TODO",ESP☆ TNT (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5519
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ XTRM (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ XTRM (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5520
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ XTRM (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ XTRM (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5521
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ XTRM (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ XTRM (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5522
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alquiler 1 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Alquiler 1 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5523
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alquiler 2 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Alquiler 2 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5524
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alquiler 3 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Alquiler 3 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5525
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alquiler 4 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Alquiler 4 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5526
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alquiler 5 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Alquiler 5 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5527
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alquiler 6 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Alquiler 6 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5528
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Taquilla 1 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/0e88bb370ae55ee3830928f922b3d428.png" group-title="[ES]ESPAÑA TODO",ESP☆ Taquilla 1 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5529
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Taquilla 2 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/0e88bb370ae55ee3830928f922b3d428.png" group-title="[ES]ESPAÑA TODO",ESP☆ Taquilla 2 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5530
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Taquilla 3 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/0e88bb370ae55ee3830928f922b3d428.png" group-title="[ES]ESPAÑA TODO",ESP☆ Taquilla 3 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5531
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Taquilla 4 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/0e88bb370ae55ee3830928f922b3d428.png" group-title="[ES]ESPAÑA TODO",ESP☆ Taquilla 4 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5532
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Bom Cine (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Bom Cine (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5533
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Paramount Channel" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Paramount Channel
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5534
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Sundance TV (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Sundance TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5535
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Boing (TV)(SD)" tvg-logo="http://mdprime.live:80/images/aaf8adc077273f83eca4da98377028d4.png" group-title="[ES]ESPAÑA TODO",ESP☆ Boing (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5536
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Boing (TV)(720)" tvg-logo="http://mdprime.live:80/images/aaf8adc077273f83eca4da98377028d4.png" group-title="[ES]ESPAÑA TODO",ESP☆ Boing (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5537
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Clan TVE (TV)(SD)" tvg-logo="http://mdprime.live:80/images/773c3c307766ff6456b89859a0e6458a.png" group-title="[ES]ESPAÑA TODO",ESP☆ Clan TVE (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5538
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Clan TVE (TV)(720)" tvg-logo="http://mdprime.live:80/images/773c3c307766ff6456b89859a0e6458a.png" group-title="[ES]ESPAÑA TODO",ESP☆ Clan TVE (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5539
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Clan TVE (TV)(1080)" tvg-logo="http://mdprime.live:80/images/773c3c307766ff6456b89859a0e6458a.png" group-title="[ES]ESPAÑA TODO",ESP☆ Clan TVE (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5540
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Disney Channel (TV)(SD)" tvg-logo="http://mdprime.live:80/images/09062220ca78d6c2587628e68ec361ba.png" group-title="[ES]ESPAÑA TODO",ESP☆ Disney Channel (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5541
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Disney Channel (TV)(720)" tvg-logo="http://mdprime.live:80/images/09062220ca78d6c2587628e68ec361ba.png" group-title="[ES]ESPAÑA TODO",ESP☆ Disney Channel (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5542
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Disney Channel (TV)(1080)" tvg-logo="http://mdprime.live:80/images/09062220ca78d6c2587628e68ec361ba.png" group-title="[ES]ESPAÑA TODO",ESP☆ Disney Channel (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5543
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Disney Junior (TV)(SD)" tvg-logo="http://mdprime.live:80/images/a3ce36bc32cc363c5d4885bb95a07d64.png" group-title="[ES]ESPAÑA TODO",ESP☆ Disney Junior (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5544
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nick Jr (TV)(SD)" tvg-logo="http://mdprime.live:80/images/c07a531dcd7664f47b23b0c48d2b9c60.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nick Jr (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5545
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nickelodeon (M)(720)" tvg-logo="http://mdprime.live:80/images/80422e9a138487b496a13e04533e2b32.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nickelodeon (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5546
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nickelodeon (TV)(SD)" tvg-logo="http://mdprime.live:80/images/80422e9a138487b496a13e04533e2b32.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nickelodeon (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5547
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nickelodeon (TV)(720)" tvg-logo="http://mdprime.live:80/images/80422e9a138487b496a13e04533e2b32.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nickelodeon (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5548
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nickelodeon (TV)(1080)" tvg-logo="http://mdprime.live:80/images/80422e9a138487b496a13e04533e2b32.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nickelodeon (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5549
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Panda (TV)(SD)" tvg-logo="http://mdprime.live:80/images/7c5ed3566c24fe525be5a446c3e0d875.png" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Panda (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5550
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Baby TV (TV)(SD)" tvg-logo="http://mdprime.live:80/images/ccb03048ba6ad47bdbd8b94fc80aca84.png" group-title="[ES]ESPAÑA TODO",ESP☆ Baby TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5551
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ MTV España (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ MTV España (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5552
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Mezzo (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Mezzo (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5553
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Mezzo (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Mezzo (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5554
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Mezzo (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Mezzo (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5555
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Caza y Pesca (TV)(SD)" tvg-logo="http://mdprime.live:80/images/046688356905011d050bf0b945251a09.png" group-title="[ES]ESPAÑA TODO",ESP☆ Caza y Pesca (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5556
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Caza y Pesca (TV)(720)" tvg-logo="http://mdprime.live:80/images/046688356905011d050bf0b945251a09.png" group-title="[ES]ESPAÑA TODO",ESP☆ Caza y Pesca (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5557
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Caza Y Pesca (M)(720)" tvg-logo="http://mdprime.live:80/images/046688356905011d050bf0b945251a09.png" group-title="[ES]ESPAÑA TODO",ESP☆ Caza Y Pesca (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5558
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Caza y Pesca (TV)(1080)" tvg-logo="http://mdprime.live:80/images/046688356905011d050bf0b945251a09.png" group-title="[ES]ESPAÑA TODO",ESP☆ Caza y Pesca (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5559
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Iberalia TV (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Iberalia TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5560
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nat Geo (M)(720)" tvg-logo="http://mdprime.live:80/images/3123d9e8a5ac317c848d30fdfe79022e.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nat Geo (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5561
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Nat Geo WILD (M)(720)" tvg-logo="http://mdprime.live:80/images/5102ce3be98d74f57156e462a208ae35.png" group-title="[ES]ESPAÑA TODO",ESP☆ Nat Geo WILD (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5562
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Paramount Network (M)(720)" tvg-logo="http://mdprime.live:80/images/1ee9fef6d5c6cc7c7917ea651f59673c.png" group-title="[ES]ESPAÑA TODO",ESP☆ Paramount Network (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5563
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Bein La Liga 1 (M)(720)" tvg-logo="http://mdprime.live:80/images/3040b0338ce0d0153802890fce0929c6.png" group-title="[ES]ESPAÑA TODO",ESP☆ Bein La Liga 1 (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5564
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. LaLiga (TV)(SD)" tvg-logo="http://mdprime.live:80/images/07f1955de6bbef7dafaa9aaa96ea0dc2.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. LaLiga (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5565
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. LaLiga (TV)(720)" tvg-logo="http://mdprime.live:80/images/07f1955de6bbef7dafaa9aaa96ea0dc2.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. LaLiga (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5566
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. LaLiga (TV)(1080)" tvg-logo="http://mdprime.live:80/images/07f1955de6bbef7dafaa9aaa96ea0dc2.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. LaLiga (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5567
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. LaLiga H265 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/07f1955de6bbef7dafaa9aaa96ea0dc2.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. LaLiga H265 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5568
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ La Liga 2 TV (M)(720)" tvg-logo="http://mdprime.live:80/images/d4375cb0697748bb886807cb95a8932a.png" group-title="[ES]ESPAÑA TODO",ESP☆ La Liga 2 TV (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5569
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ LaLiga TV Bar (TV)(SD)" tvg-logo="http://mdprime.live:80/images/808f101b3252c080904b99a11649af19.png" group-title="[ES]ESPAÑA TODO",ESP☆ LaLiga TV Bar (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5570
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ La Liga TV BAR (M)(720)" tvg-logo="http://mdprime.live:80/images/808f101b3252c080904b99a11649af19.png" group-title="[ES]ESPAÑA TODO",ESP☆ La Liga TV BAR (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5571
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ La Liga TV BAR (M)(720)" tvg-logo="http://mdprime.live:80/images/808f101b3252c080904b99a11649af19.png" group-title="[ES]ESPAÑA TODO",ESP☆ La Liga TV BAR (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5572
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ LaLiga TV Bar (TV)(720)" tvg-logo="http://mdprime.live:80/images/808f101b3252c080904b99a11649af19.png" group-title="[ES]ESPAÑA TODO",ESP☆ LaLiga TV Bar (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5573
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ LaLiga TV Bar (TV)(1080)" tvg-logo="http://mdprime.live:80/images/808f101b3252c080904b99a11649af19.png" group-title="[ES]ESPAÑA TODO",ESP☆ LaLiga TV Bar (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5574
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ LaLiga TV Bar H265 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/808f101b3252c080904b99a11649af19.png" group-title="[ES]ESPAÑA TODO",ESP☆ LaLiga TV Bar H265 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5575
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. Liga De Campeones (TV)(720)" tvg-logo="http://mdprime.live:80/images/ff469c571e01c5dc638ec00f5aeac10a.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. Liga De Campeones (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5576
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Liga De Campeones (M)(1080)" tvg-logo="http://mdprime.live:80/images/ff469c571e01c5dc638ec00f5aeac10a.png" group-title="[ES]ESPAÑA TODO",ESP☆ Liga De Campeones (M)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5577
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. Liga de Campeones (TV)(1080)" tvg-logo="http://mdprime.live:80/images/ff469c571e01c5dc638ec00f5aeac10a.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. Liga de Campeones (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5578
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ M. Liga de Campeones H265 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/ff469c571e01c5dc638ec00f5aeac10a.png" group-title="[ES]ESPAÑA TODO",ESP☆ M. Liga de Campeones H265 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5579
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ GOL (TV)(SD)" tvg-logo="http://mdprime.live:80/images/7fd69a57aa39430953380549ec247b4a.png" group-title="[ES]ESPAÑA TODO",ESP☆ GOL (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5580
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ GOL (TV)(720)" tvg-logo="http://mdprime.live:80/images/7fd69a57aa39430953380549ec247b4a.png" group-title="[ES]ESPAÑA TODO",ESP☆ GOL (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5581
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ GOL (TV)(1080)" tvg-logo="http://mdprime.live:80/images/7fd69a57aa39430953380549ec247b4a.png" group-title="[ES]ESPAÑA TODO",ESP☆ GOL (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5582
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Barça TV (TV)(SD)" tvg-logo="http://mdprime.live:80/images/3de4d45b740ce2dec76046ba6e8dd956.png" group-title="[ES]ESPAÑA TODO",ESP☆ Barça TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5583
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Barça TV (TV)(1080)" tvg-logo="http://mdprime.live:80/images/3de4d45b740ce2dec76046ba6e8dd956.png" group-title="[ES]ESPAÑA TODO",ESP☆ Barça TV (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5584
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Barca TV (M)(720)" tvg-logo="http://mdprime.live:80/images/3de4d45b740ce2dec76046ba6e8dd956.png" group-title="[ES]ESPAÑA TODO",ESP☆ Barca TV (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5585
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Real Madrid TV (tr)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Real Madrid TV (tr)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5586
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar F1 (TV)(SD)" tvg-logo="http://mdprime.live:80/images/87970a02f2b13bbf37f51294542acbf0.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar F1 (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5587
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar F1 (TV)(720)" tvg-logo="http://mdprime.live:80/images/87970a02f2b13bbf37f51294542acbf0.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar F1 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5588
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar F1 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/87970a02f2b13bbf37f51294542acbf0.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar F1 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5589
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Teledeporte (TV)(SD)" tvg-logo="http://mdprime.live:80/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="[ES]ESPAÑA TODO",ESP☆ Teledeporte (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5590
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Teledeporte (M)(720)" tvg-logo="http://mdprime.live:80/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="[ES]ESPAÑA TODO",ESP☆ Teledeporte (M)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5591
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Teledeporte (TV)(1080)" tvg-logo="http://mdprime.live:80/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="[ES]ESPAÑA TODO",ESP☆ Teledeporte (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5592
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Golf (TV)(SD)" tvg-logo="http://mdprime.live:80/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Golf (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5593
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Golf (TV)(720)" tvg-logo="http://mdprime.live:80/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Golf (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5594
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Golf (TV)(1080)" tvg-logo="http://mdprime.live:80/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Golf (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5595
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Deportes (TV)(SD)" tvg-logo="http://mdprime.live:80/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Deportes (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5596
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Deportes (TV)(720)" tvg-logo="http://mdprime.live:80/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Deportes (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5597
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Deportes (TV)(1080)" tvg-logo="http://mdprime.live:80/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Deportes (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5598
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Movistar Deportes 1 (M)(1080)" tvg-logo="http://mdprime.live:80/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="[ES]ESPAÑA TODO",ESP☆ Movistar Deportes 1 (M)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5599
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ DAZN (M)" tvg-logo="http://mdprime.live:80/images/b16583bb7d46945b4da760ca63f79f19.png" group-title="[ES]ESPAÑA TODO",ESP☆ DAZN (M)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5600
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Eurosport 1 (TV)(SD)" tvg-logo="http://mdprime.live:80/images/5019948ec61d43f5f92858f06537aef1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Eurosport 1 (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5601
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Eurosport 1 (TV)(720)" tvg-logo="http://mdprime.live:80/images/5019948ec61d43f5f92858f06537aef1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Eurosport 1 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5602
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Eurosport 1 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/5019948ec61d43f5f92858f06537aef1.png" group-title="[ES]ESPAÑA TODO",ESP☆ Eurosport 1 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5603
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Eurosport 2 (TV)(SD)" tvg-logo="http://mdprime.live:80/images/111256bc3d526aa689154822101f20a3.png" group-title="[ES]ESPAÑA TODO",ESP☆ Eurosport 2 (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5604
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Eurosport 2 (TV)(720)" tvg-logo="http://mdprime.live:80/images/111256bc3d526aa689154822101f20a3.png" group-title="[ES]ESPAÑA TODO",ESP☆ Eurosport 2 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5605
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Sur Andalucía (TV)(SD)" tvg-logo="http://mdprime.live:80/images/581459d70e5d8f91aabde82f2b1e1f5d.png" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Sur Andalucía (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5606
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Extremadura TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Extremadura TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5607
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Sur (TV)(720)" tvg-logo="http://mdprime.live:80/images/581459d70e5d8f91aabde82f2b1e1f5d.png" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Sur (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5608
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia Europa (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia Europa (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5609
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia America SD" tvg-logo="http://mdprime.live:80/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia America SD
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5610
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia America (TV)(720)" tvg-logo="http://mdprime.live:80/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia America (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5611
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia Cultura (TV)(SD)" tvg-logo="http://mdprime.live:80/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia Cultura (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5612
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia Europa (TV)(720)" tvg-logo="http://mdprime.live:80/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia Europa (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5613
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia Momentos G (TV)(720)" tvg-logo="http://mdprime.live:80/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia Momentos G (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5614
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Galicia Infantil (TV)(720)" tvg-logo="http://mdprime.live:80/images/632e9e45e7b49c845ede73f938f0e662.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV Galicia Infantil (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5615
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Telemadrid (TV)(720)" tvg-logo="http://mdprime.live:80/images/60a8d5d264bf68dbe73a4b10c77e1277.png" group-title="[ES]ESPAÑA TODO",ESP☆ Telemadrid (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5616
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Telemadrid (TV)(1080)" tvg-logo="http://mdprime.live:80/images/60a8d5d264bf68dbe73a4b10c77e1277.png" group-title="[ES]ESPAÑA TODO",ESP☆ Telemadrid (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5617
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV3 (TV)(720)" tvg-logo="http://mdprime.live:80/images/8f666c65f9d202b139a207a3d335e1ca.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV3 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5618
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV3 (TV)(1080)" tvg-logo="http://mdprime.live:80/images/8f666c65f9d202b139a207a3d335e1ca.png" group-title="[ES]ESPAÑA TODO",ESP☆ TV3 (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5619
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Televisió de Girona (TV)(SD)" tvg-logo="http://mdprime.live:80/images/5491f9e1ccb93303db4efb831881289f.png" group-title="[ES]ESPAÑA TODO",ESP☆ Televisió de Girona (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5620
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Esplugues TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Esplugues TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5621
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Aran TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Aran TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5622
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Vallès Oriental TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Vallès Oriental TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5623
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TAC 12 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ TAC 12 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5624
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Mirame TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Mirame TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5625
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Coín (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Coín (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5626
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ 9 La Loma (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ 9 La Loma (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5627
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Bondia TV (TV)(SD)" tvg-logo="http://mdprime.live:80/images/b38503c128c57101b14561c77b545b5e.png" group-title="[ES]ESPAÑA TODO",ESP☆ Bondia TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5628
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Diez TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Diez TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5629
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Cadena Elite TV Granada (TV)(720)" tvg-logo="http://mdprime.live:80/images/754647dde4aabb6b933d5cb540e5ab8b.png" group-title="[ES]ESPAÑA TODO",ESP☆ Cadena Elite TV Granada (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5630
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Melilla TV (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Melilla TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5631
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ 7RM Radio Televisión Murcia (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ 7RM Radio Televisión Murcia (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5632
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Hamaika (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Hamaika (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5633
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Tele Bilbao (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Tele Bilbao (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5634
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Lleida TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Lleida TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5635
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Teleonuba (TV)(720)" tvg-logo="http://mdprime.live:80/images/16e0c7e8517ec75bf777aa741c67dbbf.png" group-title="[ES]ESPAÑA TODO",ESP☆ Teleonuba (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5636
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ RTPA Asturias (TV)(SD)" tvg-logo="http://mdprime.live:80/images/e59f0da409f3c3c77447b5c3085db5a3.png" group-title="[ES]ESPAÑA TODO",ESP☆ RTPA Asturias (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5637
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Lebrija TV (TV)(SD)" tvg-logo="http://mdprime.live:80/images/b45055d4fc806e323488df827b92e7a7.png" group-title="[ES]ESPAÑA TODO",ESP☆ Lebrija TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5638
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Alcarria TV (TV)(SD)" tvg-logo="http://mdprime.live:80/images/ce7c639f6bb12f213402bd9d567604d7.png" group-title="[ES]ESPAÑA TODO",ESP☆ Alcarria TV (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5639
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ A Punt (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ A Punt (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5640
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ A Punt (TV)(720)" tvg-logo="http://mdprime.live:80/images/8e5d037d4aa18b67f30373743707ed3a.png" group-title="[ES]ESPAÑA TODO",ESP☆ A Punt (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5641
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Intereconomia (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Intereconomia (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5642
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Onda Cadiz (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Onda Cadiz (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5643
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Costa (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Costa (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5644
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Interalmeria (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Interalmeria (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5645
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ PTV Cordoba (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ PTV Cordoba (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5646
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Marbella TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Marbella TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5647
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Malaga (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Malaga (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5648
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Aragon TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Aragon TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5649
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Huesca TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Huesca TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5650
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal 25 Barbastro TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Canal 25 Barbastro TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5651
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ RTP Asturias (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ RTP Asturias (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5652
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Popular TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Popular TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5653
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Castilla-La Mancha Media (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Castilla-La Mancha Media (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5654
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Imas TV (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Imas TV (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5655
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ Canal Diocesano Toledo (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ Canal Diocesano Toledo (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5656
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ RTV Castilla y León (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ RTV Castilla y León (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5657
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ RTV Castilla y León (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ RTV Castilla y León (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5658
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ ETB SAT (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ ETB SAT (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5659
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ ETB 1 (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ ETB 1 (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5660
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ ETB 2 (TV)(SD)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ ETB 2 (TV)(SD)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5661
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ ETB 1 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ ETB 1 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5662
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ ETB 2 (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ ETB 2 (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5663
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ 7RM" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ 7RM
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5664
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ 7RM (TV)(1080)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ 7RM (TV)(1080)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5665
-#EXTINF:-1 tvg-id="" tvg-name="ESP☆ TV Centro Andalucia (TV)(720)" tvg-logo="" group-title="[ES]ESPAÑA TODO",ESP☆ TV Centro Andalucia (TV)(720)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5666
-#EXTINF:-1 tvg-id="" tvg-name="Spain: A&E" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: A&E
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5667
-#EXTINF:-1 tvg-id="" tvg-name="Spain: LA 1" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: LA 1
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5668
-#EXTINF:-1 tvg-id="" tvg-name="Spain: LA 1" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: LA 1
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5669
-#EXTINF:-1 tvg-id="" tvg-name="Spain: LA 2" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: LA 2
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5670
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Antena 3" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Antena 3
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5671
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Dcine" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Dcine
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5672
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Comedia" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Comedia
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5673
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Accion" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Accion
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5674
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Xtra" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Xtra
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5675
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Series" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Series
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5676
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Golf" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Golf
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5677
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Futbol" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Futbol
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5678
-#EXTINF:-1 tvg-id="" tvg-name="Spain: SyFy" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: SyFy
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5679
-#EXTINF:-1 tvg-id="" tvg-name="Spain: TNT" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: TNT
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5680
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Telecinco" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Telecinco
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5681
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Energy" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Energy
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5682
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Cosmo" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Cosmo
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5683
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Aragon" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Aragon
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5684
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Amc" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Amc
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5685
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Toros" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Toros
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5686
-#EXTINF:-1 tvg-id="" tvg-name="Spain: ODIsea" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: ODIsea
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5687
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Nova" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Nova
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5688
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Neox" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Neox
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5689
-#EXTINF:-1 tvg-id="" tvg-name="Spain: NickeLodeon" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: NickeLodeon
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5690
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Disney XD" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Disney XD
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5691
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Disney" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Disney
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5692
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Disney JR" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Disney JR
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5693
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Cuatro" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Cuatro
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5694
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Cocina" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Cocina
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5695
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Clan" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Clan
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5696
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Caza.Y.Pesca" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Caza.Y.Pesca
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5697
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Real Madrid" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Real Madrid
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5698
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Mega" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Mega
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5699
-#EXTINF:-1 tvg-id="" tvg-name="Spain: 24 Horas" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: 24 Horas
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5700
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Axn White" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Axn White
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5701
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Historia" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Historia
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5702
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Calle 13" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Calle 13
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5703
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Fox Life" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Fox Life
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5704
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Fox" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Fox
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5705
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Barca TV" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Barca TV
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5706
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Hollywood" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Hollywood
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5707
-#EXTINF:-1 tvg-id="" tvg-name="Spain: National Geographic" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: National Geographic
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5708
-#EXTINF:-1 tvg-id="" tvg-name="Spain: National Geo Wild" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: National Geo Wild
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5709
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Crime Investigation" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Crime Investigation
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5710
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Baby" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Baby
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5711
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Boing" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Boing
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5712
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Canal SUR" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Canal SUR
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5713
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Classica" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Classica
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5714
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Decasa" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Decasa
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5715
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Divinity" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Divinity
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5716
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Formula 1" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Formula 1
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5717
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Fox News" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Fox News
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5718
-#EXTINF:-1 tvg-id="" tvg-name="Spain: beIN Sport" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: beIN Sport
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5719
-#EXTINF:-1 tvg-id="" tvg-name="Spain: beIN Liga" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: beIN Liga
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5720
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Eurosport 1" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Eurosport 1
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5721
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Gol Tv" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Gol Tv
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5722
-#EXTINF:-1 tvg-id="" tvg-name="Spain: La Liga Bar" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: La Liga Bar
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5723
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Cine" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Cine
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5724
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Iberalia" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Iberalia
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5725
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Nick JR" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Nick JR
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5726
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Movie Series mania" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Movie Series mania
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5727
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Panda" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Panda
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5728
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Sundance" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Sundance
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5729
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Viajar" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Viajar
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5730
-#EXTINF:-1 tvg-id="" tvg-name="Spain: Mezzo" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: Mezzo
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5731
-#EXTINF:-1 tvg-id="" tvg-name="Spain: MTV Music" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Spain: MTV Music
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5732
-#EXTINF:-1 tvg-id="" tvg-name="Nova Esp (Op2)" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Nova Esp (Op2)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5733
-#EXTINF:-1 tvg-id="" tvg-name="Neox Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Neox Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5734
-#EXTINF:-1 tvg-id="" tvg-name="Neox Esp (op2)" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Neox Esp (op2)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5735
-#EXTINF:-1 tvg-id="" tvg-name="Mega Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Mega Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5736
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta Esp (Op2)" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",La Sexta Esp (Op2)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5737
-#EXTINF:-1 tvg-id="" tvg-name="La Sexta Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",La Sexta Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5738
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Real Madrid
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5739
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO HD ESP" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",TELECINCO HD ESP
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5740
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Cuatro Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5741
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro Espana (Opt2)" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Cuatro Espana (Opt2)
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5742
-#EXTINF:-1 tvg-id="" tvg-name="A3S Atreseries Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",A3S Atreseries Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5743
-#EXTINF:-1 tvg-id="" tvg-name="TV Galicia America Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",TV Galicia America Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5744
-#EXTINF:-1 tvg-id="" tvg-name="TV Galicia Europa" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",TV Galicia Europa
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5745
-#EXTINF:-1 tvg-id="" tvg-name="Andalucia Cocina Tv" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Andalucia Cocina Tv
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5746
-#EXTINF:-1 tvg-id="" tvg-name="TeleSafor | HD Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",TeleSafor | HD Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5747
-#EXTINF:-1 tvg-id="" tvg-name="A Punt TV Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",A Punt TV Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5748
-#EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",CGTN Español
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5749
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Real Madrid TV Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5750
-#EXTINF:-1 tvg-id="" tvg-name="Bein La LIGA TV HD" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Bein La LIGA TV HD
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5751
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD España" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Bein Sports HD España
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5752
-#EXTINF:-1 tvg-id="" tvg-name="TB3 Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",TB3 Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5753
-#EXTINF:-1 tvg-id="" tvg-name="Life TV Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Life TV Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5754
-#EXTINF:-1 tvg-id="" tvg-name="Media TV Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Media TV Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5755
-#EXTINF:-1 tvg-id="" tvg-name="Fibwi TV Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Fibwi TV Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5756
-#EXTINF:-1 tvg-id="" tvg-name="Travel TV Espana" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Travel TV Espana
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5757
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="[ES]ESPAÑA TODO 2",Discovery HD
-http://emiraytv.ddns.net:25461/EMIRAYTV/BUSCANOSENFACEBOOK/5758
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="INFANTILES",Cartoon Network
-https://blackaddon.com/scr/se9.php?c=21&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTILES",Boomerang
-https://blackaddon.com/scr/se9.php?c=153&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/1200px-Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney 
-https://blackaddon.com/scr/se9.php?c=46&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/db/69/6edb69326ca4e5261ee2f9542d874ae9.jpg" group-title="INFANTILES",Disney JR
-https://blackaddon.com/scr/se9.php?c=47&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="INFANTILES",Disney XD
-https://blackaddon.com/scr/se9.php?c=48&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES",Discovery Kids
-https://blackaddon.com/scr/se9.php?c=41&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="INFANTILES",Natgeo Kids
-https://blackaddon.com/scr/se9.php?c=130&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Nick.png" group-title="INFANTILES",Nick
-https://blackaddon.com/scr/se9.php?c=124&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Nick_2_logo_%282010%29.svg" group-title="INFANTILES",Nick 2
-https://blackaddon.com/scr/se9.php?c=126&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1200px-Nick_Jr._logo_2009.svg.png" group-title="INFANTILES",Nick JR
-https://blackaddon.com/scr/se9.php?c=125&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1200px-Tooncast_logo.svg.png" group-title="INFANTILES",Tooncast
-https://blackaddon.com/scr/se9.php?c=110&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_a-e-mundo_m.png" group-title="CINE Y SERIES",A&E
-https://blackaddon.com/scr/se9.php?c=1&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="CINE Y SERIES",AMC
-https://blackaddon.com/scr/se9.php?c=7&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE Y SERIES",AXN
-https://blackaddon.com/scr/se9.php?c=2&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/CINE Y SERIEScanal.png" group-title="CINE Y SERIES",Cinecanal
-https://blackaddon.com/scr/se9.php?c=22&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/CINE Y SERIESmax.png" group-title="CINE Y SERIES",Cinemax
-https://blackaddon.com/scr/se9.php?c=175&f=.m3u8
-#EXTINF:-1 tvg-logo="https://aux.iconspalace.com/uploads/18786692441935094700.png" group-title="CINE Y SERIES",Comedy Central
-https://blackaddon.com/scr/se9.php?c=32&f=.m3u8
-#EXTINF:-1 tvg-logo="netio" group-title="CINE Y SERIES",Distrito Comedia
-https://blackaddon.com/scr/se9.php?c=154&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FOX.jpg" group-title="CINE Y SERIES",Fox
-https://blackaddon.com/scr/se9.php?c=57&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/fx.png" group-title="CINE Y SERIES",FX
-https://blackaddon.com/scr/se9.php?c=56&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/fxm.png" group-title="CINE Y SERIES",FXM
-https://blackaddon.com/scr/se9.php?c=78&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/paramountchannel.png" group-title="CINE Y SERIES",Paramount
-https://blackaddon.com/scr/se9.php?c=123&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/s/u/n/xsundancetv.jpg.pagespeed.ic.wZYnU6Qrmo.jpg" group-title="CINE Y SERIES",Sundance
-https://blackaddon.com/scr/se9.php?c=117&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/sony.png" group-title="CINE Y SERIES",Sony
-https://blackaddon.com/scr/se9.php?c=120&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_dhe_m.png" group-title="CINE Y SERIES",DHE
-https://blackaddon.com/scr/se9.php?c=34&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/space.png" group-title="CINE Y SERIES",Space
-https://blackaddon.com/scr/se9.php?c=119&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/studio%20universal.png" group-title="CINE Y SERIES",Studio Universal
-https://blackaddon.com/scr/se9.php?c=118&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" group-title="CINE Y SERIES",Cinelatino
-https://blackaddon.com/scr/se9.php?c=23&f=.m3u8
-#EXTINF:-1 tvg-logo="netio" group-title="CINE Y SERIES",Claro CINE Y SERIESma
-https://blackaddon.com/scr/se9.php?c=27&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/tnt.png" group-title="CINE Y SERIES",Tnt
-https://blackaddon.com/scr/se9.php?c=113&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/TNTseries.png" group-title="CINE Y SERIES",Tnt Series
-https://blackaddon.com/scr/se9.php?c=112&f=.m3u8
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2085350.jpg" group-title="CINE Y SERIES",Pasiones
-https://blackaddon.com/scr/se9.php?c=122&f=.m3u8
-#EXTINF:-1 tvg-logo="https://217.182.175.40/logo/Pzh1qyZs.png" group-title="CINE Y SERIES",RCN 
-https://blackaddon.com/scr/se9.php?c=121&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/universarchannel.png" group-title="CINE Y SERIES",Universal Channel
-https://blackaddon.com/scr/se9.php?c=106&f=.m3u8
-#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2016/05/wb.jpg" group-title="CINE Y SERIES",Warner
-https://blackaddon.com/scr/se9.php?c=102&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_de-pelicula_m.png" group-title="CINE Y SERIES",De Pelicula
-https://blackaddon.com/scr/se9.php?c=37&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FOXLIFE.jpg" group-title="CINE Y SERIES",Fox Life
-https://blackaddon.com/scr/se9.php?c=65&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/isa.jpg" group-title="CINE Y SERIES",I.Sat
-https://blackaddon.com/scr/se9.php?c=95&f=.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kJM3aOF0Qkc/WXcjGHarZeI/AAAAAAAAFEg/YhF-3ud7VQ0MB5jGG1bymr3Z9-dlQdAPQCLcBGAs/s1600/photo.jpg" group-title="CINE Y SERIES",Lifetime
-https://blackaddon.com/scr/se9.php?c=97&f=.m3u8
-#EXTINF:-1 tvg-logo="https://logostvArgentina.files.wordpress.com/2011/10/b1ee9-tbs-2016.png" group-title="CINE Y SERIES",TBS
-https://blackaddon.com/scr/se9.php?c=116&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.brandemia.org/sites/default/files/sites/default/files/logo_tcm.jpg" group-title="CINE Y SERIES",TCM
-https://blackaddon.com/scr/se9.php?c=115&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxaction.png" group-title="CINE Y SERIES",Fox Premium Action
-https://blackaddon.com/scr/se9.php?c=58&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxCINE Y SERIESma.png" group-title="CINE Y SERIES",Fox Premium Series
-https://blackaddon.com/scr/se9.php?c=60&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-classics-hd_m.png" group-title="CINE Y SERIES",Fox Premium Classics
-https://blackaddon.com/scr/se9.php?c=62&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/FoxMovie.png" group-title="CINE Y SERIES",Fox Premium Movies
-https://blackaddon.com/scr/se9.php?c=67&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/foxseries.png" group-title="CINE Y SERIES",Fox Premium Series
-https://blackaddon.com/scr/se9.php?c=69&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-family_m.png" group-title="CINE Y SERIES",Fox Premium Family
-https://blackaddon.com/scr/se9.php?c=64&f=.m3u8
-#EXTINF:-1 tvg-logo="https://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_comedy.jpg" group-title="CINE Y SERIES",Fox Premium Comedy
-https://blackaddon.com/scr/se9.php?c=63&f=.m3u8
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="CINE Y SERIES",Golden 
-https://blackaddon.com/scr/se9.php?c=81&f=.m3u8
-#EXTINF:-1 tvg-logo="https://image.jimcdn.com/app/cms/image/transf/none/path/s5aadee6f79328755/image/i15278ffc3f86db9c/version/1470080571/image.png" group-title="CINE Y SERIES",Golden edge
-https://blackaddon.com/scr/se9.php?c=82&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE Y SERIES",HBO
-https://blackaddon.com/scr/se9.php?c=84&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/38/dc/17/38dc175da482ae589a0de7c44d21f849.png" group-title="CINE Y SERIES",HBO Subtitulado
-https://blackaddon.com/scr/se9.php?c=88&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_cd/cd47fb52116f18d99be56ef0457daf36.png" group-title="CINE Y SERIES",HBO 2
-https://blackaddon.com/scr/se9.php?c=85&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hbofamily.png" group-title="CINE Y SERIES",HBO Family
-https://blackaddon.com/scr/se9.php?c=86&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hboplus.png" group-title="CINE Y SERIES",HBO plus
-https://blackaddon.com/scr/se9.php?c=89&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/hbosignature.png" group-title="CINE Y SERIES",HBO Signature
-https://blackaddon.com/scr/se9.php?c=87&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png" group-title="CINE Y SERIES",Max 
-https://blackaddon.com/scr/se9.php?c=136&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/a544addc-0563-4045-a7a3-45174385905d_m.jpg" group-title="CINE Y SERIES",Max Prime
-https://blackaddon.com/scr/se9.php?c=135&f=.m3u8
-#EXTINF:-1 tvg-logo="https://operadores.hbo-la.tv/img/layout/logos/maxup.png" group-title="CINE Y SERIES",Max Up
-https://blackaddon.com/scr/se9.php?c=134&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://s3-eu-central-1.amazonaws.com/centaur-wp/designweek/prod/content/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg" group-title="CULTURA",Animal Planet
-https://blackaddon.com/scr/se9.php?c=3&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/cnn.png" group-title="CULTURA",CNN en Espanol
-https://blackaddon.com/scr/se9.php?c=14&f=.m3u8
-#EXTINF:-1 tvg-logo="netio" group-title="CULTURA",CNN Internacional
-https://blackaddon.com/scr/se9.php?c=15&f=.m3u8
-#EXTINF:-1 tvg-logo="https://factotumediciones.com/admin/files/medios/149/BBC-Logo.jpg" group-title="CULTURA",BBC World
-https://blackaddon.com/scr/se9.php?c=10&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Discovery%20channel.png" group-title="CULTURA",Discovery Channel
-https://blackaddon.com/scr/se9.php?c=39&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/discovery%20science.png" group-title="CULTURA",Discovery Science
-https://blackaddon.com/scr/se9.php?c=42&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/h&h.png" group-title="CULTURA",Discovery HH
-https://blackaddon.com/scr/se9.php?c=40&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Discoveryturbo.png" group-title="CULTURA",Discovery Turbo
-https://blackaddon.com/scr/se9.php?c=44&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/discoveryworld.png" group-title="CULTURA",Discovery World
-https://blackaddon.com/scr/se9.php?c=45&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/elgroumet.png" group-title="CULTURA",El Gourmet
-https://blackaddon.com/scr/se9.php?c=50&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/glitz.jpg" group-title="CULTURA",Glitz
-https://blackaddon.com/scr/se9.php?c=80&f=.m3u8
-#EXTINF:-1 tvg-logo="https://sappi.panaceiafilmes.com/2/wp-content/uploads/2017/06/Histpry-logo-.png" group-title="CULTURA",History
-https://blackaddon.com/scr/se9.php?c=92&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_h2_m.png" group-title="CULTURA",H2
-https://blackaddon.com/scr/se9.php?c=93&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="CULTURA",Hola TV
-https://blackaddon.com/scr/se9.php?c=94&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/investigationdiscovery.png" group-title="CULTURA",Investigation Discovery
-https://blackaddon.com/scr/se9.php?c=96&f=.m3u8
-#EXTINF:-1 tvg-logo="https://m.pnglot.com/pngfile/small/79-790017_national-geographic-logo-national-geographic.png" group-title="CULTURA",National Geographic Channel
-https://blackaddon.com/scr/se9.php?c=131&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/natgeowill.png" group-title="CULTURA",Natgeo Wild
-https://blackaddon.com/scr/se9.php?c=127&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/NATiGEO.png" group-title="CULTURA",Natgeo
-https://blackaddon.com/scr/se9.php?c=128&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/pic_trutv.png" group-title="CULTURA",Tru TV
-https://blackaddon.com/scr/se9.php?c=108&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/telemundo.png" group-title="CULTURA",Telemundo
-https://blackaddon.com/scr/se9.php?c=111&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/Theacher%20Discovery.png" group-title="CULTURA",Discovery Theater
-https://blackaddon.com/scr/se9.php?c=43&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/TLCDiscovery.png" group-title="CULTURA",Discovery TLC
-https://blackaddon.com/scr/se9.php?c=114&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/unicable.png" group-title="CULTURA",Unicable
-https://blackaddon.com/scr/se9.php?c=107&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/unision.png" group-title="CULTURA",Univision
-https://blackaddon.com/scr/se9.php?c=105&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/BLOOMTV.jpg" group-title="CULTURA",Bloomberg
-https://blackaddon.com/scr/se9.php?c=13&f=.m3u8
-#EXTINF:-1 tvg-logo="https://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/deutschewelle.jpg" group-title="CULTURA",DW
-https://blackaddon.com/scr/se9.php?c=35&f=.m3u8
-#EXTINF:-1 tvg-logo="https://penplusbytes.org/wp-content/uploads/2017/05/DW.png" group-title="CULTURA",DW america
-https://blackaddon.com/scr/se9.php?c=36&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/jVXwWrx/Direc-TV-Sport.jpg" group-title="DEPORTES",Directv Sports
-https://blackaddon.com/scr/se9.php?c=317&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/3CvW4td/Direc-TV-Sports-2.jpg" group-title="DEPORTES",Directv Sports 2
-https://blackaddon.com/scr/se9.php?c=318&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/N693Dgj/DIRECTV-SPOTRS.jpg" group-title="DEPORTES",Directv Sports Plus
-https://blackaddon.com/scr/se9.php?c=319&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Kyqmwzm/FOX-Sports.jpg" group-title="DEPORTES",Fox Sports 1 Sur
-https://blackaddon.com/scr/se9.php?c=72&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/QPXNN31/Fox-sports-2.jpg" group-title="DEPORTES",Fox Sports 2 Sur
-https://blackaddon.com/scr/se9.php?c=73&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/LJy3R8s/Fox-sports-3.jpg" group-title="DEPORTES",Fox Sports 3 Sur
-https://blackaddon.com/scr/se9.php?c=76&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/hR12DVr/FOX-Sports-MEXICO.jpg" group-title="DEPORTES",Fox Sports 1 mex
-https://blackaddon.com/scr/se9.php?c=71&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/s3jL7db/Fox-sports-2-MEXICO.jpg" group-title="DEPORTES",Fox Sports 2 mex
-https://blackaddon.com/scr/se9.php?c=74&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/37NkJdN/Fox-sports-3-MEXICO.jpg" group-title="DEPORTES",Fox Sports 3 mex
-https://blackaddon.com/scr/se9.php?c=75&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/bH2TWmT/FOX-SPOTRS-PREMIUM.jpg" group-title="DEPORTES",Fox Sports Premium
-https://blackaddon.com/scr/se9.php?c=229&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Mn6RsTZ/ESPN-PLUS.jpg" group-title="DEPORTES",Espn Plus Sur
-https://blackaddon.com/scr/se9.php?c=54&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/x7BC4yr/ESPN.jpg" group-title="DEPORTES",Espn 1 Sur
-https://blackaddon.com/scr/se9.php?c=51&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 Sur
-https://blackaddon.com/scr/se9.php?c=52&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 Sur
-https://blackaddon.com/scr/se9.php?c=53&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/8DKpDq1/ESPN-MX.jpg" group-title="DEPORTES",Espn mex
-https://blackaddon.com/scr/se9.php?c=140&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/RDL2s6z/ESPN-2.jpg" group-title="DEPORTES",Espn 2 mex
-https://blackaddon.com/scr/se9.php?c=141&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/P5FM3cy/espn3.jpg" group-title="DEPORTES",Espn 3 mex
-https://blackaddon.com/scr/se9.php?c=142&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/02/secnetworklogo.png" group-title="DEPORTES",Espn Sec Network 
-https://blackaddon.com/scr/se9.php?c=139&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://pbs.twimg.com/profile_images/895269310012297216/S6kYh_k1_400x400.jpg" group-title="DEPORTES",Espn U 
-https://blackaddon.com/scr/se9.php?c=138&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/S5QNysK/TDN-UNIVI.jpg" group-title="DEPORTES",Univision DEPORTES 
-https://blackaddon.com/scr/se9.php?c=320&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/BHpR6Rp/Win-sports.jpg" group-title="DEPORTES",Win Sports
-https://blackaddon.com/scr/se9.php?c=101&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports
-https://blackaddon.com/scr/se9.php?c=30&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/MfHFy9Q/CLARO-SPORTS.jpg" group-title="DEPORTES",Claro Sports Latinoamerica
-https://blackaddon.com/scr/se9.php?c=31&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tbSC5Zp/TNT-DEPORTES.jpg" group-title="DEPORTES",TNT Sports
-https://blackaddon.com/scr/se9.php?c=228&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="DEPORTES",Golf Channel
-https://blackaddon.com/scr/se9.php?c=83&f=.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p6H8mzV/CDO-PREMIUM.jpg" group-title="DEPORTES",CDO*
-https://blackaddon.com/scr/se9.php?c=199&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p6H8mzV/CDO-PREMIUM.jpg" group-title="DEPORTES",Estadio CDF
-https://blackaddon.com/scr/se9.php?c=192&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p6H8mzV/CDO-PREMIUM.jpg" group-title="DEPORTES",CDO Premium
-https://blackaddon.com/scr/se9.php?c=198&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png" group-title="DEPORTES",CDO Basico
-https://blackaddon.com/scr/se9.php?c=195&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ZLC4wNM/cdf-premium-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF Premium
-https://blackaddon.com/scr/se9.php?c=196&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/51jNR0B/cdf-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF Basico
-https://blackaddon.com/scr/se9.php?c=193&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/51jNR0B/cdf-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF
-https://blackaddon.com/scr/se9.php?c=194&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/51jNR0B/cdf-iptvfr-2018-09-05-10-53-17-UTC.jpg" group-title="DEPORTES",CDF HD
-https://blackaddon.com/scr/se9.php?c=197&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/YPbgg6K/VTV-URUGUAY.jpg" group-title="DEPORTES",VTV
-https://blackaddon.com/scr/se9.php?c=254&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/NZWfjt4/MOVISTAR-DEPORTES.jpg" group-title="DEPORTES",Movistar DEPORTES
-https://blackaddon.com/scr/se9.php?c=174&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/D8MhGmp/gol-peru.jpg" group-title="DEPORTES",Gol Peru
-https://blackaddon.com/scr/se9.php?c=173&f=.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/mtv.png" group-title="MUSICA",MTV
-https://blackaddon.com/scr/se9.php?c=98&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/mtvlive.png" group-title="MUSICA",MTV Live
-https://blackaddon.com/scr/se9.php?c=133&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/f81yQzER_400x400.jpg" group-title="MUSICA",MTV Hits
-https://blackaddon.com/scr/se9.php?c=99&f=.m3u8
-#EXTINF:-1 tvg-logo="https://tombercupresents.com/wp-content/uploads/2016/08/vh1.jpg" group-title="MUSICA",VH1
-https://blackaddon.com/scr/se9.php?c=104&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/vh1%20c.jpg" group-title="MUSICA",Vh1 Classics
-https://blackaddon.com/scr/se9.php?c=103&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.comteco.com.bo/img/upload/canales/htv.png" group-title="MUSICA",HTV
-https://blackaddon.com/scr/se9.php?c=91&f=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/929125236141731841/u-mpHnWU_400x400.jpg" group-title="MUSICA",Concert channel
-https://blackaddon.com/scr/se9.php?c=33&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/809/EF11C69ECFC19A8E5C44DD00B1B323AD/claro_MUSICA.png" group-title="MUSICA",Claro music
-https://blackaddon.com/scr/se9.php?c=28&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/809/EF11C69ECFC19A8E5C44DD00B1B323AD/claro_MUSICA.png" group-title="MUSICA",Claro Music 2
-https://blackaddon.com/scr/se9.php?c=29&f=.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="" group-title="24/7",Alf
-https://blackaddon.com/scr/se9.php?c=278&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
-https://blackaddon.com/scr/se9.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
-https://blackaddon.com/scr/se9.php?c=280&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cantinflas" tvg-logo="" group-title="24/7",Cantinflas
-https://blackaddon.com/scr/se9.php?c=281&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
-https://blackaddon.com/scr/se9.php?c=282&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
-https://blackaddon.com/scr/se9.php?c=283&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
-https://blackaddon.com/scr/se9.php?c=284&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-https://blackaddon.com/scr/se9.php?c=285&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
-https://blackaddon.com/scr/se9.php?c=286&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
-https://blackaddon.com/scr/se9.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-https://blackaddon.com/scr/se9.php?c=288&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-https://blackaddon.com/scr/se9.php?c=289&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
-https://blackaddon.com/scr/se9.php?c=291&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
-https://blackaddon.com/scr/se9.php?c=292&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
-https://blackaddon.com/scr/se9.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
-https://blackaddon.com/scr/se9.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
-https://blackaddon.com/scr/se9.php?c=297&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-https://blackaddon.com/scr/se9.php?c=299&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
-https://blackaddon.com/scr/se9.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Malcolm El De En Medio" tvg-logo="" group-title="24/7",Malcolm El De En Medio
-https://blackaddon.com/scr/se9.php?c=301&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. Bean" tvg-logo="" group-title="24/7",Mr. Bean
-https://blackaddon.com/scr/se9.php?c=302&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
-https://blackaddon.com/scr/se9.php?c=303&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
-https://blackaddon.com/scr/se9.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
-https://blackaddon.com/scr/se9.php?c=305&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
-https://blackaddon.com/scr/se9.php?c=308&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Smallville" tvg-logo="" group-title="24/7",Smallville
-https://blackaddon.com/scr/se9.php?c=309&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
-https://blackaddon.com/scr/se9.php?c=310&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Thundercats" tvg-logo="" group-title="24/7",Thundercats
-https://blackaddon.com/scr/se9.php?c=311&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
-https://blackaddon.com/scr/se9.php?c=312&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Show MAS" tvg-logo="" group-title="24/7",Un Show MAS
-https://blackaddon.com/scr/se9.php?c=313&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
-https://blackaddon.com/scr/se9.php?c=314&f=.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="Mexico",Las Estrellas 
-https://blackaddon.com/scr/se9.php?c=18&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Foro_TV_2016_NewLogo.jpg" group-title="Mexico",Foro tv
-https://blackaddon.com/scr/se9.php?c=149&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico",Canal 5
-https://blackaddon.com/scr/se9.php?c=145&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.mimorelia.com/wp-content/uploads/2019/01/noticias/24/azteca.jpg" group-title="Mexico",Azteca 7
-https://blackaddon.com/scr/se9.php?c=147&f=.m3u8
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/nueve.png" group-title="Mexico",Nu9ve
-https://blackaddon.com/scr/se9.php?c=143&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/az%20corazon.png" group-title="Mexico",Az Corazon
-https://blackaddon.com/scr/se9.php?c=4&f=.m3u8
-#EXTINF:-1 tvg-logo="https://condista.com/wp-content/uploads/2018/08/az-clic-2.png" group-title="Mexico",Az Clic
-https://blackaddon.com/scr/se9.php?c=142&f=.m3u8
-#EXTINF:-1 tvg-logo="https://200.77.160.48:8090/izzi/v3/img/dummy-img/channels/AZTECA_UNO_HD.png" group-title="Mexico",Az uno
-https://blackaddon.com/scr/se9.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/AZMUNDO.jpg" group-title="Mexico",Az Mundo
-https://blackaddon.com/scr/se9.php?c=5&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/adn40.jpg" group-title="Mexico",ADN 40
-https://blackaddon.com/scr/se9.php?c=148&f=.m3u8
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/IMAGENTELE.png" group-title="Mexico",Imagen TV
-#EXTINF:-1 tvg-logo="https://miratv.club/miratvnew/private/upload/rve.png" group-title="Mexico",TVE
-https://blackaddon.com/scr/se9.php?c=109&f=.m3u8
-#EXTINF:-1 tvg-logo="https://empresasmonterrey.com/wp-content/uploads/2015/06/TELEVISA-MONTERREY.jpg" group-title="Mexico",Televisa monterrey
-https://blackaddon.com/scr/se9.php?c=152&f=.m3u8
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-multimedios-tv-1152.png" group-title="Mexico",Multimedios
-https://blackaddon.com/scr/se9.php?c=150&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/240px-TeleSUR-Logo.svg.png" group-title="Venezuela",TeleSur 
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://corazonllanero.com/main/static/img/isotipocoll.png" group-title="Venezuela",Corazon Llanero
-https://5.189.191.70:1935/corazonllanerotvweb/corazonllanerotvweb/chunklis.m3u8
-#EXTINF:-1 tvg-logo="https://promar.tv/wp-content/uploads/2016/09/promar-logo.png" group-title="Venezuela",Promar Tv
-https://vcp1.myplaytv.com/promar/promar/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://lateletuya.com/wp-content/uploads/2019/09/logoTLT_horizontal_2019_blanco.png" group-title="Venezuela",La tele tuya
-https://backup9.lateletuya.com/TeLeTeve/stream.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/2t2ZdXs/TELE-ARGE.jpg" group-title="Argentina",Television Publica
-https://blackaddon.com/scr/se9.php?c=210&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/5F9BykT/ar-telefe-m.png" group-title="Argentina",Telefe
-https://blackaddon.com/scr/se9.php?c=212&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/rtV1yvC/ENCUENTRO.jpg" group-title="Argentina",Todo Noticias TN
-https://blackaddon.com/scr/se9.php?c=221&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/p4VztQk/ar-el-trece-m.png" group-title="Argentina",El trece
-https://blackaddon.com/scr/se9.php?c=213&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tPWH422/NUEVE.jpg" group-title="Argentina",El Nueve
-https://blackaddon.com/scr/se9.php?c=211&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/DgTK0PR/CRONICATV.jpg" group-title="Argentina",Trece Max
-https://blackaddon.com/scr/se9.php?c=222&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/R2GzXHM/Telemax.png" group-title="Argentina",Telemax
-https://blackaddon.com/scr/se9.php?c=223&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ngxxXzP/CINE.jpg" group-title="Argentina",CINE.AR
-https://blackaddon.com/scr/se9.php?c=219&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/yfJXRWy/247-Noticias.png" group-title="Argentina",24/7 Noticias
-https://blackaddon.com/scr/se9.php?c=226&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/vqJRhYN/c5n-tv.jpg" group-title="Argentina",C5N
-https://blackaddon.com/scr/se9.php?c=207&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/d7yLKNc/america.jpg" group-title="Argentina",America TV
-https://blackaddon.com/scr/se9.php?c=209&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/pXZt7rd/A24.png" group-title="Argentina",A24
-https://blackaddon.com/scr/se9.php?c=208&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/QrZq81j/El-Garage-TV.png" group-title="Argentina",El Garage TV
-https://blackaddon.com/scr/se9.php?c=225&f=.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/kx9yJtg/Argentinisima.jpg" group-title="Argentina",Argentinisima
-https://blackaddon.com/scr/se9.php?c=227&f=.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://imgur.com/gnhELOi.png" group-title="Colombia",RedTv
-https://infored.lcdn.claro.net.co/Content/hls_clear/Live/Channel(REDTVHD)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="Colombia",Trece
-https://blackaddon.com/scr/se9.php?c=191&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN 2
-https://blackaddon.com/scr/se9.php?c=241&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="Colombia",RCN
-https://blackaddon.com/scr/se9.php?c=121&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://venezolanossiempre.files.wordpress.com/2018/04/f5b96-logoeltiempo.jpg" group-title="Colombia",El Tiempo
-https://blackaddon.com/scr/se9.php?c=238&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/qy7F0zN/CARACOL-INT.jpg" group-title="Colombia",Caracol 2
-https://blackaddon.com/scr/se9.php?c=235&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/JjfNJBR/caracol-tv.jpg" group-title="Colombia",Caracol
-https://blackaddon.com/scr/se9.php?c=19&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://oer2go.org:81/wikipedia_es_all_2016-02/I/m/CTV_LOGO.png" group-title="Colombia",Cantinazo
-https://blackaddon.com/scr/se9.php?c=234&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Colombia",Canal Uno
-https://blackaddon.com/scr/se9.php?c=233&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://lh3.googleusercontent.com/-x7zN4RKXaR4/VhAVobXrg0I/AAAAAAAAByc/RNxc57Z-ZM8/s300-Ic42/canal-capital-en-vivo.png" group-title="Colombia",Canal Capital
-https://blackaddon.com/scr/se9.php?c=230&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/City_tv_Bogot%C3%A1_logo.svg/1200px-City_tv_Bogot%C3%A1_logo.svg.png" group-title="Colombia",City TV.
-https://blackaddon.com/scr/se9.php?c=26&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",City Tv
-https://blackaddon.com/scr/se9.php?c=236&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Cosmovision
-https://blackaddon.com/scr/se9.php?c=237&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",La Kalle
-https://blackaddon.com/scr/se9.php?c=239&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",NTN24
-https://blackaddon.com/scr/se9.php?c=240&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Senal Colombia
-https://blackaddon.com/scr/se9.php?c=242&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Tacho Pistacho
-https://blackaddon.com/scr/se9.php?c=243&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",TeleAntioquia
-https://blackaddon.com/scr/se9.php?c=244&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecafe
-https://blackaddon.com/scr/se9.php?c=245&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telecaribe
-https://blackaddon.com/scr/se9.php?c=246&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telemedellin
-https://blackaddon.com/scr/se9.php?c=247&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Telepacifico
-https://blackaddon.com/scr/se9.php?c=248&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Canal Trece
-https://blackaddon.com/scr/se9.php?c=249&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Tvgro
-https://blackaddon.com/scr/se9.php?c=250&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Teleamiga
-https://blackaddon.com/scr/se9.php?c=251&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Televid
-https://blackaddon.com/scr/se9.php?c=252&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvglogo="" group-title="Colombia",Canal Institucional
-https://blackaddon.com/scr/se9.php?c=231&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="" group-title="Colombia",Canal Tro
-https://blackaddon.com/scr/se9.php?c=232&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/smvN6yQ/TVPRU.png" group-title="Peru",Tv Peru
-https://blackaddon.com/scr/se9.php?c=182&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/yWBfSvr/Peru-MAGICO.jpg" group-title="Peru",Peru Magico
-https://blackaddon.com/scr/se9.php?c=176&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/WDP6HZH/PANAMERICANO.jpg" group-title="Peru",Panamericana
-https://blackaddon.com/scr/se9.php?c=172&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Frecuencia_Latina_HD.jpg" group-title="Peru",Frecuencia Latina
-https://blackaddon.com/scr/se9.php?c=171&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/NFXTMpX/AMERICA-TV-Peru.png" group-title="Peru",America TV
-https://blackaddon.com/scr/se9.php?c=169&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/ccy79wk/ATVPeru.png" group-title="Peru",ATV
-https://blackaddon.com/scr/se9.php?c=170&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Zh523G9/Movistar-Plus.png" group-title="Peru",Movistar Plus
-https://blackaddon.com/scr/se9.php?c=175&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/nC1PYnY/Ctc-Cusco.png" group-title="Peru",Ctc Cusco
-https://blackaddon.com/scr/se9.php?c=178&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/kmf9y61/Ovacion.png" group-title="Peru",Ovacion
-https://blackaddon.com/scr/se9.php?c=179&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/m8g6YHv/Antares-TV.jpg" group-title="Peru",Antares TV
-https://blackaddon.com/scr/se9.php?c=180&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/tmCFDVt/TV-Peru-Noticias.jpg" group-title="Peru",TV Peru Noticias
-https://blackaddon.com/scr/se9.php?c=183&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/Nyrf5sv/La-Tele.jpg" group-title="Peru",La Tele
-https://blackaddon.com/scr/se9.php?c=184&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/DLwBLcB/Canal-IPE.jpg" group-title="Peru",Canal IPE
-https://blackaddon.com/scr/se9.php?c=185&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="xx" tvg-logo="https://i.ibb.co/jHGBLqX/Canal-N.png" group-title="Peru",Canal N
-https://blackaddon.com/scr/se9.php?c=187&f=.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="https://i.ibb.co/qJTRdDB/13C.png" group-title="Chile",13C
-https://blackaddon.com/scr/se9.php?c=188&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RhM0qRd/13i.png" group-title="Chile",13i
-https://blackaddon.com/scr/se9.php?c=189&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7CGtDXf/24-Horas.png" group-title="Chile",24 Horas
-https://blackaddon.com/scr/se9.php?c=190&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jT5q53/Teletrak.jpg" group-title="Chile",Teletrak HD
-https://blackaddon.com/scr/se9.php?c=200&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4VrcHBx/Chilevision.jpg" group-title="Chile",Chilevision
-https://blackaddon.com/scr/se9.php?c=201&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZTgTwRM/La-Red.png" group-title="Chile",La Red
-https://blackaddon.com/scr/se9.php?c=202&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc4Vfsp/Mega.jpg" group-title="Chile",Mega
-https://blackaddon.com/scr/se9.php?c=203&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mv50381/TVN.jpg" group-title="Chile",TVN
-https://blackaddon.com/scr/se9.php?c=205&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/znzLp4p/CNN.jpg" group-title="Chile",CNN
-https://blackaddon.com/scr/se9.php?c=206&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canal Uno
-https://blackaddon.com/scr/se9.php?c=156&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Canela Tv
-https://blackaddon.com/scr/se9.php?c=157&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuador TV
-https://blackaddon.com/scr/se9.php?c=158&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Ecuavisa
-https://blackaddon.com/scr/se9.php?c=159&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gamavision
-https://blackaddon.com/scr/se9.php?c=160&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Gol TV
-https://blackaddon.com/scr/se9.php?c=161&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Oromar
-https://blackaddon.com/scr/se9.php?c=162&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Rts
-https://blackaddon.com/scr/se9.php?c=163&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Tc Television
-https://blackaddon.com/scr/se9.php?c=164&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Teleamazonas
-https://blackaddon.com/scr/se9.php?c=165&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",Televicentro
-https://blackaddon.com/scr/se9.php?c=166&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Ecuador",ECDF
-https://blackaddon.com/scr/se9.php?c=167&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/02WHdCW/Wipr-Canal-6.png" group-title="Puerto Rico",Wipr Canal 6
-https://blackaddon.com/scr/se9.php?c=269&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k3XKjZ2/MEGATV.jpg" group-title="Puerto Rico",Mega TV
-https://blackaddon.com/scr/se9.php?c=270&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/st6nDtq/Telemundo-Puerto-Rico.png" group-title="Puerto Rico",Telemundo
-https://blackaddon.com/scr/se9.php?c=271&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JnF1nG5/UNIVISION-PUERTO-RICO.jpg" group-title="Puerto Rico",Univision
-https://blackaddon.com/scr/se9.php?c=272&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7SjG0wc/WAPA-PUERTORICO.jpg" group-title="Puerto Rico",Wapa
-https://blackaddon.com/scr/se9.php?c=273&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz8BJrk/WAPA-2-PUERTO-RICO.jpg" group-title="Puerto Rico",Wapa 2
-https://blackaddon.com/scr/se9.php?c=274&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7Z3Gts/WAPA-AMERICA.jpg" group-title="Puerto Rico",Wapa America
-https://blackaddon.com/scr/se9.php?c=275&f=.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GpXGh18/RPC.jpg" group-title="Paraguay",RPC
-https://blackaddon.com/scr/se9.php?c=263&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qWpsJcM/Telefuturo.jpg" group-title="Paraguay",Telefuturo
-https://blackaddon.com/scr/se9.php?c=264&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M7nxPFj/Tigo-Sports.jpg" group-title="Paraguay",Tigo Sports
-https://blackaddon.com/scr/se9.php?c=266&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3R4Sdz7/Tigo-Sports-PLUS.jpg" group-title="Paraguay",Tigo Sports Plus
-https://blackaddon.com/scr/se9.php?c=267&f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RjnBz97/Unicanal.jpg" group-title="Paraguay",Unicanal
-https://blackaddon.com/scr/se9.php?c=268&f=.m3u8
-
+http://emiraytv.ddns.net:25461/EMIRAYTV
