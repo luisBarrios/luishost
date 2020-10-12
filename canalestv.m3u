@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro fantásticos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg" group-title="⭐️CIENCIA FICCIÓN ",Cuatro fantásticos (2015)
-http://relaxplease.xyz:8080/movie/ROJO908/ROJO345/59330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Siguiente nivel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg" group-title="⭐️ESTRENOS",Jumanji: Siguiente nivel (2019)
+http://relaxplease.xyz:8080/movie/ROJO908/ROJO345/61185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espías con disfraz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2xcicPNXzNex47EYOfw45Dl1o0.jpg" group-title="⭐️ESTRENOS",Espías con disfraz (2019)
+http://relaxplease.xyz:8080/movie/ROJO908/ROJO345/61186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Siguiente nivel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg" group-title="⭐️ESTRENOS",Jumanji: Siguiente nivel (2019)
+http://relaxplease.xyz:8080/movie/ROJO908/ROJO345/61187.mkv
